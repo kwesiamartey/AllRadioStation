@@ -1,271 +1,62 @@
-<?php 
-
-    echo json_encode(
-        
-        array(
-            
-            //Unicode escape sequence
-            
-            
-             array(
-                    "id" => 1,
-                    "name"=> "West Virginia",
-                    "flag"=> "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_West_Virginia.svg/1280px-Flag_of_West_Virginia.svg.png",
-                    "url"=> "WestVirginiaRadioList.php",
-                ),
-            
-            array(
-                    "id" => 1,
-                    "name"=> "Arkansas",
-                    "flag"=> "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arkansas.svg/1200px-Flag_of_Arkansas.svg.png",
-                    "url"=> "Arkansas.php",
-                ),
-            
-             array(
-                    "id" => 1,
-                    "name"=> "Arizona",
-                    "flag"=> "https://media.istockphoto.com/id/494260499/vector/arizona-grunge-flag.jpg?s=612x612&w=0&k=20&c=iAqXpu2SJLarujI-EZ691E9bQXzhnoyUlk-NPlDkWqk=",
-                    "url"=> "ArizonaRadioList.php",
-                ),
-            
-             array(
-                    "id" => 1,
-                    "name"=> "Alaska",
-                    "flag"=> "https://b3.net/cdn/shop/products/33521_back.gif?v=1571661584",
-                    "url"=> "AlaskaRadioList.php",
-                ),
-            
-             array(
-                    "id" => 1,
-                    "name"=> "WYOming",
-                    "flag"=> "https://static.wikia.nocookie.net/vexillology/images/0/01/Proposed_Flag_of_WY_Andy_Rash.jpg/revision/latest?cb=20121226224734",
-                    "url"=> "WYOmingRadioList.php",
-                ),
-            
-             array(
-                    "id" => 1,
-                    "name"=> "Dubai (UAE)",
-                    "flag"=> "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/1200px-Flag_of_the_United_Arab_Emirates.svg.png",
-                    "url"=> "RadioallDubai.php",
-                ),
-                
-                 array(
-                    "id" => 11,
-                    "name"=> "Ghana",
-                    "flag"=> "https://c4.wallpaperflare.com/wallpaper/711/208/1002/flag-of-ghana-wallpaper-preview.jpg",
-                    "url"=> "ghana_RadioList.php",
-                ),
-            
-           array(
-                    "id" => 1,
-                    "name"=> "United State",
-                    "flag"=> "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkOFeS88SuTVfZl3UFMKMApgAnEv_Rv72CS5uSDDJ5Q4IETeBi513nK3d_W5h2M3Icgjw&usqp=CAU",
-                    "url"=> "unitedStateRadioList.php",
-                ),
-            
-            array(
-                    "id" => 1,
-                    "name"=> "Finland",
-                    "flag"=> "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1200px-Flag_of_Finland.svg.png",
-                    "url"=> "finlandRadioList.php",
-                ),
-           
-            array(
-                    "id" => 1,
-                    "name"=> "Moldova",
-                    "flag"=> "https://cdn11.bigcommerce.com/s-w6fxwapwzi/images/stencil/1280x1280/products/2952/5912/2x3-moldova-flag-image__10674.1582737815.jpg?c=1",
-                    "url"=> "moldovaRadioList.php",
-                ),
-            
-            array(
-                    "id" => 2,
-                    "name"=> "Romania",
-                    "flag"=> "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8SQe9t8pdHxfapZ9zqA0AMjJpLJzwrcOOlieswXWc5g&s",
-                    "url"=> "RomanianRadioList.php",
-                ),
-             
-             array(
-                    "id" => 3,
-                    "name"=> "Dominican Republic",
-                    "flag"=> "https://cdn.britannica.com/14/5114-004-C9B99800/Flag-Dominican-Republic.jpg",
-                    "url"=> "DominicanRepublicRadioList.php",
-                ),
-                array(
-                    "id" => 4,
-                    "name"=> "United kingdom",
-                    "flag"=> "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1200px-Flag_of_the_United_Kingdom_%281-2%29.svg.png",
-                    "url"=> "ukRadioList.php",
-                ),
-                array(
-                    "id" => 5,
-                    "name"=> "Turkey",
-                    "flag"=> "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc0G8aE5AoGDOQMJGd8fcrO5rZOWWvrAVKUw&s",
-                    "url"=> "new_istanbulRadioList.php",
-                ),
-                array(
-                    "id" => 6,
-                    "name"=> "Norway",
-                    "flag"=> "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/468px-Flag_of_Norway.svg.png",
-                    "url"=> "norwayRadioList.php",
-                ),
-                array(
-                    "id" => 7,
-                    "name"=> "Canada",
-                    "flag"=> "https://www.worldatlas.com/img/flag/ca-flag.jpg",
-                    "url"=> "canadaRadioList.php",
-                ),
-                
-                array(
-                    "id" => 8,
-                    "name"=> "Bermuda",
-                    "flag"=> "https://img.freepik.com/premium-vector/bermuda-flag-official-national-flag-international-flag-world-flag-icon_970323-155.jpg",
-                    "url"=> "bermudaRadioList.php",
-                ),
-                 array(
-                    "id" => 9,
-                    "name"=> "Australia",
-                    "flag"=> "https://i.ebayimg.com/images/g/k-wAAOSwWWxhFZgJ/s-l1600.jpg",
-                    "url"=> "australiaRadioLit.php",
-                ),
-                
-                 array(
-                    "id" => 10,
-                    "name"=> "Malaysia",
-                    "flag"=> "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/1200px-Flag_of_Malaysia.svg.png",
-                    "url"=> "malaysianRadioList.php",
-                ),
-               
-               
-               
-                 array(
-                    "id" => 13,
-                    "name"=> "Ukraine",
-                    "flag"=> "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/2560px-Flag_of_Ukraine.svg.png",
-                    "url"=> "ukraineRadioList.php",
-                ),
-           
-                 array(
-                    "id" => 14,
-                    "name"=> "Mexico",
-                    "flag"=> "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Mexico.png/1200px-Flag_of_Mexico.png",
-                    "url"=> "mexicanRadioList.php",
-                ),
-                
-                /* array(
-                    "id" => 15,
-                    "name"=> "Nigeria",
-                    "flag"=> "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1200px-Flag_of_Nigeria.svg.png",
-                    "url"=> "nigeriaRadioList.php",
-                ),*/
-                 array(
-                    "id" => 16,
-                    "name"=> "Rwanda",
-                    "flag"=> "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1200px-Flag_of_Rwanda.svg.png",
-                    "url"=> "rwandaRadioList.php",
-                ),
-                    
-                    
-                    array(
-                        "id" => 17,
-                    "name"=> "Swaziland",
-                    "flag"=> "https://media.istockphoto.com/id/1368280191/vector/flag-of-eswatini-national-flag-vector-illustration.jpg?s=612x612&w=0&k=20&c=E7TMU_koZ6--F0v69Fp9rJwXhBeFYsxNkLiTNjO57Iw=",
-                    "url"=> "swanzilandRadioList.php",
-                ),
-                
-                     array(
-                        "id" => 18,
-                    "name"=> "Tunisia",
-                    "flag"=> "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/225px-Flag_of_Tunisia.svg.png",
-                    "url"=> "tunisiaRadioListEdited.php",
-                ),
-                
-                     array(
-                        "id" => 19,
-                    "name"=> "Brasil",
-                    "flag"=> "https://cdn.britannica.com/47/6847-004-7D668BB0/Flag-Brazil.jpg",
-                    "url"=> "brazilradiolist.php",
-                ),
-                      array(
-                        "id" => 20,
-                    "name"=> "Germany",
-                    "flag"=> "https://cdn.britannica.com/82/65482-050-E43AB312/Flag-detail-Germany-crest.jpg",
-                    "url"=> "germanyRadioList.php",
-                ),
-                       array(
-                        "id" => 21,
-                    "name"=> "India",
-                    "flag"=> "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png",
-                    "url"=> "indiaradiolist.php",
-                ),
-                
-                   array(
-                    "id" => 22,
-                    "name"=> "Phillipines",
-                    "flag"=> "https://img.freepik.com/free-photo/view-philippines-flag_23-2150425524.jpg?size=626&ext=jpg&ga=GA1.1.1395880969.1709510400&semt=ais",
-                    "url"=> "morRadio.php",
-                ),
-                   array(
-                    "id" => 23,
-                    "name"=> "Jamaica",
-                    "flag"=> "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/800px-Flag_of_Jamaica.svg.png",
-                    "url"=> "jamaicanRadioList.php",
-                ),
-                
-                   array(
-                    "id" => 24,
-                    "name"=> "Cape-Verde",
-                    "flag"=> "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT872cqZS2O1-fXRbODKZf5jXTiP_jn6HsRmg&usqp=CAU",
-                    "url"=> "RCV - Rádio de Cabo Verde.php",
-                ),
-                
-                      array(
-                    "id" => 25,
-                    "name"=> "Argentina",
-                    "flag"=> "https://cdn.britannica.com/69/5869-004-7D75CD05/Flag-Argentina.jpg",
-                    "url"=> "usaRadioList.php",
-                ),
-                 array(
-                    "id" => 26,
-                    "name"=> "Portugal",
-                    "flag"=> "https://img.freepik.com/premium-vector/portugal-flag-vector_654626-166.jpg",
-                    "url"=> "portugalRadioList.php",
-                ),
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                //without this section the app does work
-                array(
-                    "id" => 400000,
-                    "name"=> "",
-                    "flag"=> "https://upload.wikimedia",
-                    "url"=> "",
-                ),
-               
-          )
-    )
-
-?>
-
-
-
-
-
+[
+    {
+        "id": 1,
+        "name": "West Virginia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_West_Virginia.svg/1280px-Flag_of_West_Virginia.svg.png",
+        "url": "WestVirginiaRadioList.php"
+    },
+    {
+        "id": 1,
+        "name": "Arkansas",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arkansas.svg/1200px-Flag_of_Arkansas.svg.png",
+        "url": "Arkansas.php"
+    },
+    {
+        "id": 1,
+        "name": "Arizona",
+        "flag": "https://media.istockphoto.com/id/494260499/vector/arizona-grunge-flag.jpg?s=612x612&w=0&k=20&c=iAqXpu2SJLarujI-EZ691E9bQXzhnoyUlk-NPlDkWqk=",
+        "url": "ArizonaRadioList.php"
+    },
+    {
+        "id": 1,
+        "name": "Alaska",
+        "flag": "https://b3.net/cdn/shop/products/33521_back.gif?v=1571661584",
+        "url": "AlaskaRadioList.php"
+    },
+    {
+        "id": 1,
+        "name": "WYOming",
+        "flag": "https://static.wikia.nocookie.net/vexillology/images/0/01/Proposed_Flag_of_WY_Andy_Rash.jpg/revision/latest?cb=20121226224734",
+        "url": "WYOmingRadioList.php"
+    },
+    {
+        "id": 1,
+        "name": "Dubai (UAE)",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/1200px-Flag_of_the_United_Arab_Emirates.svg.png",
+        "url": "DubaiRadioList.php"
+    },
+    {
+        "id": 23,
+        "name": "Jamaica",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/800px-Flag_of_Jamaica.svg.png",
+        "url": "jamaicanRadioList.php"
+    },
+    {
+        "id": 24,
+        "name": "Cape-Verde",
+        "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT872cqZS2O1-fXRbODKZf5jXTiP_jn6HsRmg&usqp=CAU",
+        "url": "RCV - R\u00e1dio de Cabo Verde.php"
+    },
+    {
+        "id": 25,
+        "name": "Argentina",
+        "flag": "https://cdn.britannica.com/69/5869-004-7D75CD05/Flag-Argentina.jpg",
+        "url": "usaRadioList.php"
+    },
+    {
+        "id": 26,
+        "name": "Portugal",
+        "flag": "https://img.freepik.com/premium-vector/portugal-flag-vector_654626-166.jpg",
+        "url": "portugalRadioList.php"
+    }
+]
