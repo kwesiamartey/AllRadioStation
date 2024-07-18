@@ -1,0 +1,25 @@
+<Html>
+    
+       <body>
+       
+             <h5 style='text-align: center;'>
+                 <img src='https://structuredappsstreaming.win/9186eb0e475eeff5c6856e8ed43eb31e_w200.gif' alt='Girl in a jacket' width='100' height='100'/>
+             </h5>
+        
+             <h5 style='text-align: center;'>
+             <video id='video' controls type="application/x-mpegURL"></video>
+             </h5>
+       </body>
+</Html>
+<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
+<script>
+                      if(Hls.isSupported()) {
+                        var video = document.getElementById('video');
+                        var hls = new Hls();
+                        hls.loadSource('https://wz2liw.scahw.com.au/live/2day_128.stream/playlist.m3u8?dist=listnr-web&listenerid=12c7c6fd686ea9a3fde45534387c9935&awparams=companionAds%3Atrue&aw_0_1st.playerId=LiSTNR_Web_native&cb=6d26bcf0-4403-11ee-a50b-897bee6f65ee');
+                        hls.attachMedia(video);
+                        hls.on(Hls.Events.MANIFEST_PARSED,function() {
+                          video.play();
+                      });
+                     }
+</script>
