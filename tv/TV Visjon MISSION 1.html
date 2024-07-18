@@ -1,0 +1,34 @@
+
+
+
+<div style="margin-bottom:10px;">
+<script src="https://cdn.fluidplayer.com/v3/current/fluidplayer.min.js"></script>
+<video id="video-id"><source src="https://edge-hls-vod-web-media.cdn01.net/encoded/0000584/0584770/video_368k/A0CJZ816X.mp4.m3u8?qiLiQyRtWcX6XVEFeCKea0Upr8q77XA5AGCZ19tipF4dRLo8fill4Qlml_KKvzPhmvBOMbwfKG2vM3CLV15Euz9bevLT1hLYCHE3iwIU72Zj41mN-WOkyT_u_XCtC1lBH3JghnZNlwY9OtbRriwxcQkXIV30cmWq7wEB8uqCHeq1vG-0gUamdM34xfRdxXJ33fLCKyC1z-p05JLCNLMOBzgFvhmUu6aPrayGx2Bujn825vvC27UhiojzLKXd&source=othersites&channel_id=26027&subchannel_id=2357&device_id=2847161233-8c4f0c0728640117ac49761c1b2e0915&lcp=2&client_id=696482117101806701&play_id=1699366586465269" type="application/x-mpegURL" />
+<script>
+var myFP = fluidPlayer(
+  'video-id', {
+    "layoutControls": {
+      "controlBar": {
+        "autoHideTimeout": 3,
+        "autoHide": true
+      },
+      "autoPlay": true,
+      "mute": false,
+      "allowTheatre": true,
+      "playButtonShowing": true,
+      "fillToContainer": true,
+      "posterImage": ""
+    },
+    "vastOptions": {
+      allowVPAID: true, // Default false.
+      adList: [
+        {
+        roll: 'preRoll',
+       // vastTag: 'https://pubads.g.doubleclick.net/gampad/live/ads?iu=/5441089/live_video&description_url=https%3A%2F%2Ficanlive.tv%2Flive%2F13992%2Fsharjah-tv.html&tfcd=0&npa=0&sz=400x300&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator='
+//        vastTag: 'https://www.videosprofitnetwork.com/watch.xml?key=3530dd5681eee348bd07bd824df1eef7&custom=%7B%27width%27%3A%27400%27%2C%27height%27%3A%27300%27%7D&cb=55443596720912605&vastref=https%3A%2F%2Ficanlive.tv%2Flive%2F13992%2Fsharjah-tv.html'
+        },
+      ]
+    }
+});
+</script>
+</div>

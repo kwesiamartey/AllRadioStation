@@ -1,0 +1,57 @@
+<!doctype html>
+
+
+
+<!--[if lt IE 7]>		<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>			<html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>			<html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head></head>
+
+    
+    <body>
+        
+        <div>
+            <br/>
+            <br/>
+            
+<div style="margin-bottom:10px;">
+<script src="https://cdn.fluidplayer.com/v3/current/fluidplayer.min.js"></script>
+<video id="video-id"><source src="https://turkmedya-live.ercdn.net/tv24/tv24.m3u8" type="application/x-mpegURL" />
+<script>
+var myFP = fluidPlayer(
+  'video-id', {
+    "layoutControls": {
+      "controlBar": {
+        "autoHideTimeout": 3,
+        "autoHide": true
+      },
+      "autoPlay": true,
+      "mute": false,
+      "allowTheatre": true,
+      "playButtonShowing": true,
+      "fillToContainer": true,
+      "posterImage": ""
+    },
+    "vastOptions": {
+      allowVPAID: true, // Default false.
+      adList: [
+        {
+        roll: 'preRoll',
+        vastTag: 'https://pubads.g.doubleclick.net/gampad/live/ads?iu=/5441089/live_video&description_url=https%3A%2F%2Ficanlive.tv%2Flive%2F2558%2F24-tv.html&tfcd=0&npa=0&sz=400x300&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator='
+//        vastTag: 'https://www.videosprofitnetwork.com/watch.xml?key=3530dd5681eee348bd07bd824df1eef7&custom=%7B%27width%27%3A%27400%27%2C%27height%27%3A%27300%27%7D&cb=87474222053232627&vastref=https%3A%2F%2Ficanlive.tv%2Flive%2F2558%2F24-tv.html'
+        },
+      ]
+    }
+});
+</script>
+</div>
+        </div>
+        
+    </body>
+    
+
+</html>
