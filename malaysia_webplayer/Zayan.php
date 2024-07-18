@@ -1,0 +1,26 @@
+<Html>
+    
+       <body>
+       
+             <h5 style='text-align: center;'>
+                 <img src='https://structuredappsstreaming.win/9186eb0e475eeff5c6856e8ed43eb31e_w200.gif' alt='Girl in a jacket' width='100' height='100'/>
+             </h5>
+        
+             <h5 style='text-align: center;'>
+              <video controls id='video'></video>>
+             </h5>
+       </body>
+</Html>
+<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
+<script>
+         if(Hls.isSupported()) {
+         var video = document.getElementById('video');
+         var hls = new Hls();
+         hls.loadSource('https://astro3.rastream.com/astro-zayan.web.hls/playlist.m3u8?awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Azayan&lon=-0.2174&lat=5.5502&playerid=Listen%20to%20ZAYAN%20on%20SYOK_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2NTA3NjE5NzgsImV4cCI6MTY1MDg0ODM3OH0.tuAPS30F8lg38F1Frl-Bb2C2057rJ3ic1MKt_cTHkWY&lan=%5B%22ms%22%5D&setLanguage=true');
+                         
+         hls.attachMedia(video);
+         hls.on(Hls.Events.MANIFEST_PARSED,function() {
+         video.play();
+       });
+    }
+</script>
