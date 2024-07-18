@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Stream</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"></script>
+</head>
+<body>
+    <h1>Audio Stream Player</h1>
+    <button onclick="playStream()">Play Stream</button>
+    <script>
+        function playStream() {
+            var sound = new Howl({
+                src: ['http://51.79.51.128:4994/;'],
+                format: ['mp3'],
+                html5: true,
+                onloaderror: function(id, error) {
+                    console.error('Error loading audio stream:', error);
+                },
+                onplayerror: function(id, error) {
+                    console.error('Error playing audio stream:', error);
+                }
+            });
+            sound.play();
+        }
+    </script>
+</body>
+</html>

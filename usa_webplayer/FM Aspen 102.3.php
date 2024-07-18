@@ -1,0 +1,26 @@
+<?php
+
+
+   $img_link = "http://stnfoundation.com/playstore/usa_logo/logoaspen.png";
+   $audio_link = "https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw-bkp/60a2745ff943100826374a70?aid=60106eadf34de307dd720e7b&pid=0GRCF719wBhduvvyFXvzPBkFcQGvoMIq&sid=p7H4FsEPUTtJ8LjMlOyKApjEWVgYk5xv&uid=h2vatXeMUh0aKhLr1SBF6NXmddAfwrIw&es=us-b4-p-e-pb13-audio.cdn.mdstrm.com&ote=1652192025401&ot=eSREEE3IJEmidoL8_IMYrw&proto=https&pz=us&cP=128000&awCollectionId=60106eadf34de307dd720e7b&liveId=60a2745ff943100826374a70&propertyName=mediastream-player-aspen-pie";
+   $html = "
+       <body>
+       
+             <h1 style='text-align: center;'><img src='$img_link' alt='Girl in a jacket' width='100' height='100'/></h1>
+             <h1 style='text-align: center;'>FM Aspen 102.3</h1>
+             <h1 style='text-align: center;'>
+         
+                <audio
+                    controls
+                    src='$audio_link'>
+                        Your browser does not support the
+                        <code>audio</code> element.
+                </audio>
+
+             </h1>
+             
+       </body>
+   ";
+   
+   echo $html
+?>
