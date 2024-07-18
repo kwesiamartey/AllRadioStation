@@ -1,0 +1,20 @@
+<Html>
+    
+       <body>
+              <video id="video" controls type="application/x-mpegURL" width="100%" height="100%"></video>
+       </body>
+</Html>
+<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
+<script>
+                      if(Hls.isSupported()) {
+                        var video = document.getElementById('video');
+                        var hls = new Hls();
+                        hls.loadSource('https://tv-trthaber.medya.trt.com.tr/master_720.m3u8');
+                                      
+                        hls.attachMedia(video);
+                        hls.on(Hls.Events.MANIFEST_PARSED,function() {
+                          video.play();
+                      });
+               }
+</script>
+
