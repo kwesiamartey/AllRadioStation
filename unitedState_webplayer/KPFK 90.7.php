@@ -1,0 +1,23 @@
+
+<Html>
+    
+       <body style='background-color: #000;'>
+      
+             <h5 style='text-align: center;'>
+              <video controls auto  id = "video"</video>
+             </h5>
+       </body>
+</Html>
+<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
+<script>
+         if(Hls.isSupported()) {
+         var video = document.getElementById('video');
+         var hls = new Hls();
+         hls.loadSource(' https://prod-44-201-200-222.amperwave.net/townsquare-whomfmaac-hlsc3.m3u8/?source=v7player&user-id=766aab14001aacc5f9ee461e06ac0288&gpp=DBABLA%7EBVQqAAAACWA.QA&z=5ee8382afec4408580031215160f9c8b&p=1');
+                         
+         hls.attachMedia(video);
+         hls.on(Hls.Events.MANIFEST_PARSED,function() {
+         video.play();
+       });
+    }
+</script>
