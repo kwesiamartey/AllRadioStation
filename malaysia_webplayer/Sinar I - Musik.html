@@ -1,0 +1,50 @@
+<!--<div style="margin-bottom:10px;">
+<script src="https://cdn.fluidplayer.com/v3/current/fluidplayer.min.js"></script>
+<video id="video-id"><source src="https://hls.rastream.com/astro-sinar-imusik.web.hls/playlist.m3u8?listeningSessionID=64663cff008c63c8_16757733_o2yFmeDw_MTAzLjIxLjgxLjk6ODA!_000000nPK1G&downloadSessionID=0&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDEyNjYwMTQsImlhdCI6MTcwMTE3OTYxNCwib2lkIjoiZXJhLXlvdXR1YmUifQ.yDF0I1dK9nZWOj20ctsdlz85D3CGgdFWjk2rP48W20U&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Aastro-sinar-imusik&listenerid=820bb31e08a804cdf0eebb486802a235&lan=%5B%22ms%22%5D&setLanguage=true" type="application/x-mpegURL" />
+<script>
+var myFP = fluidPlayer(
+  'video-id', {
+    "layoutControls": {
+      "controlBar": {
+        "autoHideTimeout": 3,
+        "autoHide": true
+      },
+      "autoPlay": true,
+      "mute": false,
+      "allowTheatre": true,
+      "playButtonShowing": true,
+      "fillToContainer": true,
+      "posterImage": ""
+    },
+    "vastOptions": {
+      allowVPAID: true, // Default false.
+      adList: [
+        {
+        roll: 'preRoll',
+       // vastTag: 'https://pubads.g.doubleclick.net/gampad/live/ads?iu=/5441089/live_video&description_url=https%3A%2F%2Ficanlive.tv%2Flive%2F13992%2Fsharjah-tv.html&tfcd=0&npa=0&sz=400x300&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator='
+//        vastTag: 'https://www.videosprofitnetwork.com/watch.xml?key=3530dd5681eee348bd07bd824df1eef7&custom=%7B%27width%27%3A%27400%27%2C%27height%27%3A%27300%27%7D&cb=55443596720912605&vastref=https%3A%2F%2Ficanlive.tv%2Flive%2F13992%2Fsharjah-tv.html'
+        },
+      ]
+    }
+});
+</script>
+</div>-->
+
+
+<Html>
+    
+       <body>
+       
+             <h5 style='text-align: center;'>
+                 <img src='https://structuredappsstreaming.win/9186eb0e475eeff5c6856e8ed43eb31e_w200.gif' alt='Girl in a jacket' width='100' height='100'/>
+             </h5>
+        
+             <h5 style='text-align: center;'>
+              <audio controls
+                     src='https://cast.tunzilla.com/http://ingest2.astro4.rastream.com/astro-sinar-imusik' type="audio/mpeg">
+                     Your browser does not support the
+              <code>audio</code> element.
+               </audio>
+             </h5>
+       </body>
+</Html>
