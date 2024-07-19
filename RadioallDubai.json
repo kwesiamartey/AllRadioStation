@@ -1,334 +1,335 @@
 [
-{
-	"id": 41,
-	"name": "Dubai 93 FM",
-	"location": "Dubai",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Dubai 93 FM.php",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-profiles.tunein.com/s170068/images/logod.jpg?t=637499517860000000"
-},
-{
-	"id": 40,
-	"name": "Dubai Eye 103.8 FM",
-	"location": "Dubai",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Dubai Eye 103.8 FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://yt3.googleusercontent.com/ytc/APkrFKYTeZZawy6lM29ATja_O7-lqCTKfKLAGAHkjIUTRg=s900-c-k-c0x00ffffff-no-rj"
-},
-{
-	"id": 38,
-	"name": "Al Khaleejiya 100.9",
-	"location": "Dubai",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Al Khaleejiya 100.9.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://lh3.googleusercontent.com/ktvKlbMiXi5B8e-7OqB_r8_CO1zPG7VGPlNjNVITHj5VWVIDk-IynwfqOZMGc-YnOEM"
-},
-{
-	"id": 37,
-	"name": "Radio Shoma 93.4 FM",
-	"location": "Dubai",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Radio Shoma 93.4 FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://mm.aiircdn.com/543/5c0f8bb4a5f1d.png"
-},
-{
-	"id": 36,
-	"name": "Dubai 92 FM",
-	"location": "Dubai",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Dubai 92 FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://mmo.aiircdn.com/265/63dc0471609bf.png"
-},
-{
-	"id": 35,
-	"name": "Tag 91.1 FM",
-	"location": "Dubai",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Tag 91.1 FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://radiojingles.files.wordpress.com/2013/03/tag911.jpg"
-},
-{
-	"id": 34,
-	"name": "Al Arabiya 99 FM",
-	"location": "Dubai",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Al Arabiya 99 FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://mm.aiircdn.com/534/5c653ea800e1f.png"
-},
-{
-	"id": 32,
-	"name": "Dubai TV",
-	"location": "Dubai",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/tv/Dubai TV.html",
-	"added": 1,
-	"web": "wep",
-	"logo": "https://play-lh.googleusercontent.com/O-e4Y72QN2AJsgljuEL9nNRUkPb8naHdUdhBPTO6jIixyyf-I2zS54jmRp9Q2eQE1w"
-},
-{
-	"id": 31,
-	"name": "CNBC Arabia TV",
-	"location": "Dubai",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/tv/CNBC Arabia.html",
-	"added": 1,
-	"web": "wep",
-	"logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/CNBC_Arabia_Logo_2022.png"
-},
-{
-	"id": 30,
-	"name": "Alhadath TV",
-	"location": "Dubai",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/tv/Alhadath TV.html",
-	"added": 1,
-	"web": "wep",
-	"logo": "https://cdn6.aptoide.com/imgs/5/1/1/5114652dcf1b408160a93712cc63b27e_icon.png"
-},
-{
-	"id": 29,
-	"name": "Al Aan TV",
-	"location": "Dubai",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/tv/al_aln_tv.html",
-	"added": 1,
-	"web": "wep",
-	"logo": "https://upload.wikimedia.org/wikipedia/commons/7/76/Al_Aan_TV_new_Logo.png"
-},
-{
-	"id": 28,
-	"name": "Al Arabiya TV",
-	"location": "Dubai",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/tv/Al Arabiya.html",
-	"added": 1,
-	"web": "wep",
-	"logo": "https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1414302205/lgfvjbyhmd8lmtiuuszt.jpg"
-},
-{
-	"id": 27,
-	"name": "Dubai Sport TV",
-	"location": "Dubai",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/tv/Dubai Sport TV.html",
-	"added": 1,
-	"web": "wep",
-	"logo": "https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM"
-},
-{
-	"id": 26,
-	"name": "Sama Dubai TV",
-	"location": "Dubai",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/tv/Sama Dubai TV.html",
-	"added": 1,
-	"web": "wep",
-	"logo": "https://yt3.googleusercontent.com/ytc/APkrFKYn9iQShTY_ERqJi1RPkLNOiBTmoSaoiYEG6qtm2g=s900-c-k-c0x00ffffff-no-rj"
-},
-{
-	"id": 25,
-	"name": "Dubai One TV",
-	"location": "Dubai",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/tv/dubaiOne.html",
-	"added": 1,
-	"web": "wep",
-	"logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png"
-},
-{
-	"id": 24,
-	"name": "Radio Hala",
-	"location": "Dubai",
-	"url": "http://us10a.serverse.com:8027/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/eres2uebpzqy.png"
-},
-{
-	"id": 22,
-	"name": "Virgin Radio Dubai",
-	"location": "Dubai",
-	"url": "https://www.virginradiodubai.com/en/listen/",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://lh3.googleusercontent.com/sUNr_MVhxXQlGv25u1yQybw-BMNKcTUGIsRYkNPZCpmIMTMVKAoxxifTqqqyEqu-_9g"
-},
-{
-	"id": 21,
-	"name": "Hit 96.7",
-	"location": "Dubai",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/hitfmdubai.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://mm.aiircdn.com/537/5cadd92bdace8.jpg"
-},
-{
-	"id": 20,
-	"name": "Sky News Arabia (\u0633\u0643\u0627\u064a \u0646\u064a\u0648\u0632 \u0639\u0631\u0628\u064a\u0629) live",
-	"location": "Abu Dhabi",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Sky News Arabia.php",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://yt3.googleusercontent.com/ytc/AOPolaSKTMECuq10GjtPyUUGntpH-5QekQxxoQzch4Ck=s900-c-k-c0x00ffffff-no-rj"
-},
-{
-	"id": 19,
-	"name": "Kadak FM liveve",
-	"location": "Abu Dhabi",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Kadak FM live.php",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://liveradios.in/wp-content/uploads/kadakfm.jpg"
-},
-{
-	"id": 18,
-	"name": "Abu Dhabi Quran Radio live",
-	"location": "Abu Dhabi",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Abu Dhabi Quran Radio live.php",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-profiles.tunein.com/s143354/images/logog.png?t=161472"
-},
-{
-	"id": 17,
-	"name": "Emarat FM live",
-	"location": "Abu Dhabi",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Emarat FM live.php",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://www.radio.net/images/broadcasts/74/aa/35991/c300.png"
-},
-{
-	"id": 16,
-	"name": "Abu Dhabi FM (\u0627\u0630\u0627\u0639\u0629 \u0623\u0628\u0648\u0638\u0628\u064a) live",
-	"location": "Abu Dhabi",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Abu Dhabi FM.php",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr16DQsMplUPuwARmOlTCE3VAx45-yiOnQbA&s"
-},
-{
-	"id": 15,
-	"name": "Radio 1 UAE live",
-	"location": "Abu Dhabi",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Radio 1 UAE live.php",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/d6/be/108030/1/c300.png"
-},
-{
-	"id": 14,
-	"name": "Al Rabia 107.8 FM (\u0631\u0627\u062f\u064a\u0648 \u0627\u0644\u0631\u0627\u0628\u0639\u0629) live",
-	"location": "Abu Dhabi",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Al Rabia 107.8 FM.php",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://play-lh.googleusercontent.com/9QZIXj-odB9iJA68mCuooj402DC-QJeitDce7P6xgDP-acVwZiet4wcWU5Ewy12-Dkw=w240-h480-rw"
-},
-{
-	"id": 13,
-	"name": "Exclusively Jazz live",
-	"location": "Abu Dhabi",
-	"url": "https://drive.uber.radio/uber-app/starboxjazz/icecast.audio",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://radioly.app/new_images/16258066.jpg"
-},
-{
-	"id": 12,
-	"name": "Radio Sawa (\u0631\u0627\u062f\u064a\u0648 \u0633\u0648\u0627) live",
-	"location": "Abu Dhabi",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Radio Sawa.php",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6YxuG84cej3FzM567zv1ycS_Vt3WNWrnMHlk9_6OwNVOEQ5lW8ZR24HzvqHdb05KSg2k&usqp=CAU"
-},
-{
-	"id": 10,
-	"name": "Abu Dhabi Classic FM liveve",
-	"location": "Abu Dhabi",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Abu Dhabi Classic FM live.php",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.onlineradiobox.com/img/l/9/103349.v3.png"
-},
-{
-	"id": 9,
-	"name": "Star FM live",
-	"location": "Abu Dhabi",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Star FM live.php",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/4894386/4894386-1587856558931-50c9ed0d9a412.jpg"
-},
-{
-	"id": 8,
-	"name": "Exclusively Bon Jovi live",
-	"location": "Abu Dhabi",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Exclusively Bon Jovi live.php",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://www.radio.net/images/broadcasts/be/5f/127489/2/c300.png"
-},
-{
-	"id": 7,
-	"name": "Pulse 95 Radio live",
-	"location": "Abu Dhabi",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Pulse 95 Radio live.php",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://campaignme.com/wp-content/uploads/2019/07/Pulse.jpg"
-},
-{
-	"id": 6,
-	"name": "Capital Radio UAE live",
-	"location": "Abu Dhabi",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Capital Radio UAE live.php",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHqatEDDQLJozALfgVj__5fvvygH0YSVkk0w&s"
-},
-{
-	"id": 5,
-	"name": "City 101.6",
-	"location": "Abu Dhabi",
-	"url": "https://www.city1016.ae/en/player",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://pea.fm/uploads/posts/2020-07/1594561316_er.png"
-},
-{
-	"id": 4,
-	"name": "Asianet Radio live",
-	"location": "Abu Dhabi",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Asianet Radio live.php",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://fmradios.in/wp-content/uploads/2015/02/Asianet-Radio-657-AM-Online.jpg"
-},
-{
-	"id": 3,
-	"name": "Fresh Radio Arabic Dance live",
-	"location": "Abu Dhabi",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Fresh Radio Arabic Dance live.php",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static-media.streema.com/media/cache/8d/17/8d178f170af20522eb9840563306a3e7.jpg"
-},
-{
-	"id": 2,
-	"name": "Prambors FM Medan",
-	"location": "Abu Dhabi",
-	"url": "http://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.tuneyou.com/images/logos/500_500/5/13905/PramborsFMMedan97.5_5.png"
-},
-{
-	"id": 1,
-	"name": "Radio 2 UAE live",
-	"location": "Abu Dhabi",
-	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/abu_dabi_webplayer/Radio 2 UAE live.php",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/8/b/d/2/8be6-acbb-42b6-953d-3f68c6b033c7.jpg"
-}]
+	{
+		"id": 41,
+		"name": "Dubai 93 FM",
+		"location": "Dubai",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Dubai 93 FM.php",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://cdn-profiles.tunein.com/s170068/images/logod.jpg?t=637499517860000000"
+	},
+	{
+		"id": 40,
+		"name": "Dubai Eye 103.8 FM",
+		"location": "Dubai",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Dubai Eye 103.8 FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://yt3.googleusercontent.com/ytc/APkrFKYTeZZawy6lM29ATja_O7-lqCTKfKLAGAHkjIUTRg=s900-c-k-c0x00ffffff-no-rj"
+	},
+	{
+		"id": 38,
+		"name": "Al Khaleejiya 100.9",
+		"location": "Dubai",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Al Khaleejiya 100.9.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://lh3.googleusercontent.com/ktvKlbMiXi5B8e-7OqB_r8_CO1zPG7VGPlNjNVITHj5VWVIDk-IynwfqOZMGc-YnOEM"
+	},
+	{
+		"id": 37,
+		"name": "Radio Shoma 93.4 FM",
+		"location": "Dubai",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Radio Shoma 93.4 FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://mm.aiircdn.com/543/5c0f8bb4a5f1d.png"
+	},
+	{
+		"id": 36,
+		"name": "Dubai 92 FM",
+		"location": "Dubai",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Dubai 92 FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://mmo.aiircdn.com/265/63dc0471609bf.png"
+	},
+	{
+		"id": 35,
+		"name": "Tag 91.1 FM",
+		"location": "Dubai",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Tag 91.1 FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://radiojingles.files.wordpress.com/2013/03/tag911.jpg"
+	},
+	{
+		"id": 34,
+		"name": "Al Arabiya 99 FM",
+		"location": "Dubai",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Al Arabiya 99 FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://mm.aiircdn.com/534/5c653ea800e1f.png"
+	},
+	{
+		"id": 32,
+		"name": "Dubai TV",
+		"location": "Dubai",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/tv/Dubai TV.html",
+		"added": 1,
+		"web": "wep",
+		"logo": "https://play-lh.googleusercontent.com/O-e4Y72QN2AJsgljuEL9nNRUkPb8naHdUdhBPTO6jIixyyf-I2zS54jmRp9Q2eQE1w"
+	},
+	{
+		"id": 31,
+		"name": "CNBC Arabia TV",
+		"location": "Dubai",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/tv/CNBC Arabia.html",
+		"added": 1,
+		"web": "wep",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/CNBC_Arabia_Logo_2022.png"
+	},
+	{
+		"id": 30,
+		"name": "Alhadath TV",
+		"location": "Dubai",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/tv/Alhadath TV.html",
+		"added": 1,
+		"web": "wep",
+		"logo": "https://cdn6.aptoide.com/imgs/5/1/1/5114652dcf1b408160a93712cc63b27e_icon.png"
+	},
+	{
+		"id": 29,
+		"name": "Al Aan TV",
+		"location": "Dubai",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/tv/al_aln_tv.html",
+		"added": 1,
+		"web": "wep",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/7/76/Al_Aan_TV_new_Logo.png"
+	},
+	{
+		"id": 28,
+		"name": "Al Arabiya TV",
+		"location": "Dubai",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/tv/Al Arabiya.html",
+		"added": 1,
+		"web": "wep",
+		"logo": "https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1414302205/lgfvjbyhmd8lmtiuuszt.jpg"
+	},
+	{
+		"id": 27,
+		"name": "Dubai Sport TV",
+		"location": "Dubai",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/tv/Dubai Sport TV.html",
+		"added": 1,
+		"web": "wep",
+		"logo": "https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM"
+	},
+	{
+		"id": 26,
+		"name": "Sama Dubai TV",
+		"location": "Dubai",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/tv/Sama Dubai TV.html",
+		"added": 1,
+		"web": "wep",
+		"logo": "https://yt3.googleusercontent.com/ytc/APkrFKYn9iQShTY_ERqJi1RPkLNOiBTmoSaoiYEG6qtm2g=s900-c-k-c0x00ffffff-no-rj"
+	},
+	{
+		"id": 25,
+		"name": "Dubai One TV",
+		"location": "Dubai",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/tv/dubaiOne.html",
+		"added": 1,
+		"web": "wep",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png"
+	},
+	{
+		"id": 24,
+		"name": "Radio Hala",
+		"location": "Dubai",
+		"url": "http://us10a.serverse.com:8027/;",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static2.mytuner.mobi/media/tvos_radios/eres2uebpzqy.png"
+	},
+	{
+		"id": 22,
+		"name": "Virgin Radio Dubai",
+		"location": "Dubai",
+		"url": "https://www.virginradiodubai.com/en/listen/",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://lh3.googleusercontent.com/sUNr_MVhxXQlGv25u1yQybw-BMNKcTUGIsRYkNPZCpmIMTMVKAoxxifTqqqyEqu-_9g"
+	},
+	{
+		"id": 21,
+		"name": "Hit 96.7",
+		"location": "Dubai",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/hitfmdubai.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://mm.aiircdn.com/537/5cadd92bdace8.jpg"
+	},
+	{
+		"id": 20,
+		"name": "Sky News Arabia (\u0633\u0643\u0627\u064a \u0646\u064a\u0648\u0632 \u0639\u0631\u0628\u064a\u0629) live",
+		"location": "Abu Dhabi",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Sky News Arabia.php",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://yt3.googleusercontent.com/ytc/AOPolaSKTMECuq10GjtPyUUGntpH-5QekQxxoQzch4Ck=s900-c-k-c0x00ffffff-no-rj"
+	},
+	{
+		"id": 19,
+		"name": "Kadak FM liveve",
+		"location": "Abu Dhabi",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Kadak FM live.php",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://liveradios.in/wp-content/uploads/kadakfm.jpg"
+	},
+	{
+		"id": 18,
+		"name": "Abu Dhabi Quran Radio live",
+		"location": "Abu Dhabi",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Abu Dhabi Quran Radio live.php",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://cdn-profiles.tunein.com/s143354/images/logog.png?t=161472"
+	},
+	{
+		"id": 17,
+		"name": "Emarat FM live",
+		"location": "Abu Dhabi",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Emarat FM live.php",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://www.radio.net/images/broadcasts/74/aa/35991/c300.png"
+	},
+	{
+		"id": 16,
+		"name": "Abu Dhabi FM (\u0627\u0630\u0627\u0639\u0629 \u0623\u0628\u0648\u0638\u0628\u064a) live",
+		"location": "Abu Dhabi",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Abu Dhabi FM.php",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr16DQsMplUPuwARmOlTCE3VAx45-yiOnQbA&s"
+	},
+	{
+		"id": 15,
+		"name": "Radio 1 UAE live",
+		"location": "Abu Dhabi",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Radio 1 UAE live.php",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/d6/be/108030/1/c300.png"
+	},
+	{
+		"id": 14,
+		"name": "Al Rabia 107.8 FM (\u0631\u0627\u062f\u064a\u0648 \u0627\u0644\u0631\u0627\u0628\u0639\u0629) live",
+		"location": "Abu Dhabi",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Al Rabia 107.8 FM.php",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://play-lh.googleusercontent.com/9QZIXj-odB9iJA68mCuooj402DC-QJeitDce7P6xgDP-acVwZiet4wcWU5Ewy12-Dkw=w240-h480-rw"
+	},
+	{
+		"id": 13,
+		"name": "Exclusively Jazz live",
+		"location": "Abu Dhabi",
+		"url": "https://drive.uber.radio/uber-app/starboxjazz/icecast.audio",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://radioly.app/new_images/16258066.jpg"
+	},
+	{
+		"id": 12,
+		"name": "Radio Sawa (\u0631\u0627\u062f\u064a\u0648 \u0633\u0648\u0627) live",
+		"location": "Abu Dhabi",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Radio Sawa.php",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6YxuG84cej3FzM567zv1ycS_Vt3WNWrnMHlk9_6OwNVOEQ5lW8ZR24HzvqHdb05KSg2k&usqp=CAU"
+	},
+	{
+		"id": 10,
+		"name": "Abu Dhabi Classic FM liveve",
+		"location": "Abu Dhabi",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Abu Dhabi Classic FM live.php",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://cdn.onlineradiobox.com/img/l/9/103349.v3.png"
+	},
+	{
+		"id": 9,
+		"name": "Star FM live",
+		"location": "Abu Dhabi",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Star FM live.php",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/4894386/4894386-1587856558931-50c9ed0d9a412.jpg"
+	},
+	{
+		"id": 8,
+		"name": "Exclusively Bon Jovi live",
+		"location": "Abu Dhabi",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Exclusively Bon Jovi live.php",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://www.radio.net/images/broadcasts/be/5f/127489/2/c300.png"
+	},
+	{
+		"id": 7,
+		"name": "Pulse 95 Radio live",
+		"location": "Abu Dhabi",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Pulse 95 Radio live.php",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://campaignme.com/wp-content/uploads/2019/07/Pulse.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Capital Radio UAE live",
+		"location": "Abu Dhabi",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Capital Radio UAE live.php",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHqatEDDQLJozALfgVj__5fvvygH0YSVkk0w&s"
+	},
+	{
+		"id": 5,
+		"name": "City 101.6",
+		"location": "Abu Dhabi",
+		"url": "https://www.city1016.ae/en/player",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://pea.fm/uploads/posts/2020-07/1594561316_er.png"
+	},
+	{
+		"id": 4,
+		"name": "Asianet Radio live",
+		"location": "Abu Dhabi",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Asianet Radio live.php",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://fmradios.in/wp-content/uploads/2015/02/Asianet-Radio-657-AM-Online.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Fresh Radio Arabic Dance live",
+		"location": "Abu Dhabi",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Fresh Radio Arabic Dance live.php",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static-media.streema.com/media/cache/8d/17/8d178f170af20522eb9840563306a3e7.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Prambors FM Medan",
+		"location": "Abu Dhabi",
+		"url": "http://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static.tuneyou.com/images/logos/500_500/5/13905/PramborsFMMedan97.5_5.png"
+	},
+	{
+		"id": 1,
+		"name": "Radio 2 UAE live",
+		"location": "Abu Dhabi",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Radio 2 UAE live.php",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/8/b/d/2/8be6-acbb-42b6-953d-3f68c6b033c7.jpg"
+	}
+]
