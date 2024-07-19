@@ -1,0 +1,30 @@
+<Html>
+    
+       <body>
+       
+             <h5 style='text-align: center;'>
+                 <img src='http://stnfoundation.com/playstore/istanbul_logo/uatggctaq5u7.png' alt='Girl in a jacket' width='100' height='100'/>
+             </h5>
+        
+             <h5 style='text-align: center;'>
+             <audio
+        controls
+        src='https://listen.radyofenomen.com/fenomenakustik/128/icecast.audio'>
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+             </h5>
+       </body>
+</Html>
+<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
+<script>
+                      if(Hls.isSupported()) {
+                        var video = document.getElementById('video');
+                        var hls = new Hls();
+                        hls.loadSource('https://listen.radyofenomen.com/fenomenakustik/128/icecast.audio');
+                        hls.attachMedia(video);
+                        hls.on(Hls.Events.MANIFEST_PARSED,function() {
+                          video.play();
+                      });
+                     }
+</script>
