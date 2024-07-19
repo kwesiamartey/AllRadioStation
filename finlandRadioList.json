@@ -1,0 +1,551 @@
+[
+{
+	"id": 1,
+	"name": "Radio Kuhan.FM",
+	"location": "Finaland",
+	"url": "https://fra-pioneer08.dedicateware.com:3135/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/6/129366.v3.png",
+	"bit": "1k"
+},
+{
+	"id": 2,
+	"name": "Radio Nova",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/Radio Nova.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/3/26153.v5.png",
+	"bit": "1k"
+},
+{
+	"id": 3,
+	"name": "Radio Rock",
+	"location": "Finaland",
+	"url": "https://nelonenmedia-pmd-ads-audio.nm-stream.nelonenmedia.fi/hese_chipotleradio_20s.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/1/26151.v7.png",
+	"bit": "1k"
+},
+{
+	"id": 4,
+	"name": "Radio SuomiPop",
+	"location": "Finaland",
+	"url": "https://nelonenmedia-pmd-ads-audio.nm-stream.nelonenmedia.fi/SmarketElama_on_ruokaaH2rd5cYleinenv2_24sek.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/9/26149.v6.png",
+	"bit": "1k"
+},
+{
+	"id": 5,
+	"name": "YLE Radio Suomi",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/YLE Radio Suomi.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/8/48978.v7.png",
+	"bit": "1k"
+},
+{
+	"id": 6,
+	"name": "SuomiRock",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/SuomiRock.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1632729518/brand_manager/stations/wansgk8fgu36e6tc8wab.png",
+	"bit": "1k"
+},
+{
+	"id": 7,
+	"name": "YLE Klassinen",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/YLE Klassinen.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/1/48961.v5.png",
+	"bit": "1k"
+},
+{
+	"id": 8,
+	"name": "Kiss fm",
+	"location": "Finaland",
+	"url": "https://stream.radioplay.fi/kiss/kiss_64.aac?direct=wep&listenerid=d8a53e56426225db8a2dfcdfb70bd858&aw_0_1st.bauer_listenerid=d8a53e56426225db8a2dfcdfb70bd858&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1712972325&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=false&aw_0_1st.octave_covatic=9999",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1590490659/brand_manager/stations/snjlzqedegeewmjwz9pd.jpg",
+	"bit": "1k"
+},
+{
+	"id": 9,
+	"name": "Radio Santa Claus",
+	"location": "Finaland",
+	"url": "https://streaming.radiostreamlive.com/radiosantaclaus_devices",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/2/26152.v6.png",
+	"bit": "1k"
+},
+{
+	"id": 10,
+	"name": "Sea FM Radio",
+	"location": "Finaland",
+	"url": "https://s3.myradiostream.com/:4976/listen.mp3?ver=976890",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/2/26462.v9.png",
+	"bit": "1k"
+},
+{
+	"id": 11,
+	"name": "Helmiradio",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/Helmiradio.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/7/48587.v8.png",
+	"bit": "1k"
+},
+{
+	"id": 12,
+	"name": "Radio Pooki",
+	"location": "Finaland",
+	"url": "https://stream.bauermedia.fi/radiopooki/radiopooki_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMFI_Web&aw_0_req.userConsentV2=CP9Ae4AP9Ae4AAGABCENAvEsAP_gAEPAAAw4JtQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNAC2AHMAPwAgABBACEAFAANEAbIA7gB-gEIAIiAYoAzgB-wF5gMZAigBNoBioBIACAAFAAPAEIAO4AhABEQCLAGKAGCQDQAEAALAAqAB4AEEAMgA0ACYAH4AbIA7gB-gGKAXmOgFgALAAqACCAGQAaABMAD8ANEAbIA_QDFALzJQBgAEAALACYANkAxQC8yEAQABYATAB3AGKKQCgAFgAVABBADIANAAmAB-AGiANkAfoC8y0AEAdwAAA.YAAAAAAAAAAA&aw_0_1st.skey=1712975780",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/5/26155.v5.png",
+	"bit": "1k"
+},
+{
+	"id": 13,
+	"name": "Radio Nostalgia",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/Radio Nostalgia.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/3/26523.v8.png",
+	"bit": "1k"
+},
+{
+	"id": 14,
+	"name": "V\ucc9cmba FM",
+	"location": "Finaland",
+	"url": "https://c4.radioboss.fm:18123/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/4/100964.v2.png",
+	"bit": "1k"
+},
+{
+	"id": 15,
+	"name": "Radio Sandels",
+	"location": "Finaland",
+	"url": "https://onlineradiobox.com/json/fi/sandels/play?platform=web",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/0/48910.v4.png",
+	"bit": "1k"
+},
+{
+	"id": 16,
+	"name": "Radio City",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/Radio City.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/6/26166.v7.png",
+	"bit": "1k"
+},
+{
+	"id": 17,
+	"name": "Radio Helsinki",
+	"location": "Finaland",
+	"url": "https://stream.radiohelsinki.fi/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/7/26157.v5.png",
+	"bit": "1k"
+},
+{
+	"id": 18,
+	"name": "Radio Sun",
+	"location": "Finaland",
+	"url": "https://st.downtime.fi/sun.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/7/26147.v3.png",
+	"bit": "1k"
+},
+{
+	"id": 19,
+	"name": "NRJ Suomihitit",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/NRJ Suomihitit.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/4/26144.v7.png",
+	"bit": "1k"
+},
+{
+	"id": 20,
+	"name": "HitMix",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/HitMix.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/8/85978.v6.png",
+	"bit": "1k"
+},
+{
+	"id": 21,
+	"name": "Aito Iskelm\ucc44",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/Aito Iskelm\ucc44.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/0/86000.v4.png",
+	"bit": "1k"
+},
+{
+	"id": 22,
+	"name": "Finest FM",
+	"location": "Finaland",
+	"url": "https://shoutcast.finestfm.fi/stream/1/:80/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/6/48586.v4.png",
+	"bit": "1k"
+},
+{
+	"id": 23,
+	"name": "RQL",
+	"location": "Finaland",
+	"url": "https://centova2.cheapshoutcast.com:2199/proxy/rqlweb?mp=/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/2/48942.v22.png",
+	"bit": "1k"
+},
+{
+	"id": 24,
+	"name": "Groove FM",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/Groove FM.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/2/26162.v6.png",
+	"bit": "1k"
+},
+{
+	"id": 25,
+	"name": "Me Naiset Radio",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/Me Naiset Radio.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/2/26482.v9.png",
+	"bit": "1k"
+},
+{
+	"id": 26,
+	"name": "YleX",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/YleX.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/5/48995.v5.png",
+	"bit": "1k"
+},
+{
+	"id": 27,
+	"name": "Jarvi Radio",
+	"location": "Finaland",
+	"url": "https://jarviradio.radiotaajuus.fi:9000/jr",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/0/26160.v10.png",
+	"bit": "1k"
+},
+{
+	"id": 28,
+	"name": "Kantriradio",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/Kantriradio.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/7/124647.v3.png",
+	"bit": "1k"
+},
+{
+	"id": 29,
+	"name": "Radio Patmos",
+	"location": "Finaland",
+	"url": "https://s3.yesstreaming.net:7011/radio",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/6/48906.v5.png",
+	"bit": "1k"
+},
+{
+	"id": 30,
+	"name": "Radio Voima",
+	"location": "Finaland",
+	"url": "https://cast2.radiovoima.fi/voima.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/6/26526.v4.png",
+	"bit": "1k"
+},
+{
+	"id": 31,
+	"name": "Kasari Radio",
+	"location": "Finaland",
+	"url": " https://stream-redirect.bauermedia.fi/kasari/kasari_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/6/85996.v2.png",
+	"bit": "1k"
+},
+{
+	"id": 32,
+	"name": "Ys\u00e4ri Radio",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/Ys\u00e4ri Radio.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/7/85997.v3.png",
+	"bit": "1k"
+},
+{
+	"id": 33,
+	"name": "MOI Web Radio",
+	"location": "Finaland",
+	"url": "https://everestcast.streams.ovh/MOIWebRadio",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/9/88649.v14.png",
+	"bit": "1k"
+},
+{
+	"id": 34,
+	"name": "Radio Classic",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/Radio Classic.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/6/26156.v6.png",
+	"bit": "1k"
+},
+{
+	"id": 35,
+	"name": "Radio Dei",
+	"location": "Finaland",
+	"url": "https://stream.dei.fi:8443/yleisohjelma",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/8/45468.v3.png",
+	"bit": "1k"
+},
+{
+	"id": 36,
+	"name": "Loop",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/Loop.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/9/85999.v4.png",
+	"bit": "1k"
+},
+{
+	"id": 37,
+	"name": "YLE X3M",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/YLE X3M.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/9/48989.v3.png",
+	"bit": "1k"
+},
+{
+	"id": 38,
+	"name": "Radio Vaasa",
+	"location": "Finaland",
+	"url": " https://stream.protonbroadcast.com:8443/radiovaasa.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://play-lh.googleusercontent.com/jnuMqQzhXNBzc05-9gTckJVTp2Nmtp9-_WvY2YCA2YjuI7BVSXH55yKp6KhtXQJ_pLo",
+	"bit": "1k"
+},
+{
+	"id": 39,
+	"name": "Radio Ramona",
+	"location": "Finaland",
+	"url": "https://onlineradiobox.com/json/fi/ramona/play?platform=web",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/9/48909.v3.png",
+	"bit": "1k"
+},
+{
+	"id": 40,
+	"name": "FinnRadio.FM",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/FinnRadio.FM.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/7/131537.v3.png",
+	"bit": "1k"
+},
+{
+	"id": 41,
+	"name": "YLE Radio 1",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/YLE Radio 1.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/5/48945.v5.png",
+	"bit": "1k"
+},
+{
+	"id": 42,
+	"name": "YLE Sami Radio",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/YLE Sami Radio.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/9/48979.v4.png",
+	"bit": "1k"
+},
+{
+	"id": 43,
+	"name": "Radio Pori",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/Radio Pori.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1590476006/brand_manager/stations/gnxolu1alqpmvisgznda.png",
+	"bit": "1k"
+},
+{
+	"id": 44,
+	"name": "Las Pegasus Radio",
+	"location": "Finaland",
+	"url": "https://icecast.laspegas.us/ari",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/8/133758.v2.png",
+	"bit": "1k"
+},
+{
+	"id": 45,
+	"name": "ReggaeNord",
+	"location": "Finaland",
+	"url": "https://centova2.cheapshoutcast.com:2199/proxy/reggaenord?mp=/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/3/100803.v10.png",
+	"bit": "1k"
+},
+{
+	"id": 46,
+	"name": "Radio Musa",
+	"location": "Finaland",
+	"url": " https://n03.radiojar.com/n6yg5q0z8vzuv.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/4/48904.v6.png",
+	"bit": "1k"
+},
+{
+	"id": 47,
+	"name": "Radio 957",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/Radio 957.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1630581526/brand_manager/stations/r4wxle3hlnrxl6vx40wk.png",
+	"bit": "1k"
+},
+{
+	"id": 48,
+	"name": "Radio Auran Aallot",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/Radio Auran Aallot.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://media.bauerradio.com/image/upload/q_auto/c_crop,g_custom/v1653030391/brand_manager/stations/lul1q9817iel2j3sowqa.png",
+	"bit": "1k"
+},
+{
+	"id": 49,
+	"name": "Basso radio",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/Basso radio.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://media.bauerradio.com/image/upload/q_auto/c_crop,g_custom/v1629360804/brand_manager/stations/ma4i3hvexkkkd9ccimuj.png",
+	"bit": "1k"
+},
+{
+	"id": 50,
+	"name": "Radio Inari",
+	"location": "Finaland",
+	"url": "https://onlineradiobox.com/json/fi/inari/play?platform=web",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/6/48896.v3.png",
+	"bit": "1k"
+},
+{
+	"id": 50,
+	"name": "Radioverkko",
+	"location": "Finaland",
+	"url": "https://radioverkko.fi:8002/live",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/2/48912.v3.png",
+	"bit": "1k"
+},
+{
+	"id": 51,
+	"name": "Steel FM 95.9",
+	"location": "Finaland",
+	"url": "https://ice6.securenetsystems.net/STEELFM?playSessionID=773A2BB5-B102-7E4C-745167FEC4CA8219",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/9/26479.v5.png",
+	"bit": "1k"
+},
+{
+	"id": 52,
+	"name": "drUzi.fi",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/drUzi.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/7/132067.v1.png",
+	"bit": "1k"
+},
+{
+	"id": 53,
+	"name": "SuomiR\u00e4p",
+	"location": "Finaland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/finland_webplayer/Hamsi FM.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://media.bauerradio.com/image/upload/q_auto/c_crop,g_custom/v1710402033/brand_manager/stations/x9tyvor6tu7r4cdv7lmm.png",
+	"bit": "1k"
+},
+{
+	"id": 54,
+	"name": "Radio Hear",
+	"location": "Finaland",
+	"url": "http://hear.fi:8000/hear.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/8/26488.v3.png",
+	"bit": "1k"
+}]
