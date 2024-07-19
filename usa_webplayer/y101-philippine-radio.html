@@ -1,0 +1,9 @@
+<figure>
+    <figcaption>Listen to the Y101 - DYIO FM 101.1:</figcaption>
+    <audio
+        controls
+        src="http://34.83.204.199/y101fm-y101fmaac-ibc1?session-id=873a18df37a1de93ac8b42ed1801d443">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
