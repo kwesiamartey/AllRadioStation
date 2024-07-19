@@ -1,0 +1,820 @@
+[
+{
+	"id": 99,
+	"name": "Radio Q FM 90.9",
+	"location": "Berlin Germany",
+	"url": "https://rqstream.radioq.de/stream/192.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/13/16/1891/1/c300.png",
+	"bit": "2k"
+},
+{
+	"id": 97,
+	"name": "Antenne-Sylt FM 106.8",
+	"location": "Berlin Germany",
+	"url": "https://radio21.streamabc.net/radio21-antennesylt-mp3-192-6735420?sABC=65255842%230%2398p48r74173rs0o5s12pp1o10s59o5o8%23enqvbcynlre&rp_source=1&aw_0_req.userConsentV2=&___cb=755818684971989&aw_0_1st.playerid=radioplayer&amsparams=playerid:radioplayer;skey:1696946242",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://assets.radioplayer.org/276/2762577/600/600/l8vlfyti.png"
+},
+{
+	"id": 96,
+	"name": "Classic Rock Radio FM 92.9",
+	"location": "Saarbr\u00fccken Germany",
+	"url": "http://internetradio.salue.de:8000/classicrock.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/00/3d/003dc5c83e93d0be3c2d625b8129c7f9.jpg",
+	"bit": "24k"
+},
+{
+	"id": 95,
+	"name": "NDR 1 Welle Nord FM 90.9",
+	"location": "Kiel Germany",
+	"url": "https://f121.rndfnk.com/ard/ndr/ndr1wellenord/kiel/mp3/128/stream.mp3?aggregator=web&cid=01FBQ1T52FB81EDG99JE36KN5J&sid=2WZicgVChclP14SWsR82eHyCiGe&token=4KgG5--DuB3XTdmVH3r-jMkrgtmeS4Q1AYqs_4tn4es&tvf=BG5ha5LXjBdmMTIxLnJuZGZuay5jb20",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/85/e9/85e9dbce7d80e43df6ef13db33823337.jpg",
+	"bit": "14k"
+},
+{
+	"id": 94,
+	"name": "N-JOY FM 94.2",
+	"location": "Hamburg Germany",
+	"url": "https://d111.rndfnk.com/ard/ndr/njoy/live/mp3/128/stream.mp3?aggregator=tunein&cid=01FBRKKTM6TVGA3B3W6Y8NMXK8&sid=2WZjEy7kltqMSTaoSek31nbyM7S&token=Pd9i20zHJ65QEbTTWkqMSzTwovEBnVb_XJLBt4TCqBQ&tvf=vS9XhdnXjBdkMTExLnJuZGZuay5jb20",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/25/52/2552886d83226ab53601d76153c230ef.jpg",
+	"bit": "5k"
+},
+{
+	"id": 93,
+	"name": "98.8 KISS FM FM 98.8",
+	"location": "Berlin Germany",
+	"url": "https://topradio-de-hz-fal-stream03-cluster01.radiohost.de/kissfm_mp3-192?ref=tunein",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s16523/images/logog.png",
+	"bit": "24k"
+},
+{
+	"id": 92,
+	"name": "NDR 2 FM 92.6",
+	"location": "Hamburg Germany",
+	"url": "https://d111.rndfnk.com/ard/ndr/ndr2/niedersachsen/mp3/128/stream.mp3?cid=01FBQ2CWDYWJHGF4QAJ0SVV730&sid=2WZjsTu3vfL6mb9UxWsEn3zPpMi&token=CRVDg-9_wXtnZj7LyoZTCyN5EsF5_IdOIk6_WECDH4E&tvf=PrdvnCLYjBdkMTExLnJuZGZuay5jb20",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static.tuneyou.com/images/logos/500_500/72/13772/NDR292.6FM_7.jpg",
+	"bit": "34k"
+},
+{
+	"id": 90,
+	"name": "Radio Galaxy Ingolstadt FM 107.9",
+	"location": "Ingolstadt Germany",
+	"url": "http://funkhaus-ingolstadt.stream24.net/galaxy-ingolstadt.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/65/3a/2234/c300.png",
+	"bit": "24k"
+},
+{
+	"id": 89,
+	"name": "Radio Hamburg FM 103.6",
+	"location": "Hamburg Germany",
+	"url": "http://frontend.streamonkey.net/rhh-1036",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/0a/65/2371/4/c300.png",
+	"bit": "15k"
+},
+{
+	"id": 88,
+	"name": "HIT 104",
+	"location": "Berlin Germany",
+	"url": "http://icepool.silvacast.com/HIT104.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/51/d1/8248/c300.png",
+	"bit": "34k"
+},
+{
+	"id": 87,
+	"name": "Klassik Radio Live FM 98.1",
+	"location": "Hamburg Germany",
+	"url": "http://stream.klassikradio.de/live/aac-64/stream.klassikradio.de/",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/1e/f9/1684/2/c300.png",
+	"bit": "44k"
+},
+{
+	"id": 86,
+	"name": "Radio Koln FM 107.1",
+	"location": "Cologne Germany",
+	"url": "http://mp3.radiokoeln.c.nmdn.net/ps-radiokoeln/livestream.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://d2hb4t67mjtsmc.cloudfront.net/new_images/radioapp_uapk_osr3218.jpg",
+	"bit": "90k"
+},
+{
+	"id": 85,
+	"name": "Antenne Bayern FM 101.3",
+	"location": "Ismaning Germany",
+	"url": "https://mp3channels.webradio.antenne.de/antenne",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://nz.radio.net/images/broadcasts/81/d7/9111/2/c300.png",
+	"bit": "88k"
+},
+{
+	"id": 83,
+	"name": "Planet radio FM 100.2",
+	"location": "Frankfurt Germany",
+	"url": "http://mp3.planetradio.de/planetradio/hqlivestream.mp3?amsparams=playerid:RTFFHTunein;skey:1696947774",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s2726/images/logod.jpg?t=636656469348500000",
+	"bit": "87k"
+},
+{
+	"id": 82,
+	"name": "MDR Jump Radio FM 87.7",
+	"location": "Halle Germany",
+	"url": "http://mdr-284320-0.cast.mdr.de/mdr/284320/0/mp3/high/stream.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/b6/07/b607f67420847fc1dc9b17c6a547405c.jpg",
+	"bit": "24k"
+},
+{
+	"id": 81,
+	"name": "uniFM Radio FM 88.4",
+	"location": "Freiburg Germany",
+	"url": "https://unifm-streams.uni-freiburg.de/unifm.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.phonostar.de/images/auto_created/unifm_884184x184.png",
+	"bit": "85k"
+},
+{
+	"id": 80,
+	"name": "Antenne Niedersachsen FM 102.75",
+	"location": "Hanover Germany",
+	"url": "https://stream.antenne.com/antenne-nds/mp3-192/streema/",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://play-lh.googleusercontent.com/WsA976tPAV_z8c-TBx8QNEObrhr2Evd2IzUBWJuStPo6iH4bpdz-f1xh0hy4CRMKAYCe",
+	"bit": "84k"
+},
+{
+	"id": 79,
+	"name": "OS-Radio FM 104.8",
+	"location": "Osnabruck Germany",
+	"url": "http://live.radio-aktiv.de:8000/os-radio.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static.tuneyou.com/images/logos/500_500/31/7531/OSRadio104.8FM_0.jpg",
+	"bit": "82k"
+},
+{
+	"id": 78,
+	"name": "Radio Charivari W\u00fcrzburg",
+	"location": "Wurzburg Germany",
+	"url": "https://edge03.streamonkey.net/charivari-live?aggregator=radioplayer&=&&___cb=729742412074868",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Radio_Charivari_W%C3%BCrzburg_logo.svg/1200px-Radio_Charivari_W%C3%BCrzburg_logo.svg.png",
+	"bit": "81k"
+},
+{
+	"id": 76,
+	"name": "Spreeradio Livestream FM 105.5",
+	"location": "Belin Germany",
+	"url": "http://stream.spreeradio.de/spree-live/mp3-128/streema.com/",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static.wikia.nocookie.net/radiofanon/images/f/f5/Spreeradio_%282004-.n.v.%29.png/revision/latest?cb=20180616185931",
+	"bit": "80k"
+},
+{
+	"id": 75,
+	"name": "Radio Flora FM 106.5",
+	"location": "Hanover Germany",
+	"url": "https://radioflora.de/stream/live.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://img.radios.com.br/radio/xl/radio5542_1588084650.jpg",
+	"bit": "79k"
+},
+{
+	"id": 74,
+	"name": "Star FM Berlin FM 87.9",
+	"location": "Berlin Germany",
+	"url": "https://streams.starfm.de/berlin.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://pbs.twimg.com/profile_images/519761884803645441/s8PmZHHi_400x400.png",
+	"bit": "78k"
+},
+{
+	"id": 73,
+	"name": "bigFM Live FM 89.5",
+	"location": "Stuttgart Germany",
+	"url": "https://streams.bigfm.de/bigfm-deutschland-128-mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/5e/6c/5e6cb42460ae40662e978b6899db938a.jpg",
+	"bit": "77k"
+},
+{
+	"id": 72,
+	"name": "Radio 2DAY FM 89.0",
+	"location": "Munich Germany",
+	"url": "http://radio2day.ip-streaming.net/radio2day",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/86/f7/86f7e87305d5c8947b36e1f8a81f682e.jpg",
+	"bit": "75k"
+},
+{
+	"id": 71,
+	"name": "Die Neue Welle FM 101.8",
+	"location": "Karlsruhe Germany",
+	"url": "http://dieneuewelle.cast.addradio.de/dieneuewelle/simulcast/high/stream.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s84548/images/logog.jpg",
+	"bit": "74k"
+},
+{
+	"id": 69,
+	"name": "FRS 99.2 - Freies Radio F\u00fcr Stuttgart",
+	"location": "Stuttgart Germany",
+	"url": "http://streaming.fueralle.org:8000/Radio-F.R.E.I",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/e6/af/2874/2/c300.png",
+	"bit": "73k"
+},
+{
+	"id": 68,
+	"name": "Hit Radio N1 FM 92.9",
+	"location": "Nuremberg Germany",
+	"url": "https://edge16.streamonkey.net/fhn-hitradion1/stream/mp3?aggregator=webseite&=&&___cb=671870414738558",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s25946/images/logog.jpg?t=1",
+	"bit": "72k"
+},
+{
+	"id": 67,
+	"name": "Radio Schlagerparadies FM 90.3",
+	"location": "Oldenburg Germany",
+	"url": "http://webstream.schlagerparadies.de/schlagerparadies128k.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/a7/c2/a7c2d9ba3bb3548c4907b884e9bdd104.jpg",
+	"bit": "71k"
+},
+{
+	"id": 66,
+	"name": "Radio Dresden FM 103.5",
+	"location": "Dresden Germany",
+	"url": "https://hermes.bcs-systems.de/radio-dresden_simulcast_192k_mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/ab/8a/2369/1/c300.png",
+	"bit": "70k"
+},
+{
+	"id": 65,
+	"name": "Radio Gong 106.9",
+	"location": "Wurzburg Germany",
+	"url": "https://edge63.streamonkey.net/gong-live?aggregator=radioplayer&=&&___cb=631638186316373",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/9f/c0/9fc094a189c97a743880e29adef40c6a.jpg",
+	"bit": "69k"
+},
+{
+	"id": 64,
+	"name": "Radio Regenbogen FM 102.8",
+	"location": "Heidelberg Germany",
+	"url": "http://streams.regenbogen.de/rr-mannheim-128-mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://kuasark.com/files/stations-logos/radio-regenbogen-1028-4485.svg",
+	"bit": "67k"
+},
+{
+	"id": 62,
+	"name": "rbb 88.8",
+	"location": "Berlin Germany",
+	"url": "https://rbb-edge-30b7-fra-ts-cdn.cast.addradio.de/rbb/rbb888/live/mp3/mid",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://d141.rndfnk.com/ard/rbb/rbb888/live/mp3/128/stream.mp3?cid=01FCTB5577PTDND5C4WBNVMQ9E&sid=2WZpTDgEdRlRU975XTPWzdDGMbI&token=cYRSc9BIN3QFNAotp5avw2kBo5gAS943YPMGCC2NrjM&tvf=l_F5BKXajBdkMTQxLnJuZGZuay5jb20",
+	"bit": "66k"
+},
+{
+	"id": 61,
+	"name": "Kiel FM 101.2",
+	"location": "Kiel Germany",
+	"url": "http://radio.oksh.de:8000/kielfm.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://img.radios.com.br/radio/xl/radio29412_1636760114.jpg",
+	"bit": "65k"
+},
+{
+	"id": 60,
+	"name": "SWR1 Rheinland-Pfalz FM 89.8",
+	"location": "Bad Marienberg Germany",
+	"url": "https://d141.rndfnk.com/ard/swr/swr1/rp/aac/96/stream.aac?aggregator=radio-de&cid=01FC1X3Q82Y5KQ31V7YJVJJ07W&sid=2WZprsV1PR2Jt8yy5MAmS8MTd3d&token=Vv7H5uWSZFMCIqE0cH9ADkQs9D44Q632hqO_deYJmyU&tvf=p3VTfdLajBdkMTQxLnJuZGZuay5jb20",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/37/b1/37b15a1396e073984d07c8216c787cc2.jpg",
+	"bit": "64k"
+},
+{
+	"id": 59,
+	"name": "Radio Saarbr\u00fccken FM 99.6",
+	"location": "Saarbr\u00fccken Germany",
+	"url": "https://radiogroup-stream32.radiohost.de/cityradio-saarbruecken_mp3-192",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://d2hb4t67mjtsmc.cloudfront.net/new_images/radioapp_uapk_osr4595.png",
+	"bit": "63k"
+},
+{
+	"id": 58,
+	"name": "Radio Seefunk FM 104.3",
+	"location": "Berlingen Germany",
+	"url": "https://webradio.radio-seefunk.de/live64",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/bd/b4/bdb472d057b09781e619ce610c37f74a.jpg",
+	"bit": "61k"
+},
+{
+	"id": 57,
+	"name": "Antenne Landau FM 94.8",
+	"location": "Landau Germany",
+	"url": "https://radiogroup-stream31.radiohost.de/antenne-landau_mp3-192?ref=radiode",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/31/92/11552/c300.png",
+	"bit": "60k"
+},
+{
+	"id": 55,
+	"name": "Radio Bonn/Rhein-Sieg - 97.8 FM",
+	"location": "Siegburg Germany",
+	"url": "http://rbrs.cast.addradio.de/rbrs/live/mp3/128/stream.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/f2/6d/1836/1/c300.png",
+	"bit": "59k"
+},
+{
+	"id": 54,
+	"name": "SWR4 Rheinland-Pfalz FM 87.9",
+	"location": "Bielefeld Germany",
+	"url": "https://f131.rndfnk.com/ard/swr/swr4/rp/aac/96/stream.aac?aggregator=radio-de&cid=01FC1XCV71QFMQD2RNKF4BC5HG&sid=2WZuCpFZd8AgaxcAr8EwvUwVys4&token=MOWRUF_ON3NvBwd1l2TEQ0rzG0LYnh2ykhCZIXOjS5I&tvf=Y2H8DsXcjBdmMTMxLnJuZGZuay5jb20",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/9d/43/34159/3/c300.png",
+	"bit": "58k"
+},
+{
+	"id": 53,
+	"name": "Schlager Radio FM 106.0",
+	"location": "Berlin - Germany",
+	"url": "http://addrad.io/4459hcb",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.de/images/broadcasts/48/c6/27773/5/c300.png",
+	"bit": "57k"
+},
+{
+	"id": 52,
+	"name": "NDR 90.3",
+	"location": "Hamburg - Germany",
+	"url": "https://f141.rndfnk.com/ard/ndr/ndr903/hamburg/mp3/128/stream.mp3?aggregator=web&cid=01FBQ1SVN9REY132ZYYX7WCR69&sid=2WZucEFWi4a7Um155enqlk6KWje&token=lhL8x_JYuUy7pgnYMgTWZ6Pp8fcjh8yApnlD_vz-z84&tvf=FHiK-_PcjBdmMTQxLnJuZGZuay5jb20",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/b2/39/2347/1/c300.png",
+	"bit": "56k"
+},
+{
+	"id": 51,
+	"name": "Radio 700",
+	"location": "Euskirchen - Germany",
+	"url": "http://streamserver.funkhaus.info:80/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/b3/dd/5380/c300.png",
+	"bit": "54k"
+},
+{
+	"id": 50,
+	"name": "MDR Th\u00fcringen 94.4 fm",
+	"location": "Erfurt - Germany",
+	"url": "http://mdr-284300-0.cast.mdr.de/mdr/284300/0/mp3/high/stream.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/MDR_Th%C3%BCringen_Logo_2017.svg/2560px-MDR_Th%C3%BCringen_Logo_2017.svg.png",
+	"bit": "53k"
+},
+{
+	"id": 48,
+	"name": "Radio IN FM 95.4",
+	"location": "Ingolstadt - Germany",
+	"url": "https://funkhaus-ingolstadt.stream24.net/radio-in.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/18/db/18dbc8981d584f6f963ad406c4c21068.jpg",
+	"bit": "52k"
+},
+{
+	"id": 47,
+	"name": "Radio F.R.E.I FM 96.2",
+	"location": "Erfurt - Germany",
+	"url": "http://streaming.fueralle.org:8000/Radio-F.R.E.I",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-radiotime-logos.tunein.com/s78368g.png",
+	"bit": "51k"
+},
+{
+	"id": 46,
+	"name": "Radio Bielefeld FM 98.3",
+	"location": "Bielefeld - Germany",
+	"url": "http://stream.radiobielefeld.de/444z84j",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_Bielefeld_logo.svg/2560px-Radio_Bielefeld_logo.svg.png",
+	"bit": "50k"
+},
+{
+	"id": 45,
+	"name": "rbb Kultur FM 92.4",
+	"location": "Berlin - Germany",
+	"url": "http://f121.rndfnk.com/ard/rbb/rbbkultur/live/mp3/256/stream.mp3?aggregator=tunein&cid=01FC1WQSDQZNQA4Y6DYGBH7A64&sid=2WZw5c1QWULY7S7D1mh1GRha2NN&token=VpUzLhkl6Kp73U2vG-LJZ4mqZfeX1xLaL4MtmBTXAjM&tvf=PuEbX53djBdmMTIxLnJuZGZuay5jb20",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/8e/a1/8ea12dfaa1bfb70b0ac4e14dfb1d240a.jpg",
+	"bit": "48k"
+},
+{
+	"id": 44,
+	"name": "Radio Sal\u00fc 101.7",
+	"location": "Saarbr\u00fccken - Germany",
+	"url": "http://internetradio.salue.de:8000/salue5",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s16342/images/logog.jpg?t=1",
+	"bit": "47k"
+},
+{
+	"id": 43,
+	"name": "SR3 Saarlandwelle FM 95.5",
+	"location": "Saarbr\u00fccken - Germany",
+	"url": "http://sr.audiostream.io/sr/1011/mp3/56/sr3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static.mytuner.mobi/media/tvos_radios/cufugac4abnv.jpg",
+	"bit": "46k"
+},
+{
+	"id": 41,
+	"name": "Radio F 94.5",
+	"location": "Nuremberg - Germany",
+	"url": "http://webstream.radiof.de/radiof",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/f6/31/f631f239a5a80cdc44fc92cd501da149.jpg",
+	"bit": "45k"
+},
+{
+	"id": 40,
+	"name": "Deutschlandfunk FM 91.3",
+	"location": "Cologne - Germany",
+	"url": "http://st01.dlf.de/dlf/01/128/mp3/stream.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/25/3f/1521/2/c300.png",
+	"bit": "44k"
+},
+{
+	"id": 39,
+	"name": "Radio WAF FM 92.6 Warendorf",
+	"location": "Warendorf - Germany",
+	"url": "http://mp3.radiowaf.c.nmdn.net/ps-radiowaf/livestream.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/4e/85/4e850e20ab53061d6d700d515f292ea6.jpg",
+	"bit": "42k"
+},
+{
+	"id": 38,
+	"name": "Antenne Dusseldorf FM FM 104.2",
+	"location": "D\u00fcsseldorf - Germany",
+	"url": "https://antennedus-live.cast.addradio.de/antennedus/live/mp3/high",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/ca/d7/cad72af0b30eca063a1b41cee006a9a3.jpg",
+	"bit": "41k"
+},
+{
+	"id": 37,
+	"name": "Radio Bremen - Bremen Eins FM 93.8",
+	"location": "Bremen - Germany",
+	"url": "https://d111.rndfnk.com/ard/rb/bremeneins/live/mp3/128/stream.mp3?cid=01FC1W5AX0V19NKBFPPE0A91GX&sid=2WZxh7QA65fMBhgmYOHwsTVfBVS&token=Z_GxXP4doBESMQrRWr_CRAY7-vOKryKtLqlTJSM14r0&tvf=V0tGsFXejBdkMTExLnJuZGZuay5jb20",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-radiotime-logos.tunein.com/s50411d.png",
+	"bit": "9k"
+},
+{
+	"id": 36,
+	"name": "BR24 FM 90.0",
+	"location": "Munich - Germany",
+	"url": "https://f141.rndfnk.com/ard/br/br24/live/aac/48/stream.aac?aggregator=radio-de&cid=01FBPVVJDPGF0BJ5TAJ8Z7JSX9&sid=2WZy1yB7BbXcliZOIO8TM6OT4LV&token=f7O7SkhV-aEZdQB6nYzyhJaXImlptWmuVf-EPqg1_s4&tvf=8aDScXzejBdmMTQxLnJuZGZuay5jb20",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/11/32/113270a5844801b9f8f8b7695295c37d.jpg",
+	"bit": "39k"
+},
+{
+	"id": 34,
+	"name": "Hessischer Rundfunk - hr4 FM 102.5",
+	"location": "Frankfurt - Germany",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/germany_webplayer/Hessischer Rundfunk - hr4 FM 102.5.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/c9/8d/c98dd68a0454caf02fbdd152556121e1.jpg",
+	"bit": "38k"
+},
+{
+	"id": 33,
+	"name": "R.SH - LiveStream FM 102.4",
+	"location": "kiel Germany ",
+	"url": "http://streams.rsh.de/rsh-live/mp3-192/streema/",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/bb/5a/bb5aa5faac42ec6420d9e500d12fd51d.jpg",
+	"bit": "61k"
+},
+{
+	"id": 32,
+	"name": "BR Klassik FM 103.2",
+	"location": "Munich - germany",
+	"url": "https://d111.rndfnk.com/ard/br/brklassik/live/mp3/256/stream.mp3?aggregator=radio-de&cid=01FBPVP3KY4W2XZ9KV8N032855&sid=2WZzx8krox3LOQMLRoKquIev1x5&token=bVkcw-5REiGIyExJi6KU1jasKXMJtb2fy81AV4hqdoc&tvf=VR3QJFnfjBdkMTExLnJuZGZuay5jb20",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/8c/a6/8ca6c77114cc9d70915a932a31f8ac44.jpg",
+	"bit": "5k"
+},
+{
+	"id": 31,
+	"name": "BR Bayern 3 FM 97.3",
+	"location": "Germany Munich",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/germany_webplayer/BR Bayern 3 FM 97.3.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/93/f6/93f61da6018c3badf7da04a8ebafb9cf.jpg",
+	"bit": "14k"
+},
+{
+	"id": 30,
+	"name": "SWR4 Baden-W\u00fcrttemberg FM 91.6",
+	"location": "Stuttgart Germany",
+	"url": "https://f131.rndfnk.com/ard/swr/swr4/bw/aac/96/stream.aac?aggregator=radio-de&cid=01FC1X86VT36Q01G4NBJ3Q4R1Z&sid=2Wa0r3o1Wy6CK2SG1zh8igwywsy&token=6MXayqCfQwmyitanjSkF2IoXvtxr2e6NZgAWpRAxebc&tvf=hgbarsDfjBdmMTMxLnJuZGZuay5jb20",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.de/images/broadcasts/79/93/2420/3/c300.png",
+	"bit": "33k"
+},
+{
+	"id": 29,
+	"name": "Radio SAM Music - Radio SAM Germany",
+	"location": "Runkel Germany",
+	"url": "http://stream.zeno.fm/2awh8e4bwceuv",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://img.webme.com/pic/r/radio-sam-music/internationalmusic%20newbanner1.gif",
+	"bit": "3k"
+},
+{
+	"id": 27,
+	"name": "Energy Deutschland - Top 40",
+	"location": "Berlin Germany",
+	"url": "https://scdn.nrjaudio.fm/adwz1/de/56376/mp3_128.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/2d/fb/2dfb93a70814483d02b18416fbccd457.jpg",
+	"bit": "301k"
+},
+{
+	"id": 25,
+	"name": "The Wave",
+	"location": "Berlin Germany",
+	"url": "http://stream.thewaveradio.de/wave-live/mp3-128/konsole/",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://lh3.googleusercontent.com/Dv_4NTj2AIMP6hNH5hr1BbgTxVaKnuujiPlHISFVPiObN9UM0tVaK1CJcV6LZi2CVgQ",
+	"bit": "281k"
+},
+{
+	"id": 24,
+	"name": "Gay FM",
+	"location": "Berlin Germany",
+	"url": "http://tuner.gayfm.de/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.liveradio.ie/files/images/112541/resized/180x172c/gay_fm.jpg",
+	"bit": "271k"
+},
+{
+	"id": 23,
+	"name": "Radio Paloma",
+	"location": "Berlin Germany",
+	"url": "http://tuner.radiopaloma.de:80",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/04/3a/4463/2/c300.png",
+	"bit": "261k"
+},
+{
+	"id": 22,
+	"name": "Hirschmilch Radio - Chillout",
+	"location": "Berlin Germany",
+	"url": "https://hirschmilch.de:7001/chillout.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://i1.sndcdn.com/avatars-000153616456-q1acgi-t500x500.jpg",
+	"bit": "24k"
+},
+{
+	"id": 20,
+	"name": "Chromanova Radio - Chillout and Lounge",
+	"location": "Berlin Germany",
+	"url": "http://server4.streamserver24.com:26331/stream/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/7d/f5/7df58c0f5d3071ff4aaf2612f5bc0de2.jpg",
+	"bit": "28k"
+},
+{
+	"id": 19,
+	"name": "Metropol FM",
+	"location": "Berlin Germany",
+	"url": "http://stream1.mfm.plexpark.com:8000/simulcast-berlin-sd-64.aac",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://play-lh.googleusercontent.com/L84EtjIw1mI7RN3mlDJyLBIWHLiXgN68ZbXQawXJixwhi99aXZqPwPcQEpvleWRIbw",
+	"bit": "22k"
+},
+{
+	"id": 18,
+	"name": "80s80s - Real 80s",
+	"location": "Berlin Germany",
+	"url": "https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=65257spq%231%23pn4900q94s1r4sspo251rs18317nrqn2%23ubzrcntr&context=fHA6LTE=&aw_0_1st.skey=1696956324&cb=609623011&aw_0_1st.playerid=80s80s_web&aw_0_req.userConsentV2=CPzbcgAPzbcgAAFADCDEDaCsAP_AAEPAAAYgI9tV_H__bW9j8X7_aft0eY1P9_jz7uQxBhfJE-4F3LvW_JwXx2E5NF36tqoKmRoEu1ZBIQNlHIHUDUmwaogVryHsak2cpSNKJ6BkkFMRM2dYCF5Pm4tjeQKY5_p_d3fx2D-t_dv839zz38VXn3d5f--0-PDdU589Dfn9fRfb89IP9958v8v8_l_rk2_eT13_pYI9gEmGhcQBdkQEhNoGEUCAEYVhARQKAAAASBogIAXBgU7IwCXWAiAECKAA4IAQgAowABAAAJAAhEAEgRQIAAIBAIAAQAIAAIAGBgAHABaCAQAAgOgYphQAKBYQJEZEQpgQhQJBAS2VCCUFQgrhAEWWBFAIjYKABAEgIpAAEBYvAYAkBKxIIEuoNoAACABAKKUIAgaADAAEEexEAGAAII9ioAMAAQR7GQAYAAgj2AAA.YAAAAAAAAAAA&aw_0_1st.1plusxAudience=2,2n&listenerid=ca4900d94f1e4ffcb251ef18317aeda2&amsparams=playerid:homepage;skey:1696956365",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.allradio.net/500/mV_x2bJ6WClXzvZGhbZkT.webp",
+	"bit": "25k"
+},
+{
+	"id": 17,
+	"name": "\u0420\u0430\u0434\u0438\u043e \u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u0411\u0435\u0440\u043b\u0438\u043d",
+	"location": "Berlin Germany",
+	"url": "http://rb-stream.de:8000/rrb_64.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/c1/ae/c1ae2d2d4028c7ffe9701a0ac756d406.jpg",
+	"bit": "20k"
+},
+{
+	"id": 16,
+	"name": "Beautiful Sounds Berlin",
+	"location": "Berlin Germany",
+	"url": "http://stream.laut.fm/beautifulsounds",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/9b/70/9b70dd4d1b9a5dadcbc9d8282f215fe5.jpg",
+	"bit": "127k"
+},
+{
+	"id": 15,
+	"name": "Hirschmilch Radio - Prog House",
+	"location": "Berlin Germany",
+	"url": "http://hirschmilch.de:7000/prog-house.mp3/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://i1.sndcdn.com/avatars-000153616456-q1acgi-t500x500.jpg",
+	"bit": "163k"
+},
+{
+	"id": 13,
+	"name": "Status Quo Rock Radio",
+	"location": "Berlin Germany",
+	"url": "http://85.25.217.22:8200/stream/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://images.radiovolna.net/_files/images/stations/22025/1e7353cf8f73dcc67f430d4149946063_165x165.webp",
+	"bit": "152k"
+},
+{
+	"id": 12,
+	"name": "JazzRadio",
+	"location": "Berlin Germany",
+	"url": "http://streaming.radio.co/s774887f7b/listen",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Jazz_Radio_Logo.png/402px-Jazz_Radio_Logo.png",
+	"bit": "140k"
+},
+{
+	"id": 11,
+	"name": "inforadio vom rbb",
+	"location": "Berlin Germany",
+	"url": "http://www.inforadio.de/livemp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.inforadio.de/content/dam/rbb/inf/2022_03_BILDER/REPORTER/Logo_rbb24inforadio_1280.jpg.jpg/quality=128/size=708x398.jpg",
+	"bit": "112k"
+},
+{
+	"id": 10,
+	"name": "Berliner Rundfunk Radio FM 91.4",
+	"location": "Berlin Germany",
+	"url": "https://topradio-de-hz-fal-stream01-cluster01.radiohost.de/brf_mp3-128?mode=preroll&aw_0_1st.playerid=berliner-rundfunk_web&aw_0_req.userConsentV2=CPzbcgAPzbcgAAFADCDEDaCgAAAAAE_AAAYgAAASpAJMNC4gC7IgJCbQMIoEAIwrCAigUAAAAkDRAQAuDAp2RgEusBEAIEUABwQAhABRgACAAASABCIAJAigQAAQCAQAAgAQCAQAMDAAOAC0EAgABAdAxTCgAUCwgSIyIhTAhCgSCAlsqEEoLhBXCAIssCKARGwUACAJARWAAICxeAwBICViQQJdQbQAAEACAUUoVCKT8wBDACDQAYAAglSIgAwABBKk.YAAAAAAAAAAA&listenerid=a3ce02b005a44ba98093cb4487858a7c&ref=homepage&amsparams=homepage",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static.tuneyou.com/images/logos/500_500/76/1076/BerlinerRundfunk.png",
+	"bit": "101k"
+},
+{
+	"id": 9,
+	"name": "FluxKompensator",
+	"location": "Berlin Germany",
+	"url": "http://streams.fluxfm.de/fluxkompensator/aac-64/audio/",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/f7/71/37323/2/c300.png",
+	"bit": "91k"
+},
+{
+	"id": 8,
+	"name": "Techno Paradize",
+	"location": "Berlin Germany",
+	"url": "http://stream.laut.fm/techno-paradize",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/6b/85/6b856c5187651aeff74718168ffe0ac4.jpg",
+	"bit": "89k"
+},
+{
+	"id": 6,
+	"name": "Radio QueerLive",
+	"location": "Berlin Germany",
+	"url": "https://queerlive.stream.laut.fm/queerlive?ref=web-app&start_time=1696957134909&t302=2023-10-10_18-59-16&uuid=87ac8a95-08a8-40c5-a856-fe024c5a23f4",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/f4/2a/f42a1a39e6ea6cef383bd8c35b6dae56.jpg",
+	"bit": "76k"
+},
+{
+	"id": 4,
+	"name": "Radio K.A.B Germany",
+	"location": "Germany",
+	"url": "http://server13.blitz-stream.de:46200/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://liveonlineradio.net/wp-content/uploads/2015/01/Radio-Kab.jpg",
+	"bit": "14k"
+},
+{
+	"id": 2,
+	"name": "LaserStarRadio - Top100 Germany",
+	"location": "Voerde Germany",
+	"url": "http://stream.laut.fm/top100germany",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/8d/7f/8d7f93aa34e719db5ee23522622d2838.jpg",
+	"bit": "42k"
+},
+{
+	"id": 1,
+	"name": "Germany-Stream Radio",
+	"location": "Hattstedt Germany",
+	"url": "http://stream.laut.fm/germany-stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/14/2c/3539/1/c300.png",
+	"bit": "10k"
+}]
