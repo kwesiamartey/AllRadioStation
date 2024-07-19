@@ -1,0 +1,883 @@
+[
+{
+	"id": 103,
+	"name": "La Mexicana",
+	"location": "Mexico",
+	"url": "http://ice42.securenetsystems.net/KSMMKZRD",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://m.media-amazon.com/images/S/abs-image-upload-na/1/AmazonStores/ATVPDKIKX0DER/5743e2f1ac987baed99052eed033abba.w900.h900.png"
+},
+{
+	"id": 101,
+	"name": "La Mexicana Radio",
+	"location": "Mexico",
+	"url": "https://www.ophanim.net:8444/s/7220",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static2.mytuner.mobi/media/tvos_radios/drvhqgf7fkcr.png"
+},
+{
+	"id": 100,
+	"name": "Tropical 100 Regional Mexicana",
+	"location": "Mexico",
+	"url": "https://stream-164.zeno.fm/fas8htkqsxsuv?zs=NKU_3xLwSsq-kylFKRLmuw",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-radiotime-logos.tunein.com/s152040d.png"
+},
+{
+	"id": 99,
+	"name": "Que Viva M\u00e9xico Radio",
+	"location": "Mexico",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/mexico_player/Que Viva M\u00e9xico Radio.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-radiotime-logos.tunein.com/s190365g.png"
+},
+{
+	"id": 97,
+	"name": "Roca FM Clasicos",
+	"location": "Mexico",
+	"url": "http://xxdelgado.radioca.st:8370/stream/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://mx.radio.net/images/broadcasts/b6/e6/106386/1/c300.png"
+},
+{
+	"id": 96,
+	"name": "ESPN Radio Mexico",
+	"location": "Mexico",
+	"url": "https://ice8.securenetsystems.net/KQTM?playSessionID=042CC0B4-3948-43B8-BCF4944554180101",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://express-images.franklymedia.com/8527/sites/5/2016/10/15101806/kqtm-logo.png"
+},
+{
+	"id": 95,
+	"name": "IMER - Radio M\u00e9xico Internacional",
+	"location": "Mexico",
+	"url": "https://s2.mexside.net:7017/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/4/9854.v8.png"
+},
+{
+	"id": 94,
+	"name": "Radio Oldies Mexico",
+	"location": "Mexico",
+	"url": "http://node-03.zeno.fm/cywfux8w82quv?rj-ttl=5&rj-tok=AAABd-78H5IAgIXxY719MHmc4A",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://play-lh.googleusercontent.com/CLonOST777FtwvfLQuM1zM-rsYE0GeDEnW5bHWYd916uPnflHxwvQoDpf23zw6WqsXY=w526-h296-rw"
+},
+{
+	"id": 93,
+	"name": "Contigo Radio Mexico",
+	"location": "Mexico",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/mexico_player/Contigo Radio Mexico.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://liveonlineradio.net/wp-content/uploads/2021/02/contigo-radio-mexico.jpg"
+},
+{
+	"id": 92,
+	"name": "Radio P\u00eda - XHLC La Piedad",
+	"location": "Mexico",
+	"url": "https://stream.zeno.fm/9dp20cq3f78uv",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s89128/images/logod.jpg?t=637493439750000000"
+},
+{
+	"id": 91,
+	"name": "KGAK Radio",
+	"location": "Mexico",
+	"url": "https://ice41.securenetsystems.net/KGAK",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/83/76/837656d7f410d77948e908fa96ad967c.jpg"
+},
+{
+	"id": 90,
+	"name": "La Z - XEQR-FM",
+	"location": "Mexico",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/mexico_player/La Z - XEQR-FM.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/2f/73/2f73c2851bb21f85313a206495c870ac.jpg"
+},
+{
+	"id": 89,
+	"name": "La Huasteca",
+	"location": "Mexico",
+	"url": "https://stream.zeno.fm/0ar8u76zfkhvv",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/a8/3e/a83ec6f17e49ae4940033661d782acc5.jpg"
+},
+{
+	"id": 88,
+	"name": "89.1 FM KANW",
+	"location": "Mexico",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/mexico_player/89.1 FM KANW - KANW.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://upload.wikimedia.org/wikipedia/en/b/be/KANW_logo.png"
+},
+{
+	"id": 87,
+	"name": "AW 101.3",
+	"location": "Mexico",
+	"url": "https://26223.live.streamtheworld.com:443/XHAWFM_SC",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://mexico.mom-gmr.org/uploads/tx_lfrogmom/media/11532-1329_import.png"
+},
+{
+	"id": 86,
+	"name": "Ke Buena",
+	"location": "Mexico",
+	"url": "http://185.132.134.185:8214/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/b6/47/b6476eb5b6b0545bac30987530a7e992.jpg"
+},
+{
+	"id": 85,
+	"name": "103.7 The Oasis",
+	"location": "Mexico",
+	"url": "http://ice42.securenetsystems.net/KOAZAM",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.smoothjazz.com/sites/default/files/station-logos/koaz-the-oasis-103.7_0.png"
+},
+{
+	"id": 84,
+	"name": "La Buena Onda",
+	"location": "Mexico",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/mexico_player/La Buena Onda - XEAD-FM.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-radiotime-logos.tunein.com/s87889g.png"
+},
+{
+	"id": 83,
+	"name": "La Poderosa de Parral",
+	"location": "Mexico",
+	"url": "https://stream-162.zeno.fm/dq8pbmz20a0uv?zs=nSAF72Q0R3iyXik_bWrcPg&1696117409877",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s90154/images/logoq.png?t=153485"
+},
+{
+	"id": 82,
+	"name": "Suprema Radio",
+	"location": "Mexico",
+	"url": "http://streamingcwsradio30.com:8146/stream/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/9c/2c/9c2c8082538b4bab55f4c0fad12c003d.jpg"
+},
+{
+	"id": 79,
+	"name": "Caf\u00e9 Rom\u00e1ntico Radio",
+	"location": "Mexico",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/mexico_player/Caf\u00e9 Rom\u00e1ntico Radio.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/a1/e3/42411/4/c300.png"
+},
+{
+	"id": 78,
+	"name": "RadioEntity70s Disco Nights Radio",
+	"location": "Mexico",
+	"url": "http://panel.retrolandigital.com:8170/listen",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/1e/d8/26684/c175.png"
+},
+{
+	"id": 77,
+	"name": "La Ranchera de Cuauht\u00e9moc",
+	"location": "Mexico",
+	"url": "https://stream-141.zeno.fm/u1q3a220974tv?zs=pBSal79lRSqjIodwUo7elw",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.webrad.io/images/logos/emisoras-com-mx/ranchera-cuauhtemoc.png"
+},
+{
+	"id": 76,
+	"name": "Radio Ranchito",
+	"location": "Mexico",
+	"url": "http://streamingcwsradio30.com:8012/stream.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://play-lh.googleusercontent.com/xkQmUsXsM56nfbcqKcbU4LiYi8h2T63L9pLFRbfIkb89xmPBrNVL9iWhNWmMmxr-v1f8"
+},
+{
+	"id": 75,
+	"name": "La Bestia Grupera",
+	"location": "Mexico",
+	"url": "http://167.114.116.223:1097/stream/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://lh3.googleusercontent.com/-5Wvn5mridKsGKad1YoNy6lGOT3KypeUCP1x3TQqCMxaPGTE9hh29OdTJ3ulZjElHWg"
+},
+{
+	"id": 74,
+	"name": "\u00c9xtasis Digital 95.9",
+	"location": "Mexico",
+	"url": "https://stream-162.zeno.fm/ct70b7m1qa0uv?zs=HVoOkRL7R_SwbHJnpArqcg",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://extasisdigital1059.com/img/logo.png?ver2"
+},
+{
+	"id": 73,
+	"name": "S\u00faper 89.9 FM",
+	"location": "Mexico",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/mexico_player/S\u00faper 89.9 FM - XHSOL.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s88040/images/logod.png?t=636776383480000000"
+},
+{
+	"id": 72,
+	"name": "La Rocola 990",
+	"location": "Mexico",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/mexico_player/La Rocola 990 - XECL.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-radiotime-logos.tunein.com/s43990g.png"
+},
+{
+	"id": 71,
+	"name": "Radio Mexicana",
+	"location": "Mexico",
+	"url": "http://s1.audiorama.mx:6598/stream/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/62/00/6200e0bf7d8f8fdff2eb183fc3c2235f.jpg"
+},
+{
+	"id": 70,
+	"name": "KE 104.5 FM",
+	"location": "Mexico",
+	"url": "http://streamingcwsradio30.com:8062/stream/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/9d/7a/9d7ad798951d77025fea2116fabe70aa.jpg"
+},
+{
+	"id": 69,
+	"name": "BJB Regional Mexicana",
+	"location": "Mexico",
+	"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/REGIONAL_MEXICANA_570AM.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/a1/dc/a1dcc0bd9175f51f092ebda64b99ee1b.jpg"
+},
+{
+	"id": 68,
+	"name": "Super KT",
+	"location": "Mexico",
+	"url": "http://198.27.64.106:2124/stream/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/dc/b2/25203/c300.png"
+},
+{
+	"id": 67,
+	"name": "La Tapatia FM",
+	"location": "Mexico",
+	"url": "http://192.99.16.17:3412/stream/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s88435/images/logog.png?t=161801"
+},
+{
+	"id": 66,
+	"name": "La Dorada 107.5",
+	"location": "Mexico",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/mexico_player/La Dorada 107.5 - XHKG.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-radiotime-logos.tunein.com/s90138g.png"
+},
+{
+	"id": 65,
+	"name": "Vida Azul",
+	"location": "Mexico",
+	"url": "https://stream.zeno.fm/rr2utaa0fkhvv",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/26/a5/26a51a5a3a96e462944cf6694de73d94.jpg"
+},
+{
+	"id": 64,
+	"name": "La Ranchera de Monterrey - XEG",
+	"location": "Mexico",
+	"url": "http://streamingcwsradio20.com:9410/stream/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/6d/d5/6dd5807abec11e50c3c8806a6b678c16.jpg"
+},
+{
+	"id": 63,
+	"name": "Libertad 102 FM",
+	"location": "Mexico",
+	"url": "https://s5.mexside.net:2000/stream/libertad/stream/1/",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://radio-en-vivo-mx.com/storage/radios/14229/20316/conversions/libertad-102-1-fm-lg.webp"
+},
+{
+	"id": 62,
+	"name": "Amor 93.1 FM",
+	"location": "Mexico",
+	"url": "https://17853.live.streamtheworld.com:443/XHPIFMAAC_SC",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/99/fc/99fcb22b12e5c3cd83f7a5c867e3ee22.jpg"
+},
+{
+	"id": 61,
+	"name": "Super Stereo 96",
+	"location": "Mexico",
+	"url": "http://www.superstereo96.com/jp.html",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/1b/8e/1b8e53e35deb961b555e77e585a478c1.jpg"
+},
+{
+	"id": 59,
+	"name": "SRCI - La Voz de los Pur\u00e9pechas",
+	"location": "Mexico",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/mexico_player/SRCI - La Voz de los Pur\u00e9pechas - XEPUR.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/16/51/1651777c1baa197f19995128109d3a62.jpg"
+},
+{
+	"id": 58,
+	"name": "Sol FM",
+	"location": "Mexico",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/mexico_player/Sol FM.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/51/d0/51d066ed3954459e4d6c4233c6bfb1c7.jpg"
+},
+{
+	"id": 57,
+	"name": "SJ 103.3 FM",
+	"location": "Mexico",
+	"url": "http://209.222.101.166:9300/stream/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/cd/10/cd1093885b686bf7a3a761e799927265.jpg"
+},
+{
+	"id": 56,
+	"name": "IMER - Opus 94.5 FM",
+	"location": "Mexico",
+	"url": "http://s2.mexside.net:8016/stream/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/58/a6/58a6577c3661dd1292486f7a4e64172c.jpg"
+},
+{
+	"id": 55,
+	"name": "La Bestia Grupera FM 92.3",
+	"location": "Mexico",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/mexico_player/La Bestia Grupera - XHMMF.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/9b/7f/9b7f8ff575e2d140d57ef421b3f59ff5.jpg"
+},
+{
+	"id": 54,
+	"name": "W Radio - XEW-AM",
+	"location": "Mexico",
+	"url": "http://playerservices.streamtheworld.com/api/livestream-redirect/W_RADIO.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s16553/images/logod.jpg?t=636283736491000000"
+},
+{
+	"id": 53,
+	"name": "IMER - La B Grande",
+	"location": "Mexico",
+	"url": "http://s2.mexside.net:8024/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/49/a0/49a02284957d07084d7c72e7dab01a62.jpg"
+},
+{
+	"id": 52,
+	"name": "Extremo 103.9 FM",
+	"location": "Mexico",
+	"url": "http://s4.mexside.net:2044/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/dc/6f/dc6fbf9c916d84f74403a22b6a20d5a3.jpg"
+},
+{
+	"id": 51,
+	"name": "Ke Buena 94.7 FM",
+	"location": "Mexico",
+	"url": "https://freepi.host:9306/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/a2/b4/a2b4f10fbd263a51ba05481874ee4097.jpg"
+},
+{
+	"id": 50,
+	"name": "Los 40 99.5 FM",
+	"location": "Mexico",
+	"url": "https://freepi.host:9300/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/b1/c5/9504/3/c300.png"
+},
+{
+	"id": 49,
+	"name": "Extremo 90.7 FM",
+	"location": "Mexico",
+	"url": "https://freepi.host:9305/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/4e/7d/4e7dad9dca52da19af5e94a4f019f8ce.jpg"
+},
+{
+	"id": 48,
+	"name": "VOX 97.3 FM",
+	"location": "Mexico",
+	"url": "https://freepi.host:9315/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/4f/92/4f92cb301853a86ed99a4a4a52967116.jpg"
+},
+{
+	"id": 47,
+	"name": "Ke Buena 89.3 FM",
+	"location": "Mexico",
+	"url": "https://freepi.host:9314/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static.wixstatic.com/media/33d5cb_36929410eb584d229260f3a14b890dc0~mv2.png/v1/fill/w_2500,h_1406,al_c/33d5cb_36929410eb584d229260f3a14b890dc0~mv2.png"
+},
+{
+	"id": 46,
+	"name": "Los 40 101.5 FM",
+	"location": "Mexico",
+	"url": "https://freepi.host:9313/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s90776/images/logog.png?t=155843"
+},
+{
+	"id": 45,
+	"name": "Ke Buena 91.3 FM",
+	"location": "Mexico",
+	"url": "https://freepi.host:9302/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static.mytuner.mobi/media/tvos_radios/6vevmdd4phup.jpg"
+},
+{
+	"id": 44,
+	"name": "Extremo 101.5 FM",
+	"location": "Mexico",
+	"url": "https://freepi.host:9310/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-radiotime-logos.tunein.com/s92016d.png"
+},
+{
+	"id": 43,
+	"name": "Ke Buena 94.3 FM",
+	"location": "Mexico",
+	"url": "https://freepi.host:9309/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s91096/images/logog.png?t=1657654855000"
+},
+{
+	"id": 42,
+	"name": "Extremo 89.9 FM",
+	"location": "Mexico",
+	"url": "https://freepi.host:9308/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://pbs.twimg.com/profile_images/2557530031/extremo_400x400.jpg"
+},
+{
+	"id": 41,
+	"name": "Mandona 95.1 FM",
+	"location": "Mexico",
+	"url": "https://freepi.host:9311/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/ab/c9/abc946f105e64863f54806dcf16e7afe.jpg"
+},
+{
+	"id": 40,
+	"name": "Extremo 99.1 FM",
+	"location": "Mexico",
+	"url": "https://freepi.host:9307/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static.mytuner.mobi/media/tvos_radios/DyehQnNmkg.jpg"
+},
+{
+	"id": 39,
+	"name": "Los 40 96.1 FM",
+	"location": "Mexico",
+	"url": "https://freepi.host:9304/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s91950/images/logog.png?t=155843"
+},
+{
+	"id": 38,
+	"name": "La TG 90.3 FM",
+	"location": "Mexico",
+	"url": "https://freepi.host:9301/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s90667/images/logog.png"
+},
+{
+	"id": 37,
+	"name": "Ke Buena 100.1 FM",
+	"location": "Mexico",
+	"url": "https://freepi.host:9303/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static.mytuner.mobi/media/tvos_radios/DG7UcFK8Du.png"
+},
+{
+	"id": 36,
+	"name": "Extremo (Tapachula)",
+	"location": "Mexico",
+	"url": "https://freepi.host:9305/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.webrad.io/images/logos/emisoras-com-mx/extremo-tapachula.png"
+},
+{
+	"id": 35,
+	"name": "Radio Extremo Guila Oaxaca",
+	"location": "Mexico",
+	"url": "https://sonic.xtremacomunicaciones.com.mx/8038/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s160087/images/logod.png?t=637049210670000000"
+},
+{
+	"id": 34,
+	"name": "Extremo Grupero Villaflores",
+	"location": "Mexico",
+	"url": "https://s2.mexside.net/8158/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.extremovillaflores.com/Logo%20MAyusculas.png"
+},
+{
+	"id": 33,
+	"name": "To\u00f1o 103.5FM",
+	"location": "Mexico",
+	"url": "https://ss1.audiorama.com.mx:6638/stream/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static.mytuner.mobi/media/tvos_radios/DVp3nLU5kd.png"
+},
+{
+	"id": 32,
+	"name": "Radio Turquesa",
+	"location": "Mexico",
+	"url": "https://stream.miradio.in/proxy/rt1051/live?ver=830074",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://radioturquesa.fm/wp-content/uploads/2014/07/1901311_10152963158126029_455959259_n.png"
+},
+{
+	"id": 31,
+	"name": "La Mexicana",
+	"location": "Mexico",
+	"url": "http://www.ophanim.net:7220/stream/1/",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/bf/39/112036/2/c300.png"
+},
+{
+	"id": 30,
+	"name": "La Sabrosita",
+	"location": "Mexico",
+	"url": "http://s01.digitalserver.org:9228/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://lasabrositafm.cl/wp-content/uploads/2021/04/Logo-LaSabrosita-Blancos.png"
+},
+{
+	"id": 29,
+	"name": "Rom\u00e1ntica",
+	"location": "Mexico",
+	"url": "http://5.79.86.14:8290/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static.mytuner.mobi/media/tvos_radios/gqLU27N7FU.png"
+},
+{
+	"id": 28,
+	"name": "Radio Sensacional",
+	"location": "Mexico",
+	"url": "http://167.114.11.80:5025/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://fastcast4u.com/player/xevd/_user/cover/x/xevd/default.png"
+},
+{
+	"id": 27,
+	"name": "La Zeta 98.5",
+	"location": "Mexico",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/mexico_player/La Zeta 98.5 - XEEB.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static.mytuner.mobi/media/tvos_radios/vEJGqfbw82.png"
+},
+{
+	"id": 26,
+	"name": "Heraldo Radio",
+	"location": "Mexico",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/mexico_player/Heraldo Radio - XHAV.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/p1236164/images/logod.png?t=156405"
+},
+{
+	"id": 25,
+	"name": "La Zeta 93.9",
+	"location": "Mexico",
+	"url": "http://streamingcwsradio30.com:8054/stream/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-radiotime-logos.tunein.com/s88351g.png"
+},
+{
+	"id": 24,
+	"name": "Radio 620",
+	"location": "Mexico",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/mexico_player/Radio 620 - XENK.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s24517/images/logog.jpg?t=151067"
+},
+{
+	"id": 23,
+	"name": "Amor 95.3 FM",
+	"location": "Mexico",
+	"url": "http://14993.live.streamtheworld.com:80/XHSHFMAAC_SC",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://i.iheart.com/v3/re/new_assets/5bce06169803f27603c24988"
+},
+{
+	"id": 22,
+	"name": "HK La Voz de Guadalajara",
+	"location": "Mexico",
+	"url": "http://192.99.16.17:9890/stream/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static.mytuner.mobi/media/tvos_radios/cnuzst4agpmb.png"
+},
+{
+	"id": 21,
+	"name": "XESQ Radio San Miguel",
+	"location": "Mexico",
+	"url": "http://stream.zenolive.com/nefa2awy55vtv",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://sqradiosanmiguel.com/wp-content/uploads/2020/08/cropped-radio-san-miguel-favicon2-1.jpg"
+},
+{
+	"id": 20,
+	"name": "Super Estelar",
+	"location": "Mexico",
+	"url": "http://22983.live.streamtheworld.com:80/XHPCFM_SC",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-radiotime-logos.tunein.com/s90719g.png"
+},
+{
+	"id": 19,
+	"name": "La Grande de Michoac\u00e1n",
+	"location": "Mexico",
+	"url": "https://stream-155.zeno.fm/5xptpdq1sy8uv?zs=QjqQLClZQK2D8oOSx5zu-Q",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s186582/images/logod.png?t=162516"
+},
+{
+	"id": 18,
+	"name": "La M\u00e1s Prendida",
+	"location": "Mexico",
+	"url": "https://s01.digitalserver.org:7035/stream/1/",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-radiotime-logos.tunein.com/s91796g.png"
+},
+{
+	"id": 17,
+	"name": "La Capital de la Noticia",
+	"location": "Mexico",
+	"url": "https://stream.zeno.fm/q5ed7t1xa84tv",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static.mytuner.mobi/media/tvos_radios/xq8qw22umnkn.png"
+},
+{
+	"id": 16,
+	"name": "Cuadrante Digital",
+	"location": "Mexico",
+	"url": "https://stream.zeno.fm/e2tmaxp1sy8uv",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/4a/69/4a69621dfec65078720a2fdcb8aef660.jpg"
+},
+{
+	"id": 15,
+	"name": "La Poderosa 96.9",
+	"location": "Mexico",
+	"url": "https://sg.centrocibernetico.com/poderosa969",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.webrad.io/images/logos/emisoras-com-mx/la-poderosa-96-9-fm.png"
+},
+{
+	"id": 14,
+	"name": "La Bestia Grupera",
+	"location": "Mexico",
+	"url": "https://ss1.audiorama.com.mx:6646/;stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s11150/images/logod.png?t=161593"
+},
+{
+	"id": 13,
+	"name": "Studio 96.5",
+	"location": "Mexico",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/mexico_player/Studio 96.5 - XHFI.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://play-lh.googleusercontent.com/MI_f0PeqesQVQiB_vT8rPXTHn83EJAxysnTbcmB8N7jmXj9HX7iGcLXEco7QE9okPVc=w240-h480-rw"
+},
+{
+	"id": 12,
+	"name": "Radio Jerez",
+	"location": "Mexico",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/mexico_player/Radio Jerez - XHXM.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s90232/images/logog.png?t=1660210289000"
+},
+{
+	"id": 11,
+	"name": "Radio F\u00f3rmula - Primera Cadena",
+	"location": "Mexico",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/mexico_player/Radio F\u00f3rmula - Primera Cadena.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.webrad.io/images/logos/emisoras-com-mx/formula-103-3.png"
+},
+{
+	"id": 10,
+	"name": "Arroba@FM",
+	"location": "Mexico",
+	"url": "https://stream.zeno.fm/6vtcayf9d78uv",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.arroba.fm/ciudad/img/logos/CDMX/cdmxlogo.png"
+},
+{
+	"id": 9,
+	"name": "Radio Mar\u00eda M\u00e9xico",
+	"location": "Mexico",
+	"url": "https://dreamsiteradiocp6.com/proxy/rmmessico?mp=/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/87/8a/19473/c300.png"
+},
+{
+	"id": 8,
+	"name": "F\u00f3rmula Mel\u00f3dica",
+	"location": "Mexico",
+	"url": "https://s2.yesstreaming.net:9085/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static.mytuner.mobi/media/tvos_radios/SdgFaVq9P4.png"
+},
+{
+	"id": 7,
+	"name": "La Reina 100.9FM",
+	"location": "Mexico",
+	"url": "http://uk2-pn.mixstream.net:8054/;;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/68/e4/68e49abb09c8b733de29adcb133edfef.jpg"
+},
+{
+	"id": 6,
+	"name": "Stereo 91",
+	"location": "Mexico",
+	"url": "http://216.251.65.74:8000/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/e1/46/e1465dcdc62ae69f3c6e5480c7c8ecbe.jpg"
+},
+{
+	"id": 5,
+	"name": "Sabrosita 590 AM",
+	"location": "Mexico",
+	"url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAM.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/e3/27/e32734fb215d1621c6d29981fd95b34f.jpg"
+},
+{
+	"id": 4,
+	"name": "XEU 930 AM",
+	"location": "Mexico",
+	"url": "https://xeu.centrocibernetico.com/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "http://api.my-radios.com/images/thumb.php?countryCode=MX&name=16696-6284890.png&size=200"
+},
+{
+	"id": 3,
+	"name": "SJ 103.3 FM",
+	"location": "Mexico",
+	"url": "https://radio.rcg.com.mx/8004/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/cd/10/cd1093885b686bf7a3a761e799927265.jpg"
+},
+{
+	"id": 2,
+	"name": "Extremo Grupero",
+	"location": "Mexico",
+	"url": "https://s2.mexside.net/8158/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/9e/0e/9e0e6e19996b7fa45c6d54128dfa5298.jpg"
+},
+{
+	"id": 1,
+	"name": "Boom 104.7",
+	"location": "Mexico",
+	"url": "https://stream-164.zeno.fm/mgypyrbf5ottv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtZ3lweXJiZjVvdHR2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjFUMmp4M2s5VGJTTjJ0ZWlqLUZVanciLCJpYXQiOjE3MTkwMDg3ODYsImV4cCI6MTcxOTAwODg0Nn0.I701GmGzzSpg12PSMA0etW1UA9kXrEegS4_7vqis9As",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/54/f7/54f77e023d36a1671ebaa945704e381f.jpg"
+}]
