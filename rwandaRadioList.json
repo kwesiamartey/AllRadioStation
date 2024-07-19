@@ -1,0 +1,136 @@
+[
+{
+	"id": 1,
+	"name": "Radio Rwanda FM 100.7",
+	"location": "Rwanda ",
+	"url": "http://listen.rba.co.rw:8000/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-radiotime-logos.tunein.com/s16340g.png"
+},
+{
+	"id": 2,
+	"name": "Radio Maria Rwanda 97.3",
+	"location": "Rwanda ",
+	"url": "http://dreamsiteradiocp2.com:8098/stream/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://play-lh.googleusercontent.com/OtEoZLQW5Pv6rWMMMcEn9fcA95WJX3Sx_ywHAHuLugjzLutzdOGwWO9hYPD5sQb9gKDD"
+},
+{
+	"id": 3,
+	"name": "Radio Maria Rwanda 88.6",
+	"location": "Rwanda ",
+	"url": "http://dreamsiteradiocp2.com:8098/stream/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://play-lh.googleusercontent.com/OtEoZLQW5Pv6rWMMMcEn9fcA95WJX3Sx_ywHAHuLugjzLutzdOGwWO9hYPD5sQb9gKDD"
+},
+{
+	"id": 4,
+	"name": "Radio Flash FM 89.2",
+	"location": "Rwanda ",
+	"url": "http://80.241.215.175:7410/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://babitimes.com/wp-content/uploads/2020/04/RadioFlashFM89.2.png"
+},
+{
+	"id": 5,
+	"name": "Radio TV 10",
+	"location": "Rwanda ",
+	"url": "http://radio10-876fm.ice.infomaniak.ch/radio10-kigali.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-radiotime-logos.tunein.com/s177322g.png"
+},
+{
+	"id": 6,
+	"name": "Radio Isango Star",
+	"location": "Rwanda ",
+	"url": "http://80.241.215.175:8000/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://streamafrica-production.s3.af-south-1.amazonaws.com/rwanda-radio-isango-star-jVwNaf.jpg"
+},
+{
+	"id": 7,
+	"name": "Imbaraga Internet Radio",
+	"location": "Rwanda ",
+	"url": "http://66.55.145.43:7473/stream/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-radiotime-logos.tunein.com/s158151g.png"
+},
+{
+	"id": 8,
+	"name": "B&B FM",
+	"location": "Rwanda ",
+	"url": "https://eu7.fastcast4u.com/proxy/bbfm?mp=/1",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s281307/images/logod.png?t=637394998350000000"
+},
+{
+	"id": 9,
+	"name": "94.3 Royal FM",
+	"location": "Rwanda ",
+	"url": "http://80.241.215.175:3000/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s256635/images/logog.jpg?t=156933"
+},
+{
+	"id": 10,
+	"name": "KU Bright Fm",
+	"location": "Rwanda ",
+	"url": "http://stream.zeno.fm/00dfaapsmd0uv",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn.onlineradiobox.com/img/l/1/94811.v3.png"
+},
+{
+	"id": 11,
+	"name": "Hose Radio",
+	"location": "Rwanda ",
+	"url": "https://node-24.zeno.fm/ys02hune31zuv?rj-ttl=5&rj-tok=AAABd7IAodIA7ZdUFP6pUaIUvw",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static2.mytuner.mobi/media/tvos_radios/6z2vg8ujpnnf.jpg"
+},
+{
+	"id": 12,
+	"name": "Vision Radio 104.1FM",
+	"location": "Rwanda ",
+	"url": "https://edge.mixlr.com/channel/rhrep?listening-from-radio-garden=1692550596",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/ef/cc/efccfaac62500dd077ae05b2e94f9fa2.jpg"
+},
+{
+	"id": 13,
+	"name": "AM 970 KCFO - KCFO AM 970",
+	"location": "Rwanda ",
+	"url": "http://ice9.securenetsystems.net:80/KCFO",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-profiles.tunein.com/s31999/images/logog.jpg?t=158032"
+},
+{
+	"id": 14,
+	"name": "K-Wave Radio - FM 107.9",
+	"location": "Rwanda ",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/rwanda_webplayer/K-Wave Radio - KWVE-FM FM 107.9.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://static-media.streema.com/media/cache/58/d6/58d6bf85cba1010b12d2d34794503d3f.jpg"
+},
+{
+	"id": 15,
+	"name": "kiss fm radio rwanda Online",
+	"location": "Rwanda ",
+	"url": "https://kissfm-atunwadigital.streamguys1.com/kissfm",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://kissfm.rw/wp-content/uploads/2023/03/102.3-KISS-FM-LOGO-WHITE-68px.png"
+}]
