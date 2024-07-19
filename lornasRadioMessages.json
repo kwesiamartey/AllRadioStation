@@ -5,8 +5,10 @@
                     "status" : 200,
                     "title" : "Internet Connection.",
                     "body" : "To fully enjoy the app, a stable and strong internet connection is necessary for smooth radio streaming.",
-                    "others" : "", /*insert link here to open in the app*/
+                    //insert link here to open in the app
+                    "others" : "",
                      "Images" : "",
-                    "contact" : "" ,  /*"Download Radio Delight"*/
+                    //Download Radio Delight
+                    "contact" : "" ,
     },
 ]
