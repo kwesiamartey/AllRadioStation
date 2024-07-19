@@ -1,12 +1,12 @@
 [
    
     {
-                    "id" =>"com.lornamobileappsdev.moldova",
-                    "status" => 200,
-                    "title" => "Internet Connection.",
-                    "body" => "To fully enjoy the app, a stable and strong internet connection is necessary for smooth radio streaming.",
-                    "others" => "", //"https://play.google.com/store/apps/details?id=com.lornamobileappsdev.hit",//insert link here to open in the app
-                     "Images"=>"",
-                    "contact" =>"" ,  //"Download Radio Delight",
+                    "id" : "com.lornamobileappsdev.moldova",
+                    "status" : 200,
+                    "title" : "Internet Connection.",
+                    "body" : "To fully enjoy the app, a stable and strong internet connection is necessary for smooth radio streaming.",
+                    "others" : "", //"https://play.google.com/store/apps/details?id=com.lornamobileappsdev.hit",//insert link here to open in the app
+                     "Images" : "",
+                    "contact" : "" ,  //"Download Radio Delight",
     },
 ]
