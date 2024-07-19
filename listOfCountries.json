@@ -43,7 +43,7 @@
     },
     {
         "id": 1,
-        "name": "United State",
+        "name": "United States",
         "flag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkOFeS88SuTVfZl3UFMKMApgAnEv_Rv72CS5uSDDJ5Q4IETeBi513nK3d_W5h2M3Icgjw&usqp=CAU",
         "url": "unitedStateRadioList.json"
     },
