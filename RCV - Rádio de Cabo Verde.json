@@ -1,0 +1,81 @@
+[
+{
+	"id": 9,
+	"name": "RCV - R\u00e1dio de Cabo Verde.php",
+	"location": "Cape-Verde",
+	"url": "https://radios.vpn.sapo.pt/CV/radio7.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/6f/73/21281/c300.png",
+	"bit": "284k"
+},
+{
+	"id": 7,
+	"name": "Praia FM 94.1",
+	"location": "Cape-Verde",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/capeverde_webplayer/praia.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/68/3c/21349/c300.png",
+	"bit": "284k"
+},
+{
+	"id": 6,
+	"name": "Caboradio",
+	"location": "Cape-Verde",
+	"url": "https://listen.radioking.com/radio/281506/stream/327253",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/0c/ab/34041/3/c300.png",
+	"bit": "284k"
+},
+{
+	"id": 5,
+	"name": "Radio Famastar",
+	"location": "Cape-Verde",
+	"url": "http://sirius.shoutca.st:8527/stream/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/4e/37/21837/c300.png",
+	"bit": "284k"
+},
+{
+	"id": 4,
+	"name": "Young Radio",
+	"location": "Cape-Verde",
+	"url": "http://178.32.138.88:8050/;",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/2b/c1/23293/c300.png",
+	"bit": "284k"
+},
+{
+	"id": 3,
+	"name": "Woods Hit Radio Hot AC",
+	"location": "Cape-Verde",
+	"url": "https://stream-149.zeno.fm/z2rpt80t4mzuv?zs=bWqhHbWTSD60TZYrBfOwWw",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/37/91/18862/c300.png",
+	"bit": "284k"
+},
+{
+	"id": 2,
+	"name": "TKO 91.9 FM",
+	"location": "Cape-Verde",
+	"url": "http://centauri.shoutca.st:8300/stream",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/b5/27/17053/c300.png",
+	"bit": "284k"
+},
+{
+	"id": 1,
+	"name": "TD1 Radio",
+	"location": "Cape-Verde",
+	"url": "https://streaming.mbc.scot:8000/;stream.mp3/",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://www.radio.net/images/broadcasts/83/5b/12194/c300.png",
+	"bit": "284k"
+}]
