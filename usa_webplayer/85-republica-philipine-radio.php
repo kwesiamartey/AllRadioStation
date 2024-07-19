@@ -1,9 +1,0 @@
-<figure>
-    <figcaption>Listen to the 87.5 Republika FM1 - DWFOc:</figcaption>
-    <audio
-        controls
-        src="http://122.53.138.32:8000/dzrm.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
