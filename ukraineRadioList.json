@@ -1,0 +1,861 @@
+[
+{
+	"id": 1,
+	"name": "\u0425\u0456\u0442 FM Ukraine",
+	"location": "Kyiv Ukraine",
+	"url": "http://online.hitfm.ua/HitFM",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/xIzRlL4VpaeP-eFAhYVghdJtmv-hXFJVeocRG_htYZFuFrgyJUEiPwNRE0mxDk7ozCk",
+	"bit": "1k"
+},
+{
+	"id": 2,
+	"name": "POWER FM Ukraine",
+	"location": "Kyiv Ukraine",
+	"url": "http://cast.radiogroup.com.ua:8000/powerfm128",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 3,
+	"name": "NRJ Ukraine FM 92.8",
+	"location": "Kyiv Ukraine",
+	"url": "https://cast.radiogroup.com.ua/nrj",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 4,
+	"name": "Radio Maria Ukraine",
+	"location": "Kyiv Ukraine",
+	"url": "http://91.203.4.121:8000/stream64",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 5,
+	"name": "Radio Free Ukraine",
+	"location": "Zaporizhia Ukraine",
+	"url": "http://stream.zenolive.com/vn4r1hp339duv",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 6,
+	"name": "AvtoRadio FM 105.6",
+	"location": "Kherson Ukraine",
+	"url": "http://cast.radiogroup.com.ua:8000/avtoradio",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 7,
+	"name": "AvtoRadio FM 105.8",
+	"location": "Dneprel'stan Ukraine",
+	"url": "http://cast.radiogroup.com.ua:8000/avtoradio",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 8,
+	"name": "109 FM UKRAINE",
+	"location": "Ukraine",
+	"url": "http://radio.109fm.net:4360/radio",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 9,
+	"name": "\u0420\u0430\u0434\u0438\u043e \u0428\u0430\u043d\u0441\u043e\u043d FM 101.9",
+	"location": "Kyiv Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/\u0420\u0430\u0434\u0438\u043e_\u0428\u0430\u043d\u0441\u043e\u043d_FM_101.9.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 10,
+	"name": "Gala radio - FM 100 Kiev",
+	"location": "Kyiv Ukraine",
+	"url": "http://185.65.245.34:8000/kiev",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 11,
+	"name": "\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430 \u0425\u0432\u0438\u043b\u044f FM 100.8",
+	"location": "Lviv Ukraine",
+	"url": "http://onair.lviv.fm:8000/lviv.fm",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 12,
+	"name": "\u041d\u0430\u0448\u0435 \u0420\u0430\u0434\u0438\u043e \u041a\u0438\u0435\u0432 FM 107.9",
+	"location": "Kyiv Ukraine",
+	"url": "http://nashe.ipfm.net/NasheRadio",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 13,
+	"name": "\u0420\u0430\u0434\u0456\u043e \u041d\u0412 FM 96.0",
+	"location": "Kyiv Ukraine",
+	"url": "http://91.218.212.84:8000/radionv.mp3",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 14,
+	"name": "UR1 FM 68.51",
+	"location": "Kyiv Ukraine",
+	"url": "http://91.218.213.49:8000/ur1-mp3-m",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 15,
+	"name": "\u0410\u0432\u0442\u043e\u0440\u0430\u0434\u0456\u043e FM 107.4",
+	"location": "Kyiv Ukraine",
+	"url": "http://cast.radiogroup.com.ua:8000/avtoradio",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 16,
+	"name": "UR 3 Radio Kultura - UR 3 R Kultura",
+	"location": "Kyiv Ukraine",
+	"url": "http://radio.nrcu.gov.ua:8000/ur3-mp3",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 17,
+	"name": "GMG Radio UA",
+	"location": "Kyiv Ukraine",
+	"url": "http://s3.radio.co/s61213333a/listen",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 18,
+	"name": "\u0420\u0430\u0434\u0438\u043e \u041b\u044e\u043a\u0441FM FM 103.1",
+	"location": "Kyiv Ukraine",
+	"url": "http://icecast.luxnet.ua/lux_mp3",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 19,
+	"name": "MFM Station FM 91.2",
+	"location": "Kharkiv Ukraine",
+	"url": "http://radio.mfm.ua:8000/online128",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 20,
+	"name": "\u0420\u0430\u0434\u0438\u043e \u041b\u044e\u043a\u0441FM \u041b\u044c\u0432\u0456\u0432",
+	"location": "Lviv Ukraine",
+	"url": "http://icecast.luxnet.ua/luxlviv",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 21,
+	"name": "\u0420\u0430\u0434\u0438\u043e \u041e\u0431\u043e\u0437\u0440\u0435\u0432\u0430\u0442\u0435\u043b\u044c - \u041b\u0438\u0440\u0438\u043a\u0430 \u0428\u0430\u043d\u0441\u043e\u043d\u0430",
+	"location": "Vinnytsya Ukraine",
+	"url": "https://radio-stream-1.obozrevatel.com/shansonlyrics128.mp3",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 22,
+	"name": "\u0420\u0430\u0434\u0438\u043e \u041e\u0431\u043e\u0437\u0440\u0435\u0432\u0430\u0442\u0435\u043b\u044c - \u0420\u0435\u0442\u0440\u043e",
+	"location": "Vinnytsya Ukraine",
+	"url": "https://radio-stream-0.obozrevatel.com/retro128.mp3",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 23,
+	"name": "\u0420\u0430\u0434\u0438\u043e \u041e\u0431\u043e\u0437\u0440\u0435\u0432\u0430\u0442\u0435\u043b\u044c - \u041f\u0435\u0441\u043d\u0438 \u0412\u044b\u0441\u043e\u0446\u043a\u043e\u0433\u043e",
+	"location": "Vinnytsya Ukraine",
+	"url": "https://radio-stream-1.obozrevatel.com/pesni-vysockogo128.mp3",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 24,
+	"name": "\u0420\u0430\u0434\u0438\u043e \u041e\u0431\u043e\u0437\u0440\u0435\u0432\u0430\u0442\u0435\u043b\u044c - \u041c\u0443\u0437\u044b\u043a\u0430 \u041a\u0430\u0437\u0430\u043d\u0442\u0438\u043f\u0430",
+	"location": "Vinnytsya Ukraine",
+	"url": "https://radio-stream-0.obozrevatel.com/Kazantip128.mp3",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 25,
+	"name": "\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430 FM",
+	"location": "Lviv Ukraine",
+	"url": "http://stream320.galychyna.fm:8000/RadioPlayer",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 26,
+	"name": "\u0420\u0430\u0434\u0438\u043e \u041e\u0431\u043e\u0437\u0440\u0435\u0432\u0430\u0442\u0435\u043b\u044c - \u0410\u0432\u0442\u043e\u0440\u0441\u043a\u0430\u044f \u041f\u0435\u0441\u043d\u044f",
+	"location": "Vinnytsya Ukraine",
+	"url": "https://radio-stream-1.obozrevatel.com/bard128.mp3",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 26,
+	"name": "Radio Trek 106.4 FM",
+	"location": "Rivne Ukraine",
+	"url": "http://online2.radiotrek.rv.ua:8000/MP3_128",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 27,
+	"name": "\u0420\u0430\u0434\u0456\u043e \u041a\u0430\u043b\u0443\u0448 FM",
+	"location": "Ivano-Frankivsk Ukraine",
+	"url": "http://195.182.22.130:8000/Streamogg",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 28,
+	"name": "Jam FM 95.6",
+	"location": "Kyiv Ukraine",
+	"url": "http://cast.radiogroup.com.ua:8000/jamfm",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 29,
+	"name": "Party Hit Radio",
+	"location": "Kyiv Ukraine",
+	"url": "http://partyhitradio.com:8000/;",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 30,
+	"name": "DJFM FM 96.8",
+	"location": "Dnipro Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/DJFM.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 31,
+	"name": "\u0420\u0430\u0434\u0456\u043e \u041d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u0456\u0441\u0442\u044c FM 106.7",
+	"location": "Dnipro Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/\u0420\u0430\u0434\u0456\u043e.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 32,
+	"name": "\u041f\u0440\u043e\u0441\u0442\u043e \u0420\u0430\u0434\u0438\u043e \u041e\u0434\u0435\u0441\u0441\u0430 FM 105.3",
+	"location": "Odessa Ukraine",
+	"url": "http://62.80.190.246:8000/PRK128",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 33,
+	"name": "\u0425\u0456\u0442FM FM 105.7",
+	"location": "Bila Tserkva Ukraine",
+	"url": "http://195.95.206.17/HitFM",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 34,
+	"name": "\u041f\u0435\u0440\u0435\u0446 \u0424\u041c FM 105.5",
+	"location": "kyiv Ukraine",
+	"url": "http://radio.stilnoe.fm:8080/radio-stilnoe",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 35,
+	"name": "\u0420\u0430\u0434\u0456\u043e \u0414\u0436\u0430\u0437 FM 104.6",
+	"location": "kyiv Ukraine",
+	"url": "http://online.radiojazz.ua/RadioJazz",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 36,
+	"name": "\u041f\u0440\u043e\u0441\u0442\u043e \u0420\u0430\u0434\u0438\u043e \u041a\u0438\u0435\u0432",
+	"location": "kyiv Ukraine",
+	"url": "http://62.80.190.246:8000/PRK128",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 37,
+	"name": "\u041c\u0435\u043b\u043e\u0434\u0456\u044f FM 107.9",
+	"location": "Kharkiv Ukraine",
+	"url": "http://online.melodiafm.ua/MelodiaFM",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 38,
+	"name": "\u0422\u0432\u043e\u0454 \u0420\u0430\u0434\u0456\u043e FM 101.4",
+	"location": "Lviv Ukraine",
+	"url": "http://91.200.114.254:8048/;",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 39,
+	"name": "NRJ \u0416\u0438\u0442\u043e\u043c\u0438\u0440 FM 107.3",
+	"location": "Zhytomyr Ukraine",
+	"url": "https://cast.radiogroup.com.ua/nrj",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 40,
+	"name": "\u0420\u0430\u0434\u0438\u043e \u0412\u0415\u0416\u0410 FM 107.0",
+	"location": "Ivano-Frankivsk Ukraine",
+	"url": "http://listen6.myradio24.com/69829",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 41,
+	"name": "\u0425\u0456\u0442FM FM 105.7",
+	"location": "Bila Tserkva Ukraine",
+	"url": "http://195.95.206.17/HitFM",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 42,
+	"name": "Western Pole Radio FM 104.3",
+	"location": "Igorevka Ukraine",
+	"url": "http://online.1043.com.ua:8000/1043fm",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 43,
+	"name": "\u0420\u0430\u0434\u0438\u043e \u041c\u043e\u0440\u0435 FM 100.6",
+	"location": "\u0421\u0438\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b\u044c Simferopol Ukraine",
+	"url": "http://sea.1tvcrimea.ru:9003/stream_sea.mp3",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 44,
+	"name": "\u0420\u0430\u0434\u0438\u043e \u041a\u0440\u044b\u043c FM 100.1",
+	"location": "\u0421\u0438\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b\u044c Simferopol Ukraine",
+	"url": "http://fm.1tvcrimea.ru:8000/stream.mp3",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 45,
+	"name": "\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0442\u043e FM 107.3",
+	"location": "Dnipro Ukraine",
+	"url": "http://main.inf.fm:9101/;;",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 46,
+	"name": "\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0442\u044f FM 101.9",
+	"location": "Mukachevo Ukraine",
+	"url": "http://195.234.148.51:8000/;;",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 47,
+	"name": "MFM 104.1",
+	"location": "Donetskoye Ukraine",
+	"url": "http://radio.mfm.ua:8000/online128",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 48,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e \u041b\u0442\u0430\u0432\u0430 FM 101.8",
+	"location": "Poltava Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/\u041b\u0442\u0430\u0432\u0430.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 49,
+	"name": "Blysk FM 106.6",
+	"location": "Chernivtsi Ukraine",
+	"url": "http://online.blysk.com.ua:8000/128",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 50,
+	"name": "\u0413\u0440\u043e\u043c\u0430\u0434\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e FM 99.4",
+	"location": "Kyiv Ukraine",
+	"url": "http://91.218.212.67:8000/stream",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 51,
+	"name": "\u0421\u0442\u0440\u0438\u0439 FM 101.0",
+	"location": "Stryi Ukraine",
+	"url": "http://online.fm.stryi.com:8000/stryi-fm_mp3",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 52,
+	"name": "\u0420\u0430\u0434\u0456\u043e \u0425\u0432\u0438\u043b\u044f \u0433\u0456\u0440 FM 106.2",
+	"location": "Dolyna Ukraine",
+	"url": "http://radio.inet.kim:8000/;",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 53,
+	"name": "\u0420\u0430\u0434\u0456\u043e \u0422\u0410\u041a\u0422 FM 103.7\u0420\u0430\u0434\u0438\u043e \u0422\u0435\u0440\u0440\u0430 FM 104.6",
+	"location": "Vinnytsia Ukraine",
+	"url": "http://radiotakt.com.ua:8000/takt.mp3",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 54,
+	"name": "\u0420\u0430\u0434\u0456\u043e \u041c\u0456\u0441\u0442\u043e \u041d\u0430\u0434 \u0411\u0443\u0433\u043e\u043c FM 101.8",
+	"location": "Vinnytsia Ukraine",
+	"url": "https://stream.mistonadbugom.com.ua/radiomistonadbugom",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 55,
+	"name": "\u0420\u0430\u0434\u0456\u043e \u041f\u0415\u0420\u0428\u0415 FM 88.2",
+	"location": "Lviv Ukraine",
+	"url": "https://live.radiopershe.com/liveradio",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 56,
+	"name": "\u0420\u0430\u0434\u0438\u043e \u0410\u0432\u0435\u0440\u0441 FM 100.9",
+	"location": "Lutsk Ukraine",
+	"url": "https://top.radiosolo.ru/radio/avers/icecast.audio",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 57,
+	"name": "\u0420\u0430\u0434\u0456\u043e \u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430 FM 97.6",
+	"location": "Kyiv Ukraine",
+	"url": "http://radio.ukr.radio:8000/ur3-aacplus-l",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 58,
+	"name": "\u0420\u0430\u0434\u0456\u043e \u041f\u0440\u043e\u043c\u0456\u043d\u044c FM 97.2",
+	"location": "Kyiv Ukraine",
+	"url": "http://radio.ukr.radio:8000/ur2-aacplus-l",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 59,
+	"name": "\u0422\u0438\u0441\u0430 FM 103.0",
+	"location": "Uzhhorod Ukraine",
+	"url": "http://radio.ukr.radio:8000/tysafm-aacplus",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 60,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e \u0423\u0436\u0433\u043e\u0440\u043e\u0434 FM 107.2",
+	"location": "Uzhhorod Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/\u0423\u0436\u0433\u043e\u0440\u043e\u0434.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 61,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e \u0420\u043e\u0441\u044c FM 91.4",
+	"location": "Cherkasy Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/\u0420\u043e\u0441\u044c.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 62,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e \u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432\u0441\u044c\u043a\u0430 \u0445\u0432\u0438\u043b\u044f FM 98.2",
+	"location": "Chernihiv Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/\u0445\u0432\u0438\u043b\u044f.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 63,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e \u0427\u0435\u0440\u043d\u0456\u0432\u0446\u0456 FM 91.8",
+	"location": "Chernivtsi Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/\u0427\u0435\u0440\u043d\u0456\u0432\u0446\u0456.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 64,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e \u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c FM 87.7",
+	"location": "Ternopil Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 65,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e \u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432 FM 92.0",
+	"location": "Mykolaiv Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 66,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e \u041b\u0443\u0446\u044c\u043a FM 88.3",
+	"location": "Lutsk Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/s\u041b\u0443\u0446\u044c\u043a.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 67,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e \u041b\u044c\u0432\u0456\u0432 FM 103.3",
+	"location": "Lviv Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/\u041b\u044c\u0432\u0456\u0432.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 68,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e \u0413\u043e\u043b\u043e\u0441 \u0414\u043e\u043d\u0431\u0430\u0441\u0443 FM 88.0",
+	"location": "Mariupol Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/\u0414\u043e\u043d\u0431\u0430\u0441\u0443.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 69,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e \u041f\u043e\u0434\u0456\u043b\u043b\u044f-\u0426\u0435\u043d\u0442\u0440 FM 104.6",
+	"location": "Khmelnytskyi Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/\u0426\u0435\u043d\u0442\u0440.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 70,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e \u041a\u0440\u043e\u043f\u0438\u0432\u043d\u0438\u0446\u044c\u043a\u0438\u0439 FM 91.2",
+	"location": "Kropyvnytskyi Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/\u041a\u0440\u043e\u043f\u0438\u0432\u043d\u0438\u0446\u044c\u043a\u0438\u0439.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 71,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e \u041a\u0430\u0440\u043f\u0430\u0442\u0438 FM 100.4",
+	"location": "Ivano-Frankivsk Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/\u041a\u0430\u0440\u043f\u0430\u0442\u0438.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 72,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e \u0417\u0430\u043f\u043e\u0440\u0456\u0436\u0436\u044f FM 103.7",
+	"location": "Zaporizhzhya Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/\u0417\u0430\u043f\u043e\u0440\u0456\u0436\u0436\u044f.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 73,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e \u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430 \u0445\u0432\u0438\u043b\u044f FM 103.4",
+	"location": "Zhytomyr Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/\u0445\u0432\u0438\u043b\u044fs.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 72,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e. \u0414\u043d\u0456\u043f\u0440\u043e (\u041a\u0440\u0438\u0432\u0438\u0439 \u0420\u0456\u0433) FM 90.4",
+	"location": "Kryvyi Rih Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/\u0414\u043d\u0456\u043f\u0440\u043e.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 73,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e \u0414\u043d\u0456\u043f\u0440\u043e FM 87.5",
+	"location": "Dnipro Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/\u0440\u0430\u0434\u0456\u043e\u0414\u043d\u0456\u043f\u0440\u043e.php",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 74,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e \u0412\u0456\u043d\u043d\u0438\u0446\u044f FM 88.6",
+	"location": "Vinnytsia Ukraine",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/ukraine_webplayer/\u0412\u0456\u043d\u043d\u0438\u0446\u044f.php",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 75,
+	"name": "\u041a\u0440\u0430\u0457\u043d\u0430 \u0424\u041c FM 100.0",
+	"location": "Kyiv Ukraine",
+	"url": "http://185.65.246.132:8000/kiev128m.mp3",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 76,
+	"name": "\u0420\u0430\u0434\u0438\u043e \u041f\u044f\u0442\u043d\u0438\u0446\u0430 FM 101.1",
+	"location": "Kyiv Ukraine",
+	"url": "http://radio.ukr.radio:8000/ur1-cr-aacplus-l",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 77,
+	"name": "ARMY FM 94.6",
+	"location": "Kyiv Ukraine",
+	"url": "https://icecast.armyfm.com.ua:8443/ArmyFM",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 77,
+	"name": "\u0420\u0430\u0434\u0438\u043e \u041f\u044f\u0442\u043d\u0438\u0446\u0430 FM 101.1",
+	"location": "Kyiv Ukraine",
+	"url": "http://radio.ukr.radio:8000/ur1-cr-aacplus-l",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 78,
+	"name": "\u0424\u043e\u0440\u043c\u0430\u0442 FM 88.3",
+	"location": "Kyiv Ukraine",
+	"url": "https://radioformat.pp.ua/radio1",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 79,
+	"name": "Northern Community Radio - K210DR FM 89.9",
+	"location": "Brainerd Ukraine",
+	"url": "http://live.str3am.com:2750/kaxe",
+	"added": 0,
+	"web": "false",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 80,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e \u041e\u0434\u0435\u0441\u0430 FM 91.4",
+	"location": "Odessa Ukraine",
+	"url": "http://radio.ukr.radio:8000/ur1-od-aacplus",
+	"added": 0,
+	"web": "true",
+	"logo": "https://play-lh.googleusercontent.com/7ZS7UL6v_DnNSjWZIKOs6mPyseK13KMFjeTawx6CrI-msARVh_Zl_M9ZYAiu2s7lsg=w240-h480-rw",
+	"bit": "1k"
+},
+{
+	"id": 81,
+	"name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0435 \u0440\u0430\u0434\u0456\u043e \u041e\u0434\u0435\u0441\u0430 FM 91.4",
+	"location": "Odessa Ukraine",
+	"url": "http://radio.ukr.radio:8000/ur1-od-aacplus",
+	"added": 0,
+	"web": "true",
+	"logo": "https://static-media.streema.com/media/cache/9a/70/9a708902441b898c9cb4904764557c84.jpg",
+	"bit": "1k"
+},
+{
+	"id": 82,
+	"name": "\u0420\u0430\u0434\u0438\u043e \u0422\u0435\u0440\u0440\u0430 FM 104.6",
+	"location": "Lozova Ukraine",
+	"url": "http://134.249.255.98:8000/128",
+	"added": 0,
+	"web": "false",
+	"logo": "https://impuls.kh.ua/images/stories/radio/lozovaya_radio_terra.jpg",
+	"bit": "1k"
+}]
