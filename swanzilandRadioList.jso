@@ -1,0 +1,71 @@
+[
+{
+	"id": 1,
+	"name": "Hala Radio",
+	"location": "Swaziland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/swanzy_webplayer/Hala Radio.php",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://liveonlineradio.net/wp-content/uploads/2021/10/Hala-Radio-220x108.webp",
+	"bit": "1k"
+},
+{
+	"id": 2,
+	"name": "TWR Africa",
+	"location": "Swaziland",
+	"url": "http://iceant.antfarm.co.za:8000/TWR",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://cdn-radiotime-logos.tunein.com/s181786g.png",
+	"bit": "1k"
+},
+{
+	"id": 3,
+	"name": "Jelele",
+	"location": "Swaziland",
+	"url": "https://jelele.com/my_gazi/uploads/2020/12/Gonyo-King-SIso.mp3",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/8f/e0/bb/8fe0bbe3-ad22-6225-b2da-0ec0f0ec7e25/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+	"bit": "1k"
+},
+{
+	"id": 5,
+	"name": "WillyBamz Top Stereo",
+	"location": "Swaziland",
+	"url": "https://stream.zeno.fm/faytrwug8yzuv",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://mytunein.com/images/logos/willybamztopstereo.jpg",
+	"bit": "1k"
+},
+{
+	"id": 6,
+	"name": "Radio Carrum",
+	"location": "Swaziland",
+	"url": "http://streams.radio.co/s7dbbf9f9f/listen",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://play-lh.googleusercontent.com/fBOAFoUPU26kzJhlSiFfBQvUg7yjGNMo8LugcfnecU0-WX_HacAoDLreUzCAsxT_AJQ",
+	"bit": "1k"
+},
+{
+	"id": 7,
+	"name": "Tzgospel swahili",
+	"location": "Swaziland",
+	"url": "http://streams.radio.co/s7dbbf9f9f/listen",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://big-radio.net/uploads/posts/2022-06/tzgospel-swahili.webp",
+	"bit": "1k"
+},
+{
+	"id": 8,
+	"name": "Voice of the Church FM - FM 97.1",
+	"location": "Swaziland",
+	"url": "https://lornamobileappsdev.uk/lornamobileappsdev/mobileAppsWebsite_playstore/swanzy_webplayer/Voice of the Church FM - FM 97.1.php",
+	"added": 0,
+	"web": "false",
+	"logo": "https://static-media.streema.com/media/cache/0b/0c/0b0ce53cf3b50183cd7df909d181c944.jpg",
+	"bit": "24k"
+}]
