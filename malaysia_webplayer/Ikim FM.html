@@ -1,0 +1,33 @@
+<div style="margin-bottom:10px;">
+<script src="https://cdn.fluidplayer.com/v3/current/fluidplayer.min.js"></script>
+<video id="video-id"><source src="https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=6466a3fd007c934c_16847858_NUd6k2i1_MTAzLjIxLjgxLjM6ODA!_000000nTwUG&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE3MDEyOTYwNjcsImV4cCI6MTcwMTM4MjQ2N30.pAMHLoH07wflHt-42BqZ8OyUJEjJJXlH8DRB4u4VCUM&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=1701296075067_0.8437382675649586" type="application/x-mpegURL" />
+<script>
+var myFP = fluidPlayer(
+  'video-id', {
+    "layoutControls": {
+      "controlBar": {
+        "autoHideTimeout": 3,
+        "autoHide": true
+      },
+      "autoPlay": true,
+      "mute": false,
+      "allowTheatre": true,
+      "playButtonShowing": true,
+      "fillToContainer": true,
+      "posterImage": ""
+    },
+    "vastOptions": {
+      allowVPAID: true, // Default false.
+      adList: [
+        {
+        roll: 'preRoll',
+       // vastTag: 'https://pubads.g.doubleclick.net/gampad/live/ads?iu=/5441089/live_video&description_url=https%3A%2F%2Ficanlive.tv%2Flive%2F13992%2Fsharjah-tv.html&tfcd=0&npa=0&sz=400x300&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator='
+//        vastTag: 'https://www.videosprofitnetwork.com/watch.xml?key=3530dd5681eee348bd07bd824df1eef7&custom=%7B%27width%27%3A%27400%27%2C%27height%27%3A%27300%27%7D&cb=55443596720912605&vastref=https%3A%2F%2Ficanlive.tv%2Flive%2F13992%2Fsharjah-tv.html'
+        },
+      ]
+    }
+});
+</script>
+</div>
+
+

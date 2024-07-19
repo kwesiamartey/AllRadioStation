@@ -1,0 +1,52 @@
+<!--<!DOCTYPE html>
+<html>
+<head>
+  <title>M3U8 Video Player</title>
+  
+  <style>
+      body{ 
+          max-width: max-content;
+          margin:40px auto;
+      }
+      
+  </style>
+  
+</head>
+<body >
+  <video id="videoPlayer" controls autoplay >
+    Your browser does not support the video tag.
+  </video>
+
+  <script>
+    const videoElement = document.getElementById("videoPlayer");
+    const m3u8Url = "https://mediaprima.rastream.com/mediaprima-flyfm.web.hls/playlist.m3u8?listeningSessionID=64663cff008c63c8_8148256_uXxsfHsI_MTAzLjIxLjgxLjk6ODA!_000000btgd2&downloadSessionID=0&listenerid=&playerid=FlyFM_WebPlayer&setLanguage=true&lan=%5B%22en%22%5D&awparams=companionads%3Atrue%3Bstationid%3Amediaprima-flyfm%3Btags%3Awebplayer%3Btags%3Ampawebplayer%3B&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTI2NTY0NTAsImlhdCI6MTY5MjU3MDA1MCwib2lkIjoibWVkaWFwcmltYSJ9.m35-MowBcWKiya2g2mnv-0mjEIuRdzqlPhf6Qm_Wg-I&lat=5.6037168&lon=-0.1869644";
+
+    // Set the source of the video element to the M3U8 URL
+    videoElement.src = m3u8Url;
+
+    // Handle errors in case the video cannot be loaded or played
+    videoElement.addEventListener("error", (event) => {
+      console.error("Video playback error:", event);
+    });
+  </script>
+</body>
+</html>-->
+
+
+<Html>
+    
+       <body>
+       
+             <h5 style='text-align: center;'>
+                 <img src='https://structuredappsstreaming.win/9186eb0e475eeff5c6856e8ed43eb31e_w200.gif' alt='Girl in a jacket' width='100' height='100'/>
+             </h5>
+        
+             <h5 style='text-align: center;'>
+              <audio controls
+                     src='https://mediaprima.rastream.com/mediaprima-flyfm' type="audio/mpeg">
+                     Your browser does not support the
+              <code>audio</code> element.
+               </audio>
+             </h5>
+       </body>
+</Html>
