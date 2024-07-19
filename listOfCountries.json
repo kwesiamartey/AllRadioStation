@@ -1,34 +1,5 @@
 [
-   <!---{
-        "id": 1,
-        "name": "West Virginia",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flag_of_West_Virginia.svg/1280px-Flag_of_West_Virginia.svg.png",
-        "url": "WestVirginiaRadioList.json"
-    },
-    {
-        "id": 1,
-        "name": "Arkansas",
-        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Arkansas.svg/1200px-Flag_of_Arkansas.svg.png",
-        "url": "Arkansas.json"
-    },
-    {
-        "id": 1,
-        "name": "Arizona",
-        "flag": "https://media.istockphoto.com/id/494260499/vector/arizona-grunge-flag.jpg?s=612x612&w=0&k=20&c=iAqXpu2SJLarujI-EZ691E9bQXzhnoyUlk-NPlDkWqk=",
-        "url": "ArizonaRadioList.json"
-    },
-    {
-        "id": 1,
-        "name": "Alaska",
-        "flag": "https://b3.net/cdn/shop/products/33521_back.gif?v=1571661584",
-        "url": "AlaskaRadioList.json"
-    },
-    {
-        "id": 1,
-        "name": "WYOming",
-        "flag": "https://static.wikia.nocookie.net/vexillology/images/0/01/Proposed_Flag_of_WY_Andy_Rash.jpg/revision/latest?cb=20121226224734",
-        "url": "WYOmingRadioList.json"
-    },--->
+   
     {
         "id": 1,
         "name": "Dubai (UAE)",
