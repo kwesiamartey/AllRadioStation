@@ -651,7 +651,7 @@
 	"id": 73,
 	"name": "RFI Rom\u00e2nia live",
 	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/RFI Rom\u00e2nia live.html",
+	"url": "http://live.radiobucovina.ro:8000/;",
 	"added": 0,
 	"web": "wep",
 	"logo": "https://static2.mytuner.mobi/media/tvos_radios/aq3JDcW3QX.png"
