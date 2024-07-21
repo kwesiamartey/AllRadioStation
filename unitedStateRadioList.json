@@ -18,7 +18,15 @@
         
         
         
-
+         {
+            "id": 686,
+            "name": "KCFR- Colorado Public Radio News 90.1 FM",
+            "location": "Colorado,United State ",
+            "url": "https://stream1.cprnetwork.org/cpr1_lo",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/65/2a/25003/c300.png"
+        },
         {
             "id": 685,
             "name": "KBUT - Community Radio 90.3 FM",
