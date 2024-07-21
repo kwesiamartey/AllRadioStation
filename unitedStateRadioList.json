@@ -17,7 +17,15 @@
 
         
         
-        
+          {
+            "id": 687,
+            "name": "Fort Lewis College Community Radio 91.9 FM",
+            "location": "Colorado,United State ",
+            "url": "https://kdurradio.fortlewis.edu/stream",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/5f/0a/25059/1/c300.png"
+        },
          {
             "id": 686,
             "name": "KCFR- Colorado Public Radio News 90.1 FM",
