@@ -65,7 +65,7 @@
 
 
         {
-            "id": 691,
+            "id": 690,
             "name": "KOA 850 AM & 94.1 FM",
             "location": "Colorado,United State ",
             "url": "https://ca3.rcast.net:8038/stream",
@@ -73,18 +73,6 @@
             "web": "wep",
             "logo": "https://www.radio.net/images/broadcasts/6d/be/185968/4/c300.png"
         },
-
-        {
-            "id": 690,
-            "name": "KOA 850 AM & 94.1 FM",
-            "location": "Colorado,United State ",
-            "url": "https://stream.revma.ihrhls.com/zc389",
-            "added": 0,
-            "web": "wep",
-            "logo": "https://www.radio.net/images/broadcasts/6d/be/185968/4/c300.png"
-        },
-        
-
         {
             "id": 689,
             "name": "Sanctuary Radio Retro 80s",
