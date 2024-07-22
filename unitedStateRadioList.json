@@ -60,7 +60,15 @@
 
         
 
-        
+        {
+            "id": 693,
+            "name": "KXPK La Tricolor 96.5 FM",
+            "location": "Colorado,United State ",
+            "url": "https://27153.live.streamtheworld.com/KXPKFMAAC_SC",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/b2/c4/172779/1/c300.png"     
+        },
         {
             "id": 692,
             "name": "KVOD Colorado Public Radio Classical 88.1 FM",
