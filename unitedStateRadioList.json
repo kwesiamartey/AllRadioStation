@@ -57,7 +57,15 @@
 
 
 
-
+         {
+            "id": 696,
+            "name": "KDNK - Community Radio 88.1 FM",
+            "location": "Colorado,United State ",
+            "url": "https://kdnk.streamguys1.com/live",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/bb/83/25030/1/c300.png"     
+        }, 
         {
             "id": 695,
             "name": "Altitude Sports Radio",
