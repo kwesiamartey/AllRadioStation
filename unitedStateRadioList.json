@@ -61,7 +61,15 @@
 
 
         
-
+        {
+            "id": 692,
+            "name": "KVOD Colorado Public Radio Classical 88.1 FM",
+            "location": "Colorado,United State ",
+            "url": "https://stream1.cprnetwork.org/cpr2_lo",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/dd/f3/172512/1/c300.png"
+        },
 
         {
             "id": 691,
