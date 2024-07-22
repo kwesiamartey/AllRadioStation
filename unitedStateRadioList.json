@@ -59,7 +59,15 @@
 
 
         
-
+        {
+            "id": 694,
+            "name": "KKMG Magic FM 98.9",
+            "location": "Colorado,United State ",
+            "url": "https://kwesiamartey.github.io/AllRadioStation/unitedState_webplayer/KKMG Magic FM 98.9.html",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/05/f5/172291/1/c300.png"     
+        },
         {
             "id": 693,
             "name": "KXPK La Tricolor 96.5 FM",
