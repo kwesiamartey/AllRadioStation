@@ -58,7 +58,15 @@
 
 
 
-        
+        {
+            "id": 695,
+            "name": "Altitude Sports Radio",
+            "location": "Colorado,United State ",
+            "url": "https://kwesiamartey.github.io/AllRadioStation/unitedState_webplayer/Altitude Sports Radio.html",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/5c/82/172296/1/c300.png"     
+        }, 
         {
             "id": 694,
             "name": "KKMG Magic FM 98.9",
