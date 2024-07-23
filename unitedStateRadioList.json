@@ -31,7 +31,15 @@
 
 
 
-
+         {
+            "id": 713,
+            "name": "FYST RADIO",
+            "location": "Colorado,United State ",
+            "url": "https://stream-153.zeno.fm/aypxxtc6bzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJheXB4eHRjNmJ6enV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ijh5dlhTT0N1U2R1Q21jdjY2M2o1alEiLCJpYXQiOjE3MjE3NzcwMzEsImV4cCI6MTcyMTc3NzA5MX0.rare9HQjiFzPeVTDVQNP_04xO3MkQ3zH5m450zEp2ug",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/00/b8/185653/1/c300.png"     
+        },
 
          {
             "id": 712,
