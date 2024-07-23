@@ -35,7 +35,15 @@
 
 
 
-
+        {
+            "id": 710,
+            "name": "KAFM - 88.1 FM",
+            "location": "Colorado,United State ",
+            "url": "https://audio-edge-3mayu.fra.h.radiomast.io/10822f41-b0b3-4430-809f-9c22cf5c990f",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/ad/40/25014/c300.png"     
+        },
 
         {
             "id": 709,
