@@ -40,9 +40,17 @@
 
 
 
-
+ {
+            "id": 707,
+            "name": "Candid Radio Colorado",
+            "location": "Colorado,United State ",
+            "url": "https://stream-151.zeno.fm/7rmpask8yy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3cm1wYXNrOHl5OHV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkNDZHptT1hxUVhtQjZiVGNIYU1sSEEiLCJpYXQiOjE3MjE3NjU2OTQsImV4cCI6MTcyMTc2NTc1NH0.Pj_7i9Uj1sUgZjQCcfvHbkkY175LrBKoHClI6KK1PPA",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/3d/83/177924/1/c300.png"     
+        },
         {
-            "id": 705,
+            "id": 706,
             "name": "KVOR News Radio 740 AM",
             "location": "Colorado,United State ",
             "url": "https://22973.live.streamtheworld.com/KVORAMAAC_SC",
