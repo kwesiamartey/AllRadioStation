@@ -48,7 +48,15 @@
 
 
 
-
+        {
+            "id": 702,
+            "name": "CPR - Colorado Public Radio News",
+            "location": "Colorado,United State ",
+            "url": "https://stream1.cprnetwork.org/cpr1_lo",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/63/92/31163/1/c300.png"     
+        },
         {
             "id": 701,
             "name": "Los 80s Hit Clasicos",
