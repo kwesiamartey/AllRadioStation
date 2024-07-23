@@ -38,9 +38,17 @@
 
 
 
+        {
+            "id": 708,
+            "name": "KCKK - Mile High Sports - 1510 AM",
+            "location": "Colorado,United State ",
+            "url": "https://www.streamcontrol.net:8444/s/12230",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/80/b1/25004/c300.png"     
+        },
 
-
- {
+        {
             "id": 707,
             "name": "Candid Radio Colorado",
             "location": "Colorado,United State ",
