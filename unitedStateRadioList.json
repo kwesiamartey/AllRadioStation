@@ -49,8 +49,16 @@
 
 
 
-        
- {
+        {
+            "id": 701,
+            "name": "Los 80s Hit Clasicos",
+            "location": "Colorado,United State ",
+            "url": "https://stream-170.zeno.fm/r26hd9dbvnhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyMjZoZDlkYnZuaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlY5WXh4VUxJUzhTZnc1Q2VlNENhRVEiLCJpYXQiOjE3MjE3NTMxODUsImV4cCI6MTcyMTc1MzI0NX0.-me0LSApG6PEpZ6oHDzc5s_FAL0b-LgP8YZVlhEf1Ek&rj-tok=AAABgT1-AUEAhLa_NB246um9qA&rj-ttl=5",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/d2/47/145384/1/c300.png"     
+        },
+         {
             "id": 700,
             "name": "KIMN - Mix 100 100.3 FM",
             "location": "Colorado,United State ",
