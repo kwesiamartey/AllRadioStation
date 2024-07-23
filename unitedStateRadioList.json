@@ -46,7 +46,15 @@
 
 
 
-
+         {
+            "id": 703,
+            "name": "Classic Christian Rock Radio",
+            "location": "Colorado,United State ",
+            "url": "https://mercury.reliastream.com/proxy/classic1?mp=/stream",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/3c/90/120653/4/c300.png"     
+        },
 
         {
             "id": 702,
