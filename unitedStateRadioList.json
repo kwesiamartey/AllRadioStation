@@ -28,7 +28,15 @@
 
 
 
-
+           {
+            "id": 715,
+            "name": "Shofar FM",
+            "location": "Colorado,United State ",
+            "url": "https://cp12.shoutcheap.com:18030/;",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/39/16/120189/1/c300.png"     
+        },
          {
             "id": 714,
             "name": "KKNN - 95 Rock FM Radio",
