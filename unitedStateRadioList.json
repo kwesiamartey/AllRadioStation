@@ -41,7 +41,15 @@
 
 
 
-
+        {
+            "id": 705,
+            "name": "KVOR News Radio 740 AM",
+            "location": "Colorado,United State ",
+            "url": "https://22973.live.streamtheworld.com/KVORAMAAC_SC",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/d8/35/172723/1/c300.png"     
+        },
          {
             "id": 705,
             "name": "Crim Radio",
