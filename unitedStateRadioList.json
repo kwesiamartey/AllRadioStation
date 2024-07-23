@@ -37,7 +37,15 @@
 
 
 
-
+        {
+            "id": 709,
+            "name": "KGHT Hot 100.5 FM",
+            "location": "Colorado,United State ",
+            "url": "https://ice7.securenetsystems.net/KGHT",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/c1/66/175450/1/c300.png"     
+        },
         {
             "id": 708,
             "name": "KCKK - Mile High Sports - 1510 AM",
