@@ -56,7 +56,15 @@
 
 
 
-
+         {
+            "id": 697,
+            "name": "KRCC - Radio Colorado College 91.7 FM",
+            "location": "Colorado,United State ",
+            "url": "https://streams.krcc.org/krcc_mp3",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/2f/b5/25061/1/c300.png"     
+        }, 
          {
             "id": 696,
             "name": "KDNK - Community Radio 88.1 FM",
