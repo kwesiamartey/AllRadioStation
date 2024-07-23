@@ -33,7 +33,15 @@
 
 
 
-
+         {
+            "id": 712,
+            "name": "KUNC",
+            "location": "Colorado,United State ",
+            "url": "https://ais-sa1.streamon.fm/7890_96k.aac?uuid=z1dti2sm",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/b1/93/129487/1/c300.png"     
+        },
         {
             "id": 711,
             "name": "ESPN - 1230 AM",
