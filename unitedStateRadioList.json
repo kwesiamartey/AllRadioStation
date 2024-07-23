@@ -53,7 +53,15 @@
 
 
 
-
+         {
+            "id": 699,
+            "name": "KRDO 105.5",
+            "location": "Colorado,United State ",
+            "url": "https://ice6.securenetsystems.net/KRDO",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://th.bing.com/th/id/OIP.39SNVrGs-NtsWjQPc-SkUgAAAA?rs=1&pid=ImgDetMain"     
+        },
          {
             "id": 698,
             "name": "KUVO - Jazz",
