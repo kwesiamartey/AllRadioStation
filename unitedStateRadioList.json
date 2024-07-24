@@ -9,9 +9,17 @@
 
 
 
+          {
+            "id": 724,
+            "name": "Radio Tel",
+            "location": "Washington DC,United State ",
+            "url": "https://stream-175.zeno.fm/6dg68p5vgrhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2ZGc2OHA1dmdyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImptQzktRFlTVE8yN0RtUDYzcjhLWGciLCJpYXQiOjE3MjE3ODc0NDAsImV4cCI6MTcyMTc4NzUwMH0.m87KSmZ7kwryURAFBlaSKkZe9LlOmBexuu_TNIe2ah8",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://th.bing.com/th/id/OIP.BPH_f_zG2jrDlDhJeWMJuAHaHa?rs=1&pid=ImgDetMain"     
+        },
 
-
- {
+        {
             "id": 723,
             "name": "Voz de AMérica",
             "location": "Washington DC,United State ",
