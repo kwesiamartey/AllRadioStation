@@ -15,7 +15,15 @@
 
 
 
-
+        {
+            "id": 732,
+            "name": "WJON IP Radio",
+            "location": "Washington DC,United State ",
+            "url": "https://radio.wjonip.org/wjonip",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://th.bing.com/th/id/R.8255629f959e559180a84dc2750d962a?rik=vzmEVa8DFqNZ%2bQ&pid=ImgRaw&r=0"     
+        },
 
         {
             "id": 731,
