@@ -21,7 +21,15 @@
 
 
 
-
+        {
+            "id": 719,
+            "name": "KLOKi Pirate Radio Denver",
+            "location": "Colorado,United State ",
+            "url": "https://kloki.us:8000/denver",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://www.radio.net/images/broadcasts/db/e9/187792/2/c300.png"     
+        },
         {
             "id": 718,
             "name": "KJHM-FM - JAMMIN 101.5",
