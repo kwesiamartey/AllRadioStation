@@ -12,12 +12,52 @@
 
 
 
+        {
+            "id": 745,
+            "name": "WAMU Live FM 88.5",
+            "location": "Washington DC,United State ",
+            "url": "https://wamu.cdnstream1.com/wamu.mp3",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://th.bing.com/th/id/OIP.aThYbkXhBv-hX3XzG16yvAHaC7?rs=1&pid=ImgDetMain"     
+        },
+        {
+            "id": 745,
+            "name": "WMAL FM 105.9",
+            "location": "Washington DC,United State ",
+            "url": "https://kwesiamartey.github.io/AllRadioStation/unitedState_webplayer/WMAL FM 105.9.html",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://th.bing.com/th/id/R.32d4c17fe1a98cc75704662c8bd3c341?rik=HtROSZG21NgjrQ&pid=ImgRaw&r=0"     
+        },
+       {
+            "id": 744,
+            "name": "C-Span Radio WCSP FM 90.1",
+            "location": "Washington DC,United State ",
+            "url": "https://24443.live.streamtheworld.com/CSPANRADIO.mp3",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://th.bing.com/th/id/OIP.xXfsbbPRzYw_ABZpJz5QywAAAA?rs=1&pid=ImgDetMain"     
+        },
 
-
-
-
-
-       
+        {
+            "id": 743,
+            "name": "Federal News Radio AM1500",
+            "location": "Washington DC,United State ",
+            "url": "https://26293.live.streamtheworld.com/WFEDAM.mp3",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://th.bing.com/th/id/OIP.kTBBYbr_BjahBuNVufHtOAHaHa?rs=1&pid=ImgDetMain"     
+        },
+       {
+            "id": 742,
+            "name": "WAMU HD2 Bluegrass Country",
+            "location": "Washington DC,United State ",
+            "url": "https://ice24.securenetsystems.net/WAMU",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://cdn-profiles.tunein.com/s1981/images/logog.png?t=1"     
+        },
 
        {
             "id": 741,
@@ -50,7 +90,7 @@
 
        {
             "id": 738,
-            "name": "The Indie Blend",
+            "name": "Hot 99.5",
             "location": "Washington DC,United State ",
             "url": "https://n2fb-e2.revma.ihrhls.com/zc2509?rj-ttl=5&rj-tok=AAABkOc7IyoA-o2I83VHOd5vXw",
             "added": 0,
