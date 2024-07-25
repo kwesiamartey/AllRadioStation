@@ -9,6 +9,59 @@
 
 
 
+
+
+
+
+
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "id": 752,
+            "name": "KQED FM 88.5",
+            "location": "San Francisco CA,United State ",
+            "url": "https://streams.kqed.org/",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://th.bing.com/th/id/OIP.zuNlnh2Y_Ey7bskd-6azWwHaHa?rs=1&pid=ImgDetMain"     
+        },
+
+       {
+            "id": 751,
+            "name": "Ka'u Radio",
+            "location": "Ocean View HI,United State ",
+            "url": "https://a1.asurahosting.com:8020/radio.mp3",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://th.bing.com/th/id/OIP.e-tmjHr3DC5RViEQRVquoQAAAA?rs=1&pid=ImgDetMain"     
+        },
+
+       {
+            "id": 750,
+            "name": "Kaua'i Community Radio KKCR FM 90.9",
+            "location": "Hanalei HI,United State ",
+            "url": "https://s8.phx.icastcenter.com:9000/stream",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://th.bing.com/th/id/R.52befbb06fff69346d8ccbfd18086802?rik=QFmDDc06Se%2faUA&pid=ImgRaw&r=0"     
+        },
        {
             "id": 749,
             "name": "Fox News Radio",
