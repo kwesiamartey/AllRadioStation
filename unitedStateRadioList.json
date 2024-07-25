@@ -11,7 +11,15 @@
 
 
 
-
+          {
+            "id": 746,
+            "name": "NPR 24 Hour Program Stream",
+            "location": "Washington DC,United State ",
+            "url": "https://npr-ice.streamguys1.com/live.mp3",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://th.bing.com/th/id/OIP.G0WudXAsEwAaLkY3H32kuQHaDt?rs=1&pid=ImgDetMain"     
+        },
         {
             "id": 745,
             "name": "WAMU Live FM 88.5",
