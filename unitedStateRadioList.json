@@ -27,12 +27,20 @@
 
 
 
-
+       {
+            "id": 756,
+            "name": "KYLD Wild 94.9",
+            "location": "Hamden, Connecticut",
+            "url": "https://kwesiamartey.github.io/AllRadioStation/unitedState_webplayer/KYLD Wild 94.9.html",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://i.iheart.com/v3/re/assets.brands/5e0a3df06f30114a05e027a2?ops=gravity(%22center%22),contain(600,200)&quality=80"     
+        },
          
- {
+        {
             "id": 755,
             "name": "KC101",
-            "location": "New York NY,United State ",
+            "location": "Hamden, Connecticut",
             "url": "https://kwesiamartey.github.io/AllRadioStation/unitedState_webplayer/KC101.html",
             "added": 0,
             "web": "wep",
