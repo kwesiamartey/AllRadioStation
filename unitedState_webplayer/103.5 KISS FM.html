@@ -17,7 +17,7 @@
                       if(Hls.isSupported()) {
                         var video = document.getElementById('video');
                         var hls = new Hls();
-                        hls.loadSource('https://prod-44-201-200-222.amperwave.net/townsquare-ksasfmaac-hlsc3.m3u8/?source=v7player&user-id=d381668bb7fec0d0a0be7a6f7d4ccfe6&gpp=DBABLA~BVQqAAAACWA.QA&t_partner_ids=eyJ0cml0b24tdWlkIjoiY29va2llOmY5ZTNlODQ2LTYzYzUtNDMxNi04NDhlLTU5NDM0MTQ2MTFjNyJ9&a_partner_ids=6e90b259ea01df09feac491e1247b196&z=6f8b3875664940158b181f7e0a7a13e9&p=1');
+                        hls.loadSource('https://n05b-e2.revma.ihrhls.com/zc849/5_1tj47mxjygj5702/playlist.m3u8?zip=&rj-ttl=5&streamid=849&pname=live_profile&companionAds=false&dist=iheart&terminalId=159&deviceName=web-mobile&rj-tok=AAABkPBMwtMAATNb7f0SFSEKcQ&aw_0_1st.playerid=iHeartRadioWebPlayer&listenerId=7a9db39859f0911b629b953cbefe69c0&clientType=web&profileId=8936121139&aw_0_1st.skey=8936121139&host=webapp.US&playedFrom=157&stationid=849&territory=US');
                         hls.attachMedia(video);
                         hls.on(Hls.Events.MANIFEST_PARSED,function() {
                           video.play();
