@@ -20,9 +20,17 @@
 
 
 
+        {
+            "id": 760,
+            "name": "97.9 KISS FM",
+            "location": "El Cajon, California",
+            "url": "https://kwesiamartey.github.io/AllRadioStation/unitedState_webplayer/97.9 KISS FM.html",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://i.iheart.com/v3/re/new_assets/4bfd4cb9-cf89-4b4e-837e-29260f31fbc2?ops=gravity(%22center%22),contain(600,200)&quality=80"     
+        },
 
-
- {
+        {
             "id": 759,
             "name": "Channel 933",
             "location": "El Cajon, California",
