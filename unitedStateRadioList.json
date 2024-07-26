@@ -25,7 +25,15 @@
 
 
 
-
+        {
+            "id": 757,
+            "name": "Today's Hits Radio live",
+            "location": "Hamden, Connecticut",
+            "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/977_HITS_SC",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://th.bing.com/th/id/OIP.BbkYwAAih5fjYfYUGRfkYAAAAA?rs=1&pid=ImgDetMain"     
+        },
 
        {
             "id": 756,
