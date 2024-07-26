@@ -17,7 +17,7 @@
          if(Hls.isSupported()) {
          var video = document.getElementById('video');
          var hls = new Hls();
-         hls.loadSource(' https://bam.nr-data.net/jserrors/1/NRJS-ce1ec6f3186daf1624e?a=1061568261&v=1.263.0&to=ZFxVYxNRWkZYUxZcCV0Wck8RQlFGSloRGiF2bRgY&rst=98797&ck=0&s=0&ref=https://979kissfm.iheart.com/&ptid=0129a420ab548767');
+         hls.loadSource('https://n2db-e2.revma.ihrhls.com/zc505/45_1imhomm1n6zr02/playlist.m3u8?zip=&rj-ttl=5&streamid=505&pname=live_profile&companionAds=false&dist=iheart&terminalId=159&deviceName=web-mobile&rj-tok=AAABkPDowhMAiepdt0XnhVa7Yg&aw_0_1st.playerid=iHeartRadioWebPlayer&listenerId=7a9db39859f0911b629b953cbefe69c0&clientType=web&profileId=8936827408&aw_0_1st.skey=8936827408&host=webapp.US&playedFrom=157&stationid=505&territory=US');
                          
          hls.attachMedia(video);
          hls.on(Hls.Events.MANIFEST_PARSED,function() {
