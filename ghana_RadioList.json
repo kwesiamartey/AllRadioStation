@@ -19,12 +19,21 @@
 
 
 	
-	
+		{
+			"id": 117,
+			"name": "Joy News Live",
+			"location": "Ghana",
+			"url": "https://youtu.be/DmFBChAn9sA?list=PLEhaP2Z2iO3qxEM5RbZPZCcV0o0Z9azwh",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://th.bing.com/th/id/R.ea8d777f6edda174a140080e584bda82?rik=DoqP7DCTU3fIuQ&pid=ImgRaw&r=0",
+			"bit": "284k"
+		},
 	
 		{
 			"id": 116,
 			"name": "UTV",
-			"location": "Kumasi",
+			"location": "Ghana",
 			"url": "https://youtu.be/DsAyuTrONIk?list=UUA2f1lPcwYpBKA4JBMBHDSQ",
 			"added": 0,
 			"web": "wep",
