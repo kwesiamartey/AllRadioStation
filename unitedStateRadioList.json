@@ -35,7 +35,15 @@
 
 
 
-
+         {
+            "id": 765,
+            "name": "KUSF 90.3 FM",
+            "location": "New York City",
+            "url": "https://kwesiamartey.github.io/AllRadioStation/unitedState_webplayer/KUSF 90.3 FM.html",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://kusf-media.b-cdn.net/file/kusf1-copy.svg"     
+        },
         {
             "id": 764,
             "name": "WKTU 103.5 FM",
