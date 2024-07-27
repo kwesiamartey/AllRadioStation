@@ -1,1023 +1,1056 @@
 [
-{
-	"id": 115,
-	"name": "Oyerepa 100.7 Mhz FM",
-	"location": "Kumasi",
-	"url": "https://atunwapodcasts.com/player/oyerepafm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-profiles.tunein.com/s287368/images/logog.jpg?t=156139",
-	"bit": "284k"
-},
-{
-	"id": 112,
-	"name": "Adom TV Live",
-	"location": "Accra",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Adom TV Live.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://yt3.ggpht.com/rJ4Jxy03Qeaow861-WkgqCRwUEODqUvO-ZKj13cN_avoHP6sx8lYHC-DmF645KMJfXBrAm3R=s68-c-k-c0x00ffffff-no-rj",
-	"bit": "284k"
-},
-{
-	"id": 111,
-	"name": "Adom TV Live",
-	"location": "Accra",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Adom TV Live.html",
-	"added": 1,
-	"web": "wep",
-	"logo": "https://yt3.ggpht.com/rJ4Jxy03Qeaow861-WkgqCRwUEODqUvO-ZKj13cN_avoHP6sx8lYHC-DmF645KMJfXBrAm3R=s68-c-k-c0x00ffffff-no-rj",
-	"bit": "284k"
-},
-{
-	"id": 110,
-	"name": "Asaase Radi0 99.5",
-	"location": "Accra",
-	"url": "http://n05.radiojar.com/cyg76xcvp0hvv?rj-ttl=5&rj-tok=AAABj_K6B-sAnu4FWdcVfEfNxg",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-profiles.tunein.com/s264884/images/logod.png?t=637280309150000000",
-	"bit": "284k"
-},
-{
-	"id": 109,
-	"name": "Pluzz FM",
-	"location": "Accra",
-	"url": "https://a00.w3-gh.com/a11.mp3",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-profiles.tunein.com/s292269/images/logod.jpg?t=636511984157500000",
-	"bit": "284k"
-},
-{
-	"id": 107,
-	"name": "Adom Fie",
-	"location": "Accra",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Adom Fie.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-profiles.tunein.com/s186214/images/logod.png?t=637523693640000000",
-	"bit": "284k"
-},
-{
-	"id": 105,
-	"name": "Adom Fm",
-	"location": "Accra",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Adom Fie.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://imgs.search.brave.com/oFWRRgZvIsd8p2NmMA_qMOzjD8s92xGshIKE6vh__-c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/b25saW5lcmFkaW9i/b3guY29tL2ltZy9s/LzkvMTc2OS52MjYu/cG5n",
-	"bit": "1k"
-},
-{
-	"id": 104,
-	"name": "Peace fm",
-	"location": "Accra",
-	"url": "https://atunwapodcasts.com/player/peacefm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://despitemedia.com/v13/peace_200.png",
-	"bit": "284k"
-},
-{
-	"id": 103,
-	"name": "Adom 106.3 Fm",
-	"location": "Greater Accra Region",
-	"url": "https://atunwapodcasts.com/player/adomfm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.tuneyou.com/images/logos/500_500/89/7289/AdomFM106.3.jpg",
-	"bit": "408k"
-},
-{
-	"id": 102,
-	"name": "MyJoyonline",
-	"location": "1 Farrar Avenue, Adabraka Accra",
-	"url": "https://atunwapodcasts.com/player/joyfm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a5/fc/ab/a5fcab38-1f23-0a6d-361d-5e3675d3ee8e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
-	"bit": "262k"
-},
-{
-	"id": 101,
-	"name": "Nhyira fm",
-	"location": "Kumasi, Ghana.",
-	"url": "https://atunwapodcasts.com/player/nhyirafm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtT8aCM6NKds4XNPfqgqAw151C0txwpXGkGc3ORLPFGmP2p-mXhEnWlYJDgc7tWgBc5aE&usqp=CAU",
-	"bit": "124k"
-},
-{
-	"id": 100,
-	"name": "Oman fm",
-	"location": "Madina Zongo Junction Accra",
-	"url": "http://omanfm.atunwadigital.streamguys1.com/omanfm",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-profiles.tunein.com/s124321/images/logog.png",
-	"bit": "134k"
-},
-{
-	"id": 99,
-	"name": "BOX : Afrofusion Gold live",
-	"location": "Greater Accra ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Revival FM 99.3 live.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FWyaJZ9pQJOeRtc4mO1dHna9gMiNBvWiY_jlCkPnxi_A%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNnLTdlaW9Rb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJa2NfRXhnc01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE3NTk1NjIwMDA.webp&w=1920&q=100",
-	"bit": "1k"
-},
-{
-	"id": 98,
-	"name": "Lyke Radio",
-	"location": "Takoradi -Ghana",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Lyke Radio.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static-media.streema.com/media/cache/ff/10/ff10671481ae574353acbf7a7b3e32a4.jpg",
-	"bit": "1k"
-},
-{
-	"id": 97,
-	"name": "RFI Afrique (Accra)",
-	"location": "Miim -Ghana",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/RFI Afrique (Accra).html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-radiotime-logos.tunein.com/s44233d.png",
-	"bit": "1k"
-},
-{
-	"id": 96,
-	"name": "Sweet Melodies FM (Accra)",
-	"location": "Miim -Ghana",
-	"url": "https://stream-153.zeno.fm/hsu9hfpqutzuv?zs=G7Sf0JU4Tce3N4Wlwq7gxw&listening-from-radio-garden=1691933686",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-profiles.tunein.com/s165738/images/logog.jpg?t=159003",
-	"bit": "1k"
-},
-{
-	"id": 95,
-	"name": "Ghana Waves Radio",
-	"location": "Miim -Ghana",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Ghana Waves Radio.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://www.inlife.tv/sites/default/files/logos/ghana-waves-radio.png",
-	"bit": "1k"
-},
-{
-	"id": 94,
-	"name": "Zuria FM",
-	"location": "Kumasi",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Zuria FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://africaradiostations.com/wp-content/uploads/2020/08/zuriafm-1400x1400-1.jpg",
-	"bit": "1k"
-},
-{
-	"id": 92,
-	"name": "Menstrocare FM",
-	"location": "Ghana",
-	"url": "http://stream.zenolive.com/8mg19entnd0uv",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://images.zeno.fm/znhnTTync_F8qd54kv3mGEbHoPeemsixAG2LGBBPpE4/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRa3RhVThRc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRa3I3cG9Rc01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjQ4Njc3MjYwMDA.webp",
-	"bit": "1k"
-},
-{
-	"id": 91,
-	"name": "Rejoice FM Ghana",
-	"location": "Kwaffo-krom, Suhum Nsawam road Nsawam Adoagyiri Municipality -Ghana",
-	"url": "http://s4.radio.co/s330e23155/listen",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://images.zeno.fm/zOW2gwJuhJ7jMqKSnqrxP75KHFB-hp7OhNguca0SuN0/rs:fit:240:240/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUN3MU03V2tnc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUR3c3ItaHN3b01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjA4OTYzNDgwMDA.webp",
-	"bit": "1k"
-},
-{
-	"id": 90,
-	"name": "Fly FM Ghana",
-	"location": "Takoradi -Ghana",
-	"url": "http://stream.zenolive.com/07mxn7h482vtv",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media.licdn.com/dms/image/C4E03AQFkguDSjYnY8g/profile-displayphoto-shrink_800_800/0/1517271184798?e=2147483647&v=beta&t=8vxIkDpduLcqeaqD-U3exGylUr6_BW4DOTXYTMDepIM",
-	"bit": "1k"
-},
-{
-	"id": 89,
-	"name": "Ewiase FM 95.7",
-	"location": "Ghana",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Ewiase FM 95.7.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://radiofmdial.com/wp-content/uploads/2020/10/Ewiase-95.7.png",
-	"bit": "1k"
-},
-{
-	"id": 88,
-	"name": "ACCRA24.COM live",
-	"location": "Ghana Kumasi",
-	"url": "https://listen.openstream.co/4362/audio.mp3",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://1.bp.blogspot.com/-qkIil6_1GLo/VQ2138cREPI/AAAAAAAAB0Y/cFWrEKw3SUQ/s1600/Accra24-ghana-flag.png",
-	"bit": "1k"
-},
-{
-	"id": 87,
-	"name": "Revival 99.3 FM Ark 107.1 FM",
-	"location": "Ghana",
-	"url": "http://stream.zeno.fm/5f210wgmx38uv",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbz4dIHaZgWh6zG6kqxX5jIaFRXs2q5KQ2N50RWq2_rf0Cy4jDoPAYh_d-Qjeww9KMClY&usqp=CAU",
-	"bit": "1k"
-},
-{
-	"id": 86,
-	"name": "Spirit 88.3 fm",
-	"location": "Kumasi Ghana",
-	"url": "http://89.163.217.252:9322/stream",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-radiotime-logos.tunein.com/s274742g.png",
-	"bit": "1k"
-},
-{
-	"id": 85,
-	"name": "Atlantis Radio live",
-	"location": "Japekrom Ghana",
-	"url": "https://portal.streamcasterpro.com:8050/radio.mp3",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://imgs.search.brave.com/lijrUJuy5jXBj7GyHBN6o6JTpbOxG0PIXxIanx3n9hI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMyLm15dHVuZXIu/bW9iaS9tZWRpYS90/dm9zX3JhZGlvcy9V/UnRwRjlXWHVLLnBu/Zw",
-	"bit": "1k"
-},
-{
-	"id": 84,
-	"name": "Akwaaba Radio 98.1 MHz",
-	"location": "Berekum Ghana",
-	"url": "http://stream.zeno.fm/sp6guuapzc9uv",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-profiles.tunein.com/s279465/images/logog.png?t=1678755949000",
-	"bit": "1k"
-},
-{
-	"id": 83,
-	"name": "Akomapa FM 89.3",
-	"location": "Berekum Ghana",
-	"url": "http://mounthoreb1.primcast.com:8210/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://mytunein.com/images/logos/akomapa893fm.jpg",
-	"bit": "1k"
-},
-{
-	"id": 81,
-	"name": "Plan B 104.5 FM",
-	"location": "Ghana",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Plan B 104.5 FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.onlineradiobox.com/img/l/4/90674.v10.png",
-	"bit": "1k"
-},
-{
-	"id": 80,
-	"name": "Native Radio",
-	"location": "Ghana",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Native Radio.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/Wpc7ZHqmF3.jpg",
-	"bit": "1k"
-},
-{
-	"id": 79,
-	"name": "Darling Radio",
-	"location": "Ghana",
-	"url": "https://atunwapodcasts.com/player/darlingfm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://mytunein.com/images/logos/darlingradio.jpg",
-	"bit": "1k"
-},
-{
-	"id": 78,
-	"name": "Nap Radio",
-	"location": "Ghana",
-	"url": "https://liveonlineradio.net/iframe/?p=nap-radio-901",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/nwdagpxrfncc.jpg",
-	"bit": "1k"
-},
-{
-	"id": 77,
-	"name": "Sikka Fm",
-	"location": "Ghana",
-	"url": "https://liveonlineradio.net/iframe/?p=sikka-89-5-fm",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-profiles.tunein.com/s148491/images/logog.jpg?t=1",
-	"bit": "1k"
-},
-{
-	"id": 76,
-	"name": "Pure FM",
-	"location": "Ghana",
-	"url": "https://atunwapodcasts.com/player/purefm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://atunwadigital.com/wp-content/uploads/2022/05/Pure-FM-..jpg",
-	"bit": "1k"
-},
-{
-	"id": 75,
-	"name": "Yankee 959 Fm",
-	"location": "Ghana",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Yankee 959 Fm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://mytunein.com/images/logos/yankee959fm.jpg",
-	"bit": "1k"
-},
-{
-	"id": 74,
-	"name": "West Gold 106.3 Radio",
-	"location": "Takoradi-Ghana",
-	"url": "http://node-21.zeno.fm/d3wwwxw09f8uv?rj-ttl=5&rj-tok=AAABfVFTQr0At80kIw-gP9GvCQ",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://images.zeno.fm/tMeiFAKSql7H_Jj-C_3es559Rhutj4rBnL1pVpo4OP0/rs:fit:440:440/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzc2Nzg2YmE0LTNjZTctNDUwZC04NTMwLTFjNGIzYzBiMTJkMC9pbWFnZS8_cmVzaXplPTQ0MHg0NDAmdXBkYXRlZD0xNjY0Mjg0NDgxMDAw.webp",
-	"bit": "24k"
-},
-{
-	"id": 73,
-	"name": "Akoma 87.9 fm",
-	"location": "Kumasi-Ghana",
-	"url": "http://stream.zeno.fm/h6y04t42u8quv",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://liveonlineradio.net/wp-content/uploads/2019/08/akoma-fm-87.9.jpg",
-	"bit": "24k"
-},
-{
-	"id": 72,
-	"name": "Live Xtra ghana FM 91.9",
-	"location": "Accra-Ghana",
-	"url": "http://stream.zenolive.com/7586sp6mua0uv",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-profiles.tunein.com/s210855/images/logog.jpg?t=1",
-	"bit": "124k"
-},
-{
-	"id": 71,
-	"name": "Ghana Music Radio",
-	"location": "Accra-Ghana",
-	"url": "http://streaming.radio.co:80/s92f890821/listen",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-radiotime-logos.tunein.com/s198490g.png",
-	"bit": "224k"
-},
-{
-	"id": 69,
-	"name": "360Africa Radio",
-	"location": "Takoradi-Ghana",
-	"url": "http://stream.zenolive.com/5gyngmysfzzuv",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://images.zeno.fm/XGKz2kDzGLwhJ6Zj7I94jUPtXFdrWYj6Mk2rKQ-cIxg/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNncU1IQXRBa01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNROHFYX3lnZ01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE3MzM2MTgwMDA.webp",
-	"bit": "54k"
-},
-{
-	"id": 67,
-	"name": "VOV Radio FM 95.7",
-	"location": "Takoradi-Ghana",
-	"url": "http://sp0001.opengradle.pro:8120/radio.mp3",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://pbs.twimg.com/profile_images/1420144091518709762/b1-aEcBF_400x400.jpg",
-	"bit": "14k"
-},
-{
-	"id": 66,
-	"name": "Citinews fm",
-	"location": "11 Dr. Morton Loop, Accra",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Citinews fm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://play-lh.googleusercontent.com/XvR0yi490Vaof6fyNAU9fQ8epXIed8UZpBSVdeGd0i3fMG8q8n15FIxgNVS-x8_vrm8",
-	"bit": "124k"
-},
-{
-	"id": 65,
-	"name": "Asempa fm",
-	"location": "4th Floor, Pyramid Hse, Ring Road",
-	"url": "https://atunwapodcasts.com/player/asempafm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjr8JIU82zOdF869ER9KLXlKtS6680pwWRHIGWhJQo0ZzXlZUPVluxXOMg98q_vxlw6xo&usqp=CAU",
-	"bit": "20k"
-},
-{
-	"id": 64,
-	"name": "Migatwu FM 93.3 live",
-	"location": "Eastern Koforidua",
-	"url": "https://stream.zeno.fm/8mk54olcd68uv",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/7fpYGWqNDh.jpg",
-	"bit": "1k"
-},
-{
-	"id": 63,
-	"name": "Okay fm",
-	"location": "Abeka Junction, Accra",
-	"url": "http://okayfm.atunwadigital.streamguys1.com/okayfm",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-profiles.tunein.com/s137336/images/logog.jpg",
-	"bit": "25k"
-},
-{
-	"id": 62,
-	"name": "Radio Gold",
-	"location": "No. 596/4 Link Rd. , Laterbiokorshie",
-	"url": "http://radiogold.atunwadigital.streamguys1.com/radiogold",
-	"added": 0,
-	"web": "wep",
-	"logo": "http://ghana.mom-gmr.org/typo3temp/_processed_/1/5/csm_6025-476_import_f79a5b2fb9.png",
-	"bit": "100k"
-},
-{
-	"id": 61,
-	"name": "Kessben",
-	"location": "ADUM-KUMASI. Affix Passpor",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Kesseben.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://atunwadigital.com/wp-content/uploads/2023/06/download-1.png",
-	"bit": "49k"
-},
-{
-	"id": 60,
-	"name": "Starr fm",
-	"location": "Ring Road Central, Accra",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Starr fm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://ghana.mom-gmr.org/uploads/tx_lfrogmom/media/6032-476_import.png",
-	"bit": "134k"
-},
-{
-	"id": 59,
-	"name": "Angel Fm",
-	"location": "Abrepo Junction. City: Kumasi",
-	"url": "http://angelfm.atunwadigital.streamguys1.com/angelfm",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-profiles.tunein.com/s295243/images/logog.jpg?t=157202",
-	"bit": "24k"
-},
-{
-	"id": 58,
-	"name": "Y107.9FM Accra",
-	"location": "Accra, Ghana",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Y107.9FM Accra.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://play-lh.googleusercontent.com/xnC9SB_MbXJG0s6eNu7AmygftlV8nFmddyLd0X00FH3wzp0kZUQIQaqh4-58vos9Rw",
-	"bit": "24k"
-},
-{
-	"id": 57,
-	"name": "Plus Radio Ghana live",
-	"location": "oyerepa fm adum, Kumasi, Ghana",
-	"url": "https://stream.zeno.fm/2vuvw6v8vv8uv",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://play-lh.googleusercontent.com/CwI7ptu9SsLECWIz0RmvN0eZxPc7Ct7UREYLpEAG7i2oACWJE34pmaT9tYvzMG_2uEI=w240-h480-rw",
-	"bit": "4k"
-},
-{
-	"id": 56,
-	"name": "Sankofa Fm",
-	"location": "DN Uber Drv. 6 Moon Flower Cl, Christian",
-	"url": "http://s2.nexuscast.com:8068/stream",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-radiotime-logos.tunein.com/s111596d.png",
-	"bit": "3k"
-},
-{
-	"id": 55,
-	"name": "Gold City Radio live",
-	"location": "Ghana Volta Ho",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Gold City Radio live.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqr3_NAsdNRbwbaWWxFnGOzhn-dOXth1j1uidHuJ0wgDPkhin9WlkdFvAZvBwhArtu50&usqp=CAU",
-	"bit": "24k"
-},
-{
-	"id": 54,
-	"name": "Bryt FM live",
-	"location": "Eastern Koforidua",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Bryt FM live.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://mybrytfmonline.com/wp-content/uploads/2021/12/MULTIMEDIA-logos-01-e1639695621300.png",
-	"bit": "1k"
-},
-{
-	"id": 53,
-	"name": "Time 96.9 FM",
-	"location": "Ghana",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Time 96.9 FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://pbs.twimg.com/profile_images/378800000465812475/e1da78427c3a6af3719d761464537bab_400x400.jpeg",
-	"bit": "1k"
-},
-{
-	"id": 52,
-	"name": "3FM 92.7",
-	"location": "Adesa We, Kanda, 1122 Accra",
-	"url": "http://node-03.zeno.fm/hk573nh6sm0uv?rj-ttl=5&rj-tok=AAABeGCjYzwAQCWbxuXES8VIQA",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://mytunein.com/images/logos/3fm927.jpg",
-	"bit": "1k"
-},
-{
-	"id": 51,
-	"name": "Hello FM 101.5",
-	"location": "Accra - Despite Group",
-	"url": "http://hellofm.atunwadigital.streamguys1.com/hellofm",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm1mszrRN8HSb9ajBL5wwZ9-9TVuXUrtoWGxHcZAKB-i_2yi6pPG1zfL0ftTUQGX2W1wc&usqp=CAU",
-	"bit": "2k"
-},
-{
-	"id": 50,
-	"name": "Neat Fm",
-	"location": "Accra-Ghana",
-	"url": "https://atunwapodcasts.com/player/neatfm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://d371i8ihhgym7w.cloudfront.net/38596929.jpg",
-	"bit": "24k"
-},
-{
-	"id": 49,
-	"name": "Luv Fm",
-	"location": "PMB, Amakom",
-	"url": "https://atunwapodcasts.com/player/luvfm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://play-lh.googleusercontent.com/y_6K-4y0zs7rqiY-uY-8LIV54wGY65LC3LewMM25wtnHXITHWd-cnsoNtVzfb23w-S3V",
-	"bit": "14k"
-},
-{
-	"id": 48,
-	"name": "SUNSHINE RADIO GH live",
-	"location": "C680/3 Asylum Down",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Happy 98.9 FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://liveonlineradio.net/wp-content/uploads/2021/09/Sunshine-Radio-Gh.jpg",
-	"bit": "8k"
-},
-{
-	"id": 47,
-	"name": "Boss 93.7 FM",
-	"location": "Kumasi-Ghana",
-	"url": "http://node-03.zeno.fm/m087d3huy7zuv?rj-ttl=5&rj-tok=AAABfYwAaJcA3bXZYUvOS55e_w",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://mytunein.com/images/logos/boss937fm.jpg",
-	"bit": "8k"
-},
-{
-	"id": 46,
-	"name": "Kasapa 102.5FM",
-	"location": "Farrar Ave, Accra",
-	"url": "http://node-10.zeno.fm/3eh6htuyk8quv?rj-ttl=5&rj-tok=AAABeGSA48kAK5lEK8npAEqnlw",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-radiotime-logos.tunein.com/s174903g.png",
-	"bit": "6k"
-},
-{
-	"id": 45,
-	"name": "Live 91.9 FM",
-	"location": "QUEST FINE LIMITED",
-	"url": "http://stream.zeno.fm/7586sp6mua0uv",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static-media.streema.com/media/cache/94/01/94016de6e8e8be20c3d0d580604a6a79.jpg",
-	"bit": "24k"
-},
-{
-	"id": 44,
-	"name": "Neat FM 100.9",
-	"location": "GRAND MEDALIST",
-	"url": "https://atunwapodcasts.com/player/neatfm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://d371i8ihhgym7w.cloudfront.net/38596929.jpg",
-	"bit": "24k"
-},
-{
-	"id": 43,
-	"name": "Ashh FM 101.1",
-	"location": "Kumasi Ghana",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Ashh FM 101.1.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexwhTOkO6v2YkPzq0akQz9gOhWb8IFtN8uRV8XlwpnoA-ybW3YWFOfUDDzUvqKjZdU70&usqp=CAU",
-	"bit": "4k"
-},
-{
-	"id": 42,
-	"name": "Potters FM 88.3 live",
-	"location": "Accra Ghana",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Bosco Radio.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.modernghana.com/radio_logo/1323920601054071581406011570955013497207540n.jpg",
-	"bit": "1k"
-},
-{
-	"id": 40,
-	"name": "TOP 103.1 FM",
-	"location": "Accra Ghana",
-	"url": "https://stream-172.zeno.fm/zx27mvh1geruv?zs=q1CRTonZQnOyF8QmNjAoiw&zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6eDI3bXZoMWdlcnV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsImp0aSI6InExQ1JUb25aUW5PeUY4UW1OakFvaXciLCJpYXQiOjE3MTI2Njc0NTgsImV4cCI6MTcxMjY2NzUxOH0.3uA3g25YUD5e9EpfVsY0-QVjrhheFlLFZP3rIpKZBO0&zttl=5",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://play-lh.googleusercontent.com/_yQBEwhpqF1Y7_bU72nFTZ4Xz2EZpHjU92pZDvNSxOIni3lSc8JDrdqX6Tyo5hJNIQ=w240-h480-rw",
-	"bit": "1k"
-},
-{
-	"id": 39,
-	"name": "Ark 107.1 FM",
-	"location": "Ghana",
-	"url": "http://67.212.165.106:8247/stream/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBEpKuEO8EA-UFl_n3ntm-FNNwWqDQN7xHvA&s",
-	"bit": "1k"
-},
-{
-	"id": 38,
-	"name": "Twifoman 1053 FM",
-	"location": "Accra Ghana",
-	"url": "http://node-27.zeno.fm/ar923b8kubruv?rj-ttl=5&rj-tok=AAABeKNK0a4AXXi393G4kmnKWg",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://liveonlineradio.net/wp-content/uploads/2019/08/twifoman-fm.jpg",
-	"bit": "9k"
-},
-{
-	"id": 37,
-	"name": "JOJEM FM live",
-	"location": "Accra-Ghana",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Hot 93.9 FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/sy8qedamfrfj.webp",
-	"bit": "24k"
-},
-{
-	"id": 36,
-	"name": "Vision1 FM",
-	"location": "Accra-Ghana",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Vision1 FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.onlineradiobox.com/img/l/6/7086.v6.png",
-	"bit": "3k"
-},
-{
-	"id": 34,
-	"name": "Jaman Radio",
-	"location": "Drobo-Ghana",
-	"url": "https://stream.zeno.fm/rnw8qdutus8uv",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.modernghana.com/radio_logo/jamanradio.jpg",
-	"bit": "17k"
-},
-{
-	"id": 33,
-	"name": "Connect FM",
-	"location": "Takoradi-Ghana",
-	"url": "http://node-28.zeno.fm/13tbqr42u8quv?rj-ttl=5&rj-tok=AAABeNeYT9QAzMt5JqgImiKFqg",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/q3zkwyj5qtus.png",
-	"bit": "19k"
-},
-{
-	"id": 32,
-	"name": "Ezra 94.1",
-	"location": "kumasi-Ghana",
-	"url": "https://strw3.openstream.co/2262?aw_0_1st.collectionid%3D6183%26stationId%3D6183%26publisherId%3D2286%26k%3D1712667878",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.onlineradiobox.com/img/l/1/96651.v10.png",
-	"bit": "62k"
-},
-{
-	"id": 31,
-	"name": "Tamasi Radio",
-	"location": "Tamale-Ghana",
-	"url": "http://stream.42netmedia.com:8000/sc_tamas",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static-media.streema.com/media/cache/ac/1e/ac1ef1fb5eaedaeab1591360be7530e0.jpg",
-	"bit": "9k"
-},
-{
-	"id": 30,
-	"name": "Agoo 96.9 FM",
-	"location": "Kwahu-West-Ghana",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Agoo 96.9 FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-profiles.tunein.com/s228220/images/logog.jpg?t=155552",
-	"bit": "21k"
-},
-{
-	"id": 29,
-	"name": "Bujanyz Radio",
-	"location": "Ghana",
-	"url": "http://node-25.zeno.fm/2beb7s91rtzuv?rj-ttl=5&rj-tok=AAABeNqXQPoAYrR4KtliaLWy6Q",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://play-lh.googleusercontent.com/z7J6P9_U9mZeHmFdKX89vJgFA3gwU6gI_ovenwNlCF3gQgyxveimrWJxgluEICccdA=w240-h480-rw",
-	"bit": "14k"
-},
-{
-	"id": 28,
-	"name": "GBC Uniiq FM",
-	"location": "Ring Road Central, Kanda-Ghana",
-	"url": "https://mediagh.us:2000/stream/uniiqfm",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.webrad.io/images/logos/radio-com-gh/gbc-uniiq-fm.png",
-	"bit": "24k"
-},
-{
-	"id": 27,
-	"name": "Class FM",
-	"location": "Accra-Ghana",
-	"url": "https://stream-155.zeno.fm/6fseb4nbe3quv?zs=OWkvesFbSBW70o4_arim4w&zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2ZnNlYjRuYmUzcXV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsImp0aSI6Ik9Xa3Zlc0ZiU0JXNzBvNF9hcmltNHciLCJpYXQiOjE3MTI2NjgxODMsImV4cCI6MTcxMjY2ODI0M30.u9U7Kl8Efc1tbhKrCo68AmS4hQqzyhd-XOD5WlV7RHQ&zttl=5",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.onlineradiobox.com/img/l/6/91756.v7.png",
-	"bit": "28k"
-},
-{
-	"id": 26,
-	"name": "Deliverance Radio UK",
-	"location": "UK",
-	"url": "https://stream-153.zeno.fm/su941crpp9duv?zs=-iUxcKF4SCmEgFvho8XF_Q&zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdTk0MWNycHA5ZHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsImp0aSI6Ii1pVXhjS0Y0U0NtRWdGdmhvOFhGX1EiLCJpYXQiOjE3MTI2Njg0MjUsImV4cCI6MTcxMjY2ODQ4NX0.eRHiqfEJ9c-rSw_tJmm-zIV_6tCBJu7JjU_qWjQnDNk&zttl=5&adtonosListenerId=01HTZ1R8KS4BY37C6K8M3E22DK&aw_0_req_lsid=21fdd5c676f30aef7a2c13feed96bad6&dyn-uid=2529200507684439048&an-uid=0&mm-uid=d2ad6613-ff0d-4900-a4aa-fb23a190956e&dot-uid=0a5e2000006ec26f3e00fe95&triton-uid=cookie%3A243648df-3e72-4fb5-bfad-b9997624d03a&amb-uid=7939336383061243976",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/YHpRDugZKE.png",
-	"bit": "29k"
-},
-{
-	"id": 25,
-	"name": "Ghana Waves",
-	"location": "Accra-Ghana",
-	"url": "http://node-05.zeno.fm/pg5c7zx3p0quv?rj-ttl=5&rj-tok=AAABeQPVdC4AGME8h31NjoCoow",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://www.radio.net/images/broadcasts/83/e8/1599/c300.png",
-	"bit": "24k"
-},
-{
-	"id": 24,
-	"name": "Jesus Temple Radio",
-	"location": "Accra-Ghana",
-	"url": "https://mediagh.us:2020/stream/temple",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://images.zeno.fm/pVVGRwZt0T6SL0vymzNtw6tgOjY25jk_zDNKX17lpd8/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNBbjcyODN3Z01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRc0tpaGx3Z01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2Nzk3NzIzNjAwMDA.webp",
-	"bit": "3k"
-},
-{
-	"id": 23,
-	"name": "Cem FM",
-	"location": "Kumasi-Ghana",
-	"url": "https://stream-40.zeno.fm/49cwxy2n1p8uv?zs=HPWDRACYTGKbkfxmAHJ66g",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FBlgHa0DG30YJ9hOt3SAWN2INNBNob_3dgmHfyo5LTvE%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUN3NEsyaHR3a01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUN3MEpmRS1Bb01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE2NTM5ODcwMDA.webp&w=1920&q=100",
-	"bit": "100k"
-},
-{
-	"id": 22,
-	"name": "Mighty God Radio",
-	"location": "Ghana",
-	"url": "http://173.249.50.205:8010/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://play-lh.googleusercontent.com/CwI7ptu9SsLECWIz0RmvN0eZxPc7Ct7UREYLpEAG7i2oACWJE34pmaT9tYvzMG_2uEI=w240-h480-rw",
-	"bit": "36k"
-},
-{
-	"id": 21,
-	"name": "PLATINUM RADIO",
-	"location": "Kanda Estate, Ghana",
-	"url": "http://node-04.zeno.fm/yh5n6v6xr0quv?rj-ttl=5&rj-tok=AAABeQPmGBEAe8-ahooZ8tz4OA",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://liveonlineradio.net/wp-content/uploads/2021/08/Platinum-Radio-Ghana-100x47.jpg",
-	"bit": "144k"
-},
-{
-	"id": 20,
-	"name": "Spice FM",
-	"location": "Takoradi, Ghana",
-	"url": "http://sp0001.opengradle.pro:8030/live.mp3",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-radiotime-logos.tunein.com/s222751d.png",
-	"bit": "24k"
-},
-{
-	"id": 19,
-	"name": "Y97.9 FM Takoradi",
-	"location": "Takoradi, Ghana",
-	"url": "https://atunwadigital.streamguys1.com/yfm979takoradi",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://atunwadigital.com/wp-content/uploads/2022/05/YFM-Takoradi.png",
-	"bit": "24k"
-},
-{
-	"id": 18,
-	"name": "Skyy power fm",
-	"location": "Takoradi, Ghana",
-	"url": "http://node-12.zeno.fm/8ct99fxeq8quv?rj-ttl=5&rj-tok=AAABeWfnHS0ArsQY8S5GM_hIrg",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://233times.net/wp-content/uploads/2019/02/1896775_292346144251899_1374876228_n.jpg",
-	"bit": "24k"
-},
-{
-	"id": 17,
-	"name": "Hitz fm",
-	"location": "Faanofa Rd, Accra",
-	"url": "https://atunwapodcasts.com/player/hitzfm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://www.musicinafrica.net/sites/default/files/images/music_professional_profile/201508/hitzfm.jpg",
-	"bit": "10k"
-},
-{
-	"id": 16,
-	"name": "Otec Fm",
-	"location": "Asawasi; Kumasi",
-	"url": "https://stream.zenolive.com/8rv5ee923p5tv.aac",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.webrad.io/images/logos/radio-com-gh/otec.png",
-	"bit": "11k"
-},
-{
-	"id": 15,
-	"name": "Trust FM Achimota",
-	"location": "Achimota-Neoplan",
-	"url": "http://node-11.zeno.fm/83dhqkqe27zuv?rj-ttl=5&rj-tok=AAABeGPfO-sA790we20IBG1IYg",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.onlineradiobox.com/img/l/4/84924.v6.png",
-	"bit": "71k"
-},
-{
-	"id": 12,
-	"name": "Nhyira Fie FM",
-	"location": "Adum \u2013 Kejetia, Kumasi",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/nhyirafm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-profiles.tunein.com/s282835/images/logog.png?t=162247",
-	"bit": "214k"
-},
-{
-	"id": 11,
-	"name": "Radio XYZ - FM 93.1",
-	"location": "Accra Ghana",
-	"url": "https://stream-65.zeno.fm/jlcgxhhwoymvv?zs=Dgm8paHcQbOB5C2_yp6DNg",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-profiles.tunein.com/s155684/images/logog.jpg?t=1",
-	"bit": "4k"
-},
-{
-	"id": 10,
-	"name": "Ahotor FM 92.3",
-	"location": "Takoradi, Ghana",
-	"url": "http://node-10.zeno.fm/bbpfy9pk21zuv?rj-ttl=5&rj-tok=AAABeWgJUy0A1pKMOJY_rlYeZw",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-radiotime-logos.tunein.com/s270288g.png",
-	"bit": "2k"
-},
-{
-	"id": 9,
-	"name": "New Covenant Gospel",
-	"location": "Germany",
-	"url": "https://newcovenant.radioca.st/stream",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://mytunein.com/images/logos/newcovenant.jpg",
-	"bit": "1k"
-},
-{
-	"id": 8,
-	"name": "Fox 97.9 FM",
-	"location": "Accra-Ghana",
-	"url": "http://foxfm.atunwadigital.streamguys1.com/foxfm?amsparams=playerid%3ASGplayer%3Bskey%3A1578575319807%3B&awparams=playerid%3ASGplayer%3B",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://liveonlineradio.net/wp-content/uploads/2015/10/Fox-97.9-FM.jpg",
-	"bit": "4k"
-},
-{
-	"id": 6,
-	"name": "Omega GE Radio",
-	"location": "Cape coast -Ghana",
-	"url": "http://stream.zenolive.com/puwca5c8hkeuv",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://images.zeno.fm/mHftTrKgUF2WFS1G89rEGALPavWZC5bJg9DBcCTIyo4/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURBM0llbF9BZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNBZ01EaGlnb01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjEzNjA3NDYwMDA.webp",
-	"bit": "5k"
-},
-{
-	"id": 5,
-	"name": "Amba FM",
-	"location": "Sunyani -Ghana",
-	"url": "http://stream.zeno.fm/3611nauzvk8uv",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://images.zeno.fm/segacSrdfTzFnOdJy3PNpI6V85BFGW8mV2LbxmKvTcs/rs:fit:440:440/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRMjduVnNnc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRdTdDYTZnZ01vZ0VFZW1WdWJ3L2ltYWdlLz9yZXNpemU9NDQweDQ0MCZ1cGRhdGVkPTE2NjE2NTAxMTYwMDA.webp",
-	"bit": "7k"
-},
-{
-	"id": 4,
-	"name": "Twinfix Radio",
-	"location": "Takoradi -Ghana",
-	"url": "http://stream.zeno.fm/d6h5gn0qp2zuv",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://images.zeno.fm/7OesNRIVQBFOlHVkaFYMUM6NE0TvkJ0yApEcZGV9OOA/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNRMmNLT3FnZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNRLVpDUHBRa01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE3MTc1MzAwMDA.webp",
-	"bit": "10k"
-},
-{
-	"id": 3,
-	"name": "Empire 102.7 FM",
-	"location": "Takoradi -Ghana",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Empire 102.7 FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-profiles.tunein.com/s227812/images/logog.jpg?t=1662528136000",
-	"bit": "1k"
-},
-{
-	"id": 2,
-	"name": "Wontumi Radio FM 101.3",
-	"location": "Kumasi -Ghana",
-	"url": "https://stream-152.zeno.fm/jtokvzu0il3vv?zs=hqzXqIdRTQ22f9mHRrCvzg",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://play-lh.googleusercontent.com/jZ9YIOxJIpaz3EJsYMtSYf6lrYPYN803dCrq1KcpzAnNFF9SUiNzoyCpalYnGkZIKw=w240-h480-rw",
-	"bit": "1k"
-},
-{
-	"id": 1,
-	"name": "Onua Fm",
-	"location": "Miim -Ghana",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Onua Fm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fl7ZaGxkhKsV9yd5YGMiNTgHgDbydDHY0VTS9XajCxSI%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNnamR6OW5nb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNnbmZHMHZnZ01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE3NDM1NTEwMDA.webp&w=1920&q=100",
-	"bit": "1k"
-}
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		{
+			"id": 116,
+			"name": "UTV",
+			"location": "Kumasi",
+			"url": "https://youtu.be/DsAyuTrONIk?list=UUA2f1lPcwYpBKA4JBMBHDSQ",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://th.bing.com/th/id/OIP.U6saiy_-YGny9LObbM-SYQHaHa?rs=1&pid=ImgDetMain",
+			"bit": "284k"
+		},
+			
+		{
+			"id": 115,
+			"name": "Oyerepa 100.7 Mhz FM",
+			"location": "Kumasi",
+			"url": "https://atunwapodcasts.com/player/oyerepafm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-profiles.tunein.com/s287368/images/logog.jpg?t=156139",
+			"bit": "284k"
+		},
+		{
+			"id": 112,
+			"name": "Adom TV Live",
+			"location": "Accra",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Adom TV Live.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://yt3.ggpht.com/rJ4Jxy03Qeaow861-WkgqCRwUEODqUvO-ZKj13cN_avoHP6sx8lYHC-DmF645KMJfXBrAm3R=s68-c-k-c0x00ffffff-no-rj",
+			"bit": "284k"
+		},
+		{
+			"id": 111,
+			"name": "Adom TV Live",
+			"location": "Accra",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Adom TV Live.html",
+			"added": 1,
+			"web": "wep",
+			"logo": "https://yt3.ggpht.com/rJ4Jxy03Qeaow861-WkgqCRwUEODqUvO-ZKj13cN_avoHP6sx8lYHC-DmF645KMJfXBrAm3R=s68-c-k-c0x00ffffff-no-rj",
+			"bit": "284k"
+		},
+		{
+			"id": 110,
+			"name": "Asaase Radi0 99.5",
+			"location": "Accra",
+			"url": "http://n05.radiojar.com/cyg76xcvp0hvv?rj-ttl=5&rj-tok=AAABj_K6B-sAnu4FWdcVfEfNxg",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-profiles.tunein.com/s264884/images/logod.png?t=637280309150000000",
+			"bit": "284k"
+		},
+		{
+			"id": 109,
+			"name": "Pluzz FM",
+			"location": "Accra",
+			"url": "https://a00.w3-gh.com/a11.mp3",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-profiles.tunein.com/s292269/images/logod.jpg?t=636511984157500000",
+			"bit": "284k"
+		},
+		{
+			"id": 107,
+			"name": "Adom Fie",
+			"location": "Accra",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Adom Fie.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-profiles.tunein.com/s186214/images/logod.png?t=637523693640000000",
+			"bit": "284k"
+		},
+		{
+			"id": 105,
+			"name": "Adom Fm",
+			"location": "Accra",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Adom Fie.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://imgs.search.brave.com/oFWRRgZvIsd8p2NmMA_qMOzjD8s92xGshIKE6vh__-c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/b25saW5lcmFkaW9i/b3guY29tL2ltZy9s/LzkvMTc2OS52MjYu/cG5n",
+			"bit": "1k"
+		},
+		{
+			"id": 104,
+			"name": "Peace fm",
+			"location": "Accra",
+			"url": "https://atunwapodcasts.com/player/peacefm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://despitemedia.com/v13/peace_200.png",
+			"bit": "284k"
+		},
+		{
+			"id": 103,
+			"name": "Adom 106.3 Fm",
+			"location": "Greater Accra Region",
+			"url": "https://atunwapodcasts.com/player/adomfm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://static.tuneyou.com/images/logos/500_500/89/7289/AdomFM106.3.jpg",
+			"bit": "408k"
+		},
+		{
+			"id": 102,
+			"name": "MyJoyonline",
+			"location": "1 Farrar Avenue, Adabraka Accra",
+			"url": "https://atunwapodcasts.com/player/joyfm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/a5/fc/ab/a5fcab38-1f23-0a6d-361d-5e3675d3ee8e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png",
+			"bit": "262k"
+		},
+		{
+			"id": 101,
+			"name": "Nhyira fm",
+			"location": "Kumasi, Ghana.",
+			"url": "https://atunwapodcasts.com/player/nhyirafm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtT8aCM6NKds4XNPfqgqAw151C0txwpXGkGc3ORLPFGmP2p-mXhEnWlYJDgc7tWgBc5aE&usqp=CAU",
+			"bit": "124k"
+		},
+		{
+			"id": 100,
+			"name": "Oman fm",
+			"location": "Madina Zongo Junction Accra",
+			"url": "http://omanfm.atunwadigital.streamguys1.com/omanfm",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-profiles.tunein.com/s124321/images/logog.png",
+			"bit": "134k"
+		},
+		{
+			"id": 99,
+			"name": "BOX : Afrofusion Gold live",
+			"location": "Greater Accra ",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Revival FM 99.3 live.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FWyaJZ9pQJOeRtc4mO1dHna9gMiNBvWiY_jlCkPnxi_A%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNnLTdlaW9Rb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJa2NfRXhnc01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE3NTk1NjIwMDA.webp&w=1920&q=100",
+			"bit": "1k"
+		},
+		{
+			"id": 98,
+			"name": "Lyke Radio",
+			"location": "Takoradi -Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Lyke Radio.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://static-media.streema.com/media/cache/ff/10/ff10671481ae574353acbf7a7b3e32a4.jpg",
+			"bit": "1k"
+		},
+		{
+			"id": 97,
+			"name": "RFI Afrique (Accra)",
+			"location": "Miim -Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/RFI Afrique (Accra).html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-radiotime-logos.tunein.com/s44233d.png",
+			"bit": "1k"
+		},
+		{
+			"id": 96,
+			"name": "Sweet Melodies FM (Accra)",
+			"location": "Miim -Ghana",
+			"url": "https://stream-153.zeno.fm/hsu9hfpqutzuv?zs=G7Sf0JU4Tce3N4Wlwq7gxw&listening-from-radio-garden=1691933686",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-profiles.tunein.com/s165738/images/logog.jpg?t=159003",
+			"bit": "1k"
+		},
+		{
+			"id": 95,
+			"name": "Ghana Waves Radio",
+			"location": "Miim -Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Ghana Waves Radio.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.inlife.tv/sites/default/files/logos/ghana-waves-radio.png",
+			"bit": "1k"
+		},
+		{
+			"id": 94,
+			"name": "Zuria FM",
+			"location": "Kumasi",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Zuria FM.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://africaradiostations.com/wp-content/uploads/2020/08/zuriafm-1400x1400-1.jpg",
+			"bit": "1k"
+		},
+		{
+			"id": 92,
+			"name": "Menstrocare FM",
+			"location": "Ghana",
+			"url": "http://stream.zenolive.com/8mg19entnd0uv",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://images.zeno.fm/znhnTTync_F8qd54kv3mGEbHoPeemsixAG2LGBBPpE4/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRa3RhVThRc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRa3I3cG9Rc01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjQ4Njc3MjYwMDA.webp",
+			"bit": "1k"
+		},
+		{
+			"id": 91,
+			"name": "Rejoice FM Ghana",
+			"location": "Kwaffo-krom, Suhum Nsawam road Nsawam Adoagyiri Municipality -Ghana",
+			"url": "http://s4.radio.co/s330e23155/listen",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://images.zeno.fm/zOW2gwJuhJ7jMqKSnqrxP75KHFB-hp7OhNguca0SuN0/rs:fit:240:240/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUN3MU03V2tnc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUR3c3ItaHN3b01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjA4OTYzNDgwMDA.webp",
+			"bit": "1k"
+		},
+		{
+			"id": 90,
+			"name": "Fly FM Ghana",
+			"location": "Takoradi -Ghana",
+			"url": "http://stream.zenolive.com/07mxn7h482vtv",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://media.licdn.com/dms/image/C4E03AQFkguDSjYnY8g/profile-displayphoto-shrink_800_800/0/1517271184798?e=2147483647&v=beta&t=8vxIkDpduLcqeaqD-U3exGylUr6_BW4DOTXYTMDepIM",
+			"bit": "1k"
+		},
+		{
+			"id": 89,
+			"name": "Ewiase FM 95.7",
+			"location": "Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Ewiase FM 95.7.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://radiofmdial.com/wp-content/uploads/2020/10/Ewiase-95.7.png",
+			"bit": "1k"
+		},
+		{
+			"id": 88,
+			"name": "ACCRA24.COM live",
+			"location": "Ghana Kumasi",
+			"url": "https://listen.openstream.co/4362/audio.mp3",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://1.bp.blogspot.com/-qkIil6_1GLo/VQ2138cREPI/AAAAAAAAB0Y/cFWrEKw3SUQ/s1600/Accra24-ghana-flag.png",
+			"bit": "1k"
+		},
+		{
+			"id": 87,
+			"name": "Revival 99.3 FM Ark 107.1 FM",
+			"location": "Ghana",
+			"url": "http://stream.zeno.fm/5f210wgmx38uv",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbz4dIHaZgWh6zG6kqxX5jIaFRXs2q5KQ2N50RWq2_rf0Cy4jDoPAYh_d-Qjeww9KMClY&usqp=CAU",
+			"bit": "1k"
+		},
+		{
+			"id": 86,
+			"name": "Spirit 88.3 fm",
+			"location": "Kumasi Ghana",
+			"url": "http://89.163.217.252:9322/stream",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-radiotime-logos.tunein.com/s274742g.png",
+			"bit": "1k"
+		},
+		{
+			"id": 85,
+			"name": "Atlantis Radio live",
+			"location": "Japekrom Ghana",
+			"url": "https://portal.streamcasterpro.com:8050/radio.mp3",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://imgs.search.brave.com/lijrUJuy5jXBj7GyHBN6o6JTpbOxG0PIXxIanx3n9hI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMyLm15dHVuZXIu/bW9iaS9tZWRpYS90/dm9zX3JhZGlvcy9V/UnRwRjlXWHVLLnBu/Zw",
+			"bit": "1k"
+		},
+		{
+			"id": 84,
+			"name": "Akwaaba Radio 98.1 MHz",
+			"location": "Berekum Ghana",
+			"url": "http://stream.zeno.fm/sp6guuapzc9uv",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-profiles.tunein.com/s279465/images/logog.png?t=1678755949000",
+			"bit": "1k"
+		},
+		{
+			"id": 83,
+			"name": "Akomapa FM 89.3",
+			"location": "Berekum Ghana",
+			"url": "http://mounthoreb1.primcast.com:8210/;",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://mytunein.com/images/logos/akomapa893fm.jpg",
+			"bit": "1k"
+		},
+		{
+			"id": 81,
+			"name": "Plan B 104.5 FM",
+			"location": "Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Plan B 104.5 FM.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn.onlineradiobox.com/img/l/4/90674.v10.png",
+			"bit": "1k"
+		},
+		{
+			"id": 80,
+			"name": "Native Radio",
+			"location": "Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Native Radio.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://static.mytuner.mobi/media/tvos_radios/Wpc7ZHqmF3.jpg",
+			"bit": "1k"
+		},
+		{
+			"id": 79,
+			"name": "Darling Radio",
+			"location": "Ghana",
+			"url": "https://atunwapodcasts.com/player/darlingfm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://mytunein.com/images/logos/darlingradio.jpg",
+			"bit": "1k"
+		},
+		{
+			"id": 78,
+			"name": "Nap Radio",
+			"location": "Ghana",
+			"url": "https://liveonlineradio.net/iframe/?p=nap-radio-901",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://static.mytuner.mobi/media/tvos_radios/nwdagpxrfncc.jpg",
+			"bit": "1k"
+		},
+		{
+			"id": 77,
+			"name": "Sikka Fm",
+			"location": "Ghana",
+			"url": "https://liveonlineradio.net/iframe/?p=sikka-89-5-fm",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-profiles.tunein.com/s148491/images/logog.jpg?t=1",
+			"bit": "1k"
+		},
+		{
+			"id": 76,
+			"name": "Pure FM",
+			"location": "Ghana",
+			"url": "https://atunwapodcasts.com/player/purefm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://atunwadigital.com/wp-content/uploads/2022/05/Pure-FM-..jpg",
+			"bit": "1k"
+		},
+		{
+			"id": 75,
+			"name": "Yankee 959 Fm",
+			"location": "Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Yankee 959 Fm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://mytunein.com/images/logos/yankee959fm.jpg",
+			"bit": "1k"
+		},
+		{
+			"id": 74,
+			"name": "West Gold 106.3 Radio",
+			"location": "Takoradi-Ghana",
+			"url": "http://node-21.zeno.fm/d3wwwxw09f8uv?rj-ttl=5&rj-tok=AAABfVFTQr0At80kIw-gP9GvCQ",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://images.zeno.fm/tMeiFAKSql7H_Jj-C_3es559Rhutj4rBnL1pVpo4OP0/rs:fit:440:440/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzc2Nzg2YmE0LTNjZTctNDUwZC04NTMwLTFjNGIzYzBiMTJkMC9pbWFnZS8_cmVzaXplPTQ0MHg0NDAmdXBkYXRlZD0xNjY0Mjg0NDgxMDAw.webp",
+			"bit": "24k"
+		},
+		{
+			"id": 73,
+			"name": "Akoma 87.9 fm",
+			"location": "Kumasi-Ghana",
+			"url": "http://stream.zeno.fm/h6y04t42u8quv",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://liveonlineradio.net/wp-content/uploads/2019/08/akoma-fm-87.9.jpg",
+			"bit": "24k"
+		},
+		{
+			"id": 72,
+			"name": "Live Xtra ghana FM 91.9",
+			"location": "Accra-Ghana",
+			"url": "http://stream.zenolive.com/7586sp6mua0uv",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-profiles.tunein.com/s210855/images/logog.jpg?t=1",
+			"bit": "124k"
+		},
+		{
+			"id": 71,
+			"name": "Ghana Music Radio",
+			"location": "Accra-Ghana",
+			"url": "http://streaming.radio.co:80/s92f890821/listen",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-radiotime-logos.tunein.com/s198490g.png",
+			"bit": "224k"
+		},
+		{
+			"id": 69,
+			"name": "360Africa Radio",
+			"location": "Takoradi-Ghana",
+			"url": "http://stream.zenolive.com/5gyngmysfzzuv",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://images.zeno.fm/XGKz2kDzGLwhJ6Zj7I94jUPtXFdrWYj6Mk2rKQ-cIxg/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNncU1IQXRBa01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNROHFYX3lnZ01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE3MzM2MTgwMDA.webp",
+			"bit": "54k"
+		},
+		{
+			"id": 67,
+			"name": "VOV Radio FM 95.7",
+			"location": "Takoradi-Ghana",
+			"url": "http://sp0001.opengradle.pro:8120/radio.mp3",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://pbs.twimg.com/profile_images/1420144091518709762/b1-aEcBF_400x400.jpg",
+			"bit": "14k"
+		},
+		{
+			"id": 66,
+			"name": "Citinews fm",
+			"location": "11 Dr. Morton Loop, Accra",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Citinews fm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://play-lh.googleusercontent.com/XvR0yi490Vaof6fyNAU9fQ8epXIed8UZpBSVdeGd0i3fMG8q8n15FIxgNVS-x8_vrm8",
+			"bit": "124k"
+		},
+		{
+			"id": 65,
+			"name": "Asempa fm",
+			"location": "4th Floor, Pyramid Hse, Ring Road",
+			"url": "https://atunwapodcasts.com/player/asempafm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjr8JIU82zOdF869ER9KLXlKtS6680pwWRHIGWhJQo0ZzXlZUPVluxXOMg98q_vxlw6xo&usqp=CAU",
+			"bit": "20k"
+		},
+		{
+			"id": 64,
+			"name": "Migatwu FM 93.3 live",
+			"location": "Eastern Koforidua",
+			"url": "https://stream.zeno.fm/8mk54olcd68uv",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://static.mytuner.mobi/media/tvos_radios/7fpYGWqNDh.jpg",
+			"bit": "1k"
+		},
+		{
+			"id": 63,
+			"name": "Okay fm",
+			"location": "Abeka Junction, Accra",
+			"url": "http://okayfm.atunwadigital.streamguys1.com/okayfm",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-profiles.tunein.com/s137336/images/logog.jpg",
+			"bit": "25k"
+		},
+		{
+			"id": 62,
+			"name": "Radio Gold",
+			"location": "No. 596/4 Link Rd. , Laterbiokorshie",
+			"url": "http://radiogold.atunwadigital.streamguys1.com/radiogold",
+			"added": 0,
+			"web": "wep",
+			"logo": "http://ghana.mom-gmr.org/typo3temp/_processed_/1/5/csm_6025-476_import_f79a5b2fb9.png",
+			"bit": "100k"
+		},
+		{
+			"id": 61,
+			"name": "Kessben",
+			"location": "ADUM-KUMASI. Affix Passpor",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Kesseben.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://atunwadigital.com/wp-content/uploads/2023/06/download-1.png",
+			"bit": "49k"
+		},
+		{
+			"id": 60,
+			"name": "Starr fm",
+			"location": "Ring Road Central, Accra",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Starr fm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://ghana.mom-gmr.org/uploads/tx_lfrogmom/media/6032-476_import.png",
+			"bit": "134k"
+		},
+		{
+			"id": 59,
+			"name": "Angel Fm",
+			"location": "Abrepo Junction. City: Kumasi",
+			"url": "http://angelfm.atunwadigital.streamguys1.com/angelfm",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-profiles.tunein.com/s295243/images/logog.jpg?t=157202",
+			"bit": "24k"
+		},
+		{
+			"id": 58,
+			"name": "Y107.9FM Accra",
+			"location": "Accra, Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Y107.9FM Accra.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://play-lh.googleusercontent.com/xnC9SB_MbXJG0s6eNu7AmygftlV8nFmddyLd0X00FH3wzp0kZUQIQaqh4-58vos9Rw",
+			"bit": "24k"
+		},
+		{
+			"id": 57,
+			"name": "Plus Radio Ghana live",
+			"location": "oyerepa fm adum, Kumasi, Ghana",
+			"url": "https://stream.zeno.fm/2vuvw6v8vv8uv",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://play-lh.googleusercontent.com/CwI7ptu9SsLECWIz0RmvN0eZxPc7Ct7UREYLpEAG7i2oACWJE34pmaT9tYvzMG_2uEI=w240-h480-rw",
+			"bit": "4k"
+		},
+		{
+			"id": 56,
+			"name": "Sankofa Fm",
+			"location": "DN Uber Drv. 6 Moon Flower Cl, Christian",
+			"url": "http://s2.nexuscast.com:8068/stream",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-radiotime-logos.tunein.com/s111596d.png",
+			"bit": "3k"
+		},
+		{
+			"id": 55,
+			"name": "Gold City Radio live",
+			"location": "Ghana Volta Ho",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Gold City Radio live.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqr3_NAsdNRbwbaWWxFnGOzhn-dOXth1j1uidHuJ0wgDPkhin9WlkdFvAZvBwhArtu50&usqp=CAU",
+			"bit": "24k"
+		},
+		{
+			"id": 54,
+			"name": "Bryt FM live",
+			"location": "Eastern Koforidua",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Bryt FM live.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://mybrytfmonline.com/wp-content/uploads/2021/12/MULTIMEDIA-logos-01-e1639695621300.png",
+			"bit": "1k"
+		},
+		{
+			"id": 53,
+			"name": "Time 96.9 FM",
+			"location": "Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Time 96.9 FM.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://pbs.twimg.com/profile_images/378800000465812475/e1da78427c3a6af3719d761464537bab_400x400.jpeg",
+			"bit": "1k"
+		},
+		{
+			"id": 52,
+			"name": "3FM 92.7",
+			"location": "Adesa We, Kanda, 1122 Accra",
+			"url": "http://node-03.zeno.fm/hk573nh6sm0uv?rj-ttl=5&rj-tok=AAABeGCjYzwAQCWbxuXES8VIQA",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://mytunein.com/images/logos/3fm927.jpg",
+			"bit": "1k"
+		},
+		{
+			"id": 51,
+			"name": "Hello FM 101.5",
+			"location": "Accra - Despite Group",
+			"url": "http://hellofm.atunwadigital.streamguys1.com/hellofm",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm1mszrRN8HSb9ajBL5wwZ9-9TVuXUrtoWGxHcZAKB-i_2yi6pPG1zfL0ftTUQGX2W1wc&usqp=CAU",
+			"bit": "2k"
+		},
+		{
+			"id": 50,
+			"name": "Neat Fm",
+			"location": "Accra-Ghana",
+			"url": "https://atunwapodcasts.com/player/neatfm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://d371i8ihhgym7w.cloudfront.net/38596929.jpg",
+			"bit": "24k"
+		},
+		{
+			"id": 49,
+			"name": "Luv Fm",
+			"location": "PMB, Amakom",
+			"url": "https://atunwapodcasts.com/player/luvfm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://play-lh.googleusercontent.com/y_6K-4y0zs7rqiY-uY-8LIV54wGY65LC3LewMM25wtnHXITHWd-cnsoNtVzfb23w-S3V",
+			"bit": "14k"
+		},
+		{
+			"id": 48,
+			"name": "SUNSHINE RADIO GH live",
+			"location": "C680/3 Asylum Down",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Happy 98.9 FM.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://liveonlineradio.net/wp-content/uploads/2021/09/Sunshine-Radio-Gh.jpg",
+			"bit": "8k"
+		},
+		{
+			"id": 47,
+			"name": "Boss 93.7 FM",
+			"location": "Kumasi-Ghana",
+			"url": "http://node-03.zeno.fm/m087d3huy7zuv?rj-ttl=5&rj-tok=AAABfYwAaJcA3bXZYUvOS55e_w",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://mytunein.com/images/logos/boss937fm.jpg",
+			"bit": "8k"
+		},
+		{
+			"id": 46,
+			"name": "Kasapa 102.5FM",
+			"location": "Farrar Ave, Accra",
+			"url": "http://node-10.zeno.fm/3eh6htuyk8quv?rj-ttl=5&rj-tok=AAABeGSA48kAK5lEK8npAEqnlw",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-radiotime-logos.tunein.com/s174903g.png",
+			"bit": "6k"
+		},
+		{
+			"id": 45,
+			"name": "Live 91.9 FM",
+			"location": "QUEST FINE LIMITED",
+			"url": "http://stream.zeno.fm/7586sp6mua0uv",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://static-media.streema.com/media/cache/94/01/94016de6e8e8be20c3d0d580604a6a79.jpg",
+			"bit": "24k"
+		},
+		{
+			"id": 44,
+			"name": "Neat FM 100.9",
+			"location": "GRAND MEDALIST",
+			"url": "https://atunwapodcasts.com/player/neatfm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://d371i8ihhgym7w.cloudfront.net/38596929.jpg",
+			"bit": "24k"
+		},
+		{
+			"id": 43,
+			"name": "Ashh FM 101.1",
+			"location": "Kumasi Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Ashh FM 101.1.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexwhTOkO6v2YkPzq0akQz9gOhWb8IFtN8uRV8XlwpnoA-ybW3YWFOfUDDzUvqKjZdU70&usqp=CAU",
+			"bit": "4k"
+		},
+		{
+			"id": 42,
+			"name": "Potters FM 88.3 live",
+			"location": "Accra Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Bosco Radio.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn.modernghana.com/radio_logo/1323920601054071581406011570955013497207540n.jpg",
+			"bit": "1k"
+		},
+		{
+			"id": 40,
+			"name": "TOP 103.1 FM",
+			"location": "Accra Ghana",
+			"url": "https://stream-172.zeno.fm/zx27mvh1geruv?zs=q1CRTonZQnOyF8QmNjAoiw&zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6eDI3bXZoMWdlcnV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsImp0aSI6InExQ1JUb25aUW5PeUY4UW1OakFvaXciLCJpYXQiOjE3MTI2Njc0NTgsImV4cCI6MTcxMjY2NzUxOH0.3uA3g25YUD5e9EpfVsY0-QVjrhheFlLFZP3rIpKZBO0&zttl=5",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://play-lh.googleusercontent.com/_yQBEwhpqF1Y7_bU72nFTZ4Xz2EZpHjU92pZDvNSxOIni3lSc8JDrdqX6Tyo5hJNIQ=w240-h480-rw",
+			"bit": "1k"
+		},
+		{
+			"id": 39,
+			"name": "Ark 107.1 FM",
+			"location": "Ghana",
+			"url": "http://67.212.165.106:8247/stream/;",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBEpKuEO8EA-UFl_n3ntm-FNNwWqDQN7xHvA&s",
+			"bit": "1k"
+		},
+		{
+			"id": 38,
+			"name": "Twifoman 1053 FM",
+			"location": "Accra Ghana",
+			"url": "http://node-27.zeno.fm/ar923b8kubruv?rj-ttl=5&rj-tok=AAABeKNK0a4AXXi393G4kmnKWg",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://liveonlineradio.net/wp-content/uploads/2019/08/twifoman-fm.jpg",
+			"bit": "9k"
+		},
+		{
+			"id": 37,
+			"name": "JOJEM FM live",
+			"location": "Accra-Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Hot 93.9 FM.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://static.mytuner.mobi/media/tvos_radios/sy8qedamfrfj.webp",
+			"bit": "24k"
+		},
+		{
+			"id": 36,
+			"name": "Vision1 FM",
+			"location": "Accra-Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Vision1 FM.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn.onlineradiobox.com/img/l/6/7086.v6.png",
+			"bit": "3k"
+		},
+		{
+			"id": 34,
+			"name": "Jaman Radio",
+			"location": "Drobo-Ghana",
+			"url": "https://stream.zeno.fm/rnw8qdutus8uv",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn.modernghana.com/radio_logo/jamanradio.jpg",
+			"bit": "17k"
+		},
+		{
+			"id": 33,
+			"name": "Connect FM",
+			"location": "Takoradi-Ghana",
+			"url": "http://node-28.zeno.fm/13tbqr42u8quv?rj-ttl=5&rj-tok=AAABeNeYT9QAzMt5JqgImiKFqg",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://static.mytuner.mobi/media/tvos_radios/q3zkwyj5qtus.png",
+			"bit": "19k"
+		},
+		{
+			"id": 32,
+			"name": "Ezra 94.1",
+			"location": "kumasi-Ghana",
+			"url": "https://strw3.openstream.co/2262?aw_0_1st.collectionid%3D6183%26stationId%3D6183%26publisherId%3D2286%26k%3D1712667878",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn.onlineradiobox.com/img/l/1/96651.v10.png",
+			"bit": "62k"
+		},
+		{
+			"id": 31,
+			"name": "Tamasi Radio",
+			"location": "Tamale-Ghana",
+			"url": "http://stream.42netmedia.com:8000/sc_tamas",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://static-media.streema.com/media/cache/ac/1e/ac1ef1fb5eaedaeab1591360be7530e0.jpg",
+			"bit": "9k"
+		},
+		{
+			"id": 30,
+			"name": "Agoo 96.9 FM",
+			"location": "Kwahu-West-Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Agoo 96.9 FM.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-profiles.tunein.com/s228220/images/logog.jpg?t=155552",
+			"bit": "21k"
+		},
+		{
+			"id": 29,
+			"name": "Bujanyz Radio",
+			"location": "Ghana",
+			"url": "http://node-25.zeno.fm/2beb7s91rtzuv?rj-ttl=5&rj-tok=AAABeNqXQPoAYrR4KtliaLWy6Q",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://play-lh.googleusercontent.com/z7J6P9_U9mZeHmFdKX89vJgFA3gwU6gI_ovenwNlCF3gQgyxveimrWJxgluEICccdA=w240-h480-rw",
+			"bit": "14k"
+		},
+		{
+			"id": 28,
+			"name": "GBC Uniiq FM",
+			"location": "Ring Road Central, Kanda-Ghana",
+			"url": "https://mediagh.us:2000/stream/uniiqfm",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn.webrad.io/images/logos/radio-com-gh/gbc-uniiq-fm.png",
+			"bit": "24k"
+		},
+		{
+			"id": 27,
+			"name": "Class FM",
+			"location": "Accra-Ghana",
+			"url": "https://stream-155.zeno.fm/6fseb4nbe3quv?zs=OWkvesFbSBW70o4_arim4w&zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2ZnNlYjRuYmUzcXV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsImp0aSI6Ik9Xa3Zlc0ZiU0JXNzBvNF9hcmltNHciLCJpYXQiOjE3MTI2NjgxODMsImV4cCI6MTcxMjY2ODI0M30.u9U7Kl8Efc1tbhKrCo68AmS4hQqzyhd-XOD5WlV7RHQ&zttl=5",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn.onlineradiobox.com/img/l/6/91756.v7.png",
+			"bit": "28k"
+		},
+		{
+			"id": 26,
+			"name": "Deliverance Radio UK",
+			"location": "UK",
+			"url": "https://stream-153.zeno.fm/su941crpp9duv?zs=-iUxcKF4SCmEgFvho8XF_Q&zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzdTk0MWNycHA5ZHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsImp0aSI6Ii1pVXhjS0Y0U0NtRWdGdmhvOFhGX1EiLCJpYXQiOjE3MTI2Njg0MjUsImV4cCI6MTcxMjY2ODQ4NX0.eRHiqfEJ9c-rSw_tJmm-zIV_6tCBJu7JjU_qWjQnDNk&zttl=5&adtonosListenerId=01HTZ1R8KS4BY37C6K8M3E22DK&aw_0_req_lsid=21fdd5c676f30aef7a2c13feed96bad6&dyn-uid=2529200507684439048&an-uid=0&mm-uid=d2ad6613-ff0d-4900-a4aa-fb23a190956e&dot-uid=0a5e2000006ec26f3e00fe95&triton-uid=cookie%3A243648df-3e72-4fb5-bfad-b9997624d03a&amb-uid=7939336383061243976",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://static.mytuner.mobi/media/tvos_radios/YHpRDugZKE.png",
+			"bit": "29k"
+		},
+		{
+			"id": 25,
+			"name": "Ghana Waves",
+			"location": "Accra-Ghana",
+			"url": "http://node-05.zeno.fm/pg5c7zx3p0quv?rj-ttl=5&rj-tok=AAABeQPVdC4AGME8h31NjoCoow",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.radio.net/images/broadcasts/83/e8/1599/c300.png",
+			"bit": "24k"
+		},
+		{
+			"id": 24,
+			"name": "Jesus Temple Radio",
+			"location": "Accra-Ghana",
+			"url": "https://mediagh.us:2020/stream/temple",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://images.zeno.fm/pVVGRwZt0T6SL0vymzNtw6tgOjY25jk_zDNKX17lpd8/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNBbjcyODN3Z01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRc0tpaGx3Z01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2Nzk3NzIzNjAwMDA.webp",
+			"bit": "3k"
+		},
+		{
+			"id": 23,
+			"name": "Cem FM",
+			"location": "Kumasi-Ghana",
+			"url": "https://stream-40.zeno.fm/49cwxy2n1p8uv?zs=HPWDRACYTGKbkfxmAHJ66g",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FBlgHa0DG30YJ9hOt3SAWN2INNBNob_3dgmHfyo5LTvE%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUN3NEsyaHR3a01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUN3MEpmRS1Bb01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE2NTM5ODcwMDA.webp&w=1920&q=100",
+			"bit": "100k"
+		},
+		{
+			"id": 22,
+			"name": "Mighty God Radio",
+			"location": "Ghana",
+			"url": "http://173.249.50.205:8010/;",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://play-lh.googleusercontent.com/CwI7ptu9SsLECWIz0RmvN0eZxPc7Ct7UREYLpEAG7i2oACWJE34pmaT9tYvzMG_2uEI=w240-h480-rw",
+			"bit": "36k"
+		},
+		{
+			"id": 21,
+			"name": "PLATINUM RADIO",
+			"location": "Kanda Estate, Ghana",
+			"url": "http://node-04.zeno.fm/yh5n6v6xr0quv?rj-ttl=5&rj-tok=AAABeQPmGBEAe8-ahooZ8tz4OA",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://liveonlineradio.net/wp-content/uploads/2021/08/Platinum-Radio-Ghana-100x47.jpg",
+			"bit": "144k"
+		},
+		{
+			"id": 20,
+			"name": "Spice FM",
+			"location": "Takoradi, Ghana",
+			"url": "http://sp0001.opengradle.pro:8030/live.mp3",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-radiotime-logos.tunein.com/s222751d.png",
+			"bit": "24k"
+		},
+		{
+			"id": 19,
+			"name": "Y97.9 FM Takoradi",
+			"location": "Takoradi, Ghana",
+			"url": "https://atunwadigital.streamguys1.com/yfm979takoradi",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://atunwadigital.com/wp-content/uploads/2022/05/YFM-Takoradi.png",
+			"bit": "24k"
+		},
+		{
+			"id": 18,
+			"name": "Skyy power fm",
+			"location": "Takoradi, Ghana",
+			"url": "http://node-12.zeno.fm/8ct99fxeq8quv?rj-ttl=5&rj-tok=AAABeWfnHS0ArsQY8S5GM_hIrg",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://233times.net/wp-content/uploads/2019/02/1896775_292346144251899_1374876228_n.jpg",
+			"bit": "24k"
+		},
+		{
+			"id": 17,
+			"name": "Hitz fm",
+			"location": "Faanofa Rd, Accra",
+			"url": "https://atunwapodcasts.com/player/hitzfm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.musicinafrica.net/sites/default/files/images/music_professional_profile/201508/hitzfm.jpg",
+			"bit": "10k"
+		},
+		{
+			"id": 16,
+			"name": "Otec Fm",
+			"location": "Asawasi; Kumasi",
+			"url": "https://stream.zenolive.com/8rv5ee923p5tv.aac",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn.webrad.io/images/logos/radio-com-gh/otec.png",
+			"bit": "11k"
+		},
+		{
+			"id": 15,
+			"name": "Trust FM Achimota",
+			"location": "Achimota-Neoplan",
+			"url": "http://node-11.zeno.fm/83dhqkqe27zuv?rj-ttl=5&rj-tok=AAABeGPfO-sA790we20IBG1IYg",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn.onlineradiobox.com/img/l/4/84924.v6.png",
+			"bit": "71k"
+		},
+		{
+			"id": 12,
+			"name": "Nhyira Fie FM",
+			"location": "Adum \u2013 Kejetia, Kumasi",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/nhyirafm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-profiles.tunein.com/s282835/images/logog.png?t=162247",
+			"bit": "214k"
+		},
+		{
+			"id": 11,
+			"name": "Radio XYZ - FM 93.1",
+			"location": "Accra Ghana",
+			"url": "https://stream-65.zeno.fm/jlcgxhhwoymvv?zs=Dgm8paHcQbOB5C2_yp6DNg",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-profiles.tunein.com/s155684/images/logog.jpg?t=1",
+			"bit": "4k"
+		},
+		{
+			"id": 10,
+			"name": "Ahotor FM 92.3",
+			"location": "Takoradi, Ghana",
+			"url": "http://node-10.zeno.fm/bbpfy9pk21zuv?rj-ttl=5&rj-tok=AAABeWgJUy0A1pKMOJY_rlYeZw",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-radiotime-logos.tunein.com/s270288g.png",
+			"bit": "2k"
+		},
+		{
+			"id": 9,
+			"name": "New Covenant Gospel",
+			"location": "Germany",
+			"url": "https://newcovenant.radioca.st/stream",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://mytunein.com/images/logos/newcovenant.jpg",
+			"bit": "1k"
+		},
+		{
+			"id": 8,
+			"name": "Fox 97.9 FM",
+			"location": "Accra-Ghana",
+			"url": "http://foxfm.atunwadigital.streamguys1.com/foxfm?amsparams=playerid%3ASGplayer%3Bskey%3A1578575319807%3B&awparams=playerid%3ASGplayer%3B",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://liveonlineradio.net/wp-content/uploads/2015/10/Fox-97.9-FM.jpg",
+			"bit": "4k"
+		},
+		{
+			"id": 6,
+			"name": "Omega GE Radio",
+			"location": "Cape coast -Ghana",
+			"url": "http://stream.zenolive.com/puwca5c8hkeuv",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://images.zeno.fm/mHftTrKgUF2WFS1G89rEGALPavWZC5bJg9DBcCTIyo4/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURBM0llbF9BZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNBZ01EaGlnb01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjEzNjA3NDYwMDA.webp",
+			"bit": "5k"
+		},
+		{
+			"id": 5,
+			"name": "Amba FM",
+			"location": "Sunyani -Ghana",
+			"url": "http://stream.zeno.fm/3611nauzvk8uv",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://images.zeno.fm/segacSrdfTzFnOdJy3PNpI6V85BFGW8mV2LbxmKvTcs/rs:fit:440:440/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRMjduVnNnc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRdTdDYTZnZ01vZ0VFZW1WdWJ3L2ltYWdlLz9yZXNpemU9NDQweDQ0MCZ1cGRhdGVkPTE2NjE2NTAxMTYwMDA.webp",
+			"bit": "7k"
+		},
+		{
+			"id": 4,
+			"name": "Twinfix Radio",
+			"location": "Takoradi -Ghana",
+			"url": "http://stream.zeno.fm/d6h5gn0qp2zuv",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://images.zeno.fm/7OesNRIVQBFOlHVkaFYMUM6NE0TvkJ0yApEcZGV9OOA/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNRMmNLT3FnZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNRLVpDUHBRa01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE3MTc1MzAwMDA.webp",
+			"bit": "10k"
+		},
+		{
+			"id": 3,
+			"name": "Empire 102.7 FM",
+			"location": "Takoradi -Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Empire 102.7 FM.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://cdn-profiles.tunein.com/s227812/images/logog.jpg?t=1662528136000",
+			"bit": "1k"
+		},
+		{
+			"id": 2,
+			"name": "Wontumi Radio FM 101.3",
+			"location": "Kumasi -Ghana",
+			"url": "https://stream-152.zeno.fm/jtokvzu0il3vv?zs=hqzXqIdRTQ22f9mHRrCvzg",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://play-lh.googleusercontent.com/jZ9YIOxJIpaz3EJsYMtSYf6lrYPYN803dCrq1KcpzAnNFF9SUiNzoyCpalYnGkZIKw=w240-h480-rw",
+			"bit": "1k"
+		},
+		{
+			"id": 1,
+			"name": "Onua Fm",
+			"location": "Miim -Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Onua Fm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fl7ZaGxkhKsV9yd5YGMiNTgHgDbydDHY0VTS9XajCxSI%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNnamR6OW5nb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNnbmZHMHZnZ01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE3NDM1NTEwMDA.webp&w=1920&q=100",
+			"bit": "1k"
+		}
 
 ]
