@@ -15,11 +15,19 @@
 
 
        
-
+        {
+            "id": 762,
+            "name": "HITS 106.1",
+            "location": "Richfield, Minnesota",
+            "url": "https://kwesiamartey.github.io/AllRadioStation/unitedState_webplayer/HITS 106.1.html",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://i.iheart.com/v3/re/assets.brands/66a26f1161c8393c29c16d13?ops=gravity(%22center%22),contain(600,200)&quality=80"     
+        },
        {
             "id": 761,
             "name": "101.3 KDWB",
-            "location": "Neptune Beach, Florida",
+            "location": "Richfield, Minnesota",
             "url": "https://kwesiamartey.github.io/AllRadioStation/unitedState_webplayer/101.3 KDWB.html",
             "added": 0,
             "web": "wep",
