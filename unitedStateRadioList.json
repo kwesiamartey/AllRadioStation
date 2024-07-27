@@ -14,7 +14,15 @@
 
 
 
-       
+        {
+            "id": 763,
+            "name": "HITS 106.1",
+            "location": "Richfield, Minnesota",
+            "url": "https://ice7.securenetsystems.net/WFCC",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://cdnrf.securenetsystems.net/file_radio/stations_large/WFCC/v5/logo.png?cb=20240727113014"     
+        },
         {
             "id": 762,
             "name": "HITS 106.1",
