@@ -1,820 +1,842 @@
 [
-{
-	"id": 116,
-	"name": "Mai FM live",
-	"location": "Malaysia",
-	"url": "https://listen.radionomy.com/mairadio2",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/g8krmvfmmkv9.jpg"
-},
-{
-	"id": 115,
-	"name": "Classic Rock FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Classic Rock FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://radio-online.my/storage/radios/8528/66551/conversions/zg0HYw1H8kHoaRIHf1wnVh2duqGZBY-metac3lva2NsYXNzaWNyb2NrLndlYnA=--lg.webp"
-},
-{
-	"id": 114,
-	"name": "CAT FM",
-	"location": "Malaysia",
-	"url": "https://s4.yesstreaming.net:7019/stream/1/",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://catsfm.my/img/logo.png"
-},
-{
-	"id": 92,
-	"name": "MY FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/MY FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://radio-online.my/storage/radios/8386/45315/conversions/wKzts9SwDH4ABnmzCoRlXfW4A7hFLK-metabXlmbW4ucG5n--lg.webp"
-},
-{
-	"id": 91,
-	"name": "Sinar Kuala Lumpur,",
-	"location": "Malaysia",
-	"url": "https://n16.rcs.revma.com/azatk0tbv4uvv?rj-ttl=5&rj-tok=AAABjEmpMVAA7vjUcqRtQYaJ9g",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/sinar-irama70/square_md.png"
-},
-{
-	"id": 90,
-	"name": "Sinar Irama 70",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Sinar Irama 70.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/sinar-irama70/square_md.png"
-},
-{
-	"id": 89,
-	"name": "Sinar Jiwang",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Sinar Jiwang.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/sinar-rock/square_md.png"
-},
-{
-	"id": 88,
-	"name": "Sinar Rock Kapak",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Sinar Rock Kapak.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/sinar-rock/square_md.png"
-},
-{
-	"id": 87,
-	"name": "Sinar I - Musik",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Sinar I - Musik.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/sinar-imusik/square_md.png"
-},
-{
-	"id": 86,
-	"name": "Sinar Sinema",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Sinar Sinema.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/sinar-sinema/square_md.png"
-},
-{
-	"id": 85,
-	"name": "Sinar Pop Yeh Yeh",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Sinar Pop Yeh Yeh.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/sinar-popyehyeh/square_md.png"
-},
-{
-	"id": 84,
-	"name": "Sinar Iramalaysia",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Sinar Iramalaysia.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/sinar-iramalaysia/square_md.png"
-},
-{
-	"id": 83,
-	"name": "HITZ FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/HITZ - 92.9 FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/hitz/square_md.jpg"
-},
-{
-	"id": 82,
-	"name": "Hitz Throwback",
-	"location": "Malaysia",
-	"url": "https://audio1.syok.my/hitz",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://online-radio.my/uploads/img/hitz-throwback.png"
-},
-{
-	"id": 81,
-	"name": "HITZ Chillest",
-	"location": "Malaysia",
-	"url": "https://audio1.syok.my/hitz",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://online-radio.my/uploads/img/hitz-chillest.png"
-},
-{
-	"id": 80,
-	"name": "Hitz Local",
-	"location": "Malaysia",
-	"url": "https://audio1.syok.my/hitz",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://online-radio.my/uploads/img/hitz-local.png"
-},
-{
-	"id": 79,
-	"name": "Hitz Top40",
-	"location": "Malaysia",
-	"url": "https://audio1.syok.my/hitz",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://online-radio.my/uploads/img/hitz-top40.png"
-},
-{
-	"id": 78,
-	"name": "HITZ Sabah",
-	"location": "Malaysia",
-	"url": "https://audio1.syok.my/hitz",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://online-radio.my/uploads/img/hitz-sabah.jpg"
-},
-{
-	"id": 77,
-	"name": "HITZ Tiktok",
-	"location": "Malaysia",
-	"url": "https://audio1.syok.my/hitz",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://online-radio.my/uploads/img/hitz-tiktok.png"
-},
-{
-	"id": 76,
-	"name": "HITZ KPop",
-	"location": "Malaysia",
-	"url": "https://audio1.syok.my/hitz",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://online-radio.my/uploads/img/hitz-kpop.png"
-},
-{
-	"id": 75,
-	"name": "Hitz Stage",
-	"location": "Malaysia",
-	"url": "https://audio1.syok.my/hitz",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/hitz-stage/021023/square_md.png"
-},
-{
-	"id": 74,
-	"name": "Hitz Urban",
-	"location": "Malaysia",
-	"url": "https://audio1.syok.my/hitz",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/hitz_urban/021023/square_md.png"
-},
-{
-	"id": 73,
-	"name": "Hitz Dance",
-	"location": "Malaysia",
-	"url": "https://audio1.syok.my/hitz",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/hitz-dance/021023/sqaure_md.png"
-},
-{
-	"id": 72,
-	"name": "Era Indie",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Era Indie.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/era-indie/141123/square_md.png"
-},
-{
-	"id": 71,
-	"name": "Era ThrowBaek",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Era ThrowBaek.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/era-throwbaek/141123/square_md.png"
-},
-{
-	"id": 70,
-	"name": "Era Lagu Baru Nak Up",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Era Lagu Baru Nak Up.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/era-lbnu/141123/square_md.png"
-},
-{
-	"id": 69,
-	"name": "Era Cintan",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Era Cintan.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/era-cintan/141123/square_md.png"
-},
-{
-	"id": 68,
-	"name": "Era Nurock",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Era Nurock.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/era-nurock/141123/square_md.png"
-},
-{
-	"id": 67,
-	"name": "Era Nusantera",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Era Nusantera.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/era-nusantera/141123/square_md.png"
-},
-{
-	"id": 66,
-	"name": "Era (Sarawak)",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Era (Sarawak).html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://assets.radioactive.sg/org-astro/09fdd793-fe4d-411b-9cf5-030f00817223-era%20swk%20422.jpg"
-},
-{
-	"id": 65,
-	"name": "Sinar FM 96.7",
-	"location": "Menyinari Hidupmu",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/sinar.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/sinar/square_md.jpg"
-},
-{
-	"id": 64,
-	"name": "Suria FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/suria.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.webrad.io/images/logos/radioonline-my/suria-fm.png"
-},
-{
-	"id": 63,
-	"name": "Hitz FM 92.9",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/hitzfm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/hitz/square_md.jpg"
-},
-{
-	"id": 62,
-	"name": "Era Fm",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/era.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://play-lh.googleusercontent.com/1t-9LrCKZWhPRuH9rQfgPi7Bg-jqJZCOG-VYtXQyoE1u-r145OoXSMHPoICCgpQu8g"
-},
-{
-	"id": 61,
-	"name": "Melody Fm",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/melody.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://radio-online.my/storage/radios/8391/45319/conversions/fQTBuUlMb8Gxl0pRLIbtdMGw9B4HkU-metabWVsb2R5Zm0ucG5n--lg.webp"
-},
-{
-	"id": 60,
-	"name": "My Fm",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/myfm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://storage.unitedwebnetwork.com/files/41/5d4dcba612220167601446c79ff1c75d.jpg"
-},
-{
-	"id": 59,
-	"name": "Thr Gegar",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Gegar.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/gegar/square_md.jpg"
-},
-{
-	"id": 58,
-	"name": "Mix FM 99.1 FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/mix.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn-profiles.tunein.com/s7556/images/logod.jpg?t=164482"
-},
-{
-	"id": 57,
-	"name": "Hot FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/hot.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpSwhWFNvGh5xso1OjigaUYHXZ3xYK_6A795L90P62h5oEWNz6kAqO4PdE3l4i1xOssJ4&usqp=CAU"
-},
-{
-	"id": 56,
-	"name": "ERA Flow",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/ERA FM 102.4.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/era-flow/square_md1.png"
-},
-{
-	"id": 55,
-	"name": "ERA FM Sabah",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/ERA FM (Sabah).html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/era-sabah/square_md.jpg"
-},
-{
-	"id": 54,
-	"name": "ERA K - Hit",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/ERA FM Pop.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/era-khit/141123/square_md.png"
-},
-{
-	"id": 53,
-	"name": "MY FM (Sabah)",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/myfmsabah.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/my/square_md.jpg"
-},
-{
-	"id": 51,
-	"name": "MY FM Sarawak 96.9 FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/myfmsarawak.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/stations/my/square_md.jpg"
-},
-{
-	"id": 50,
-	"name": "Fly FM 89.9",
-	"location": "Taiping Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Fly FM 89.9.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://revmedia.my/wp-content/uploads/2020/10/RMG-Website-logos-Flyfm2021-300x240.png"
-},
-{
-	"id": 48,
-	"name": "988 FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/988.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://pwaimg.listenlive.co/988_FM_2428031_config_station_logo_image_1582878594.jpg"
-},
-{
-	"id": 47,
-	"name": "Radio Klasik 98.3 FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Radio Klasik 98.3 FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.webrad.io/images/logos/radioonline-my/klasik-kuala-lumpur.png"
-},
-{
-	"id": 46,
-	"name": "One fm",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/onefm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://thesmartlocal.com/reviews/wp-content/uploads/2012/10/1-1350705752.jpg"
-},
-{
-	"id": 45,
-	"name": "Raaga 103.7 FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Raaga.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/zSa2ReZBeK.jpg"
-},
-{
-	"id": 44,
-	"name": "Minnal FM 92.3 FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Minnal.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/gz233FwEMu.jpg"
-},
-{
-	"id": 43,
-	"name": "Best 104.1 FM",
-	"location": "Malaysia",
-	"url": "https://n21a-eu.rcs.revma.com/h34x4kgg9hhvv?rj-ttl=5&rj-tok=AAABgFchp9kArHjH6lJwzwQy6g",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/eZjgx8CJVy.jpg"
-},
-{
-	"id": 42,
-	"name": "India Beat 86.4 FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/India Beat 86.4 FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static-media.streema.com/media/cache/ed/46/ed46a2c2e90376bd63b7552ea2afc4a5.jpg"
-},
-{
-	"id": 41,
-	"name": "Osai FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Osai FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/nxj4KZsnrs.png"
-},
-{
-	"id": 39,
-	"name": "Kool FM Malaysia",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/kool.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpTmayTuhKOerx9uD9tJ21CXC80tLMBBODZUtkRCH5FKPlfCLtxMvPUzcmcDQALyG3ncs&usqp=CAU"
-},
-{
-	"id": 37,
-	"name": "Wai FM Iban",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Wai FM Iban.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://play-lh.googleusercontent.com/0sEdbzsRG5KGWFeFQG7mkIimH7XM3Wiamk5S4QaGFfpxQNK5Ahzx8RarC2-maAmo9pES"
-},
-{
-	"id": 36,
-	"name": "BFM 89.9 FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/BFM 89.9 FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://www.radio.net/images/broadcasts/30/8a/21643/c300.png"
-},
-{
-	"id": 35,
-	"name": "RTM TraXX FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/RTM TraXX FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://traxxfm.rtm.gov.my/storage/app/uploads/public/610/366/ab7/610366ab7e7f2731499824.png"
-},
-{
-	"id": 34,
-	"name": "Gold FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Gold FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/FcTnRHDBrk.png"
-},
-{
-	"id": 33,
-	"name": "KL FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/kl.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/ehfd7kr2wbqa.jpeg"
-},
-{
-	"id": 32,
-	"name": "Kelantan FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Kelantan FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNb23JM8uMR7xdEJKYDnicXFTNt40euZF06Akls3QNT90WT2PUcmZFbrX25Mqg4wpROH0MFLRK7fxQFc8ndWjtS__hE0AEllLd5YRJiGb1r6lgv5DJzaQamI1yD9Ea_CF3Gw4ZBb6SrMaNAmPMpEwbC_DgLuwvAzoPG6YOvoyFNvZ_tU6ubfFVKvFGjQ/s659/KELANTAN%20FM%20LOGO%20old%20and%20new.jpg"
-},
-{
-	"id": 31,
-	"name": "Hitz FM - Sarawak live",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Hitz FM - Sarawak live.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.wikia.nocookie.net/logopedia/images/1/1e/Hitz_Sarawak.png/revision/latest?cb=20211113073243"
-},
-{
-	"id": 30,
-	"name": "Kedah Alor (Star) 97.5 FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Kedah Alor (Star) 97.5 FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/rfmp4bu82rtc.jpeg"
-},
-{
-	"id": 29,
-	"name": "Jazz",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Jazz.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://down-my.img.susercontent.com/file/a50f07e6bc756c9d3b7d3cc717e372ca"
-},
-{
-	"id": 28,
-	"name": "Johor 101.9 FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Johor 101.9 FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://upload.wikimedia.org/wikipedia/en/6/6e/Johor_FM_logo_2021.png"
-},
-{
-	"id": 27,
-	"name": "Cats 99.3 FM",
-	"location": "Malaysia",
-	"url": "https://s4.yesstreaming.net:7019/stream/1/",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://mytunein.com/images/logos/cats993fm.jpg"
-},
-{
-	"id": 26,
-	"name": "Mutiara 95.7 FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Mutiara 95.7 FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.webrad.io/images/logos/radioonline-my/mutiara.png"
-},
-{
-	"id": 25,
-	"name": "Kenyalang Radio",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Kenyalang Radio.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.wikia.nocookie.net/logopedia/images/c/c4/Radio_Kenyalang.png/revision/latest?cb=20211106125545"
-},
-{
-	"id": 24,
-	"name": "Red FM 101.3",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Red FM 101.3.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.webrad.io/images/logos/radioonline-my/red-kuching.png"
-},
-{
-	"id": 23,
-	"name": "Pahang Fm",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Pahang Fm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://www.radio.net/images/broadcasts/db/d1/21932/c300.png"
-},
-{
-	"id": 22,
-	"name": "Ikim FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Ikim FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://play-lh.googleusercontent.com/K4AJljCnrZm-zvtxyuBj1dQS-m7Pt0uQ_r7a-sbOiFp8eNVFy3eMCJ6ShU0q4nPEaQ"
-},
-{
-	"id": 21,
-	"name": "Red FM 96.3",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Red FM 96.3.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://www.radio.net/images/broadcasts/bc/a3/13871/1/c300.png"
-},
-{
-	"id": 20,
-	"name": "Terengganu FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Terengganu FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.webrad.io/images/logos/radioonline-my/terengganu.png"
-},
-{
-	"id": 19,
-	"name": "RTM Sarawak online",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/RTM Sarawak online.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://sarawakfm.rtm.gov.my/storage/app/uploads/public/608/0c5/760/6080c5760040e087022034.png"
-},
-{
-	"id": 18,
-	"name": "Labuan FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Labuan FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.wikia.nocookie.net/logopedia/images/0/07/Labuan_FM_2021.png/revision/latest?cb=20211114000114"
-},
-{
-	"id": 17,
-	"name": "Negeri FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Negeri FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.webrad.io/images/logos/radioonline-my/negeri-fm.png"
-},
-{
-	"id": 16,
-	"name": "Perak FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Perak FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/432mTEMAgs.jpg"
-},
-{
-	"id": 15,
-	"name": "Perlis FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Perlis FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.webrad.io/images/logos/radioonline-my/perlis.png"
-},
-{
-	"id": 14,
-	"name": "Sabah FM",
-	"location": "Bagus Bah Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Sabah FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/laafnxkhaslr.png"
-},
-{
-	"id": 13,
-	"name": "Radio Sabah V FM (Kota Marudu) 91.1 FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Radio Sabah V FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.webrad.io/images/logos/radioonline-my/sabah-vfm.png"
-},
-{
-	"id": 12,
-	"name": "Asyik FM (Kuala Lumpur) 102.5 FM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Asyik FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.webrad.io/images/logos/radioonline-my/asyik-kuala-lumpur.png"
-},
-{
-	"id": 11,
-	"name": "MY FM K-Pop online",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/MY FM K-Pop online.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/SrRmRr6SYz.png"
-},
-{
-	"id": 10,
-	"name": "CeriaFM online",
-	"location": "Malaysia",
-	"url": "http://s9.voscast.com:7670/stream/1/",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/wrh5msppkulf.jpg"
-},
-{
-	"id": 9,
-	"name": "Suara Rakyat FM",
-	"location": "Malaysia",
-	"url": "http://s9.voscast.com:7670/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/khyuktkvllxf.png"
-},
-{
-	"id": 8,
-	"name": "JeiFM",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/JeiFM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://www.jeifm.com/images/jeilogo.png"
-},
-{
-	"id": 7,
-	"name": "Opus Radio",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Opus Radio.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/fFVtncfbde.png"
-},
-{
-	"id": 6,
-	"name": "Gemersik FM",
-	"location": "Malaysia",
-	"url": "http://51.79.219.206:8000/stream",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://play-lh.googleusercontent.com/Q-m-I3CZ11WPY7Nl74vd5MTvNxtAJ6wbqL96NhKOrYjoZBVYGpFNw1fwJoTh3RWCOg"
-},
-{
-	"id": 5,
-	"name": "Durian FM",
-	"location": "Malaysia",
-	"url": "http://s3.voscast.com:7140/stream/1/",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://www.jecoutelaradioenligne.com/wp-content/uploads/logo-durian-fm.jpg"
-},
-{
-	"id": 4,
-	"name": "KCFM",
-	"location": "Malaysia",
-	"url": "http://radio.kcfm.org:8000/stream",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://mytunein.com/images/logos/kcfmmy.jpg"
-},
-{
-	"id": 3,
-	"name": "Makmur FM",
-	"location": "Malaysia",
-	"url": "http://26453.live.streamtheworld.com/SAM12AAC083.mp3?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=d391f044-bee5-4067-e9e0-0148312af711",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static.mytuner.mobi/media/tvos_radios/fv3rvakjae29.png"
-},
-{
-	"id": 2,
-	"name": "Zayan",
-	"location": "Malaysia",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Zayan Destinasi Badru.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://media2.fishtank.my/media/zayan/assets/auto/zayan.jpg?ext=.jpg"
-},
-{
-	"id": 1,
-	"name": "Manis FM",
-	"location": "Malaysia",
-	"url": "https://n09.rcs.revma.com/nzgauqq1v7zuv",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Logo_Manis_FM.png"
-}]
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	{
+		"id": 116,
+		"name": "Mai FM live",
+		"location": "Malaysia",
+		"url": "https://listen.radionomy.com/mairadio2",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static2.mytuner.mobi/media/tvos_radios/g8krmvfmmkv9.jpg"
+	},
+	{
+		"id": 115,
+		"name": "Classic Rock FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Classic Rock FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://radio-online.my/storage/radios/8528/66551/conversions/zg0HYw1H8kHoaRIHf1wnVh2duqGZBY-metac3lva2NsYXNzaWNyb2NrLndlYnA=--lg.webp"
+	},
+	{
+		"id": 114,
+		"name": "CAT FM",
+		"location": "Malaysia",
+		"url": "https://s4.yesstreaming.net:7019/stream/1/",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://catsfm.my/img/logo.png"
+	},
+	{
+		"id": 92,
+		"name": "MY FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/MY FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://radio-online.my/storage/radios/8386/45315/conversions/wKzts9SwDH4ABnmzCoRlXfW4A7hFLK-metabXlmbW4ucG5n--lg.webp"
+	},
+	{
+		"id": 91,
+		"name": "Sinar Kuala Lumpur,",
+		"location": "Malaysia",
+		"url": "https://n16.rcs.revma.com/azatk0tbv4uvv?rj-ttl=5&rj-tok=AAABjEmpMVAA7vjUcqRtQYaJ9g",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/sinar-irama70/square_md.png"
+	},
+	{
+		"id": 90,
+		"name": "Sinar Irama 70",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Sinar Irama 70.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/sinar-irama70/square_md.png"
+	},
+	{
+		"id": 89,
+		"name": "Sinar Jiwang",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Sinar Jiwang.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/sinar-rock/square_md.png"
+	},
+	{
+		"id": 88,
+		"name": "Sinar Rock Kapak",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Sinar Rock Kapak.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/sinar-rock/square_md.png"
+	},
+	{
+		"id": 87,
+		"name": "Sinar I - Musik",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Sinar I - Musik.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/sinar-imusik/square_md.png"
+	},
+	{
+		"id": 86,
+		"name": "Sinar Sinema",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Sinar Sinema.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/sinar-sinema/square_md.png"
+	},
+	{
+		"id": 85,
+		"name": "Sinar Pop Yeh Yeh",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Sinar Pop Yeh Yeh.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/sinar-popyehyeh/square_md.png"
+	},
+	{
+		"id": 84,
+		"name": "Sinar Iramalaysia",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Sinar Iramalaysia.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/sinar-iramalaysia/square_md.png"
+	},
+	{
+		"id": 83,
+		"name": "HITZ FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/HITZ - 92.9 FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/hitz/square_md.jpg"
+	},
+	{
+		"id": 82,
+		"name": "Hitz Throwback",
+		"location": "Malaysia",
+		"url": "https://audio1.syok.my/hitz",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://online-radio.my/uploads/img/hitz-throwback.png"
+	},
+	{
+		"id": 81,
+		"name": "HITZ Chillest",
+		"location": "Malaysia",
+		"url": "https://audio1.syok.my/hitz",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://online-radio.my/uploads/img/hitz-chillest.png"
+	},
+	{
+		"id": 80,
+		"name": "Hitz Local",
+		"location": "Malaysia",
+		"url": "https://audio1.syok.my/hitz",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://online-radio.my/uploads/img/hitz-local.png"
+	},
+	{
+		"id": 79,
+		"name": "Hitz Top40",
+		"location": "Malaysia",
+		"url": "https://audio1.syok.my/hitz",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://online-radio.my/uploads/img/hitz-top40.png"
+	},
+	{
+		"id": 78,
+		"name": "HITZ Sabah",
+		"location": "Malaysia",
+		"url": "https://audio1.syok.my/hitz",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://online-radio.my/uploads/img/hitz-sabah.jpg"
+	},
+	{
+		"id": 77,
+		"name": "HITZ Tiktok",
+		"location": "Malaysia",
+		"url": "https://audio1.syok.my/hitz",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://online-radio.my/uploads/img/hitz-tiktok.png"
+	},
+	{
+		"id": 76,
+		"name": "HITZ KPop",
+		"location": "Malaysia",
+		"url": "https://audio1.syok.my/hitz",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://online-radio.my/uploads/img/hitz-kpop.png"
+	},
+	{
+		"id": 75,
+		"name": "Hitz Stage",
+		"location": "Malaysia",
+		"url": "https://audio1.syok.my/hitz",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/hitz-stage/021023/square_md.png"
+	},
+	{
+		"id": 74,
+		"name": "Hitz Urban",
+		"location": "Malaysia",
+		"url": "https://audio1.syok.my/hitz",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/hitz_urban/021023/square_md.png"
+	},
+	{
+		"id": 73,
+		"name": "Hitz Dance",
+		"location": "Malaysia",
+		"url": "https://audio1.syok.my/hitz",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/hitz-dance/021023/sqaure_md.png"
+	},
+	{
+		"id": 72,
+		"name": "Era Indie",
+		"location": "Malaysia",
+		"url": "https://audio1.syok.my/era",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/era-indie/141123/square_md.png"
+	},
+	{
+		"id": 71,
+		"name": "Era ThrowBaek",
+		"location": "Malaysia",
+		"url": "https://audio1.syok.my/era",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/era-throwbaek/141123/square_md.png"
+	},
+	{
+		"id": 70,
+		"name": "Era Lagu Baru Nak Up",
+		"location": "Malaysia",
+		"url": "https://audio1.syok.my/era",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/era-lbnu/141123/square_md.png"
+	},
+	{
+		"id": 69,
+		"name": "Era Cintan",
+		"location": "Malaysia",
+		"url": "https://audio1.syok.my/era",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/era-cintan/141123/square_md.png"
+	},
+	{
+		"id": 68,
+		"name": "Era Nurock",
+		"location": "Malaysia",
+		"url": "https://audio1.syok.my/era",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/era-nurock/141123/square_md.png"
+	},
+	{
+		"id": 67,
+		"name": "Era Nusantera",
+		"location": "Malaysia",
+		"url": "https://audio1.syok.my/era",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/era-nusantera/141123/square_md.png"
+	},
+	{
+		"id": 66,
+		"name": "Era (Sarawak)",
+		"location": "Malaysia",
+		"url": "https://audio1.syok.my/era",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://assets.radioactive.sg/org-astro/09fdd793-fe4d-411b-9cf5-030f00817223-era%20swk%20422.jpg"
+	},
+	{
+		"id": 65,
+		"name": "Sinar FM 96.7",
+		"location": "Menyinari Hidupmu",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/sinar.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/sinar/square_md.jpg"
+	},
+	{
+		"id": 64,
+		"name": "Suria FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/suria.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://cdn.webrad.io/images/logos/radioonline-my/suria-fm.png"
+	},
+	{
+		"id": 63,
+		"name": "Hitz FM 92.9",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/hitzfm.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/hitz/square_md.jpg"
+	},
+	{
+		"id": 62,
+		"name": "Era Fm",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/era.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://play-lh.googleusercontent.com/1t-9LrCKZWhPRuH9rQfgPi7Bg-jqJZCOG-VYtXQyoE1u-r145OoXSMHPoICCgpQu8g"
+	},
+	{
+		"id": 61,
+		"name": "Melody Fm",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/melody.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://radio-online.my/storage/radios/8391/45319/conversions/fQTBuUlMb8Gxl0pRLIbtdMGw9B4HkU-metabWVsb2R5Zm0ucG5n--lg.webp"
+	},
+	{
+		"id": 60,
+		"name": "My Fm",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/myfm.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://storage.unitedwebnetwork.com/files/41/5d4dcba612220167601446c79ff1c75d.jpg"
+	},
+	{
+		"id": 59,
+		"name": "Thr Gegar",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Gegar.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/gegar/square_md.jpg"
+	},
+	{
+		"id": 58,
+		"name": "Mix FM 99.1 FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/mix.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://cdn-profiles.tunein.com/s7556/images/logod.jpg?t=164482"
+	},
+	{
+		"id": 57,
+		"name": "Hot FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/hot.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpSwhWFNvGh5xso1OjigaUYHXZ3xYK_6A795L90P62h5oEWNz6kAqO4PdE3l4i1xOssJ4&usqp=CAU"
+	},
+	{
+		"id": 56,
+		"name": "ERA Flow",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/ERA FM 102.4.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/era-flow/square_md1.png"
+	},
+	{
+		"id": 55,
+		"name": "ERA FM Sabah",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/ERA FM (Sabah).html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/era-sabah/square_md.jpg"
+	},
+	{
+		"id": 54,
+		"name": "ERA K - Hit",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/ERA FM Pop.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/era-khit/141123/square_md.png"
+	},
+	{
+		"id": 53,
+		"name": "MY FM (Sabah)",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/myfmsabah.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/my/square_md.jpg"
+	},
+	{
+		"id": 51,
+		"name": "MY FM Sarawak 96.9 FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/myfmsarawak.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/stations/my/square_md.jpg"
+	},
+	{
+		"id": 50,
+		"name": "Fly FM 89.9",
+		"location": "Taiping Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Fly FM 89.9.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://revmedia.my/wp-content/uploads/2020/10/RMG-Website-logos-Flyfm2021-300x240.png"
+	},
+	{
+		"id": 48,
+		"name": "988 FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/988.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://pwaimg.listenlive.co/988_FM_2428031_config_station_logo_image_1582878594.jpg"
+	},
+	{
+		"id": 47,
+		"name": "Radio Klasik 98.3 FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Radio Klasik 98.3 FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://cdn.webrad.io/images/logos/radioonline-my/klasik-kuala-lumpur.png"
+	},
+	{
+		"id": 46,
+		"name": "One fm",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/onefm.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://thesmartlocal.com/reviews/wp-content/uploads/2012/10/1-1350705752.jpg"
+	},
+	{
+		"id": 45,
+		"name": "Raaga 103.7 FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Raaga.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static.mytuner.mobi/media/tvos_radios/zSa2ReZBeK.jpg"
+	},
+	{
+		"id": 44,
+		"name": "Minnal FM 92.3 FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Minnal.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static.mytuner.mobi/media/tvos_radios/gz233FwEMu.jpg"
+	},
+	{
+		"id": 43,
+		"name": "Best 104.1 FM",
+		"location": "Malaysia",
+		"url": "https://n21a-eu.rcs.revma.com/h34x4kgg9hhvv?rj-ttl=5&rj-tok=AAABgFchp9kArHjH6lJwzwQy6g",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static.mytuner.mobi/media/tvos_radios/eZjgx8CJVy.jpg"
+	},
+	{
+		"id": 42,
+		"name": "India Beat 86.4 FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/India Beat 86.4 FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static-media.streema.com/media/cache/ed/46/ed46a2c2e90376bd63b7552ea2afc4a5.jpg"
+	},
+	{
+		"id": 41,
+		"name": "Osai FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Osai FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static.mytuner.mobi/media/tvos_radios/nxj4KZsnrs.png"
+	},
+	{
+		"id": 39,
+		"name": "Kool FM Malaysia",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/kool.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpTmayTuhKOerx9uD9tJ21CXC80tLMBBODZUtkRCH5FKPlfCLtxMvPUzcmcDQALyG3ncs&usqp=CAU"
+	},
+	{
+		"id": 37,
+		"name": "Wai FM Iban",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Wai FM Iban.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://play-lh.googleusercontent.com/0sEdbzsRG5KGWFeFQG7mkIimH7XM3Wiamk5S4QaGFfpxQNK5Ahzx8RarC2-maAmo9pES"
+	},
+	{
+		"id": 36,
+		"name": "BFM 89.9 FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/BFM 89.9 FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://www.radio.net/images/broadcasts/30/8a/21643/c300.png"
+	},
+	{
+		"id": 35,
+		"name": "RTM TraXX FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/RTM TraXX FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://traxxfm.rtm.gov.my/storage/app/uploads/public/610/366/ab7/610366ab7e7f2731499824.png"
+	},
+	{
+		"id": 34,
+		"name": "Gold FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Gold FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static.mytuner.mobi/media/tvos_radios/FcTnRHDBrk.png"
+	},
+	{
+		"id": 33,
+		"name": "KL FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/kl.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static.mytuner.mobi/media/tvos_radios/ehfd7kr2wbqa.jpeg"
+	},
+	{
+		"id": 32,
+		"name": "Kelantan FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Kelantan FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNb23JM8uMR7xdEJKYDnicXFTNt40euZF06Akls3QNT90WT2PUcmZFbrX25Mqg4wpROH0MFLRK7fxQFc8ndWjtS__hE0AEllLd5YRJiGb1r6lgv5DJzaQamI1yD9Ea_CF3Gw4ZBb6SrMaNAmPMpEwbC_DgLuwvAzoPG6YOvoyFNvZ_tU6ubfFVKvFGjQ/s659/KELANTAN%20FM%20LOGO%20old%20and%20new.jpg"
+	},
+	{
+		"id": 31,
+		"name": "Hitz FM - Sarawak live",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Hitz FM - Sarawak live.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static.wikia.nocookie.net/logopedia/images/1/1e/Hitz_Sarawak.png/revision/latest?cb=20211113073243"
+	},
+	{
+		"id": 30,
+		"name": "Kedah Alor (Star) 97.5 FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Kedah Alor (Star) 97.5 FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static.mytuner.mobi/media/tvos_radios/rfmp4bu82rtc.jpeg"
+	},
+	{
+		"id": 29,
+		"name": "Jazz",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Jazz.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://down-my.img.susercontent.com/file/a50f07e6bc756c9d3b7d3cc717e372ca"
+	},
+	{
+		"id": 28,
+		"name": "Johor 101.9 FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Johor 101.9 FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://upload.wikimedia.org/wikipedia/en/6/6e/Johor_FM_logo_2021.png"
+	},
+	{
+		"id": 27,
+		"name": "Cats 99.3 FM",
+		"location": "Malaysia",
+		"url": "https://s4.yesstreaming.net:7019/stream/1/",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://mytunein.com/images/logos/cats993fm.jpg"
+	},
+	{
+		"id": 26,
+		"name": "Mutiara 95.7 FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Mutiara 95.7 FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://cdn.webrad.io/images/logos/radioonline-my/mutiara.png"
+	},
+	{
+		"id": 25,
+		"name": "Kenyalang Radio",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Kenyalang Radio.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static.wikia.nocookie.net/logopedia/images/c/c4/Radio_Kenyalang.png/revision/latest?cb=20211106125545"
+	},
+	{
+		"id": 24,
+		"name": "Red FM 101.3",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Red FM 101.3.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://cdn.webrad.io/images/logos/radioonline-my/red-kuching.png"
+	},
+	{
+		"id": 23,
+		"name": "Pahang Fm",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Pahang Fm.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://www.radio.net/images/broadcasts/db/d1/21932/c300.png"
+	},
+	{
+		"id": 22,
+		"name": "Ikim FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Ikim FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://play-lh.googleusercontent.com/K4AJljCnrZm-zvtxyuBj1dQS-m7Pt0uQ_r7a-sbOiFp8eNVFy3eMCJ6ShU0q4nPEaQ"
+	},
+	{
+		"id": 21,
+		"name": "Red FM 96.3",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Red FM 96.3.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://www.radio.net/images/broadcasts/bc/a3/13871/1/c300.png"
+	},
+	{
+		"id": 20,
+		"name": "Terengganu FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Terengganu FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://cdn.webrad.io/images/logos/radioonline-my/terengganu.png"
+	},
+	{
+		"id": 19,
+		"name": "RTM Sarawak online",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/RTM Sarawak online.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://sarawakfm.rtm.gov.my/storage/app/uploads/public/608/0c5/760/6080c5760040e087022034.png"
+	},
+	{
+		"id": 18,
+		"name": "Labuan FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Labuan FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static.wikia.nocookie.net/logopedia/images/0/07/Labuan_FM_2021.png/revision/latest?cb=20211114000114"
+	},
+	{
+		"id": 17,
+		"name": "Negeri FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Negeri FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://cdn.webrad.io/images/logos/radioonline-my/negeri-fm.png"
+	},
+	{
+		"id": 16,
+		"name": "Perak FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Perak FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static.mytuner.mobi/media/tvos_radios/432mTEMAgs.jpg"
+	},
+	{
+		"id": 15,
+		"name": "Perlis FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Perlis FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://cdn.webrad.io/images/logos/radioonline-my/perlis.png"
+	},
+	{
+		"id": 14,
+		"name": "Sabah FM",
+		"location": "Bagus Bah Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Sabah FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static.mytuner.mobi/media/tvos_radios/laafnxkhaslr.png"
+	},
+	{
+		"id": 13,
+		"name": "Radio Sabah V FM (Kota Marudu) 91.1 FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Radio Sabah V FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://cdn.webrad.io/images/logos/radioonline-my/sabah-vfm.png"
+	},
+	{
+		"id": 12,
+		"name": "Asyik FM (Kuala Lumpur) 102.5 FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Asyik FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://cdn.webrad.io/images/logos/radioonline-my/asyik-kuala-lumpur.png"
+	},
+	{
+		"id": 11,
+		"name": "MY FM K-Pop online",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/MY FM K-Pop online.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static.mytuner.mobi/media/tvos_radios/SrRmRr6SYz.png"
+	},
+	{
+		"id": 10,
+		"name": "CeriaFM online",
+		"location": "Malaysia",
+		"url": "http://s9.voscast.com:7670/stream/1/",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static.mytuner.mobi/media/tvos_radios/wrh5msppkulf.jpg"
+	},
+	{
+		"id": 9,
+		"name": "Suara Rakyat FM",
+		"location": "Malaysia",
+		"url": "http://s9.voscast.com:7670/;",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static.mytuner.mobi/media/tvos_radios/khyuktkvllxf.png"
+	},
+	{
+		"id": 8,
+		"name": "JeiFM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/JeiFM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://www.jeifm.com/images/jeilogo.png"
+	},
+	{
+		"id": 7,
+		"name": "Opus Radio",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Opus Radio.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static.mytuner.mobi/media/tvos_radios/fFVtncfbde.png"
+	},
+	{
+		"id": 6,
+		"name": "Gemersik FM",
+		"location": "Malaysia",
+		"url": "http://51.79.219.206:8000/stream",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://play-lh.googleusercontent.com/Q-m-I3CZ11WPY7Nl74vd5MTvNxtAJ6wbqL96NhKOrYjoZBVYGpFNw1fwJoTh3RWCOg"
+	},
+	{
+		"id": 5,
+		"name": "Durian FM",
+		"location": "Malaysia",
+		"url": "http://s3.voscast.com:7140/stream/1/",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://www.jecoutelaradioenligne.com/wp-content/uploads/logo-durian-fm.jpg"
+	},
+	{
+		"id": 4,
+		"name": "KCFM",
+		"location": "Malaysia",
+		"url": "http://radio.kcfm.org:8000/stream",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://mytunein.com/images/logos/kcfmmy.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Makmur FM",
+		"location": "Malaysia",
+		"url": "http://26453.live.streamtheworld.com/SAM12AAC083.mp3?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=d391f044-bee5-4067-e9e0-0148312af711",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://static.mytuner.mobi/media/tvos_radios/fv3rvakjae29.png"
+	},
+	{
+		"id": 2,
+		"name": "Zayan",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Zayan Destinasi Badru.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://media2.fishtank.my/media/zayan/assets/auto/zayan.jpg?ext=.jpg"
+	},
+	{
+		"id": 1,
+		"name": "Manis FM",
+		"location": "Malaysia",
+		"url": "https://n09.rcs.revma.com/nzgauqq1v7zuv",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Logo_Manis_FM.png"
+	}
+]
