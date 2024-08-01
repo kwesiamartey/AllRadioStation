@@ -1,21 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MP3 Stream</title>
-</head>
-<body style='background-color: #000;'>
-     <h5 style='width:100%;text-align: center;'>
-                 
+<Html>
+    
+       <body style='background-color: #000;'>
+       
+             <h5 style='text-align: center;'>
+                
              </h5>
+        
+             <h5 style='text-align: center;'>
+              <video controls id='video'></video>>
+             </h5>
+       </body>
+</Html>
+<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
+<script>
+         if(Hls.isSupported()) {
+         var video = document.getElementById('video');
+         var hls = new Hls();
+         hls.loadSource(' https://n20a-eu.rcs.revma.com/fxq2n9tbv4uvv/32_t9ako5786llk02/playlist.m3u8?rj-ttl=5&rj-tok=AAABkQ6wzZYAgc5EPzNjJyMM7w');
+                         
+         hls.attachMedia(video);
+         hls.on(Hls.Events.MANIFEST_PARSED,function() {
+         video.play();
+       });
+    }
+</script>
 
-        <h5 style='width:100%;text-align: center;'>
-            <audio controls>
-                <source src="https://astro4.rastream.com/gold"        type="audio/ogg; codecs=vorbis">
-                Your browser does not support the audio element.
-            </audio>
-        </h5>
-</body>
-</html>
 
