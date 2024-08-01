@@ -317,15 +317,7 @@
 		"web": "wep",
 		"logo": "https://media2.fishtank.my/stations/hitz/square_md.jpg"
 	},
-	{
-		"id": 62,
-		"name": "Era Fm",
-		"location": "Malaysia",
-		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/era.html",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://play-lh.googleusercontent.com/1t-9LrCKZWhPRuH9rQfgPi7Bg-jqJZCOG-VYtXQyoE1u-r145OoXSMHPoICCgpQu8g"
-	},
+
 	{
 		"id": 61,
 		"name": "Melody Fm",
@@ -339,7 +331,7 @@
 		"id": 60,
 		"name": "My Fm",
 		"location": "Malaysia",
-		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/myfm.html",
+		"url": "https://audio1.syok.my/myfm",
 		"added": 0,
 		"web": "wep",
 		"logo": "https://storage.unitedwebnetwork.com/files/41/5d4dcba612220167601446c79ff1c75d.jpg"
@@ -398,24 +390,8 @@
 		"web": "wep",
 		"logo": "https://media2.fishtank.my/stations/era-khit/141123/square_md.png"
 	},
-	{
-		"id": 53,
-		"name": "MY FM (Sabah)",
-		"location": "Malaysia",
-		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/myfmsabah.html",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/my/square_md.jpg"
-	},
-	{
-		"id": 51,
-		"name": "MY FM Sarawak 96.9 FM",
-		"location": "Malaysia",
-		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/myfmsarawak.html",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/my/square_md.jpg"
-	},
+
+
 	{
 		"id": 50,
 		"name": "Fly FM 89.9",
@@ -732,15 +708,7 @@
 		"web": "wep",
 		"logo": "https://cdn.webrad.io/images/logos/radioonline-my/asyik-kuala-lumpur.png"
 	},
-	{
-		"id": 11,
-		"name": "MY FM K-Pop online",
-		"location": "Malaysia",
-		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/MY FM K-Pop online.html",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://static.mytuner.mobi/media/tvos_radios/SrRmRr6SYz.png"
-	},
+
 	{
 		"id": 10,
 		"name": "CeriaFM online",
