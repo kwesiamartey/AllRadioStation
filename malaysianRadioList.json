@@ -736,15 +736,7 @@
 		"web": "wep",
 		"logo": "https://www.jeifm.com/images/jeilogo.png"
 	},
-	{
-		"id": 7,
-		"name": "Opus Radio",
-		"location": "Malaysia",
-		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Opus Radio.html",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://static.mytuner.mobi/media/tvos_radios/fFVtncfbde.png"
-	},
+
 	{
 		"id": 6,
 		"name": "Gemersik FM",
@@ -772,20 +764,12 @@
 		"web": "wep",
 		"logo": "https://mytunein.com/images/logos/kcfmmy.jpg"
 	},
-	{
-		"id": 3,
-		"name": "Makmur FM",
-		"location": "Malaysia",
-		"url": "http://26453.live.streamtheworld.com/SAM12AAC083.mp3?tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=d391f044-bee5-4067-e9e0-0148312af711",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://static.mytuner.mobi/media/tvos_radios/fv3rvakjae29.png"
-	},
+
 	{
 		"id": 2,
 		"name": "Zayan",
 		"location": "Malaysia",
-		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Zayan Destinasi Badru.html",
+		"url": "https://audio1.syok.my/zayan",
 		"added": 0,
 		"web": "wep",
 		"logo": "https://media2.fishtank.my/media/zayan/assets/auto/zayan.jpg?ext=.jpg"
