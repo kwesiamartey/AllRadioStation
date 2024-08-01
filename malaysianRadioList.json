@@ -65,168 +65,17 @@
 		"web": "wep",
 		"logo": "https://media2.fishtank.my/stations/sinar-irama70/square_md.png"
 	},
-	{
-		"id": 90,
-		"name": "Sinar Irama 70",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/sinar",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/sinar-irama70/square_md.png"
-	},
-	{
-		"id": 89,
-		"name": "Sinar Jiwang",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/sinar",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/sinar-rock/square_md.png"
-	},
-	{
-		"id": 88,
-		"name": "Sinar Rock Kapak",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/sinar",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/sinar-rock/square_md.png"
-	},
-	{
-		"id": 87,
-		"name": "Sinar I - Musik",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/sinar",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/sinar-imusik/square_md.png"
-	},
-	{
-		"id": 86,
-		"name": "Sinar Sinema",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/sinar",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/sinar-sinema/square_md.png"
-	},
-	{
-		"id": 85,
-		"name": "Sinar Pop Yeh Yeh",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/sinar",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/sinar-popyehyeh/square_md.png"
-	},
-	{
-		"id": 84,
-		"name": "Sinar Iramalaysia",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/sinar",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/sinar-iramalaysia/square_md.png"
-	},
+	
 	{
 		"id": 83,
 		"name": "HITZ FM",
 		"location": "Malaysia",
-		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/HITZ - 92.9 FM.html",
+		"url": "https://audio1.syok.my/hitz",
 		"added": 0,
 		"web": "wep",
 		"logo": "https://media2.fishtank.my/stations/hitz/square_md.jpg"
 	},
-	{
-		"id": 82,
-		"name": "Hitz Throwback",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/hitz",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://online-radio.my/uploads/img/hitz-throwback.png"
-	},
-	{
-		"id": 81,
-		"name": "HITZ Chillest",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/hitz",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://online-radio.my/uploads/img/hitz-chillest.png"
-	},
-	{
-		"id": 80,
-		"name": "Hitz Local",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/hitz",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://online-radio.my/uploads/img/hitz-local.png"
-	},
-	{
-		"id": 79,
-		"name": "Hitz Top40",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/hitz",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://online-radio.my/uploads/img/hitz-top40.png"
-	},
-	{
-		"id": 78,
-		"name": "HITZ Sabah",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/hitz",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://online-radio.my/uploads/img/hitz-sabah.jpg"
-	},
-	{
-		"id": 77,
-		"name": "HITZ Tiktok",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/hitz",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://online-radio.my/uploads/img/hitz-tiktok.png"
-	},
-	{
-		"id": 76,
-		"name": "HITZ KPop",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/hitz",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://online-radio.my/uploads/img/hitz-kpop.png"
-	},
-	{
-		"id": 75,
-		"name": "Hitz Stage",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/hitz",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/hitz-stage/021023/square_md.png"
-	},
-	{
-		"id": 74,
-		"name": "Hitz Urban",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/hitz",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/hitz_urban/021023/square_md.png"
-	},
-	{
-		"id": 73,
-		"name": "Hitz Dance",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/hitz",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/hitz-dance/021023/sqaure_md.png"
-	},
+	
 	{
 		"id": 72,
 		"name": "Era Indie",
@@ -236,69 +85,8 @@
 		"web": "wep",
 		"logo": "https://media2.fishtank.my/stations/era-indie/141123/square_md.png"
 	},
-	{
-		"id": 71,
-		"name": "Era ThrowBaek",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/era",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/era-throwbaek/141123/square_md.png"
-	},
-	{
-		"id": 70,
-		"name": "Era Lagu Baru Nak Up",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/era",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/era-lbnu/141123/square_md.png"
-	},
-	{
-		"id": 69,
-		"name": "Era Cintan",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/era",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/era-cintan/141123/square_md.png"
-	},
-	{
-		"id": 68,
-		"name": "Era Nurock",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/era",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/era-nurock/141123/square_md.png"
-	},
-	{
-		"id": 67,
-		"name": "Era Nusantera",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/era",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/era-nusantera/141123/square_md.png"
-	},
-	{
-		"id": 66,
-		"name": "Era (Sarawak)",
-		"location": "Malaysia",
-		"url": "https://audio1.syok.my/era",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://assets.radioactive.sg/org-astro/09fdd793-fe4d-411b-9cf5-030f00817223-era%20swk%20422.jpg"
-	},
-	{
-		"id": 65,
-		"name": "Sinar FM 96.7",
-		"location": "Menyinari Hidupmu",
-		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/sinar.html",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/sinar/square_md.jpg"
-	},
+	
+	
 	{
 		"id": 64,
 		"name": "Suria FM",
@@ -308,15 +96,7 @@
 		"web": "wep",
 		"logo": "https://cdn.webrad.io/images/logos/radioonline-my/suria-fm.png"
 	},
-	{
-		"id": 63,
-		"name": "Hitz FM 92.9",
-		"location": "Malaysia",
-		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/hitzfm.html",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/hitz/square_md.jpg"
-	},
+	
 
 	{
 		"id": 61,
