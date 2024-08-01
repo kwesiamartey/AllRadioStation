@@ -136,7 +136,7 @@
 		"id": 59,
 		"name": "Thr Gegar",
 		"location": "Malaysia",
-		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Gegar.html",
+		"url": "https://audio1.syok.my/gegar",
 		"added": 0,
 		"web": "wep",
 		"logo": "https://media2.fishtank.my/stations/gegar/square_md.jpg"
@@ -145,7 +145,7 @@
 		"id": 58,
 		"name": "Mix FM 99.1 FM",
 		"location": "Malaysia",
-		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/mix.html",
+		"url": "https://audio1.syok.my/mix",
 		"added": 0,
 		"web": "wep",
 		"logo": "https://cdn-profiles.tunein.com/s7556/images/logod.jpg?t=164482"
@@ -159,33 +159,7 @@
 		"web": "wep",
 		"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpSwhWFNvGh5xso1OjigaUYHXZ3xYK_6A795L90P62h5oEWNz6kAqO4PdE3l4i1xOssJ4&usqp=CAU"
 	},
-	{
-		"id": 56,
-		"name": "ERA Flow",
-		"location": "Malaysia",
-		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/ERA FM 102.4.html",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/era-flow/square_md1.png"
-	},
-	{
-		"id": 55,
-		"name": "ERA FM Sabah",
-		"location": "Malaysia",
-		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/ERA FM (Sabah).html",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/era-sabah/square_md.jpg"
-	},
-	{
-		"id": 54,
-		"name": "ERA K - Hit",
-		"location": "Malaysia",
-		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/ERA FM Pop.html",
-		"added": 0,
-		"web": "wep",
-		"logo": "https://media2.fishtank.my/stations/era-khit/141123/square_md.png"
-	},
+
 
 
 	{
