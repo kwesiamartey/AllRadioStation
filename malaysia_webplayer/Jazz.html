@@ -1,15 +1,28 @@
 
-       <body>
+<Html>
+    
+       <body style='background-color: #000;'>
        
-             <h1 style='text-align: center;'></h1>
-             
-             <h1 style='text-align: center;'>
-                <audio controls>
-                  <source src='https://astro4.rastream.com/jazz' type='audio/ogg'>
-                  <source src='https://astro4.rastream.com/jazz' type='audio/mpeg'>
-                  Your browser does not support the audio element.
-                </audio>
-             </h1>
-             
+             <h5 style='text-align: center;'>
+                
+             </h5>
+        
+             <h5 style='text-align: center;'>
+              <video controls id='video'></video>>
+             </h5>
        </body>
+</Html>
+<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
+<script>
+         if(Hls.isSupported()) {
+         var video = document.getElementById('video');
+         var hls = new Hls();
+         hls.loadSource(' https://n36a-eu.rcs.revma.com/c718dfvbv4uvv/54_7d1x7i1isy7w02/playlist.m3u8?rj-ttl=5&rj-tok=AAABkQ8XrGEAySECHRbSXa6pXw');
+                         
+         hls.attachMedia(video);
+         hls.on(Hls.Events.MANIFEST_PARSED,function() {
+         video.play();
+       });
+    }
+</script>
 
