@@ -17,9 +17,25 @@
 	
 	
 	
+	{
+		"id": 118,
+		"name": "Radio Bisnes",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Radio Bisnes.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://files.elfsightcdn.com/eafe4a4d-3436-495d-b748-5bdce62d911d/9b45eb78-3ed4-4122-a33b-3f97b2d3c988/Radio-Bisnes-Logo.png"
+	},
 	
-	
-	
+	{
+		"id": 117,
+		"name": "ai FM",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/ai FM.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://rtm-images.glueapi.io/560x0/radio-asset/AI_FM.png"
+	},
 	{
 		"id": 116,
 		"name": "Mai FM live",
