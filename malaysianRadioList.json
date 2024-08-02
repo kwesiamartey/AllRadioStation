@@ -16,18 +16,34 @@
 	
 	
 	
+	{
+		"id": 127,
+		"name": "Bintulu",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Bintulu.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://rtm-images.glueapi.io/560x0/radio-asset/BINTULU_FM.png"
+	},
 	
-	
-	
+	{
+		"id": 126,
+		"name": "Sibu",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Sibu.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://rtm-images.glueapi.io/560x0/radio-asset/SIBU_FM.png"
+	},
 	
 	{
 		"id": 125,
-		"name": "Limbang",
+		"name": "Miri",
 		"location": "Malaysia",
-		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Limbang.html",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Miri.html",
 		"added": 0,
 		"web": "wep",
-		"logo": "https://rtm-images.glueapi.io/560x0/radio-asset/LIMBANG.png"
+		"logo": "https://rtm-images.glueapi.io/560x0/radio-asset/MIRI_FM.png"
 	},
 	
 	{
