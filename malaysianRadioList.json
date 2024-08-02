@@ -9,7 +9,15 @@
 
 
 
-
+{
+		"id": 130,
+		"name": "TV2",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/tv2.html",
+		"added": 1,
+		"web": "wep",
+		"logo": "https://rtm-images.glueapi.io/320x0/live_channel/5.png"
+	},
 
 {
 		"id": 129,
