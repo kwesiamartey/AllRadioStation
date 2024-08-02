@@ -11,7 +11,15 @@
 
 
 
-
+{
+		"id": 129,
+		"name": "TV1",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/tv1.html",
+		"added": 1,
+		"web": "wep",
+		"logo": "https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png"
+	},
 
 	{
 		"id": 128,
