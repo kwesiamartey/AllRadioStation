@@ -10,12 +10,53 @@
 	
 	
 	
+	{
+		"id": 123,
+		"name": "Melaka",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Melaka.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://rtm-images.glueapi.io/560x0/radio-asset/MELAKA_FM.png"
+	},
 	
+	{
+		"id": 122,
+		"name": "Tawau",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Tawau.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://rtm-images.glueapi.io/560x0/radio-asset/TAWAU_FM.png"
+	},
 	
-	
-	
-	
-	
+	{
+		"id": 121,
+		"name": "Sandakan",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Sandakan.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://rtm-images.glueapi.io/560x0/radio-asset/SANDAKAN_FM.png"
+	},
+	{
+		"id": 120,
+		"name": "Langkawi",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Langkawi.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://rtm-images.glueapi.io/560x0/radio-asset/LANGKAWI_FM.png"
+	},
+	{
+		"id": 119,
+		"name": "Selangor",
+		"location": "Malaysia",
+		"url": "https://kwesiamartey.github.io/AllRadioStation/malaysia_webplayer/Selangor.html",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://rtm-images.glueapi.io/560x0/radio-asset/SELANGOR_FM.png"
+	},
 	
 	{
 		"id": 118,
