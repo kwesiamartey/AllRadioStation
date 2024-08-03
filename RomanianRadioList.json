@@ -894,7 +894,7 @@
 	"id": 120,
 	"name": "Radio Tequila Manele",
 	"location": "Romania ",
-	"url": "https://asculta.ascultatare.ro/7000/stream",
+	"url": "http://live.radiotequila.ro:7000/stream/1/",
 	"added": 0,
 	"web": "wep",
 	"logo": "https://static2.mytuner.mobi/media/tvos_radios/b4dnabegqrsp.jpeg"
