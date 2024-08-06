@@ -32,7 +32,15 @@
 
 
 
-
+        {
+            "id": 767,
+            "name": "ALT 98.7",
+            "location": "New York NY,United State ",
+            "url": "https://kwesiamartey.github.io/AllRadioStation/unitedState_webplayer/ALT 98.7.html",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://i.iheart.com/v3/re/assets.brands/5f21a19722e3a1d1444a0dc0?ops=gravity(%22center%22),contain(600,600)&quality=80"     
+        },
        {
             "id": 766,
             "name": "Cladrite Radio",
