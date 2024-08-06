@@ -5895,11 +5895,11 @@
             "web": "wep",
             "logo": "https://play-lh.googleusercontent.com/ZVARvCkUN3w5z9thnvBPaYKmCukw4gA9wEV-xzXW4tUSgWLhWuehMGnpX9gJMOueMTo"
         },
-        {
+            {
             "id": 168,
             "name": "Radio Free Brooklyn",
             "location": "United State ",
-            "url": "http://192.111.140.6:9300/stream",
+            "url": "http://www.radiorethink.com/tuner/?stationCode=rfb",
             "added": 0,
             "web": "wep",
             "logo": "https://play-lh.googleusercontent.com/8SM8oE0IYRFyOzByfyhvFOZvIjpxaEFsrnTKl--Mz6g9wypOZWDkyy9L3cXc3PXeGKk"
