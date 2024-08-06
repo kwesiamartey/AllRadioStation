@@ -1,26 +1,20 @@
-<Html>
-    
-       <body style='background-color: #000;'>
-       
-             <h5 style='text-align: center;'>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MP3 Stream</title>
+</head>
+<body style='background-color: #000;text-align: center;'>
+     <h5 style='width:100%;text-align: center;'>
                  
              </h5>
-        
-             <h5 style='text-align: center;'>
-              <video controls id='video'></video>>
-             </h5>
-       </body>
-</Html>
-<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
-<script>
-         if(Hls.isSupported()) {
-         var video = document.getElementById('video');
-         var hls = new Hls();
-         hls.loadSource('https://emf-seg001267.cdnstream1.com/seg001267-h128/playlist.m3u8?listeningSessionID=6639b6d100882e5d_4510444_ApK96GVh_MjE2LjIzNS45My4xOTg6ODA!_0000000neID&downloadSessionID=0&platform=web&country=ghana&geo_api=gis_db&latitude=5.5486&longitude=-0.2012&segment=001267&session_id=1719568761571&visitor_id=018f9ae639cb002222fad587bc980504e001501100bd0&t=1&k=LCQ_3VwLM9jFdnw3UPle_ivJ1WBlbX7xYBXAIgQg5PiwMeyJTaDkB9WODBPSyFUE6SQPb8V_PmDLn5W2k3NSl7WNevSpn-9OCq9LTVlaxSuhU5mwRcEzqLvfqoOdWMvyWujn');
-                         
-         hls.attachMedia(video);
-         hls.on(Hls.Events.MANIFEST_PARSED,function() {
-         video.play();
-       });
-    }
-</script>
+
+        <h5 style='width:100%;text-align: center;'>
+            <audio controls>
+                <source src=" https://emf-seg001017.cdnstream1.com/seg001017-i64.aac?platform=iheart&city=&country=united-states&geo_api=abstract_ip&latitude=38.6583&longitude=-77.2481&segment=001017&t=1&k=Ko3Ga0g-Gt5-HjXJtG1botH7JZtwfZtCT7Q-yr3y5KEvJwgc2pWicKarx4Bm-jZzuKajyjqDwCQLNTF52OeceqWHu1qa6smp9vMPk970jAAEMSvZJVoel3qCw93R7i6KV78 "        type="audio/ogg; codecs=vorbis">
+                Your browser does not support the audio element.
+            </audio>
+        </h5>
+</body>
+</html>
