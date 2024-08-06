@@ -1,20 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MP3 Stream</title>
-</head>
-<body style='background-color: #000;text-align: center;'>
-     <h5 style='width:100%;text-align: center;'>
-                 
-             </h5>
 
-        <h5 style='width:100%;text-align: center;'>
-            <audio controls>
-                <source src=" https://emf-seg001017.cdnstream1.com/seg001017-i64.aac?platform=iheart&city=&country=united-states&geo_api=abstract_ip&latitude=38.6583&longitude=-77.2481&segment=001017&t=1&k=Ko3Ga0g-Gt5-HjXJtG1botH7JZtwfZtCT7Q-yr3y5KEvJwgc2pWicKarx4Bm-jZzuKajyjqDwCQLNTF52OeceqWHu1qa6smp9vMPk970jAAEMSvZJVoel3qCw93R7i6KV78 "        type="audio/ogg; codecs=vorbis">
-                Your browser does not support the audio element.
-            </audio>
-        </h5>
-</body>
-</html>
+<Html>
+    
+       <body style='background-color: #000;text-align: center;'>
+       
+             <h5 style='text-align: center;'>
+                
+             </h5>
+        
+             <h5 style='text-align: center;'>
+              <video controls id='video'></video>
+             </h5>
+       </body>
+</Html>
+<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
+<script>
+         if(Hls.isSupported()) {
+         var video = document.getElementById('video');
+         var hls = new Hls();
+         hls.loadSource('https://emf-seg001017.cdnstream1.com/seg001017-h128/playlist.m3u8?listeningSessionID=65b85dfd004e2b38_16325684_SjjbCcZ7_MjE2LjIzNS45My4xOTc6ODA!_0000001fK5W&downloadSessionID=0&platform=web&country=united-states&geo_api=gis_db&latitude=38.6583&longitude=-77.2481&segment=001017&session_id=1722907044734&visitor_id=019125242b960002872af80beef105083001807b00ac2&t=1&k=TjZOMRQf8lrAvOdCLZhOfq7CMCGYtA5WXnfgghrEGCCfB7d_j0gnhGCC3LoHAKddS8i7MM1p5k0-Y56e1ztMs8T8c0m0eT8bhlVwqVyzmqi2lVO6NQeAKXCMxQQayiWlFVLW ');
+                         
+         hls.attachMedia(video);
+         hls.on(Hls.Events.MANIFEST_PARSED,function() {
+         video.play();
+       });
+    }
+</script>
