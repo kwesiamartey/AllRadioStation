@@ -17,7 +17,7 @@
          if(Hls.isSupported()) {
          var video = document.getElementById('video');
          var hls = new Hls();
-         hls.loadSource('https://emf-seg001017.cdnstream1.com/seg001017-h128/playlist.m3u8?platform=web&country=united-states&geo_api=gis_db&latitude=38.6583&longitude=-77.2481&segment=001017&session_id=1722951535492&visitor_id=019125242b960002872af80beef105083001807b00ac2&t=1&k=SvgqPjsnAk_ru2PiF2dTDWv4JAwo28lOZcoQdtEUBsNdOUlIJdopJ62WHMQgBDQGio_A44hUlofsCXsYJfCWKzZEL4w_mkSQkgdB62jKMkbLr00C9pAP_6R9AJ-vgdsN6_c ');
+         hls.loadSource('https://emf-seg001017.cdnstream1.com/seg001017-h128/playlist.m3u8?listeningSessionID=65b85ff800568620_16370032_QixtNwLM_MjE2LjIzNS45My4yMDY6ODA!_0000001fYgm&downloadSessionID=0&platform=web&country=united-states&geo_api=gis_db&latitude=38.6583&longitude=-77.2481&segment=001017&session_id=1722951535492&visitor_id=019125242b960002872af80beef105083001807b00ac2&t=1&k=mM7SjjOjuwCcZM0ASJrVljPmrHoT9vobwELmzXn2gJGMfGwcQpCg73PzCaeWy4CZ9Y2GWhRLZmgT_a1-KAawTlJX00xgGuGZhGphsEPMs_AmkEZcFfTV_gqXgk_j7YYK1HIp');
                          
          hls.attachMedia(video);
          hls.on(Hls.Events.MANIFEST_PARSED,function() {
