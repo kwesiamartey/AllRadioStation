@@ -25,7 +25,15 @@
 
 
 
-
+         {
+            "id": 771,
+            "name": "WFAN 660",
+            "location": "New York NY,United State ",
+            "url": "https://kwesiamartey.github.io/AllRadioStation/unitedState_webplayer/WFAN 660.html",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://stg-images.radio.com/aiu-media/RDCStationMigrationLogorectangleWFANAMFM-1196f552-8a66-40e4-9a41-e8b156903ea3.png?&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&width=200&crop=1:1,offset-y0;"     
+        },
          {
             "id": 770,
             "name": " WRHU 88.7 FM",
