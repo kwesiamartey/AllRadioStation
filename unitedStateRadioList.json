@@ -296,15 +296,7 @@
             "web": "wep",
             "logo": "https://th.bing.com/th/id/OIP.aThYbkXhBv-hX3XzG16yvAHaC7?rs=1&pid=ImgDetMain"     
         },
-        {
-            "id": 745,
-            "name": "WMAL FM 105.9",
-            "location": "Washington DC,United State ",
-            "url": "https://kwesiamartey.github.io/AllRadioStation/unitedState_webplayer/WMAL FM 105.9.html",
-            "added": 0,
-            "web": "wep",
-            "logo": "https://th.bing.com/th/id/R.32d4c17fe1a98cc75704662c8bd3c341?rik=HtROSZG21NgjrQ&pid=ImgRaw&r=0"     
-        },
+
        {
             "id": 744,
             "name": "C-Span Radio WCSP FM 90.1",
