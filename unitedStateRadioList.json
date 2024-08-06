@@ -6816,15 +6816,7 @@
             "web": "wep",
             "logo": "https://www.radio.net/images/broadcasts/17/92/28390/c300.png"
         },
-        {
-            "id": 54,
-            "name": "NPR 24",
-            "location": "United State ",
-            "url": "https://kwesiamartey.github.io/AllRadioStation/unitedState_webplayer/NPR 24.html",
-            "added": 0,
-            "web": "wep",
-            "logo": "https://www.radio.net/images/broadcasts/3f/64/3576/1/c300.png"
-        },
+
         {
             "id": 53,
             "name": "KFXZ - Z 105.9 FM",
