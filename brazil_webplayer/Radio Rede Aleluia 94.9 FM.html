@@ -30,16 +30,49 @@
              
        </body>
 </Html>
-<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dayjs/1.11.10/dayjs.min.js"></script>
+<script src="https://static.radios.com.br/libs/bootstrap/3.3.4.c/js/bootstrap.min.js"></script>
+<script src="https://static.radios.com.br/js/base.1700504856.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/hls.js/0.12.4/hls.light.min.js"></script>
+<script src="https://static.radios.com.br/libs/flowplayer-html/7.2.7/flowplayer.min.1645217214.js"></script>
+<script src="https://static.radios.com.br/libs/flowplayer-html/7.2.7/audio/flowplayer.audio.min.1645217214.js"></script>
+<script src="https://cdn.datatables.net/v/bs/dt-1.11.2/fh-3.1.9/r-2.2.9/datatables.min.js"></script>
+<script src="https://cdn.datatables.net/plug-ins/1.11.3/filtering/type-based/accent-neutralise.js"></script> 
 <script>
-                      if(Hls.isSupported()) {
-                        var video = document.getElementById('video');
-                        var hls = new Hls();
-                        hls.loadSource("https://234398c.ha.azioncdn.net/primary/radio94_9fm.sdp/playlist.m3u8");
-                                      
-                        hls.attachMedia(video);
-                        hls.on(Hls.Events.MANIFEST_PARSED,function() {
-                          video.play();
-                      });
-                     }
-</script>
+			document.getElementById('player-loading').innerHTML = "";
+			document.getElementsByClassName("video")[0].style.display = 'block';
+            var sources = 
+				flowplayer("#player-flow-html5", {
+					clip: {
+						audio:true,
+						sources: [
+							{ type: "application/x-mpegurl",
+							src:  "https://234398c.ha.azioncdn.net/primary/radio94_9fm.sdp/playlist.m3u8" }
+						]
+					},
+					autoplay: true,
+					audioOnly: true,
+					mutedAutoplay: false,
+					live:true
+				});
+
+			document.getElementById('action-force-play').addEventListener("click", function(e){
+				flowplayer("#player-flow-html5").play();
+				e.preventDefault();
+			}, false);	
+		</script>
+<script>
+
+
+
+
+
+
+
+
+
+
+
