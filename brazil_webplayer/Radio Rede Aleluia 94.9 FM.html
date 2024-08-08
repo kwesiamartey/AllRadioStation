@@ -1,47 +1,5 @@
-
-
-
-
-
-<Html>
-    
-       <body>
-       
-             <h5 style='text-align: center;'>
-                 
-             </h5>
-        
-             <h5 style='text-align: center;'>
-             <video id="video" controls ></video>
-                <!--<audio controls>
-                    <source src="https://26593.live.streamtheworld.com/JP_SP_FMAAC_SC" type="audio/aac">
-                    Fallback source for browsers that don't support AAC
-                    <source src="fallback.mp3" type="audio/mpeg">
-                    Your browser does not support the audio element.
-                </audio>-->
-              
-             </h5>
-             
-             
-             
-             
-             
-             
-             
-       </body>
-</Html>
-
-
-<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
-<script>
-                      if(Hls.isSupported()) {
-                        var video = document.getElementById('video');
-                        var hls = new Hls();
-                        hls.loadSource("https://384398c.ha.azioncdn.net/primary/brasilia.sdp/playlist.m3u8");
-                                      
-                        hls.attachMedia(video);
-                        hls.on(Hls.Events.MANIFEST_PARSED,function() {
-                          video.play();
-                      });
-                     }
-</script>
+<video id="my_video" class="video-js vjs-default-skin" controls preload="auto" width="640" height="264"
+       data-setup='{}'>
+    <source src="https://384398c.ha.azioncdn.net/primary/brasilia.sdp/playlist.m3u8" type="application/x-mpegURL">
+</video>
+<script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>
