@@ -1,46 +1,40 @@
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link href="https://vjs.zencdn.net/7.7.6/video-js.css" rel="stylesheet" />
+    <!-- For IE8 (for Video.js versions prior to v7)
+    <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script>
+    -->
+    <style>
+        body {
+            background-color: #000;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .video-container {
+            display: inline-block;
+        }
+    </style>
 
-
-
-
-
-<Html>
     
-       <body>
-       
-             <h5 style='text-align: center;'>
-                 
-             </h5>
-        
-             <h5 style='text-align: center;'>
-             <video id="video" controls ></video>
-                <!--<audio controls>
-                    <source src="https://26593.live.streamtheworld.com/JP_SP_FMAAC_SC" type="audio/aac">
-                    Fallback source for browsers that don't support AAC
-                    <source src="fallback.mp3" type="audio/mpeg">
-                    Your browser does not support the audio element.
-                </audio>-->
-              
-             </h5>
-             
-             
-             
-             
-             
-             
-             
-       </body>
-</Html>
-<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
-<script>
-                      if(Hls.isSupported()) {
-                        var video = document.getElementById('video');
-                        var hls = new Hls();
-                                      
-                        hls.loadSource('wz1.dnip.com.br/popular98fm/popular98fm.stream/playlist.m3u8');
-                                      
-                        hls.attachMedia(video);
-                        hls.on(Hls.Events.MANIFEST_PARSED,function() {
-                          video.play();
-                      });
-                     }
-</script>
+  </head>
+  <body style='background-color: #000;text-align: center;'>
+    <h5 style='text-align: center;'>
+   <video-js id="my_video_1" class="vjs-default-skin" controls preload="auto">
+    <source src="https://wz1.dnip.com.br/popular98fm/popular98fm.stream/playlist.m3u8" type="application/x-mpegURL">
+   </video-js>
+    </h5>
+   <!--This is for Video.js by itself -->
+   <script src="https://unpkg.com/video.js/dist/video.js"></script>
+   <!--This is for HLS compatibility with all major browsers-->
+   <script src = "https://unpkg.com/browse/@videojs/http-streaming@1.13.3/dist/videojs-http-streaming.min.js"></script>
+   <script>
+    var player = videojs('my_video_1');
+   </script>
+  </body>
+</html>
