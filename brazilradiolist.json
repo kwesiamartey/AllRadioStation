@@ -1,4 +1,24 @@
 [
+
+
+
+
+
+
+
+
+
+
+{
+	"id": 150,
+	"name": "R\u00e1dio Gospel Hits 93.9 FM",
+	"location": "Rondon\u00f3polis / MT - Brasil",
+	"url": "http://server01.stmsg.com.br:23466/live?1691371712992",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://img.radios.com.br/radio/lg/radio137500_1581714808.jpg"
+},
+	
 {
 	"id": 149,
 	"name": "Bossa Jazz Brasil ",
@@ -217,20 +237,12 @@
 	"web": "wep",
 	"logo": "https://img.radios.com.br/radio/lg/radio13652_1662127628.jpg"
 },
-{
-	"id": 123,
-	"name": "R\u00e1dio Gospel Hits 93.9 FM",
-	"location": "Rondon\u00f3polis / MT - Brasil",
-	"url": "http://server01.stmsg.com.br:23466/live?1691371712992",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://img.radios.com.br/radio/lg/radio137500_1581714808.jpg"
-},
+
 {
 	"id": 123,
 	"name": "R\u00e1dio Gospel 90.7 FM",
 	"location": "Araras / SP - Brasil",
-	"url": "https://www.appradio.app:8120/live?1691371326378",
+	"url": "https://kwesiamartey.github.io/AllRadioStation/brazil_webplayer/Radio Gospel 90.7 FM.html",
 	"added": 0,
 	"web": "wep",
 	"logo": "https://img.radios.com.br/radio/lg/radio13322_1479469932.png"
