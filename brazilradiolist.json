@@ -634,7 +634,7 @@
 	"id": 68,
 	"name": "R\u00e1dio Sara Brasil FM 89.1",
 	"location": "Curitiba Paulo",
-	"url": "https://sarabrasilfm.com/radios/florianopolis/",
+	"url": "https://hts07.brascast.com:13492/live",
 	"added": 0,
 	"web": "wep",
 	"logo": "https://img.radios.com.br/radio/xl/radio14541_1641820167.png"
@@ -643,7 +643,7 @@
 	"id": 67,
 	"name": "R\u00e1dio Sara Brasil FM 93.9",
 	"location": "Curitiba Paulo",
-	"url": "https://sarabrasilfm.com/radios/goiania/",
+	"url": "https://hts07.brascast.com:13484/live",
 	"added": 0,
 	"web": "wep",
 	"logo": "https://img.radios.com.br/radio/xl/radio14541_1641820167.png"
@@ -802,14 +802,7 @@
 	"logo": "https://www.radio.net/images/broadcasts/0c/57/19456/c300.png"
 },
 {
-	"id": 49,
-	"name": "R\u00e1dio Sara Brasil FM 93.9",
-	"location": "Maca\u00e9 Brazil",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/brazil_webplayer/Radio Sara Brasil FM 93.9.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://img.radios.com.br/radio/xl/radio14541_1641820167.png"
-},
+
 {
 	"id": 48,
 	"name": "Eletr\u00f4nica Mix Brasil",
