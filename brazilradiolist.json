@@ -282,22 +282,14 @@
 	"url": "https://sh1.g2play.com.br:27260/stream?1723296168610",
 	"added": 0,
 	"web": "wep",
-	"logo": "https://img.radios.com.br/radio/lg/radio26970_1591273481.jpg"
+	"logo": "https://img.radios.com.br/radio/lg/radio17523_1645198072.png"
 },
-{
-	"id": 106,
-	"name": "R\u00e1dio FM Gospel 93.7 FM",
-	"location": "Ubajara / CE - Brasil",
-	"url": "https://stm2.matutos.com.br:11844/stream",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://img.radios.com.br/radio/lg/radio26970_1591273481.jpg"
-},
+
 {
 	"id": 105,
 	"name": "R\u00e1dio FM Gospel 93.7 FM",
 	"location": "Ubajara / CE - Brasil",
-	"url": "https://stm2.matutos.com.br:11844/stream",
+	"url": "https://kwesiamartey.github.io/AllRadioStation/brazil_webplayer/Radio FM Gospel 93.7 FM.html",
 	"added": 0,
 	"web": "wep",
 	"logo": "https://img.radios.com.br/radio/lg/radio26970_1591273481.jpg"
