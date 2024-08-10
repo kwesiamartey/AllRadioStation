@@ -9,6 +9,26 @@
 
 
 
+
+
+
+
+
+
+
+	
+
+{
+	"id": 137,
+	"name": "R\u00e1dio Cultura Brasil TV",
+	"location": "Brazil Brazil",
+	"url": "https://cultura.uol.com.br/controle-remoto-radio/culturabrasil/",
+	"added": 1,
+	"web": "wep",
+	"logo": "https://img.radios.com.br/radio/xl/radio11339_1675777314.png"
+},
+
+
 {
 	"id": 136,
 	"name": "R\u00e1dio Gospel Hits 93.9 FM",
@@ -546,15 +566,7 @@
 	"web": "wep",
 	"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Jovem_Pan_News_Marca_2022.jpg/600px-Jovem_Pan_News_Marca_2022.jpg?20220402031552"
 },
-{
-	"id": 76,
-	"name": "Jovem Pan Webradio - JP Pop Brasil",
-	"location": "Brazil",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/brazil_webplayer/Jovem Pan Webradio - JP Pop Brasil.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://lh3.googleusercontent.com/xOv9b6tnZJAaPqZ8UAvkqTIlLz2qpxeJOpNIYMG5c58Ly9Zsz9iBIzYg0KHQ6rrzLS8w"
-},
+
 {
 	"id": 75,
 	"name": "R\u00e1dio Bossa Jazz Brasil",
@@ -604,7 +616,7 @@
 	"id": 70,
 	"name": "R\u00e1dio Cultura Brasil AM 1200",
 	"location": "Brazil Brazil",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/brazil_webplayer/Radio Cultura Brasil AM 1200.html",
+	"url": "https://cultura.uol.com.br/controle-remoto-radio/culturafm/",
 	"added": 0,
 	"web": "wep",
 	"logo": "https://img.radios.com.br/radio/xl/radio11339_1675777314.png"
