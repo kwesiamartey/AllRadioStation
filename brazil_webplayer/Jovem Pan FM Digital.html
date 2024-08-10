@@ -1,38 +1,22 @@
 
-
-
-
-
-<Html>
-    
-       <body>
-       
-             <h5 style='text-align: center;'>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MP3 Stream</title>
+</head>
+<body style='background-color: #000;text-align: center;'>
+     <h5 style='width:100%;text-align: center;'>
                  
              </h5>
-        
-             <h5 style='text-align: center;'>
-             <!--<video id="video" controls type="application/x-mpegURL"></video>-->
-                <audio controls>
-                    <source src="https://stream-166.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikh0MkllX3FfUm5HTU9GNk95YTdsZGciLCJpYXQiOjE3MjMzMjY2NzUsImV4cCI6MTcyMzMyNjczNX0.3RaL4zqXNXmXXJb8ZO0znBhN7Sn21SkZGW1IMFwS4io" type="audio/mpeg">
-                   <!--Fallback source for browsers that don't support AAC-->
-                    <source src="https://stream-166.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikh0MkllX3FfUm5HTU9GNk95YTdsZGciLCJpYXQiOjE3MjMzMjY2NzUsImV4cCI6MTcyMzMyNjczNX0.3RaL4zqXNXmXXJb8ZO0znBhN7Sn21SkZGW1IMFwS4io" type="audio/mpeg">
-                    Your browser does not support the audio element.
-                </audio>
-              
-             </h5>
-       </body>
-</Html>
-<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
-<script>
-                      if(Hls.isSupported()) {
-                        var video = document.getElementById('video');
-                        var hls = new Hls();
-                        hls.loadSource('https://d233lioynu5inr.cloudfront.net/out/v1/c45e4e4af26a4d59b5d166c2a9ac2bbc/index.m3u8');
-                                      
-                        hls.attachMedia(video);
-                        hls.on(Hls.Events.MANIFEST_PARSED,function() {
-                          video.play();
-                      });
-                     }
-</script>
+
+        <h5 style='width:100%;text-align: center;'>
+            <audio controls>
+                <source src="https://stream-166.zeno.fm/c45wbq2us3buv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjNDV3YnEydXMzYnV2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikh0MkllX3FfUm5HTU9GNk95YTdsZGciLCJpYXQiOjE3MjMzMjY2NzUsImV4cCI6MTcyMzMyNjczNX0.3RaL4zqXNXmXXJb8ZO0znBhN7Sn21SkZGW1IMFwS4io"        
+                        type="audio/ogg; codecs=vorbis">
+                Your browser does not support the audio element.
+            </audio>
+        </h5>
+</body>
+</html>
