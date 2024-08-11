@@ -804,15 +804,6 @@
 
 
 {
-	"id": 48,
-	"name": "Eletr\u00f4nica Mix Brasil",
-	"location": "Porto Alegre Brazil",
-	"url": "http://hts01.kshost.com.br:9752/;;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://pbs.twimg.com/profile_images/1293025517076189184/4GTO1DJY_400x400.jpg"
-},
-{
 	"id": 47,
 	"name": "Rede Gospel Brasil",
 	"location": "Brazil Brazil",
@@ -843,7 +834,7 @@
 	"id": 44,
 	"name": "R\u00e1dio Marca Brasil",
 	"location": "Brazil Brazil",
-	"url": "https://22333.live.streamtheworld.com/RADIOMARCA_NACIONAL.mp3?dist=radiomarcaweb",
+	"url": "https://22183.live.streamtheworld.com/RADIOMARCA_NACIONAL.mp3?dist=radiomarcaweb",
 	"added": 0,
 	"web": "wep",
 	"logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Radio_Marca_Nuevo_Logo.png"
