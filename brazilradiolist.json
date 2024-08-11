@@ -751,7 +751,7 @@
 	"id": 55,
 	"name": "Radio Brasil Campinas AM 1270",
 	"location": "Campinas Brazil",
-	"url": "http://streaming04.hstbr.net:8190/live",
+	"url": "https://centova2.svdns.com.br:20030/stream",
 	"added": 0,
 	"web": "wep",
 	"logo": "https://esporteemidia.com/wp-content/uploads/2018/01/brasil-campinas.png"
