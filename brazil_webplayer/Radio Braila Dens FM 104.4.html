@@ -4,43 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Radio Stream</title>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.9.2/skin/pink.flag/jplayer.pink.flag.min.css" rel="stylesheet">
 </head>
 <body>
     <h1>Radio Solo Stream</h1>
-    <div id="jquery_jplayer_1" class="jp-jplayer"></div>
-    <div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
-        <div class="jp-type-single">
-            <div class="jp-gui jp-interface">
-                <div class="jp-controls">
-                    <button class="jp-play" role="button" tabindex="0">play</button>
-                    <button class="jp-pause" role="button" tabindex="0">pause</button>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.9.2/jplayer/jquery.jplayer.min.js"></script>
-    <script>
-        $(document).ready(function() {
-            $("#jquery_jplayer_1").jPlayer({
-                ready: function () {
-                    $(this).jPlayer("setMedia", {
-                        mp3: "https://new.radiosolo.ru/ro/braila-dens-fm/icecast.audio"
-                    }).jPlayer("play");
-                },
-                swfPath: "/js",
-                supplied: "mp3",
-                wmode: "window",
-                useStateClassSkin: true,
-                autoBlur: false,
-                smoothPlayBar: true,
-                keyEnabled: true,
-                remainingDuration: true,
-                toggleDuration: true
-            });
-        });
-    </script>
+    <iframe src="https://your-proxy-url.com/stream?url=https://new.radiosolo.ru/ro/braila-dens-fm/icecast.audio" 
+            width="300" 
+            height="100" 
+            frameborder="0" 
+            allow="autoplay">
+    </iframe>
 </body>
 </html>
