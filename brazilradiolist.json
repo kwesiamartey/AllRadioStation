@@ -1020,15 +1020,7 @@
 	"web": "wep",
 	"logo": "https://tudoradio.com/img/uploads/radios/5f64cfb4b54a5.png"
 },
-{
-	"id": 22,
-	"name": "Radio Jovem Pan Am Sp 620",
-	"location": "Brazil Brazil",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/brazil_webplayer/jovempan.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Logotipo_da_Jovem_Pan_FM_Aracaju.jpg"
-},
+
 {
 	"id": 21,
 	"name": "Alvorada FM 94.9",
@@ -1078,7 +1070,7 @@
 	"id": 16,
 	"name": "SulAm\u00e9rica Paradiso FM 95.7",
 	"location": "Rio de Janeiro Brazil",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/brazil_webplayer/SulAmerica Paradiso.html",
+	"url": "https://amilparadiso.fm/player/",
 	"added": 0,
 	"web": "wep",
 	"logo": "https://api.dialbrasil.com.br/files/Contents/image_large_name/20200409165004Mix-Festival-Em-Casa.jpg"
