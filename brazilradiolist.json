@@ -733,10 +733,10 @@
 	"id": 57,
 	"name": "R\u00e1dio Brasil Atual FM 93.3",
 	"location": "S\u00e3o Vicente Brazil",
-	"url": "http://servidor30-5.brlogic.com:8708/live",
+	"url": "https://corp.tvt.org.br:8083/stream",
 	"added": 0,
 	"web": "wep",
-	"logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/R%C3%A1dio_Brasil_Atual.png"
+	"logo": "https://cdn.onlineradiobox.com/img/l/2/44902.v8.png"
 },
 {
 	"id": 56,
