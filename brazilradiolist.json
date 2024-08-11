@@ -902,15 +902,7 @@
 	"web": "wep",
 	"logo": "https://radioserrana.net/wp-content/uploads/2021/03/logo-serrana.png"
 },
-{
-	"id": 36,
-	"name": "Radio Braila Dens FM 104.4",
-	"location": "Braila Romania Brazil",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/brazil_webplayer/Radio Braila Dens FM 104.4.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://images.squarespace-cdn.com/content/v1/55ad0612e4b01819e3b9bfbe/1587390200335-1M03NX5DEZ0POS0T44ML/Braila+DENS.jpg?format=1000w"
-},
+
 {
 	"id": 35,
 	"name": "R\u00e1dio Evangelizar AM 1060",
@@ -951,7 +943,7 @@
 	"id": 31,
 	"name": "Radio Grenal FM 95.9",
 	"location": "Porto Alegre Brazil",
-	"url": "http://cast4.audiostream.com.br:8649/mp3",
+	"url": "https://kwesiamartey.github.io/AllRadioStation/brazil_webplayer/Radio Grenal FM 95.9.html",
 	"added": 0,
 	"web": "wep",
 	"logo": "https://play-lh.googleusercontent.com/Yydd4inujOEl0r4aOZpdHhs0KX8AAdEHeOw_tnupmvG-_gZMTKCAL8T4XN0-Dxzn-6M"
