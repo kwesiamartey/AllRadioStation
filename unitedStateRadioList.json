@@ -36,7 +36,15 @@
 
 
 
-
+      {
+            "id": 778,
+            "name": "USA TODAY 24/7 Live Stream",
+            "location": "New York NY,United State ",
+            "url": "https://youtu.be/vZYMwAm8sso",
+            "added": 0,
+            "web": "wep",
+            "logo": "https://cdn.onlineradiobox.com/img/l/2/6472.v1.png"   
+        },
 
        {
             "id": 777,
