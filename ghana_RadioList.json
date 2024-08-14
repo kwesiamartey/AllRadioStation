@@ -1,5 +1,22 @@
 [
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 	
 	
@@ -16,7 +33,16 @@
 
 
 
-
+		{
+			"id": 118,
+			"name": "Peace fm",
+			"location": "Accra",
+			"url": "http://peacefm.atunwadigital.streamguys1.com/peacefm",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://despitemedia.com/v13/peace_200.png",
+			"bit": "284k"
+		},
 
 	
 		{
