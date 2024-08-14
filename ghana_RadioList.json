@@ -20,6 +20,16 @@
 
 	
 		{
+			"id": 118,
+			"name": "Peacefm Ghana",
+			"location": "Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Peacefm_ghana.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://despitemedia.com/v13/peace_200.png",
+			"bit": "284k"
+		},
+		{
 			"id": 117,
 			"name": "Joy News Live",
 			"location": "Ghana",
