@@ -7,11 +7,7 @@
              </h5>
         
              <h5 style='text-align: center;'>
-              <audio controls
-           src='https://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01'>
-                     Your browser does not support the
-           <code>audio</code> element.
-    </audio>
+              <video id="video"></video>
              </h5>
        </body>
 </Html>
@@ -20,7 +16,7 @@
                       if(Hls.isSupported()) {
                         var video = document.getElementById('video');
                         var hls = new Hls();
-                        hls.loadSource('https://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01');
+                        hls.loadSource('https://mbnv-audio-ingest.akamaized.net/hls/live/2038906/MBNV_SAWA_IRAQ_AUDIO_HLS/master_11.m3u8');
                                       
                         hls.attachMedia(video);
                         hls.on(Hls.Events.MANIFEST_PARSED,function() {
