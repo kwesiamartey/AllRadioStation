@@ -1,5 +1,298 @@
 [
 	{
+                    "id" : 69,
+                    "name" : "AKRA FM'DE ŞU AN",
+                    "location" : "İstanbul ",
+                    "url" : "http://www.akradyo.net/canliyayin.aspx",
+                    "added" : 0,
+                    "web" : "wep",
+                    "logo" : "https://play-lh.googleusercontent.com/i8FUuz7h6fm6WCl_9eel-M_PRh91s-SWtC6DBOjJdy3P34lRwEXYgRC-CjQ9UbszFEKZ",
+                    "bit" : "20k"
+	},
+              {
+                    "id" : 68,
+                    "name" : "Bayram fm",
+                    "location" : "İstanbul ",
+                    "url" : "https://sslyayin.netyayin.net/3442/stream",
+                    "added" : 0,
+                    "web" : "wep",
+                    "logo" : "https://cdn-radiotime-logos.tunein.com/s119701d.png",
+                    "bit" : "20k"
+	},
+              {
+                    "id" : 67,
+                    "name" : "Beyzade fm",
+                    "location" : "İstanbul ",
+                    "url" : "http://structuredapps.live/playstore/islamic_webplayer/Beyzade fm.php",
+                    "added" : 0,
+                    "web" : "wep",
+                    "logo" : "https://play-lh.googleusercontent.com/gJIuHsv9WQllJrLE0K8qojpb37V3Nwd1SiFqfHrAjBKNdIOTAlNwCP5VBwPqPe8xJ2o",
+                    "bit" : "20k"
+	},
+                {
+                    "id" : 66,
+                    "name" : "Cansuyu-FM ",
+                    "location" : "İstanbul ",
+                    "url" : "https://radyo.radiosonline.net/files?uri=radyodinle.cansuyufm.com:17175/;&tkn=cWmLzriVE61QiRRbRRE7uA&tms=1651403896",
+                    "added" : 0,
+                    "web" : "wep",
+                    "logo" : "https://static-media.streema.com/media/cache/3a/8c/3a8cd0dd6f85eb2944ba23c9afce5c84.jpg",
+                    "bit" : "20k"
+	},
+              {
+                    "id" : 65,
+                    "name" : "Diyanet Kur’an Radyosu",
+                    "location" : "İstanbul ",
+                    "url" : "http://structuredapps.live/playstore/islamic_webplayer/Diyanet Kur’an Radyosu.php",
+                    "added" : 0,
+                    "web" : "wep",
+                    "logo" : "https://i1.sndcdn.com/artworks-000177815013-ohn4no-t500x500.jpg",
+                    "bit" : "20k"
+	},
+              {
+                    "id" : 64,
+                    "name" : "Diyanet Radyo",
+                    "location" : "İstanbul ",
+                    "url" : "http://structuredapps.live/playstore/islamic_webplayer/Diyanet Radyo.php",
+                    "added" : 0,
+                    "web" : "wep",
+                    "logo" : "https://i1.sndcdn.com/artworks-000177815013-ohn4no-t500x500.jpg",
+                    "bit" : "20k"
+	},
+    {
+    "id": 63,
+    "name": "Diyarbakır Çağrı Fm",
+    "location": "İstanbul ",
+    "url": "https://radyodinle1.turkhosted.com/yayin?uri=yayin1.canliyayin.org:8202/&tkn=bwPIzFt3X9RXo8Xk4UiEGQ&tms=1651475055",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://radyodi.com/wp-content/uploads/2019/05/cagri-fm.png",
+    "bit": "20k"
+},
+{
+    "id": 62,
+    "name": "Dolunay Radyo FM 108.0",
+    "location": "İstanbul ",
+    "url": "http://yayin1.canliyayin.org:8318/stream",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/dolunay-fm-canli.jpg",
+    "bit": "20k"
+},
+{
+    "id":61,
+    "name": "Show Radyo FM 89.8",
+    "location": "İstanbul ",
+    "url": "http://structuredapps.live/playstore/islamic_webplayer/Show Radyo Canli Dinle.php",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://static.tuneyou.com/images/logos/500_500/10/16010/ShowRadyo89.8FM_4.jpg",
+    "bit": "20k"
+},
+{
+    "id": 60,
+    "name": "Hedef Radyo FM 91.8",
+    "location": "İstanbul ",
+    "url": "http://structuredapps.live/playstore/islamic_webplayer/Hedef Radyo FM 91.8.php",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-hedef-dinle.jpg",
+    "bit": "20k"
+},
+{
+    "id": 59,
+    "name": "İsra Fm",
+    "location": "Turkey İstanbul ",
+    "url": "https://radyo.radiosonline.net/files?uri=yayin1.canliyayin.org:8210/;&tkn=qXaexEvAIy2bfqmw_sNjTA&tms=1651414337",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/isra-fm-dinle.jpg",
+    "bit": "20k"
+},
+{
+    "id": 58,
+    "name": "Kervan FM 93.7",
+    "location": "Gaziantep İstanbul ",
+    "url": "http://yayin2.canliyayin.org:9374/stream",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://pbs.twimg.com/profile_images/1300607479/msn_tut_koy_400x400.jpg",
+    "bit": "20k"
+},
+{
+    "id": 57,
+    "name": "Konya Gözyaşı FM",
+    "location": "İstanbul ",
+    "url": "https://radyo.radiosonline.net/files?uri=yayin1.canliyayin.org:8700/;&tkn=YWHC8DynLtTs7QuCU1mc0A&tms=1651414752",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://static-media.streema.com/media/cache/5c/15/5c157828c7d9f4eaca3ff376c5a4d3ad.jpg",
+    "bit": "20k"
+},
+{
+    "id": 56,
+    "name": "Lalegül Fm",
+    "location": "İstanbul ",
+    "url": "https://icecast.netmedya.net/lalegulfm",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://www.radyodinle.vip/dosya/vitrin/lalegul-fm-2.png",
+    "bit": "20k"
+},
+{
+    "id": 55,
+    "name": "Marmara FM",
+    "location": "İstanbul ",
+    "url": "http://marmarafm.canliyayinda.com:8008/;stream.nsv",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://www.onlineradyodinle.com.tr/kanal/marmara-fm.png",
+    "bit": "20k"
+},
+{
+    "id": 54,
+    "name": "Medine Fm",
+    "location": "İstanbul ",
+    "url": "https://radyo.meric.net.tr/9786/stream",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://radiosapi.ams3.cdn.digitaloceanspaces.com/0200898e90b04450831ff139117235e3.jpg",
+    "bit": "20k"
+},
+{
+    "id": 53,
+    "name": "Moral FM 105.0",
+    "location": "İstanbul ",
+    "url": "http://structuredapps.live/playstore/islamic_webplayer/Moral FM 105.0.php",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://static-media.streema.com/media/cache/a1/a4/a1a4402a794168434b8db94f3269a79a.jpg",
+    "bit": "20k"
+},
+{
+    "id": 52
+    "name": "Özel FM",
+    "location": "İstanbul ",
+    "url": "https://ozelfm.80.yayin.com.tr/;stream/1#.mp3",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtc6MC4vx8QBCAAavZTYXJ95M4egCxejGmn6FMFZI4rf4vePIOahvZz9W5iNHf2T4mSU4&usqp=CAU",
+    "bit": "20k"
+},
+{
+    "id": 51,
+    "name": "Radyo 7 Kuran Meali",
+    "location": "İstanbul ",
+    "url": "https://radyo.radiosonline.net/files?uri=37.247.98.8/stream/33/?&tkn=5brwL_SH527Fnpwdk5EJGw&tms=1651446353",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-7-kuran-meali-dinle.jpg",
+    "bit": "20k"
+},
+{
+    "id": 50,
+    "name": "Radyo Anadolu",
+    "location": "İstanbul ",
+    "url": "http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://i.tmgrup.com.tr/rt/site/v2/c/i/radio/turkuvaz-anadolu-big.png",
+    "bit": "20k"
+},
+{
+    "id": 49,
+    "name": "Radyo Çağrı",
+    "location": "İstanbul ",
+    "url": "http://yayin1.canliyayin.org:8202/;stream.mp3",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/izmir-cagri-radyo-dinle.jpg",
+    "bit": "20k"
+},
+{
+    "id": 48,
+    "name": "Radyo Islam",
+    "location": "İstanbul ",
+    "url": "http://yayin.radyoislam.com:7676/stream/;",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://d371i8ihhgym7w.cloudfront.net/15594.png",
+    "bit": "20k"
+},
+{
+    "id": 47,
+    "name": "Radyo Kuran",
+    "location": "İstanbul ",
+    "url": "https://anadolu.liderhost.com.tr/8555/stream",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://play-lh.googleusercontent.com/OkeuErpA_cVOBAxdJqrz3fxU3kbyF7dwsbhrzMwH7lC-OTh2RcTmBpcw5ydXUudHnTLf",
+    "bit": "20k"
+},
+{
+    "id": 46,
+    "name": "Radyo Kuran Meali",
+    "location": "İstanbul ",
+    "url": "http://structuredapps.live/playstore/islamic_webplayer/Radyo Kuran Meali.php",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-7-kuran-meali-dinle.jpg",
+    "bit": "20k"
+},
+{
+    "id": 45,
+    "name": "Radyo Mevlana",
+    "location": "Mersin İstanbul ",
+    "url": "http://radyo.meric.net.tr:9786/stream?type=http&amp;nocache=1144",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://www.radio.de/images/broadcasts/94/8f/159590/1/c300.png",
+    "bit": "20k"
+},
+{
+    "id": 44,
+    "name": "Sufi Mistik",
+    "location": "İstanbul ",
+    "url": "http://structuredapps.live/playstore/islamic_webplayer/Sufi Mistik.php",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://3.bp.blogspot.com/-0pMeInGhQeM/Wa6vwl28kjI/AAAAAAAAVG8/vODF51Pz9FMrhm-FdJOkUkoOY3eLIoJ6QCLcBGAs/s1600/s.jpg",
+    "bit": "20k"
+},
+{
+    "id": 43,
+    "name": "Uhud Fm",
+    "location": "İstanbul ",
+    "url": "http://yayin2.canliyayin.org:7676/;stream.nsv",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://play-lh.googleusercontent.com/5ZiKDx5QGn3vs_VEk3ug1Tvt6kE9AdTtS9GtF5QsKQUDS6vLkCj6aco6K42yuqxVWVI=w240-h480-rw",
+    "bit": "20k"
+},
+{
+    "id": 42,
+    "name": "Radyo Nebi",
+    "location": "İstanbul ",
+    "url": "https://anadolu.liderhost.com.tr/9006/stream",
+    "added": 0,
+    "web": "wep",
+    "logo": "https://cdn.onlineradiobox.com/img/l/9/103769.v1.png",
+    "bit": "20k"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	{
 		"id": 41,
 		"name": "Dubai 93 FM",
 		"location": "Dubai",
