@@ -20,7 +20,7 @@
 
  {
         "id": 72,
-        "name": "Radio Romania Targu Mures",
+        "name": "Radio Targu Mures",
         "location": "Romania ",
         "url": "http://streaming.radiomures.ro:8302/;",
         "added": 0,
@@ -145,7 +145,7 @@
     },
     {
         "id": 58,
-        "name": "Radio România Muzical",
+        "name": "Radio Muzical",
         "location": "Romania ",
         "url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio România Muzical.html",
         "added": 0,
@@ -550,7 +550,7 @@
     },
     {
         "id": 13,
-        "name": "Radio Romania Actualități",
+        "name": "Radio Actualități",
         "location": "Romania ",
         "url": "http://live.rra.ro:80/radio1",
         "added": 0,
@@ -559,7 +559,7 @@
     },
     {
         "id": 12,
-        "name": "Radio Romania Cultural",
+        "name": "Radio Cultural",
         "location": "Romania ",
         "url": "http://live.rra.ro:80/radio_cultural",
         "added": 0,
@@ -568,7 +568,7 @@
     },
     {
         "id": 11,
-        "name": "Radio Romania Muzical",
+        "name": "Radio Muzical",
         "location": "Romania ",
         "url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio România Muzical.html",
         "added": 0,
@@ -577,7 +577,7 @@
     },
     {
         "id": 10,
-        "name": "Radio Romania Internațional",
+        "name": "Radio Internațional",
         "location": "Romania ",
         "url": "http://live.rra.ro:80/radio_international",
         "added": 0,
