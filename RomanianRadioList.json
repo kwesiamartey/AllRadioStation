@@ -9,646 +9,514 @@
 	"web": "wep",
 	"logo": "https://cdn.mytuner.mobi/static/ctr/images/country/ro.png"
 },
-	
-{
-	"id": 120,
-	"name": "Magic FM live",
-	"location": "Romania ",
-	"url": "https://live.magicfm.ro/magicfm.aacp",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/wC8vD4KN3d.png"
-},
-{
-	"id": 119,
-	"name": "RockFM live",
-	"location": "Romania ",
-	"url": "https://live.rockfm.ro/rockfm.aacp",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/7cGjfNYN3U.png"
-},
-{
-	"id": 118,
-	"name": "Smart FM live",
-	"location": "Romania ",
-	"url": "http://live.smartradio.ro:9128/live",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/WYrsAVTuwJ.png"
-},
-{
-	"id": 117,
-	"name": "OneFM live",
-	"location": "Romania ",
-	"url": "https://live.onefm.ro/onefm.aacp",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/hrkY5cQDZj.png"
-},
-{
-	"id": 116,
-	"name": "Radio Zu live",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Zu live.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/hPR6BnRfuQ.png"
-},
-{
-	"id": 115,
-	"name": "Kiss FM live",
-	"location": "Romania ",
-	"url": "https://live.kissfm.ro/kissfm.aacp",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/bALtaR5LbL.jpeg"
-},
-{
-	"id": 114,
-	"name": "Radio Guerrilla",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Guerrilla.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/P9sZ7Q2Qw2.png"
-},
-{
-	"id": 113,
-	"name": "Radio Pro Manele",
-	"location": "Romania ",
-	"url": "http://radiopromanele.zapto.org:8000/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/h2njyeabeu3z.png"
-},
-{
-	"id": 112,
-	"name": "Virgin Radio live",
-	"location": "Romania ",
-	"url": "https://astreaming.edi.ro:8443/VirginRadio_aac",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/BVSw8zFBQG.png"
-},
-{
-	"id": 111,
-	"name": "Dance FM live",
-	"location": "Romania ",
-	"url": "http://edge126.rdsnet.ro:84/profm/dancefm.mp3",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/UUaNZyca4n.jpeg"
-},
-{
-	"id": 110,
-	"name": "Pro FM live",
-	"location": "Romania ",
-	"url": "https://edge126.rcs-rds.ro/profm/profm.mp3",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/jHxkEzUcwg.png"
-},
-{
-	"id": 109,
-	"name": "Digi FM live",
-	"location": "Romania ",
-	"url": "http://edge76.rdsnet.ro:84/digifm/digifm.mp3",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/gBfxVeXab7.png"
-},
-{
-	"id": 108,
-	"name": "SRR Radio Actualitati live",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/SRR Radio Actualitati live.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/cyHyzCDZwX.png"
-},
-{
-	"id": 107,
-	"name": "Radio Manele live",
-	"location": "Romania ",
-	"url": "https://ssl.servereradio.ro/8054/stream",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/VWnbmKXX2a.png"
-},
-{
-	"id": 106,
-	"name": "Play 90's",
-	"location": "Romania ",
-	"url": "https://live.playradio.org:8443/90HD",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/t8yaUYuCRa.png"
-},
-{
-	"id": 105,
-	"name": "Radio Petrecere Romania live",
-	"location": "Romania ",
-	"url": "http://petrecere.fmradiomanele.ro:8123/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/vt3clfx8be3h.png"
-},
-{
-	"id": 104,
-	"name": "Radio Caf\u00e9 live",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Caf\u00e9 live.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/79J5LPeMdL.png"
-},
-{
-	"id": 103,
-	"name": "Manele Vechi",
-	"location": "Romania ",
-	"url": "http://manele.radiopopular.ro:8000/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/7jkfch9egk9m.png"
-},
-{
-	"id": 102,
-	"name": "Radio Impuls 101.5 FM",
-	"location": "Romania ",
-	"url": "https://live.radio-impuls.ro/stream",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/4phaJnZSVw.png"
-},
-{
-	"id": 101,
-	"name": "Deep House Radio live",
-	"location": "Romania ",
-	"url": "http://live.dancemusic.ro:7000/stream",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/cfpt9j2sws67.png"
-},
-{
-	"id": 100,
-	"name": "Europa FM live",
-	"location": "Romania ",
-	"url": "http://astreaming.edi.ro:8000/EuropaFM_aac",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/Fs3ahQV6xT.png"
-},
-{
-	"id": 99,
-	"name": "Radio Gold FM 96.9",
-	"location": "Romania ",
-	"url": "https://live.radiogoldfm.ro:8443/WP.mp3",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/upV6zVNCKC.jpg"
-},
-{
-	"id": 98,
-	"name": "Radio Pro-B",
-	"location": "Romania ",
-	"url": "http://live.radioprob.ro:8888/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/FfCceGYApS.jpg"
-},
-{
-	"id": 97,
-	"name": "Radio Popular Oldies",
-	"location": "Romania ",
-	"url": "http://89.39.189.55:8300/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/LNhDPvTxD4.jpeg"
-},
-{
-	"id": 96,
-	"name": "Banat Radio",
-	"location": "Romania ",
-	"url": "http://banatfm.zapto.org:9300/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/CFXUQY6Ufb.jpeg"
-},
-{
-	"id": 95,
-	"name": "Radio Pro Popular",
-	"location": "Romania ",
-	"url": "http://radio.radiopropopular.ro:8000/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/z7fMEdC5Gp.jpeg"
-},
-{
-	"id": 94,
-	"name": "Pro Radio - Manele",
-	"location": "Romania ",
-	"url": "http://live.promanele.ro:8123/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/QQBhGHef4j7d.jpg"
-},
-{
-	"id": 93,
-	"name": "Radio Unu Manele",
-	"location": "Romania ",
-	"url": "http://radio1manele.ddns.net:8014/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/M3NCZjMK5W9k.png"
-},
-{
-	"id": 92,
-	"name": "Radio Clasic",
-	"location": "Romania ",
-	"url": "https://live.radioclasic.ro/clasic.aacp",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/UCd3Dh7khE.png"
-},
-{
-	"id": 91,
-	"name": "National FM live",
-	"location": "Romania ",
-	"url": "http://live.nationalfm.ro:9128/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/qsyaqHyWTc.jpeg"
-},
-{
-	"id": 90,
-	"name": "Sport Total FM live",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Sport Total FM live.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/dzDB3uUsKK.jpeg"
-},
-{
-	"id": 89,
-	"name": "Radio Manele Mix",
-	"location": "Romania ",
-	"url": "http://manele.radiomix.ro:8000/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/PyDkTQRSep.jpeg"
-},
-{
-	"id": 88,
-	"name": "Radio Hit Romania",
-	"location": "Romania ",
-	"url": "https://stream2.radiosforhosting.com:7016/stream",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/qPEk98v29a.jpeg"
-},
-{
-	"id": 87,
-	"name": "Radio Ethno Romania",
-	"location": "Romania ",
-	"url": "http://live.radioethno.ro:9112/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/HRmq3ZzXDE.jpeg"
-},
-{
-	"id": 86,
-	"name": "RPh - Radio Pro Hit",
-	"location": "Romania ",
-	"url": "http://radio.prohit.ro:8000/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/dZ7ZTx2nDe.jpeg"
-},
-{
-	"id": 85,
-	"name": "Radio Ciurila live",
-	"location": "Romania ",
-	"url": "http://radiociurila.asuscomm.com:8000/live",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/TE6pdFtJUt.jpeg"
-},
-{
-	"id": 84,
-	"name": "Radio Nova FM Romania",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Nova FM Romania.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/y6Fa4wbd6q.jpeg"
-},
-{
-	"id": 83,
-	"name": "Radio Romania Antena Satelor",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Romania Antena Satelor.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/xCKGf3u9Hn.jpeg"
-},
-{
-	"id": 82,
-	"name": "Radio Romanian Manele",
-	"location": "Romania ",
-	"url": "http://radiomanele.radiopopular.ro:8000/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/49BMVXE27i.jpeg"
-},
-{
-	"id": 81,
-	"name": "Radio Popular Petrecaretzu",
-	"location": "Romania ",
-	"url": "http://89.39.189.55:8400/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/kzMsbDLhFH.jpeg"
-},
-{
-	"id": 80,
-	"name": "Radio Traditional Manele",
-	"location": "Romania ",
-	"url": "http://89.39.189.55:8600/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/cdxyaF7wWZ.jpeg"
-},
-{
-	"id": 79,
-	"name": "Radio 21 Romania",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio 21 Romania.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/FEWkRSuYdx.jpeg"
-},
-{
-	"id": 78,
-	"name": "OneFM Manele",
-	"location": "Romania ",
-	"url": "https://onemanele.caster.fm",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/f6A9x4KyZ7.jpeg"
-},
-{
-	"id": 77,
-	"name": "Pro Manele Vechi",
-	"location": "Romania ",
-	"url": "http://live.promanelevechi.ro:8123/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/YYA9fHZkqG.jpeg"
-},
-{
-	"id": 76,
-	"name": "Pro Fm",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Pro Fm.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/EdkY4QKX3R.jpeg"
-},
-{
-	"id": 75,
-	"name": "Virgin Radio Romania",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Virgin Radio Romania.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/fCzheQuFZx.jpeg"
-},
-{
-	"id": 74,
-	"name": "RockFM",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/RockFM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/7cGjfNYN3U.png"
-},
-{
-	"id": 73,
-	"name": "Magic FM",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Magic FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/wC8vD4KN3d.png"
-},
-{
-	"id": 72,
-	"name": "Radio Pro Popular Manele",
-	"location": "Romania ",
-	"url": "http://radio1manele.ddns.net:8014/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/J9xhFjytSa.jpeg"
-},
-{
-	"id": 71,
-	"name": "OneFM",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/OneFM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/hrkY5cQDZj.png"
-},
-{
-	"id": 70,
-	"name": "Radio 69",
-	"location": "Romania ",
-	"url": "https://onlineradiobox.com/ro/radio69/",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/P9YQvG8WUw.png"
-},
-{
-	"id": 69,
-	"name": "Pro Hit",
-	"location": "Romania ",
-	"url": "http://radio.prohit.ro:8000/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/bZGJ7pJzVc.jpeg"
-},
-{
-	"id": 68,
-	"name": "Radio No Limit",
-	"location": "Romania ",
-	"url": "https://onlineradiobox.com/ro/nonlimit/",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/SN9F2Hq6b4.png"
-},
-{
-	"id": 67,
-	"name": "Radio 69",
-	"location": "Romania ",
-	"url": "https://onlineradiobox.com/ro/radio69/",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/qV5dF2T8vJ.png"
-},
-{
-	"id": 66,
-	"name": "RomanticFM",
-	"location": "Romania ",
-	"url": "https://onlineradiobox.com/ro/romanticfm/",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/wC8vD4KN3d.png"
-},
-{
-	"id": 65,
-	"name": "Radio ProFM",
-	"location": "Romania ",
-	"url": "http://radio.profm.ro:8000/;",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/MbP3QkwVKr.png"
-},
-{
-	"id": 64,
-	"name": "Radio Zu",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Zu.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/zzBZf3LX7z.jpeg"
-},
-{
-	"id": 63,
-	"name": "Radio Guerrilla",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Guerrilla.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/gF6VcPLXya.png"
-},
-{
-	"id": 62,
-	"name": "Radio Guerrilla",
-	"location": "Romania ",
-	"url": "http://live.radioguerrilla.ro:8000/stream",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/Xs8YTL8SRF.png"
-},
-{
-	"id": 61,
-	"name": "Radio Romania Actualitati",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Romania Actualitati.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/V9D8XFyCa6.jpeg"
-},
-{
-	"id": 60,
-	"name": "Radio Unu",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Unu.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/FWmvK8yXeR.jpeg"
-},
-{
-	"id": 59,
-	"name": "PlayFM",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/PlayFM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/gCN8r7K6b4.png"
-},
-{
-	"id": 58,
-	"name": "Radio Impuls",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Impuls.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/gD1hCJZVsR.png"
-},
-{
-	"id": 57,
-	"name": "Dance FM",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Dance FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/hF4sDf8UaW.png"
-},
-{
-	"id": 56,
-	"name": "Radio SmartFM",
-	"location": "Romania ",
-	"url": "http://live.smartradio.ro:9128/live",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/ERF8bQ3aPL.jpeg"
-},
-{
-	"id": 55,
-	"name": "Radio Romania Actualitati",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Romania Actualitati.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/5PE8ZdYXUA.jpeg"
-},
-{
-	"id": 54,
-	"name": "Radio Tananana",
-	"location": "Romania ",
-	"url": "http://stream.radiotananana.ro:8000/live",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/t5VG9Fyd3b.jpeg"
-},
-{
-	"id": 53,
-	"name": "Radio ImpactFM",
-	"location": "Romania ",
-	"url": "http://stream.radioimpactfm.ro:8000/live",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/hgDU8D5JLB.png"
-},
-{
-	"id": 52,
-	"name": "Radio Zu",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Zu.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/2TbGXcKypB.jpeg"
-},
-{
-	"id": 51,
-	"name": "Radio Unu",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Unu.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/tbY9GDLx5z.jpeg"
-},
-{
-	"id": 50,
-	"name": "Radio Romania Cultural",
-	"location": "Romania ",
-	"url": "http://live.radioromaniacultural.ro:8000/stream",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://static2.mytuner.mobi/media/tvos_radios/xTjTGMLj6w.jpeg"
-}
+
+ {
+        "id": 65,
+        "name": "Radio Lasi",
+        "location": "Romania ",
+        "url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Lasi.html",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://www.radioiasi.ro/wp-content/uploads/2019/12/radio-iasi.gif"
+    },
+
+    {
+        "id": 64,
+        "name": "Realitatea FM",
+        "location": "Romania ",
+        "url": "https://shout.realitatea.net:8001/mixt",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://radiorfm.ro/wp-content/uploads/2023/05/LOGO-MARE.png"
+    },
+    {
+        "id": 63,
+        "name": "Radio Reșița",
+        "location": "Romania ",
+        "url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Reșița.html",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://asculta-live.com/files/styles/80/public/logo/radio-romania-resita.jpg?itok=Ltbg69Ny"
+    },
+    {
+        "id": 62,
+        "name": "Radio Maria",
+        "location": "Romania ",
+        "url": "https://dreamsiteradiocp2.com/proxy/rmromania2?mp=/;stream.mp3",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://www.radio.net/images/broadcasts/2a/75/13516/c300.png"
+    },
+    {
+        "id": 61,
+        "name": "Radio Bucovina",
+        "location": "Romania ",
+        "url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Bucovina.html",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/pjypmdxdnha8.png"
+    },
+    {
+        "id": 60,
+        "name": "Radio Romantic",
+        "location": "Romania ",
+        "url": "https://stream-158.zeno.fm/7v3rh4q0nuhvv?zs=q2iHqurMRoipnYa-l5ZMDw&zt=eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJaZW5vTWVkaWEiLCJtYXhBZ2UiOjg2NDAwMDAwLCJob3N0IjoiaHR0cHM6Ly9zdHJlYW0tMTU4Lnplbm8uZm0iLCJpZCI6InEyaUhxdXJNUm9pcG5ZYS1sNVpNRHciLCJ0dGwiOjEwMDAwLCJqdGkiOiJxMmlIcXVyTVJvaXBuWWEtbDVaTUR3IiwiaWF0IjoxNzEyMzI0NTI5LCJleHAiOjE3MTI0MTA5Mjl9.u91C3ENQEdyIvGLLjrnXMnMNcMnx9K4kuTBwacGSUyg",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/sk99Q347V7.jpg"
+    },
+    {
+        "id": 59,
+        "name": "Radio Taraf",
+        "location": "Romania ",
+        "url": "http://asculta.radiotaraf.com:7100/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/hb7av2av6e39.png"
+    },
+    {
+        "id": 58,
+        "name": "Radio România Muzical",
+        "location": "Romania ",
+        "url": "http://stream2.srr.ro:8022/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/q6HS9J6xVT.png"
+    },
+    {
+        "id": 57,
+        "name": "Radio Cartier",
+        "location": "Romania ",
+        "url": "http://radiocartier.zapto.org:8048/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/3hj9s453eyub.jpg"
+    },
+    {
+        "id": 56,
+        "name": "Radio Cluj",
+        "location": "Romania ",
+        "url": "http://89.238.227.6:8384/;stream/1",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://myradioonline.ro/public/uploads/radio_img/radio-romania-cluj/play_250_250.webp"
+    },
+    {
+        "id": 55,
+        "name": "Radio Club Mix live",
+        "location": "Romania ",
+        "url": "http://live.radioclubmix.ro:9999/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/bxgzbyrak2us.jpeg"
+    },
+    {
+        "id": 54,
+        "name": "Radio Mega-HIT",
+        "location": "Romania ",
+        "url": "https://popular.radiomegahit.eu:9000/stream",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/dsmyunw9aykz.jpg"
+    },
+    {
+        "id": 53,
+        "name": "Radio Somes live",
+        "location": "Romania ",
+        "url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Somes live.html",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/ZMXSckCjsn.png"
+    },
+    {
+        "id": 52,
+        "name": "90s 3NeRgY live",
+        "location": "Romania ",
+        "url": "https://s11.ssl-stream.com/ssl/90s_energy?mp=%2Fstream",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/K9VggvrHMS.png"
+    },
+    {
+        "id": 51,
+        "name": "DJ Radio",
+        "location": "Romania ",
+        "url": "https://stream.djradio.ro/listen/dj_radio_romania/stream.mp3",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/QzJ9gLhSU6.png"
+    },
+    {
+        "id": 50,
+        "name": "Super FM live",
+        "location": "Romania ",
+        "url": "https://live.superfm.ro/stream.mp3",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/4wtkttsjgm9d.jpg"
+    },
+    {
+        "id": 49,
+        "name": "Radio Hot Style",
+        "location": "Romania ",
+        "url": "https://ssl.servereradio.ro/8000/chillout.mp3?type=http&nocache=377274",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/PmVFKENYzV.png"
+    },
+    {
+        "id": 48,
+        "name": "Radio Party Mix",
+        "location": "Romania ",
+        "url": "https://radio.cloud23.eu/romance21etno",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/FBkWNe2S7G.jpg"
+    },
+    {
+        "id": 47,
+        "name": "Radio Lipova live",
+        "location": "Romania ",
+        "url": "http://asculta.radiolipova.ro:1717/stream",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/899/radio-lipova.4cb0bc15.jpg"
+    },
+    {
+        "id": 46,
+        "name": "Radio DEEA live",
+        "location": "Romania ",
+        "url": "https://radiocdn.nxthost.com/radio-deea",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/KHT3kSpDFF.png"
+    },
+    {
+        "id": 45,
+        "name": "Radio 3Net",
+        "location": "Romania ",
+        "url": "http://rds3.rdsnet.ro:8124/stream",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/FHhED8kcFj.png"
+    },
+    {
+        "id": 44,
+        "name": "Radio Hot",
+        "location": "Romania ",
+        "url": "https://cloud.radiorecord.ru:10010/hot_192.mp3",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/8ptZnZ5oSx.jpg"
+    },
+    {
+        "id": 43,
+        "name": "Radio Vocea Speranței",
+        "location": "Romania ",
+        "url": "https://stream.radiovoceasperantei.ro:8090/stream",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/RpHV7uwmoA.jpg"
+    },
+    {
+        "id": 42,
+        "name": "Radio Delta",
+        "location": "Romania ",
+        "url": "http://radiodelta.ro:8080/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/d1fbHtKqWJ.jpg"
+    },
+    {
+        "id": 41,
+        "name": "Radio Luna",
+        "location": "Romania ",
+        "url": "https://stream.radioluna.ro/stream",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/FYtCkzEnNk.png"
+    },
+    {
+        "id": 40,
+        "name": "Radio Blue Star",
+        "location": "Romania ",
+        "url": "https://cloud.radiostar.ro:8000/stream",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/XarQsX0t.jpg"
+    },
+    {
+        "id": 39,
+        "name": "Radio 7",
+        "location": "Romania ",
+        "url": "http://stream.radio7.ro:8000/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/RSYFMZ3jxU.png"
+    },
+    {
+        "id": 38,
+        "name": "Radio Locomotiva",
+        "location": "Romania ",
+        "url": "http://radio.locomotiva.ro:8000/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/2MNK5w2Erk.png"
+    },
+    {
+        "id": 37,
+        "name": "Radio Country",
+        "location": "Romania ",
+        "url": "http://stream.radiocountry.ro:8000/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/w5P7PH9xsc.png"
+    },
+    {
+        "id": 36,
+        "name": "Radio Lounge",
+        "location": "Romania ",
+        "url": "https://live.radionice.ro:8030/stream",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/fuBeMY1Q4b.png"
+    },
+    {
+        "id": 35,
+        "name": "Radio Sirius",
+        "location": "Romania ",
+        "url": "http://stream.radiostudio.ro:8028/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/Bfgsy5WB.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Radio UBB",
+        "location": "Romania ",
+        "url": "http://radioubb.ro:8000/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/UQic5VZFO2.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Radio Cuibul Visurilor",
+        "location": "Romania ",
+        "url": "http://stream.radiocuibulvisurilor.ro:8010/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/NkjBhRmr9i.png"
+    },
+    {
+        "id": 32,
+        "name": "Radio Da Vinci",
+        "location": "Romania ",
+        "url": "http://radio.davinci.ro:8020/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/Nc9gUKCz15.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Radio Mix",
+        "location": "Romania ",
+        "url": "http://stream.radiomix.ro:8030/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/3j3gbzHMWM.png"
+    },
+    {
+        "id": 30,
+        "name": "Radio Rock",
+        "location": "Romania ",
+        "url": "http://stream.radiorock.ro:8050/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/11Xn77Tz9E.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Radio Verde",
+        "location": "Romania ",
+        "url": "http://stream.radioverde.ro:8010/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/DjK1ZhZ0Ho.png"
+    },
+    {
+        "id": 28,
+        "name": "Radio Transilvania",
+        "location": "Romania ",
+        "url": "http://radiotransilvania.ro:8000/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/MkEB5cGjlI.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Radio Total",
+        "location": "Romania ",
+        "url": "http://stream.radiototal.ro:8000/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/8REOeb7R8C.png"
+    },
+    {
+        "id": 26,
+        "name": "Radio Valahia",
+        "location": "Romania ",
+        "url": "http://radiovalahia.ro:8000/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/3IMFYUOaZj.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Radio Viva",
+        "location": "Romania ",
+        "url": "http://stream.radioviva.ro:8020/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/6tpaW4wN4E.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Radio X",
+        "location": "Romania ",
+        "url": "http://stream.radiox.ro:8000/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/8pAVS8Ne4I.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Radio ZU",
+        "location": "Romania ",
+        "url": "https://stream.radiovu.ro:8080/radiozu",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/Wp3m4Y5eK0.png"
+    },
+    {
+        "id": 22,
+        "name": "Radio 21",
+        "location": "Romania ",
+        "url": "http://stream.radio21.ro:8000/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/8DBiW8O2Kv.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Radio 1",
+        "location": "Romania ",
+        "url": "http://stream.radio1.ro:8000/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/Juyio1K7Rm.png"
+    },
+    {
+        "id": 20,
+        "name": "Radio 7 Plus",
+        "location": "Romania ",
+        "url": "http://stream.radio7plus.ro:8000/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/a8X6aETI7T.png"
+    },
+    {
+        "id": 19,
+        "name": "Radio 99.9",
+        "location": "Romania ",
+        "url": "http://stream.radio999.ro:8000/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/MvTeU7Q2H1.png"
+    },
+    {
+        "id": 18,
+        "name": "Radio City",
+        "location": "Romania ",
+        "url": "http://stream.radiocity.ro:8000/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/7jv7HNNLXH.png"
+    },
+    {
+        "id": 17,
+        "name": "Radio Impuls",
+        "location": "Romania ",
+        "url": "http://stream.radioimpuls.ro:8000/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/91WEA4Bwn1.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Radio Intercontinental",
+        "location": "Romania ",
+        "url": "http://stream.radiointercontinental.ro:8000/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/XDJrFG9N.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Radio Kiss",
+        "location": "Romania ",
+        "url": "http://stream.radiokiss.ro:8000/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/F93ItnrOp1.png"
+    },
+    {
+        "id": 14,
+        "name": "Radio Maria",
+        "location": "Romania ",
+        "url": "http://stream.radiomaria.ro:8000/;",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/6NPRTHFq0z.png"
+    },
+    {
+        "id": 13,
+        "name": "Radio Romania Actualități",
+        "location": "Romania ",
+        "url": "http://live.rra.ro:80/radio1",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/QcTTVJuH7M.png"
+    },
+    {
+        "id": 12,
+        "name": "Radio Romania Cultural",
+        "location": "Romania ",
+        "url": "http://live.rra.ro:80/radio_cultural",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/KU8GCW6HX9.png"
+    },
+    {
+        "id": 11,
+        "name": "Radio Romania Muzical",
+        "location": "Romania ",
+        "url": "http://live.rra.ro:80/radio_muzical",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/4zrxQCRq0b.png"
+    },
+    {
+        "id": 10,
+        "name": "Radio Romania Internațional",
+        "location": "Romania ",
+        "url": "http://live.rra.ro:80/radio_international",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://static2.mytuner.mobi/media/tvos_radios/wnkh3K5hAk.png"
+    }
+
+
 
 
 
