@@ -2,7 +2,7 @@
 
 {
 	"id": 122,
-	"name": "Java",
+	"name": "Romania Radio",
 	"location": "Romania ",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Lasi.html",
 	"added": 0,
@@ -10,6 +10,20 @@
 	"logo": "https://cdn.mytuner.mobi/static/ctr/images/country/ro.png"
 },
 
+
+
+
+ {
+        "id": 67,
+        "name": "Radio Cultural",
+        "location": "Romania ",
+        "url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Cultural.html",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://www.radioromaniacultural.ro/templates/default/images/custom/logo-main.svg"
+    },
+
+	
  {
         "id": 65,
         "name": "Radio Lasi",
