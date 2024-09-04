@@ -10,48 +10,6 @@
 	"logo": "https://cdn.mytuner.mobi/static/ctr/images/country/ro.png"
 },
 	
-
-{
-	"id": 121,
-	"name": "Radio Lasi",
-	"location": "Romania ",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Lasi.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://www.radioiasi.ro/wp-content/uploads/2019/12/radio-iasi.gif"
-},
-
-	
-  {
-    "id": 54,
-    "name": "Radio Mega-HIT",
-    "location": "Romania",
-    "url": "https://popular.radiomegahit.eu:9000/stream",
-    "added": 0,
-    "web": "wep",
-    "logo": "https://static2.mytuner.mobi/media/tvos_radios/brhfcfcrshg5.jpg"
-  },
-  {
-    "id": 53,
-    "name": "Radio Somes live",
-    "location": "Romania",
-    "url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Somes live.html",
-    "added": 0,
-    "web": "wep",
-    "logo": "https://
-
-
-
-
-
-You said:
-it should start from 120 downwards check
-ChatGPT said:
-ChatGPT
-Here's the list arranged in descending order of IDs starting from 120 downwards:
-
-json
-Copy code
 {
 	"id": 120,
 	"name": "Magic FM live",
@@ -691,5 +649,7 @@ Copy code
 	"web": "wep",
 	"logo": "https://static2.mytuner.mobi/media/tvos_radios/xTjTGMLj6w.jpeg"
 }
+
+
 
 ]
