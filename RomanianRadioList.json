@@ -493,7 +493,7 @@
         "id": 17,
         "name": "Radio Impuls",
         "location": "Romania ",
-        "url": "http://stream.radioimpuls.ro:8000/;",
+        "url": "https://live.radio-impuls.ro/stream",
         "added": 0,
         "web": "wep",
         "logo": "https://static2.mytuner.mobi/media/tvos_radios/91WEA4Bwn1.jpg"
