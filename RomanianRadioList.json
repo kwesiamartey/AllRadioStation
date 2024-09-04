@@ -82,9 +82,9 @@
 },
 {
 	"id": 10,
-	"name": "SRR Radio Rom\u00e2nia Actualit\u0103\u0163i live",
+	"name": "SRR Radio Actualitati live",
 	"location": "Romania ",
-	"url": "http://stream2.srr.ro:8002/;",
+	"url": "https://stream4.srr.ro:8443/romania-actualitati",
 	"added": 0,
 	"web": "wep",
 	"logo": "https://static2.mytuner.mobi/media/tvos_radios/cyHyzCDZwX.png"
