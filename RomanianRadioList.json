@@ -571,12 +571,12 @@
     },
     {
         "id": 15,
-        "name": "Radio Kiss",
+        "name": "Kiss Fm",
         "location": "Romania ",
-        "url": "http://stream.radiokiss.ro:8000/;",
+        "url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Kiss Fm.html",
         "added": 0,
         "web": "wep",
-        "logo": "https://static2.mytuner.mobi/media/tvos_radios/F93ItnrOp1.png"
+        "logo": "https://media-cache-b.cloudworks.ro/kissfm/media-manager/2024/04/08/kissfm-inverted_20240408_155643_cm1uoycz.svg"
     },
     {
         "id": 14,
