@@ -4,12 +4,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Radio Vaasa Stream</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.16/mediaelementplayer.min.css">
 </head>
 <body>
     <h1>Listen to Radio Vaasa</h1>
-    <audio controls>
+    <audio id="player" controls>
         <source src="https://stream.protonbroadcast.com:8443/radiovaasa.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.16/mediaelement-and-player.min.js"></script>
+    <script>
+        const player = new MediaElementPlayer('player', {
+            pluginPath: 'https://cdnjs.cloudflare.com/ajax/libs/mediaelement/4.2.16/',
+            shimScriptAccess: 'always',
+            success: function (mediaElement, originalNode, instance) {
+                // Playback starts automatically when loaded
+                mediaElement.play();
+            }
+        });
+    </script>
 </body>
 </html>
