@@ -1,31 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AmplitudeJS Radio Stream</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/amplitudejs@5.3.2/dist/amplitude.min.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Radio Vaasa Stream</title>
 </head>
 <body>
-  <div id="player-container">
-    <div class="amplitude-player">
-      <div class="amplitude-play-pause" amplitude-song-index="0"></div>
-    </div>
-  </div>
-
-  <script src="https://cdn.jsdelivr.net/npm/amplitudejs@5.3.2/dist/amplitude.min.js"></script>
-  <script>
-    Amplitude.init({
-      "songs": [
-        {
-          "name": "Radio Vaasa",
-          "artist": "Radio Stream",
-          "url": "https://stream.protonbroadcast.com:8443/radiovaasa.mp3",
-          "cover_art_url": "https://static2.mytuner.mobi/media/tvos_radios/qFM4w6VcUC.jpg"  // optional, replace with actual cover art if needed
-        }
-      ]
-    });
-  </script>
+    <h1>Listen to Radio Vaasa</h1>
+    <audio controls>
+        <source src="https://stream.protonbroadcast.com:8443/radiovaasa.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
 </body>
 </html>
-
