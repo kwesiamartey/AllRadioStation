@@ -8,6 +8,8 @@
 <body>
     <h1>Listen to Radio Vaasa</h1>
     
+    <button id="playButton">Play Radio</button>
+    
     <audio id="radioPlayer" controls>
         <source src="https://stream.protonbroadcast.com:8443/radiovaasa.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
@@ -15,26 +17,22 @@
 
     <script>
         document.addEventListener("DOMContentLoaded", function () {
+            const playButton = document.getElementById('playButton');
             const audio = document.getElementById('radioPlayer');
-
-            // Autoplay control for mobile browsers
-            const playAudio = () => {
-                audio.play().catch(error => {
-                    console.log('Autoplay was prevented:', error);
+            
+            // Hide native controls on mobile to handle with play button
+            audio.controls = false;
+            
+            // Add user interaction for Android to enable autoplay
+            playButton.addEventListener('click', () => {
+                audio.play().then(() => {
+                    playButton.style.display = 'none'; // Hide button once audio starts
+                    console.log('Audio is playing');
+                }).catch(error => {
+                    console.error('Playback prevented:', error);
                 });
-            };
-
-            // Ensure user interaction for mobile playback (like Android)
-            audio.addEventListener('play', playAudio);
-
-            // Optionally start playback on user interaction (for mobile)
-            document.body.addEventListener('click', function () {
-                if (audio.paused) {
-                    audio.play();
-                }
             });
         });
     </script>
 </body>
 </html>
-
