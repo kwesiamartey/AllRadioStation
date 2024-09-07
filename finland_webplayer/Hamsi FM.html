@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #000;
+            background-color: #f4f4f4;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -66,7 +66,7 @@
         </div>
         <div class="time">
             <span id="currentTime">00:00</span>
-            <span id="durationTime">00:00</span>
+            <span id="durationTime">Live</span>
         </div>
         <audio id="audio" preload="metadata">
             <source src="https://stream.radioplay.fi/suomirap/suomirap_64.aac?direct=true&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1725729553&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CQEk-sAQEk-sAAGABCENBFFsAP_gAEPAAAw4JtQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNAC2AHMAPwAgABBACEAFAANEAbIA7gB-gEIAIiAYoAzgB-wF5gMZAigBNoBFoA4ACAAHgCEAHcAQgAiIBFgBgkA0ABAACwAKgAeABBADIANAAmAB-AGyAO4AfoBigF5joBYACwAKgAggBkAGgATAA_ADRAGyAP0AxQC8yUAYABAACwAmADZAMUAvMhADAAWAO4AxRSAWAAsACoAIIAZABoAEwAPwA0QBsgD9AMUAvMtABAHcA.YAAAAAAAAAAA&aw_0_1st.octave_covatic=9999" type="audio/aac">
@@ -93,25 +93,10 @@
             }
         });
 
-        // Update progress bar
+        // Update current time (no progress for live stream)
         audio.addEventListener('timeupdate', () => {
-            const { currentTime, duration } = audio;
-            const percent = (currentTime / duration) * 100;
-            progress.style.width = `${percent}%`;
-
-            // Update current time and duration
+            const { currentTime } = audio;
             currentTimeEl.textContent = formatTime(currentTime);
-            if (duration) {
-                durationTimeEl.textContent = formatTime(duration);
-            }
-        });
-
-        // Seek functionality
-        progressContainer.addEventListener('click', (e) => {
-            const width = progressContainer.clientWidth;
-            const clickX = e.offsetX;
-            const duration = audio.duration;
-            audio.currentTime = (clickX / width) * duration;
         });
 
         // Format time in mm:ss
@@ -121,12 +106,12 @@
             return `${minutes < 10 ? '0' : ''}${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
         }
 
-        // When audio ends, reset button and progress bar
+        // When audio ends, reset button (optional, in case of interruptions)
         audio.addEventListener('ended', () => {
             playPauseBtn.textContent = 'Play';
-            progress.style.width = '0%';
-            currentTimeEl.textContent = '00:00';
         });
     </script>
 </body>
 </html>
+
+
