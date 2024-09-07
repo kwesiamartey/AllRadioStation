@@ -12,6 +12,10 @@
 
 	
 {
+
+	// before fetching the audio url turn the page to mobile view
+
+	
 	"id": 1,
 	"name": "Radio Kuhan.FM",
 	"location": "Finaland",
