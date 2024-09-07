@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Custom HLS Audio Player</title>
+    <title>Custom HLS Audio Player with Loading</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -62,11 +62,17 @@
             font-size: 12px;
             text-transform: uppercase;
         }
+        .loading {
+            font-size: 16px;
+            color: #555;
+            margin-bottom: 10px;
+        }
     </style>
 </head>
 <body>
     <div class="audio-player">
-        <button id="playPauseBtn">Play</button>
+        <div id="loadingMessage" class="loading">Loading...</div>
+        <button id="playPauseBtn" disabled>Play</button>
         <div class="time">
             <span id="currentTime">00:00</span>
             <span class="live">Live</span>
@@ -81,6 +87,7 @@
         const audio = document.getElementById('audio');
         const playPauseBtn = document.getElementById('playPauseBtn');
         const currentTimeEl = document.getElementById('currentTime');
+        const loadingMessage = document.getElementById('loadingMessage');
         
         // HLS stream URL
         const hlsUrl = 'https://yleradiolive.akamaized.net/hls/live/2027679/in-YleVega/master.m3u8';
@@ -90,9 +97,19 @@
             const hls = new Hls();
             hls.loadSource(hlsUrl);
             hls.attachMedia(audio);
+
+            hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                loadingMessage.style.display = 'none';
+                playPauseBtn.disabled = false;  // Enable play button after loading
+            });
         } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
             // If the browser is Safari or another with native HLS support
             audio.src = hlsUrl;
+
+            audio.addEventListener('canplay', function() {
+                loadingMessage.style.display = 'none';
+                playPauseBtn.disabled = false;  // Enable play button when ready
+            });
         }
 
         // Play/Pause functionality
@@ -126,12 +143,6 @@
     </script>
 </body>
 </html>
-
-
-
-
-
-
 
 
 
