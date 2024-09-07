@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Custom Audio Player</title>
+    <title>Custom Live Audio Player</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -37,39 +37,29 @@
         .audio-player button:disabled {
             background-color: #ddd;
         }
-        .audio-player .progress-container {
-            width: 100%;
-            background-color: #ddd;
-            height: 5px;
-            border-radius: 3px;
-            cursor: pointer;
-            margin: 20px 0;
-        }
-        .audio-player .progress {
-            background-color: #3498db;
-            height: 100%;
-            width: 0;
-            border-radius: 3px;
-        }
         .audio-player .time {
+            margin-top: 20px;
             display: flex;
             justify-content: space-between;
+            font-size: 14px;
+            font-weight: bold;
+        }
+        .audio-player .live {
+            color: red;
             font-size: 12px;
+            text-transform: uppercase;
         }
     </style>
 </head>
 <body>
     <div class="audio-player">
         <button id="playPauseBtn">Play</button>
-        <div class="progress-container">
-            <div class="progress" id="progress"></div>
-        </div>
         <div class="time">
             <span id="currentTime">00:00</span>
-            <span id="durationTime">Live</span>
+            <span class="live">Live</span>
         </div>
         <audio id="audio" preload="metadata">
-            <source src="https://stream.radioplay.fi/suomirap/suomirap_64.aac?direct=true&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1725729553&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CQEk-sAQEk-sAAGABCENBFFsAP_gAEPAAAw4JtQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNAC2AHMAPwAgABBACEAFAANEAbIA7gB-gEIAIiAYoAzgB-wF5gMZAigBNoBFoA4ACAAHgCEAHcAQgAiIBFgBgkA0ABAACwAKgAeABBADIANAAmAB-AGyAO4AfoBigF5joBYACwAKgAggBkAGgATAA_ADRAGyAP0AxQC8yUAYABAACwAmADZAMUAvMhADAAWAO4AxRSAWAAsACoAIIAZABoAEwAPwA0QBsgD9AMUAvMtABAHcA.YAAAAAAAAAAA&aw_0_1st.octave_covatic=9999" type="audio/aac">
+            <source src="https://stream.radioplay.fi/nostalgia/nostalgia_64.aac" type="audio/aac">
             Your browser does not support the audio element.
         </audio>
     </div>
@@ -77,10 +67,7 @@
     <script>
         const audio = document.getElementById('audio');
         const playPauseBtn = document.getElementById('playPauseBtn');
-        const progress = document.getElementById('progress');
-        const progressContainer = document.querySelector('.progress-container');
         const currentTimeEl = document.getElementById('currentTime');
-        const durationTimeEl = document.getElementById('durationTime');
 
         // Play/Pause functionality
         playPauseBtn.addEventListener('click', () => {
@@ -93,7 +80,7 @@
             }
         });
 
-        // Update current time (no progress for live stream)
+        // Update current time (no progress bar, only time shown)
         audio.addEventListener('timeupdate', () => {
             const { currentTime } = audio;
             currentTimeEl.textContent = formatTime(currentTime);
@@ -106,12 +93,14 @@
             return `${minutes < 10 ? '0' : ''}${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
         }
 
-        // When audio ends, reset button (optional, in case of interruptions)
+        // Reset play button when audio ends (optional, in case of interruptions)
         audio.addEventListener('ended', () => {
             playPauseBtn.textContent = 'Play';
         });
     </script>
 </body>
 </html>
+
+
 
 
