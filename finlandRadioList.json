@@ -1,4 +1,16 @@
 [
+
+
+
+
+
+
+
+
+
+
+
+	
 {
 	"id": 1,
 	"name": "Radio Kuhan.FM",
@@ -548,4 +560,20 @@
 	"web": "wep",
 	"logo": "https://cdn.onlineradiobox.com/img/l/8/26488.v3.png",
 	"bit": "1k"
-}]
+},
+{
+	"id": 55,
+	"name": "Yle Vega",
+	"location": "Finaland",
+	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/Yle Vega.html",
+	"added": 0,
+	"web": "wep",
+	"logo": "https://images.cdn.yle.fi/image/upload/f_auto,q_auto,c_pad,g_west,w_219,h_53,dpr_2/v0/yle-radio-vega_vt.png",
+	"bit": "1k"
+},	
+
+
+
+
+
+]
