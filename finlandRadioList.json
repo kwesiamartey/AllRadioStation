@@ -401,16 +401,7 @@
 	"logo": "https://cdn.onlineradiobox.com/img/l/9/48909.v3.png",
 	"bit": "1k"
 },
-{
-	"id": 40,
-	"name": "FinnRadio.FM",
-	"location": "Finaland",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/FinnRadio.FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.onlineradiobox.com/img/l/7/131537.v3.png",
-	"bit": "1k"
-},
+
 {
 	"id": 41,
 	"name": "YLE Radio 1",
