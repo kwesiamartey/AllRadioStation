@@ -1,0 +1,147 @@
+
+<Html>
+
+        <head>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(135deg, #ff6b6b, #f06595, #74c0fc, #82c91e);
+        background-size: 400% 400%;
+        animation: gradientBackground 10s ease infinite;
+    }
+    @keyframes gradientBackground {
+        0% { background-position: 0% 50%; }
+        50% { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+    }
+    .audio-player {
+        background-color: #fff;
+        border: 1px solid #ddd;
+        padding: 20px;
+        width: 300px;
+        text-align: center;
+        border-radius: 15px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        position: relative;
+        z-index: 1;
+    }
+    .audio-player button {
+        background-color: #3498db;
+        color: white;
+        border: none;
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        cursor: pointer;
+        outline: none;
+        font-size: 16px;
+        transition: background-color 0.3s ease;
+    }
+    .audio-player button:hover {
+        background-color: #2980b9;
+    }
+    .audio-player .time {
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-between;
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .audio-player .live {
+        color: red;
+        font-size: 12px;
+        text-transform: uppercase;
+    }
+</style>
+
+
+                  <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            /* Flashy gradient background */
+            background: linear-gradient(135deg, #ff6b6b, #f06595, #74c0fc, #82c91e);
+            background-size: 400% 400%;
+            animation: gradientBackground 10s ease infinite;
+        }
+        /* Animate the background to give a dynamic look */
+        @keyframes gradientBackground {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+        .audio-player {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            padding: 20px;
+            width: 300px;
+            text-align: center;
+            border-radius: 15px;
+            /* Add a shadow to make the player pop */
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            position: relative;
+            z-index: 1;
+        }
+        .audio-player button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            cursor: pointer;
+            outline: none;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+        }
+        .audio-player button:hover {
+            background-color: #2980b9;
+        }
+        .audio-player .time {
+            margin-top: 20px;
+            display: flex;
+            justify-content: space-between;
+            font-size: 14px;
+            font-weight: bold;
+        }
+        .audio-player .live {
+            color: red;
+            font-size: 12px;
+            text-transform: uppercase;
+        }
+    </style>
+            
+        </head>
+
+    
+       <body>
+
+        
+             
+              <video controls id='video'></video>
+             
+       </body>
+</Html>
+<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
+<script>
+         if(Hls.isSupported()) {
+         var video = document.getElementById('video');
+         var hls = new Hls();
+         hls.loadSource('https://prod-184-72-163-33.amperwave.net/audacy-wfanamaac-hlsc.m3u8?apv=a2&dist=Audacy&source=webA2&a2_app_version=16.9.0&a2_session_id=753edb3c-c191-72ed-99e2-d2b457c0ef06&gpp=DBABrGA%7EBVQqAAAACWA.QA%7EBUoAAAJY.QA%7EBVoAABY%7EBVoAAFg.QA%7EBVKAAAWA%7EBVoAAAFg.QA&t_partner_ids=eyJkeW4tdWlkIjoiNjMwODc2OTI1ODYwMDc2NTMyMSIsImFuLXVpZCI6Ijc5MDYxODkyNjQzNzY2NDk1MzgiLCJ0cml0b24tdWlkIjoiY29va2llOjQ4ZjBiZWQzLWQ1MDUtNGY1Yy04ZDUxLTZmOTJiNGFiYTQ3OCIsImFtYi11aWQiOiIyOTE1NDE5OTYwMDUxNDkzMzQ4IiwiYXctdWlkIjoiYmNjZmQwMjZhYmU3Y2JmZmZlZTRkMDkwNWQzZWNiOWMifQ&a_partner_ids=60265f38c7bb42c4d5af279f95f1ed59&deviceid=cookie%3A48f0bed3-d505-4f5c-8d51-6f92b4aba478&c_user_id=f8k%3A4b39e5fd711752760a712ef581afdf3b&startTs=1722950286&inChapter=true&newMeta=true ');
+                         
+         hls.attachMedia(video);
+         hls.on(Hls.Events.MANIFEST_PARSED,function() {
+         video.play();
+       });
+    }
+</script>
