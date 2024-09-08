@@ -690,21 +690,12 @@
 			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTexwhTOkO6v2YkPzq0akQz9gOhWb8IFtN8uRV8XlwpnoA-ybW3YWFOfUDDzUvqKjZdU70&usqp=CAU",
 			"bit": "4k"
 		},
-		{
-			"id": 42,
-			"name": "Potters FM 88.3 live",
-			"location": "Accra Ghana",
-			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Bosco Radio.html",
-			"added": 0,
-			"web": "wep",
-			"logo": "https://cdn.modernghana.com/radio_logo/1323920601054071581406011570955013497207540n.jpg",
-			"bit": "1k"
-		},
+
 		{
 			"id": 40,
 			"name": "TOP 103.1 FM",
 			"location": "Accra Ghana",
-			"url": "https://stream-172.zeno.fm/zx27mvh1geruv?zs=q1CRTonZQnOyF8QmNjAoiw&zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6eDI3bXZoMWdlcnV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsImp0aSI6InExQ1JUb25aUW5PeUY4UW1OakFvaXciLCJpYXQiOjE3MTI2Njc0NTgsImV4cCI6MTcxMjY2NzUxOH0.3uA3g25YUD5e9EpfVsY0-QVjrhheFlLFZP3rIpKZBO0&zttl=5",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/TOP 103.1 FM.html",
 			"added": 0,
 			"web": "wep",
 			"logo": "https://play-lh.googleusercontent.com/_yQBEwhpqF1Y7_bU72nFTZ4Xz2EZpHjU92pZDvNSxOIni3lSc8JDrdqX6Tyo5hJNIQ=w240-h480-rw",
@@ -714,7 +705,7 @@
 			"id": 39,
 			"name": "Ark 107.1 FM",
 			"location": "Ghana",
-			"url": "http://67.212.165.106:8247/stream/;",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Ark 107.1 FM.html",
 			"added": 0,
 			"web": "wep",
 			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBEpKuEO8EA-UFl_n3ntm-FNNwWqDQN7xHvA&s",
@@ -724,7 +715,7 @@
 			"id": 38,
 			"name": "Twifoman 1053 FM",
 			"location": "Accra Ghana",
-			"url": "http://node-27.zeno.fm/ar923b8kubruv?rj-ttl=5&rj-tok=AAABeKNK0a4AXXi393G4kmnKWg",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Twifoman 1053 FM.html",
 			"added": 0,
 			"web": "wep",
 			"logo": "https://liveonlineradio.net/wp-content/uploads/2019/08/twifoman-fm.jpg",
