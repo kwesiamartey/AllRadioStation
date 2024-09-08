@@ -233,16 +233,7 @@
 			"logo": "https://www.inlife.tv/sites/default/files/logos/ghana-waves-radio.png",
 			"bit": "1k"
 		},
-		{
-			"id": 94,
-			"name": "Zuria FM",
-			"location": "Kumasi",
-			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Zuria FM.html",
-			"added": 0,
-			"web": "wep",
-			"logo": "https://africaradiostations.com/wp-content/uploads/2020/08/zuriafm-1400x1400-1.jpg",
-			"bit": "1k"
-		},
+
 		{
 			"id": 92,
 			"name": "Menstrocare FM",
