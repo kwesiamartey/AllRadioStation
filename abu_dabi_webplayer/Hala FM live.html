@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Custom Live Audio Player</title>
+    <title>Custom MP3 Stream Player</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -12,12 +12,10 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            /* Flashy gradient background */
             background: linear-gradient(135deg, #ff6b6b, #f06595, #74c0fc, #82c91e);
             background-size: 400% 400%;
             animation: gradientBackground 10s ease infinite;
         }
-        /* Animate the background to give a dynamic look */
         @keyframes gradientBackground {
             0% { background-position: 0% 50%; }
             50% { background-position: 100% 50%; }
@@ -30,10 +28,7 @@
             width: 300px;
             text-align: center;
             border-radius: 15px;
-            /* Add a shadow to make the player pop */
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-            position: relative;
-            z-index: 1;
         }
         .audio-player button {
             background-color: #3498db;
@@ -43,75 +38,60 @@
             width: 50px;
             height: 50px;
             cursor: pointer;
-            outline: none;
             font-size: 16px;
-            transition: background-color 0.3s ease;
         }
-        .audio-player button:hover {
-            background-color: #2980b9;
-        }
-        .audio-player .time {
-            margin-top: 20px;
-            display: flex;
-            justify-content: space-between;
-            font-size: 14px;
-            font-weight: bold;
-        }
-        .audio-player .live {
-            color: red;
-            font-size: 12px;
-            text-transform: uppercase;
+        .audio-player .loading {
+            font-size: 16px;
+            color: #555;
+            margin-bottom: 10px;
         }
     </style>
 </head>
 <body>
     <div class="audio-player">
-        <button id="playPauseBtn">Play</button>
-        <div class="time">
-            <span id="currentTime">00:00</span>
-            <span class="live">Live</span>
-        </div>
-        <audio id="audio" preload="metadata"> 
-            <source src="http://us10a.serverse.com:8027/stream?type=http&nocache=4170"  type="audio/mpeg">
+        <div id="loadingMessage" class="loading">Loading...</div>
+        <audio id="audioPlayer" controls preload="none" style="display:none;">
+            <source src="http://us10a.serverse.com:8027/stream" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
+        <button id="playPauseBtn" disabled>Play</button>
     </div>
 
     <script>
-        const audio = document.getElementById('audio');
+        const audioPlayer = document.getElementById('audioPlayer');
         const playPauseBtn = document.getElementById('playPauseBtn');
-        const currentTimeEl = document.getElementById('currentTime');
+        const loadingMessage = document.getElementById('loadingMessage');
+
+        // Check if the browser can play MP3 audio
+        function canPlayMP3() {
+            return !!audioPlayer.canPlayType && audioPlayer.canPlayType('audio/mpeg') !== "";
+        }
+
+        window.onload = function() {
+            if (canPlayMP3()) {
+                loadingMessage.style.display = 'none';
+                audioPlayer.style.display = 'block';
+                playPauseBtn.disabled = false;  // Enable play button once MP3 can be played
+            } else {
+                loadingMessage.textContent = "Your browser cannot play this stream.";
+            }
+        };
 
         // Play/Pause functionality
         playPauseBtn.addEventListener('click', () => {
-            if (audio.paused) {
-                audio.play();
+            if (audioPlayer.paused) {
+                audioPlayer.play();
                 playPauseBtn.textContent = 'Pause';
             } else {
-                audio.pause();
+                audioPlayer.pause();
                 playPauseBtn.textContent = 'Play';
             }
         });
 
-        // Update current time (no progress bar, only time shown)
-        audio.addEventListener('timeupdate', () => {
-            const { currentTime } = audio;
-            currentTimeEl.textContent = formatTime(currentTime);
-        });
-
-        // Format time in mm:ss
-        function formatTime(time) {
-            const minutes = Math.floor(time / 60);
-            const seconds = Math.floor(time % 60);
-            return `${minutes < 10 ? '0' : ''}${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
-        }
-
-        // Reset play button when audio ends (optional, in case of interruptions)
-        audio.addEventListener('ended', () => {
-            playPauseBtn.textContent = 'Play';
+        // Enable Play button once metadata is loaded
+        audioPlayer.addEventListener('canplay', () => {
+            playPauseBtn.disabled = false;
         });
     </script>
 </body>
 </html>
-
-
