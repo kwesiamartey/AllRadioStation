@@ -423,7 +423,7 @@
 			"id": 72,
 			"name": "Live Xtra ghana FM 91.9",
 			"location": "Accra-Ghana",
-			"url": "http://stream.zenolive.com/7586sp6mua0uv",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Live Xtra ghana FM 91.9.html",
 			"added": 0,
 			"web": "wep",
 			"logo": "https://cdn-profiles.tunein.com/s210855/images/logog.jpg?t=1",
@@ -433,7 +433,7 @@
 			"id": 71,
 			"name": "Ghana Music Radio",
 			"location": "Accra-Ghana",
-			"url": "http://streaming.radio.co:80/s92f890821/listen",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Ghana Music Radio.html",
 			"added": 0,
 			"web": "wep",
 			"logo": "https://cdn-radiotime-logos.tunein.com/s198490g.png",
@@ -443,22 +443,13 @@
 			"id": 69,
 			"name": "360Africa Radio",
 			"location": "Takoradi-Ghana",
-			"url": "http://stream.zenolive.com/5gyngmysfzzuv",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/360Africa Radio.html",
 			"added": 0,
 			"web": "wep",
 			"logo": "https://images.zeno.fm/XGKz2kDzGLwhJ6Zj7I94jUPtXFdrWYj6Mk2rKQ-cIxg/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNncU1IQXRBa01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNROHFYX3lnZ01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE3MzM2MTgwMDA.webp",
 			"bit": "54k"
 		},
-		{
-			"id": 67,
-			"name": "VOV Radio FM 95.7",
-			"location": "Takoradi-Ghana",
-			"url": "http://sp0001.opengradle.pro:8120/radio.mp3",
-			"added": 0,
-			"web": "wep",
-			"logo": "https://pbs.twimg.com/profile_images/1420144091518709762/b1-aEcBF_400x400.jpg",
-			"bit": "14k"
-		},
+
 		{
 			"id": 66,
 			"name": "Citinews fm",
