@@ -1,0 +1,26 @@
+
+<Html>
+    
+       <body style='background-color: #000;'>
+       
+             
+                 
+             
+        
+             
+             <video id="video" controls></video>
+             
+       </body>
+</Html>
+<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
+<script>
+                      if(Hls.isSupported()) {
+                        var video = document.getElementById('video');
+                        var hls = new Hls();
+                        hls.loadSource('https://n39b-e2.revma.ihrhls.com/zc1421/57_1d6czwol7n3gk02/playlist.m3u8?zip=&rj-ttl=5&streamid=1421&pname=live_profile&companionAds=false&dist=iheart&terminalId=159&deviceName=web-mobile&rj-tok=AAABkSgIqzcAWRysxiffxyJdSQ&aw_0_1st.playerid=iHeartRadioWebPlayer&listenerId=60265f38c7bb42c4d5af279f95f1ed59&clientType=web&profileId=9001756531&aw_0_1st.skey=9001756531&host=webapp.US&playedFrom=157&stationid=1421&territory=US');
+                        hls.attachMedia(video);
+                        hls.on(Hls.Events.MANIFEST_PARSED,function() {
+                          video.play();
+                      });
+                     }
+</script>

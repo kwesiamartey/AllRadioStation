@@ -1,0 +1,83 @@
+<Html>
+    
+    <head>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(135deg, #ff6b6b, #f06595, #74c0fc, #82c91e);
+        background-size: 400% 400%;
+        animation: gradientBackground 10s ease infinite;
+    }
+    @keyframes gradientBackground {
+        0% { background-position: 0% 50%; }
+        50% { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+    }
+    .audio-player {
+        background-color: #fff;
+        border: 1px solid #ddd;
+        padding: 20px;
+        width: 300px;
+        text-align: center;
+        border-radius: 15px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        position: relative;
+        z-index: 1;
+    }
+    .audio-player button {
+        background-color: #3498db;
+        color: white;
+        border: none;
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        cursor: pointer;
+        outline: none;
+        font-size: 16px;
+        transition: background-color 0.3s ease;
+    }
+    .audio-player button:hover {
+        background-color: #2980b9;
+    }
+    .audio-player .time {
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-between;
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .audio-player .live {
+        color: red;
+        font-size: 12px;
+        text-transform: uppercase;
+    }
+</style>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MP3 Stream</title>
+</head>
+       <body style='background-color: #000;'>
+       
+             
+                 
+             
+        
+             
+                <audio controls>
+                    <source src="https://bonneville.cdnstream1.com/2612_48.aac" type="audio/ogg; codecs=vorbis">
+                    Your browser does not support the audio element.
+                </audio>
+             
+       </body>
+</Html>
+
+
+               
+                       

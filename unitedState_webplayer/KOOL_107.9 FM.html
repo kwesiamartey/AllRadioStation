@@ -1,0 +1,27 @@
+
+<Html>
+    
+       <body style='background-color: #000;'>
+       
+             
+                 
+             
+        
+             
+              <video controls id='video'></video>>
+             
+       </body>
+</Html>
+<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
+<script>
+         if(Hls.isSupported()) {
+         var video = document.getElementById('video');
+         var hls = new Hls();
+         hls.loadSource('https://prod-44-222-183-215.amperwave.net/townsquare-kbklfmaac-hlsc3.m3u8/?z=74274d2051e34ed59063120734c8c29e&p=1');
+                         
+         hls.attachMedia(video);
+         hls.on(Hls.Events.MANIFEST_PARSED,function() {
+         video.play();
+       });
+    }
+</script>
