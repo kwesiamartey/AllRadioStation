@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(135deg, #ff6b6b, #f06595, #74c0fc, #82c91e);
+        background-size: 400% 400%;
+        animation: gradientBackground 10s ease infinite;
+    }
+    @keyframes gradientBackground {
+        0% { background-position: 0% 50%; }
+        50% { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+    }
+    .audio-player {
+        background-color: #fff;
+        border: 1px solid #ddd;
+        padding: 20px;
+        width: 300px;
+        text-align: center;
+        border-radius: 15px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        position: relative;
+        z-index: 1;
+    }
+    .audio-player button {
+        background-color: #3498db;
+        color: white;
+        border: none;
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        cursor: pointer;
+        outline: none;
+        font-size: 16px;
+        transition: background-color 0.3s ease;
+    }
+    .audio-player button:hover {
+        background-color: #2980b9;
+    }
+    .audio-player .time {
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-between;
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .audio-player .live {
+        color: red;
+        font-size: 12px;
+        text-transform: uppercase;
+    }
+</style>
+
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(135deg, #ff6b6b, #f06595, #74c0fc, #82c91e);
+        background-size: 400% 400%;
+        animation: gradientBackground 10s ease infinite;
+    }
+    @keyframes gradientBackground {
+        0% { background-position: 0% 50%; }
+        50% { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+    }
+    .audio-player {
+        background-color: #fff;
+        border: 1px solid #ddd;
+        padding: 20px;
+        width: 300px;
+        text-align: center;
+        border-radius: 15px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        position: relative;
+        z-index: 1;
+    }
+    .audio-player button {
+        background-color: #3498db;
+        color: white;
+        border: none;
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        cursor: pointer;
+        outline: none;
+        font-size: 16px;
+        transition: background-color 0.3s ease;
+    }
+    .audio-player button:hover {
+        background-color: #2980b9;
+    }
+    .audio-player .time {
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-between;
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .audio-player .live {
+        color: red;
+        font-size: 12px;
+        text-transform: uppercase;
+    }
+</style>
+
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(135deg, #ff6b6b, #f06595, #74c0fc, #82c91e);
+        background-size: 400% 400%;
+        animation: gradientBackground 10s ease infinite;
+    }
+    @keyframes gradientBackground {
+        0% { background-position: 0% 50%; }
+        50% { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+    }
+    .audio-player {
+        background-color: #fff;
+        border: 1px solid #ddd;
+        padding: 20px;
+        width: 300px;
+        text-align: center;
+        border-radius: 15px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        position: relative;
+        z-index: 1;
+    }
+    .audio-player button {
+        background-color: #3498db;
+        color: white;
+        border: none;
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        cursor: pointer;
+        outline: none;
+        font-size: 16px;
+        transition: background-color 0.3s ease;
+    }
+    .audio-player button:hover {
+        background-color: #2980b9;
+    }
+    .audio-player .time {
+        margin-top: 20px;
+        display: flex;
+        justify-content: space-between;
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .audio-player .live {
+        color: red;
+        font-size: 12px;
+        text-transform: uppercase;
+    }
+</style>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Universal Media Player</title>
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.6.8/plyr.css" />
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        .container {
+            text-align: center;
+        }
+        .player-wrapper {
+            margin-top: 20px;
+            width: 100%;
+            max-width: 800px;
+        }
+        video, audio {
+            width: 100%;
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <input type="text" id="media-url" placeholder="Enter media URL here" hidden />
+        <button id="load-media" hidden>Load Media</button>
+        <div class="player-wrapper">
+            <video id="player" controls></video>
+            <audio id="audio-player" controls ></audio>
+        </div>
+    </div>
+
+    <script src="https://cdn.plyr.io/3.6.8/plyr.polyfilled.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const player = new Plyr('#player');
+            const audioPlayer = new Plyr('#audio-player');
+            const loadMediaButton = document.getElementById('load-media');
+            const mediaUrlInput = document.getElementById('media-url');
+
+              const url = 'https://c3.radioboss.fm:8069/stream';
+                if (url) {
+                    const mediaType = getMediaType(url);
+                    if (mediaType) {
+                        if (mediaType === 'video') {
+                            document.getElementById('audio-player').style.display = 'none';
+                            document.getElementById('player').style.display = 'block';
+                            player.source = {
+                                type: 'video',
+                                sources: [
+                                    {
+                                        src: url,
+                                        type: `video/${getFileExtension(url)}`
+                                    }
+                                ]
+                            };
+                            player.play();
+                        } else if (mediaType === 'audio') {
+                            document.getElementById('player').style.display = 'none';
+                            document.getElementById('audio-player').style.display = 'block';
+                            audioPlayer.source = {
+                                type: 'audio',
+                                sources: [
+                                    {
+                                        src: url,
+                                        type: `audio/${getFileExtension(url)}`
+                                    }
+                                ]
+                            };
+                            audioPlayer.play();
+                        }
+                    } else {
+                        alert('Unsupported media type!');
+                    }
+                } else {
+                    alert('Please enter a valid URL.');
+                }
+
+            function getMediaType(url) {
+                const extension = getFileExtension(url);
+                const videoExtensions = ['mp4', 'webm', 'ogg', 'm3u8'];
+                const audioExtensions = ['mp3', 'wav', 'ogg', 'aac', 'mpeg'];
+
+                if (videoExtensions.includes(extension)) {
+                    return 'video';
+                } else if (audioExtensions.includes(extension)) {
+                    return 'audio';
+                } else {
+                    return null;
+                }
+            }
+
+            function getFileExtension(url) {
+                return url.split('.').pop().split(/\#|\?/)[0];
+            }
+        });
+    </script>
+</body>
+</html>

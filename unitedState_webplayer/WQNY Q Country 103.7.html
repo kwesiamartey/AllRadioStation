@@ -1,0 +1,22 @@
+<Html>
+    
+       <body style='background-color: #000;'>
+      
+             
+              <video controls auto  id = "video"</video>
+             
+       </body>
+</Html>
+<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
+<script>
+         if(Hls.isSupported()) {
+         var video = document.getElementById('video');
+         var hls = new Hls();
+         hls.loadSource('https://prod-34-228-226-42.amperwave.net/saga-wqnyfmaac-hlsc2.m3u8');
+                         
+         hls.attachMedia(video);
+         hls.on(Hls.Events.MANIFEST_PARSED,function() {
+         video.play();
+       });
+    }
+</script>
