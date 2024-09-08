@@ -111,22 +111,13 @@
 			"id": 110,
 			"name": "Asaase Radi0 99.5",
 			"location": "Accra",
-			"url": "http://n05.radiojar.com/cyg76xcvp0hvv?rj-ttl=5&rj-tok=AAABj_K6B-sAnu4FWdcVfEfNxg",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Asaase Radi0 99.5.html",
 			"added": 0,
 			"web": "wep",
 			"logo": "https://cdn-profiles.tunein.com/s264884/images/logod.png?t=637280309150000000",
 			"bit": "284k"
 		},
-		{
-			"id": 109,
-			"name": "Pluzz FM",
-			"location": "Accra",
-			"url": "https://a00.w3-gh.com/a11.mp3",
-			"added": 0,
-			"web": "wep",
-			"logo": "https://cdn-profiles.tunein.com/s292269/images/logod.jpg?t=636511984157500000",
-			"bit": "284k"
-		},
+
 		{
 			"id": 107,
 			"name": "Adom Fie",
@@ -201,7 +192,7 @@
 			"id": 99,
 			"name": "BOX : Afrofusion Gold live",
 			"location": "Greater Accra ",
-			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Revival FM 99.3 live.html",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/BOX_Afrofusion Gold.html",
 			"added": 0,
 			"web": "wep",
 			"logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FWyaJZ9pQJOeRtc4mO1dHna9gMiNBvWiY_jlCkPnxi_A%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNnLTdlaW9Rb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJa2NfRXhnc01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE3NTk1NjIwMDA.webp&w=1920&q=100",
@@ -231,22 +222,13 @@
 			"id": 96,
 			"name": "Sweet Melodies FM (Accra)",
 			"location": "Miim -Ghana",
-			"url": "https://stream-153.zeno.fm/hsu9hfpqutzuv?zs=G7Sf0JU4Tce3N4Wlwq7gxw&listening-from-radio-garden=1691933686",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Sweet Melodies FM (Accra).html",
 			"added": 0,
 			"web": "wep",
 			"logo": "https://cdn-profiles.tunein.com/s165738/images/logog.jpg?t=159003",
 			"bit": "1k"
 		},
-		{
-			"id": 95,
-			"name": "Ghana Waves Radio",
-			"location": "Miim -Ghana",
-			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Ghana Waves Radio.html",
-			"added": 0,
-			"web": "wep",
-			"logo": "https://www.inlife.tv/sites/default/files/logos/ghana-waves-radio.png",
-			"bit": "1k"
-		},
+
 		{
 			"id": 94,
 			"name": "Zuria FM",
