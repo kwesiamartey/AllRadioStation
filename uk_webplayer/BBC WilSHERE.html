@@ -1,0 +1,27 @@
+
+<Html>
+    
+       <body style='background-color: #000;'>
+       
+             
+                 
+             
+        
+             
+              <video controls id='video'></video>>
+             
+       </body>
+</Html>
+<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
+<script>
+         if(Hls.isSupported()) {
+         var video = document.getElementById('video');
+         var hls = new Hls();
+         hls.loadSource('	https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_wiltshire.m3u8');
+                         
+         hls.attachMedia(video);
+         hls.on(Hls.Events.MANIFEST_PARSED,function() {
+         video.play();
+       });
+    }
+</script>
