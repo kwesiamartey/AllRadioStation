@@ -1,0 +1,26 @@
+<Html>
+    
+       <body>
+       
+             
+                 
+             
+        
+             
+              <video controls autoplay id="video"></video>
+             
+       </body>
+</Html>
+<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
+<script>
+                      if(Hls.isSupported()) {
+                        var video = document.getElementById('video');
+                        var hls = new Hls();
+                        hls.loadSource('https://video.primis.tech/uploads/cn1/video/users/hls/29267/video_5f2a767e592ca786766237/vid64d7c500694ce626749365.mp4/chunklist_480.m3u8');
+                                      
+                        hls.attachMedia(video);
+                        hls.on(Hls.Events.MANIFEST_PARSED,function() {
+                          video.play();
+                      });
+                     }
+</script>

@@ -1,0 +1,32 @@
+<Html>
+    
+       <body>
+       
+             
+                 
+             
+        
+             
+              <audio controls
+                     src='https://audio.music-radio.info/ch109_70s-90s' 
+                         type="audio/mpeg">
+                     Your browser does not support the
+              <code>audio</code> element.
+              </audio>
+
+             
+       </body>
+</Html>
+<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
+<script>
+                      if(Hls.isSupported()) {
+                        var video = document.getElementById('video');
+                        var hls = new Hls();
+                        hls.loadSource('https://audio.music-radio.info/ch109_70s-90s');
+                                      
+                        hls.attachMedia(video);
+                        hls.on(Hls.Events.MANIFEST_PARSED,function() {
+                          video.play();
+                      });
+                     }
+</script>

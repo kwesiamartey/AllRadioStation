@@ -1,0 +1,27 @@
+
+<Html>
+    
+       <body>
+       
+             
+                 
+             
+        
+             
+              <video controls id="video" autoplay></video>
+             
+       </body>
+</Html>
+<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
+<script>
+                      if(Hls.isSupported()) {
+                        var video = document.getElementById('video');
+                        var hls = new Hls();
+                        hls.loadSource('https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/adaptive_128/chunklist_ao.m3u8');
+                                      
+                        hls.attachMedia(video);
+                        hls.on(Hls.Events.MANIFEST_PARSED,function() {
+                          video.play();
+                      });
+                     }
+</script>
