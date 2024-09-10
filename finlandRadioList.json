@@ -576,7 +576,7 @@
 	"id": 1,
 	"name": "Radio Hear",
 	"location": "Finaland",
-	"url": "https://hear.fi:8000/hear.mp3",
+	"url": "http://hear.fi:8000/hear.mp3",
 	"added": 0,
 	"web": "wep",
 	"logo": "https://cdn.onlineradiobox.com/img/l/8/26488.v3.png",
