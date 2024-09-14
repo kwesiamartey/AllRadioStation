@@ -94,6 +94,16 @@
 		"web": "wep",
 		"logo": "https://play-lh.googleusercontent.com/O-e4Y72QN2AJsgljuEL9nNRUkPb8naHdUdhBPTO6jIixyyf-I2zS54jmRp9Q2eQE1w"
 	},
+
+	{
+		"id": 43,
+		"name": "Java Fm",
+		"location": "Dubai",
+		"url": "https://eu10.fastcast4u.com/clubfmuae",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://clubfm.ae/UploadedFiles/Programs/HomePageImage_316202280054AM.jpg"
+	},
 	{
 		"id": 31,
 		"name": "CNBC Arabia TV",
@@ -184,6 +194,16 @@
 		"web": "wep",
 		"logo": "https://mm.aiircdn.com/537/5cadd92bdace8.jpg"
 	},
+
+		{
+		"id": 43,
+		"name": "Java Fm",
+		"location": "Dubai",
+		"url": "https://eu10.fastcast4u.com/clubfmuae",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://clubfm.ae/UploadedFiles/Programs/HomePageImage_316202280054AM.jpg"
+	},
 	{
 		"id": 20,
 		"name": "Sky News Arabia (\u0633\u0643\u0627\u064a \u0646\u064a\u0648\u0632 \u0639\u0631\u0628\u064a\u0629) live",
@@ -273,6 +293,15 @@
 		"added": 0,
 		"web": "wep",
 		"logo": "https://cdn.onlineradiobox.com/img/l/9/103349.v3.png"
+	},
+		{
+		"id": 43,
+		"name": "Java Fm",
+		"location": "Dubai",
+		"url": "https://eu10.fastcast4u.com/clubfmuae",
+		"added": 0,
+		"web": "wep",
+		"logo": "https://clubfm.ae/UploadedFiles/Programs/HomePageImage_316202280054AM.jpg"
 	},
 	{
 		"id": 9,
