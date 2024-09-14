@@ -96,7 +96,7 @@
 	},
 
 	{
-		"id": 43,
+		"id": 31,
 		"name": "Java Fm",
 		"location": "Dubai",
 		"url": "https://eu10.fastcast4u.com/clubfmuae",
@@ -105,7 +105,7 @@
 		"logo": "https://clubfm.ae/UploadedFiles/Programs/HomePageImage_316202280054AM.jpg"
 	},
 	{
-		"id": 31,
+		"id": 30,
 		"name": "CNBC Arabia TV",
 		"location": "Dubai",
 		"url": "https://kwesiamartey.github.io/AllRadioStation/tv/CNBC Arabia.html",
@@ -114,7 +114,7 @@
 		"logo": "https://upload.wikimedia.org/wikipedia/commons/3/3a/CNBC_Arabia_Logo_2022.png"
 	},
 	{
-		"id": 30,
+		"id": 29,
 		"name": "Alhadath TV",
 		"location": "Dubai",
 		"url": "https://kwesiamartey.github.io/AllRadioStation/tv/Alhadath TV.html",
@@ -123,7 +123,7 @@
 		"logo": "https://cdn6.aptoide.com/imgs/5/1/1/5114652dcf1b408160a93712cc63b27e_icon.png"
 	},
 	{
-		"id": 29,
+		"id": 28,
 		"name": "Al Aan TV",
 		"location": "Dubai",
 		"url": "https://kwesiamartey.github.io/AllRadioStation/tv/al_aln_tv.html",
@@ -132,7 +132,7 @@
 		"logo": "https://upload.wikimedia.org/wikipedia/commons/7/76/Al_Aan_TV_new_Logo.png"
 	},
 	{
-		"id": 28,
+		"id": 27,
 		"name": "Al Arabiya TV",
 		"location": "Dubai",
 		"url": "https://kwesiamartey.github.io/AllRadioStation/tv/Al Arabiya.html",
@@ -141,7 +141,7 @@
 		"logo": "https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1414302205/lgfvjbyhmd8lmtiuuszt.jpg"
 	},
 	{
-		"id": 27,
+		"id": 26,
 		"name": "Dubai Sport TV",
 		"location": "Dubai",
 		"url": "https://kwesiamartey.github.io/AllRadioStation/tv/Dubai Sport TV.html",
@@ -150,7 +150,7 @@
 		"logo": "https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM"
 	},
 	{
-		"id": 26,
+		"id": 25,
 		"name": "Sama Dubai TV",
 		"location": "Dubai",
 		"url": "https://kwesiamartey.github.io/AllRadioStation/tv/Sama Dubai TV.html",
@@ -159,7 +159,7 @@
 		"logo": "https://yt3.googleusercontent.com/ytc/APkrFKYn9iQShTY_ERqJi1RPkLNOiBTmoSaoiYEG6qtm2g=s900-c-k-c0x00ffffff-no-rj"
 	},
 	{
-		"id": 25,
+		"id": 24,
 		"name": "Dubai One TV",
 		"location": "Dubai",
 		"url": "https://kwesiamartey.github.io/AllRadioStation/tv/dubaiOne.html",
@@ -168,7 +168,7 @@
 		"logo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png"
 	},
 	{
-		"id": 24,
+		"id": 23,
 		"name": "Radio Hala",
 		"location": "Dubai",
 		"url": "http://us10a.serverse.com:8027/stream",
@@ -186,7 +186,7 @@
 		"logo": "https://lh3.googleusercontent.com/sUNr_MVhxXQlGv25u1yQybw-BMNKcTUGIsRYkNPZCpmIMTMVKAoxxifTqqqyEqu-_9g"
 	},
 	{
-		"id": 21,
+		"id": 22,
 		"name": "Hit 96.7",
 		"location": "Dubai",
 		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/hitfmdubai.html",
@@ -196,7 +196,7 @@
 	},
 
 		{
-		"id": 43,
+		"id": 21,
 		"name": "Java Fm",
 		"location": "Dubai",
 		"url": "https://eu10.fastcast4u.com/clubfmuae",
@@ -286,7 +286,7 @@
 		"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6YxuG84cej3FzM567zv1ycS_Vt3WNWrnMHlk9_6OwNVOEQ5lW8ZR24HzvqHdb05KSg2k&usqp=CAU"
 	},
 	{
-		"id": 10,
+		"id": 11,
 		"name": "Abu Dhabi Classic FM liveve",
 		"location": "Abu Dhabi",
 		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/Abu Dhabi Classic FM live.html",
@@ -295,7 +295,7 @@
 		"logo": "https://cdn.onlineradiobox.com/img/l/9/103349.v3.png"
 	},
 		{
-		"id": 43,
+		"id": 10,
 		"name": "Java Fm",
 		"location": "Dubai",
 		"url": "https://eu10.fastcast4u.com/clubfmuae",
