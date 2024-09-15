@@ -192,7 +192,7 @@
 	"id": 39,
 	"name": "Radio Pooki",
 	"location": "Finaland",
-	"url": "https://stream.bauermedia.fi/radiopooki/radiopooki_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMFI_Web&aw_0_req.userConsentV2=CP9Ae4AP9Ae4AAGABCENAvEsAP_gAEPAAAw4JtQIgAAgAIgAUABkADwAQAAqABkADwAIAAWgAyABoADkAIsATABNAC2AHMAPwAgABBACEAFAANEAbIA7gB-gEIAIiAYoAzgB-wF5gMZAigBNoBioBIACAAFAAPAEIAO4AhABEQCLAGKAGCQDQAEAALAAqAB4AEEAMgA0ACYAH4AbIA7gB-gGKAXmOgFgALAAqACCAGQAaABMAD8ANEAbIA_QDFALzJQBgAEAALACYANkAxQC8yEAQABYATAB3AGKKQCgAFgAVABBADIANAAmAB-AGiANkAfoC8y0AEAdwAAA.YAAAAAAAAAAA&aw_0_1st.skey=1712975780",
+	"url": "https://ms-live-helmiradio.nm-elemental.nelonenmedia.fi/master-256000.m3u8",
 	"added": 0,
 	"web": "wep",
 	"logo": "https://cdn.onlineradiobox.com/img/l/5/26155.v5.png",
