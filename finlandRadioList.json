@@ -423,37 +423,7 @@
 	"logo": "https://cdn.onlineradiobox.com/img/l/6/26156.v6.png",
 	"bit": "1k"
 },
-{
-	"id": 17,
-	"name": "Radio Dei ",
-	"location": "Finaland",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/Radio Dei.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.onlineradiobox.com/img/l/8/45468.v3.png",
-	"bit": "1k"
-},
-{
-	"id": 16,
-	"name": "Loop",
-	"location": "Finaland",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/Loop.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.onlineradiobox.com/img/l/9/85999.v4.png",
-	"bit": "1k"
-},
 
-{
-	"id": 15,
-	"name": "Radio Vaasa",
-	"location": "Finaland",
-	"url": "https://www.radiovaasa.fi/radio-vaasa-nettiradio/",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://play-lh.googleusercontent.com/jnuMqQzhXNBzc05-9gTckJVTp2Nmtp9-_WvY2YCA2YjuI7BVSXH55yKp6KhtXQJ_pLo",
-	"bit": "1k"
-},
 {
 	"id": 14,
 	"name": "Radio Ramona",
