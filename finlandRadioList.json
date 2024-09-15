@@ -456,16 +456,7 @@
 	"logo": "https://cdn.onlineradiobox.com/img/l/8/133758.v2.png",
 	"bit": "1k"
 },
-{
-	"id": 11,
-	"name": "ReggaeNord",
-	"location": "Finaland",
-	"url": "https://centova2.cheapshoutcast.com:2199/proxy/reggaenord?mp=/stream",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.onlineradiobox.com/img/l/3/100803.v10.png",
-	"bit": "1k"
-},
+
 {
 	"id": 10,
 	"name": "Radio Musa",
@@ -520,7 +511,7 @@
 	"id": 5,
 	"name": "Radioverkko",
 	"location": "Finaland",
-	"url": "https://radioverkko.fi:8002/live",
+	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/Radioverkko.html",
 	"added": 0,
 	"web": "wep",
 	"logo": "https://cdn.onlineradiobox.com/img/l/2/48912.v3.png",
