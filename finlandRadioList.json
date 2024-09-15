@@ -321,16 +321,7 @@
 	"logo": "https://cdn.onlineradiobox.com/img/l/6/48586.v4.png",
 	"bit": "1k"
 },
-{
-	"id": 28,
-	"name": "RQL",
-	"location": "Finaland",
-	"url": "https://centova2.cheapshoutcast.com:2199/proxy/rqlweb?mp=/stream",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://cdn.onlineradiobox.com/img/l/2/48942.v22.png",
-	"bit": "1k"
-},
+
 {
 	"id": 27,
 	"name": "Groove FM",
