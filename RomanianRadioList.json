@@ -499,15 +499,7 @@
         "web": "wep",
         "logo": "https://th.bing.com/th/id/OIP.wEDWWWAGGwdijxBlQYWAOwHaER?w=309&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
     },
-    {
-        "id": 13,
-        "name": "Radio 21",
-        "location": "Romania ",
-        "url": "http://stream.radio21.ro:8000/;",
-        "added": 0,
-        "web": "wep",
-        "logo": "https://th.bing.com/th/id/OIP.GjgPDoWwyF7ZuNAWIPe-0wHaGJ?w=209&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
-    },
+
     {
         "id": 12,
         "name": "Radio 1",
