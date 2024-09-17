@@ -328,29 +328,13 @@
         "web": "wep",
         "logo": "https://th.bing.com/th/id/OIP.UQlxD928HV04mf3eb1VTXAHaHa?rs=1&pid=ImgDetMain"
     },
-    {
-        "id": 32,
-        "name": "Radio Luna",
-        "location": "Romania ",
-        "url": "https://stream.radioluna.ro/stream",
-        "added": 0,
-        "web": "wep",
-        "logo": "https://th.bing.com/th/id/OIP.JCMmX49OmgmC3itM1pPelQAAAA?rs=1&pid=ImgDetMain"
-    },
-    {
-        "id": 31,
-        "name": "Radio Blue Star",
-        "location": "Romania ",
-        "url": "https://cloud.radiostar.ro:8000/stream",
-        "added": 0,
-        "web": "wep",
-        "logo": "https://th.bing.com/th/id/OIP.hJ8Zi2mX7f0mCPI3Oo982QHaHa?rs=1&pid=ImgDetMain"
-    },
+
+
     {
         "id": 30,
         "name": "Radio 7",
         "location": "Romania ",
-        "url": "http://stream.radio7.ro:8000/;",
+        "url": "http://radio-seven.ro/",
         "added": 0,
         "web": "wep",
         "logo": "https://th.bing.com/th/id/OIP.KT6xBRGVJamVNgXdR_EjowHaDt?rs=1&pid=ImgDetMain"
