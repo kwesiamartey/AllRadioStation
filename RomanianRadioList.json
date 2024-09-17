@@ -305,7 +305,7 @@
         "id": 35,
         "name": "Radio Hot",
         "location": "Romania ",
-        "url": "https://cloud.radiorecord.ru:10010/hot_192.mp3",
+        "url": "http://mp3.radiohot.ro:8000/stream",
         "added": 0,
         "web": "wep",
         "logo": "https://th.bing.com/th/id/OIP.y9T0M0vwtyf7-JiOwfksJAAAAA?rs=1&pid=ImgDetMain"
