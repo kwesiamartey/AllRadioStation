@@ -385,20 +385,12 @@
         "id": 8,
         "name": "Radio Impuls",
         "location": "Romania ",
-        "url": "https://www.radioimpuls.ro/dimineata-pe-doi-cu-greeg-si-moga-20310580",
+        "url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Impuls.html",
         "added": 0,
         "web": "wep",
         "logo": "https://th.bing.com/th/id/OIP.g_mzse2Vb5w5q075QEWTMgAAAA?w=163&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
     },
-    {
-        "id": 7,
-        "name": "Radio Intercontinental",
-        "location": "Romania ",
-        "url": "http://stream.radiointercontinental.ro:8000/;",
-        "added": 0,
-        "web": "wep",
-        "logo": "https://static2.mytuner.mobi/media/tvos_radios/XDJrFG9N.jpg"
-    },
+
     {
         "id": 6,
         "name": "Kiss Fm",
