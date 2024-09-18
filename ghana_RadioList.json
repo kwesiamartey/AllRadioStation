@@ -14,7 +14,16 @@
 
 
 
-
+{
+			"id": 120,
+			"name": "Java Fm",
+			"location": "Miim -Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Onua Fm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2Fl7ZaGxkhKsV9yd5YGMiNTgHgDbydDHY0VTS9XajCxSI%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNnamR6OW5nb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNnbmZHMHZnZ01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE3NDM1NTEwMDA.webp&w=1920&q=100",
+			"bit": "1k"
+		},
 
 		{
 			"id": 119,
