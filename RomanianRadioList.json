@@ -365,37 +365,21 @@
         "id": 12,
         "name": "Radio 1",
         "location": "Romania ",
-        "url": "http://stream.radio1.ro:8000/;",
+        "url": "https://radio1fm.ro/?radio_player=1",
         "added": 0,
         "web": "wep",
         "logo": "https://th.bing.com/th/id/OIP.EZoYSOz6QRMhw8_KwxKVRwAAAA?rs=1&pid=ImgDetMain"
     },
-    {
-        "id": 11,
-        "name": "Radio 7 Plus",
-        "location": "Romania ",
-        "url": "http://stream.radio7plus.ro:8000/;",
-        "added": 0,
-        "web": "wep",
-        "logo": "https://th.bing.com/th/id/OIP.Rn8w0H-pzXXVUfDFybgfZAD6D6?w=179&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
-    },
-    {
-        "id": 10,
-        "name": "Radio 99.9",
-        "location": "Romania ",
-        "url": "http://stream.radio999.ro:8000/;",
-        "added": 0,
-        "web": "wep",
-        "logo": "https://th.bing.com/th/id/OIP.EgT6TF3euhLsHOFmZ-SugQAAAA?w=181&h=181&c=7&r=0&o=5&dpr=2&pid=1.7"
-    },
+
+
     {
         "id": 9,
         "name": "Radio City",
         "location": "Romania ",
-        "url": "http://stream.radiocity.ro:8000/;",
+        "url": "https://city-radio.ro/",
         "added": 0,
         "web": "wep",
-        "logo": "https://th.bing.com/th/id/OIP.loLCaZX6yoOqHMuaGLXj1QHaHa?w=175&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
+        "logo": "https://city-radio.ro/themes/city/images/logo.png"
     },
     {
         "id": 8,
