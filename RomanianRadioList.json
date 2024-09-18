@@ -139,15 +139,7 @@
         "web": "wep",
         "logo": "https://asculta-live.com/files/styles/80/public/logo/radio-romania-resita.jpg?itok=Ltbg69Ny"
     },
-    {
-        "id": 53,
-        "name": "Radio Maria",
-        "location": "Romania ",
-        "url": "https://dreamsiteradiocp2.com/proxy/rmromania2?mp=/;stream.mp3",
-        "added": 0,
-        "web": "wep",
-        "logo": "https://www.radio.net/images/broadcasts/2a/75/13516/c300.png"
-    },
+
     {
         "id": 52,
         "name": "Radio Bucovina",
@@ -413,7 +405,7 @@
         "id": 4,
         "name": "Radio Actualități",
         "location": "Romania ",
-        "url": "http://live.rra.ro:80/radio1",
+        "url": "https://kwesiamartey.github.io/AllRadioStation/romania_webplayer/Radio Actualități.html",
         "added": 0,
         "web": "wep",
         "logo": "https://th.bing.com/th/id/OIP.UnmR3-Q2e2ebAU7eapJxQwHaD2?w=326&h=180&c=7&r=0&o=5&dpr=2&pid=1.7"
