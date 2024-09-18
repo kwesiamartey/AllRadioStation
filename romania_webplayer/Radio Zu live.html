@@ -1,8 +1,12 @@
-<Html>
-    
-    
-    <head><style>
-      body {
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Live Audio Player</title>
+    <style>
+        body {
             font-family: Arial, sans-serif;
             margin: 0;
             height: 100vh;
@@ -59,31 +63,58 @@
             font-size: 12px;
             text-transform: uppercase;
         }
-    </style></head>
-    
-    <body>
-       
-             <h5 style='text-align: center;'>
-               
-             </h5>
-        
-             <h5 style='text-align: center;'>
-             <!--<video id="video" controls type="application/x-mpegURL"></video>-->
-                <video id="video" controls> </video>
-              
-             </h5>
-       </body>
-</Html>
-<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
-<script>
-                      if(Hls.isSupported()) {
-                        var video = document.getElementById('video');
-                        var hls = new Hls();
-                        hls.loadSource('https://live4ro.antenaplay.ro/radiozu/radiozu-48000.m3u8');
-                                      
-                        hls.attachMedia(video);
-                        hls.on(Hls.Events.MANIFEST_PARSED,function() {
-                          video.play();
-                      });
-                     }
-</script>
+    </style>
+</head>
+<body>
+    <div class="audio-player">
+        <button id="playPauseBtn">Play</button>
+        <div class="time">
+            <span id="currentTime">00:00</span>
+            <span class="live">Live</span>
+        </div>
+        <audio id="audio" preload="metadata">
+            <source src="
+https://live4ro.antenaplay.ro/radiozu/10634/seg48000-21266618.aac "   type="audio/ogg; codecs=vorbis">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+
+    <script>
+        const audio = document.getElementById('audio');
+        const playPauseBtn = document.getElementById('playPauseBtn');
+        const currentTimeEl = document.getElementById('currentTime');
+
+        // Play/Pause functionality
+        playPauseBtn.addEventListener('click', () => {
+            if (audio.paused) {
+                audio.play();
+                playPauseBtn.textContent = 'Pause';
+            } else {
+                audio.pause();
+                playPauseBtn.textContent = 'Play';
+            }
+        });
+
+        // Update current time (no progress bar, only time shown)
+        audio.addEventListener('timeupdate', () => {
+            const { currentTime } = audio;
+            currentTimeEl.textContent = formatTime(currentTime);
+        });
+
+        // Format time in mm:ss
+        function formatTime(time) {
+            const minutes = Math.floor(time / 60);
+            const seconds = Math.floor(time % 60);
+            return `${minutes < 10 ? '0' : ''}${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
+        }
+
+        // Reset play button when audio ends (optional, in case of interruptions)
+        audio.addEventListener('ended', () => {
+            playPauseBtn.textContent = 'Play';
+        });
+    </script>
+</body>
+</html>
+
+
+
