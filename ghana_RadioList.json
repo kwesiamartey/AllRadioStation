@@ -126,6 +126,16 @@
 			"bit": "284k"
 		},
 		{
+			"id": 108,
+			"name": "Local Fm",
+			"location": "Miim -Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Onua Fm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.shutterstock.com/shutterstock/photos/718102270/display_1500/stock-vector-detailed-colored-world-map-mapped-on-a-globe-isolated-on-white-background-718102270.jpg",
+			"bit": "1k"
+		},
+		{
 			"id": 107,
 			"name": "Adom Fie",
 			"location": "Accra",
@@ -247,6 +257,17 @@
 		},
 
 		{
+			"id": 94,
+			"name": "Local Fm",
+			"location": "Miim -Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Onua Fm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.shutterstock.com/shutterstock/photos/718102270/display_1500/stock-vector-detailed-colored-world-map-mapped-on-a-globe-isolated-on-white-background-718102270.jpg",
+			"bit": "1k"
+		},
+
+		{
 			"id": 92,
 			"name": "Menstrocare FM",
 			"location": "Ghana",
@@ -344,6 +365,16 @@
 			"added": 0,
 			"web": "wep",
 			"logo": "https://mytunein.com/images/logos/akomapa893fm.jpg",
+			"bit": "1k"
+		},
+		{
+			"id": 84,
+			"name": "Local Fm",
+			"location": "Miim -Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Onua Fm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.shutterstock.com/shutterstock/photos/718102270/display_1500/stock-vector-detailed-colored-world-map-mapped-on-a-globe-isolated-on-white-background-718102270.jpg",
 			"bit": "1k"
 		},
 		{
@@ -455,6 +486,16 @@
 			"web": "wep",
 			"logo": "https://cdn-radiotime-logos.tunein.com/s198490g.png",
 			"bit": "224k"
+		},
+		{
+			"id": 70,
+			"name": "Local Fm",
+			"location": "Miim -Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Onua Fm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.shutterstock.com/shutterstock/photos/718102270/display_1500/stock-vector-detailed-colored-world-map-mapped-on-a-globe-isolated-on-white-background-718102270.jpg",
+			"bit": "1k"
 		},
 		{
 			"id": 69,
