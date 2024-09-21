@@ -96,6 +96,16 @@
 		"logo": "https://mm.aiircdn.com/534/5c653ea800e1f.png"
 	},
 	{
+			"id": 33,
+			"name": "Local Fm",
+			"location": "Miim -Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Onua Fm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.shutterstock.com/shutterstock/photos/718102270/display_1500/stock-vector-detailed-colored-world-map-mapped-on-a-globe-isolated-on-white-background-718102270.jpg",
+			"bit": "1k"
+		},
+	{
 		"id": 32,
 		"name": "Dubai TV",
 		"location": "Dubai",
@@ -187,7 +197,7 @@
 		"logo": "https://lh3.googleusercontent.com/sUNr_MVhxXQlGv25u1yQybw-BMNKcTUGIsRYkNPZCpmIMTMVKAoxxifTqqqyEqu-_9g"
 	},
 	{
-		"id": 22,
+		"id": 21,
 		"name": "Hit 96.7",
 		"location": "Dubai",
 		"url": "https://kwesiamartey.github.io/AllRadioStation/abu_dabi_webplayer/hitfmdubai.html",
@@ -286,6 +296,16 @@
 		"web": "wep",
 		"logo": "https://cdn.onlineradiobox.com/img/l/9/103349.v3.png"
 	},
+	{
+			"id": 10,
+			"name": "Local Fm",
+			"location": "Miim -Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/ghana_webplayer/Onua Fm.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.shutterstock.com/shutterstock/photos/718102270/display_1500/stock-vector-detailed-colored-world-map-mapped-on-a-globe-isolated-on-white-background-718102270.jpg",
+			"bit": "1k"
+		},
 
 	{
 		"id": 9,
