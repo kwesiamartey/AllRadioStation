@@ -161,18 +161,6 @@
         "name": "Portugal",
         "flag": "https://img.freepik.com/premium-vector/portugal-flag-vector_654626-166.jpg",
         "url": "portugalRadioList.json"
-    },
-    {
-        "id": 27,
-        "name": "South Africa",
-        "flag": "https://th.bing.com/th/id/R.2deafa68d83b7ea3b3d0ec45c8675725?rik=LHwmWwu0DflLzA&riu=http%3a%2f%2fwww.all-flags-world.com%2fcountry-flag%2fSouth-Africa%2fflag-south-africa-XL.jpg&ehk=%2bAPKAzuqSWeiP3iHUUB1Kw5QNMQsR8r4iMPRSOLzX6U%3d&risl=&pid=ImgRaw&r=0",
-        "url": "southAfricaList.json"
-    },
-   {
-        "id": 40000,
-        "name": "",
-        "flag": "",
-        "url": ""
     }
    
 
