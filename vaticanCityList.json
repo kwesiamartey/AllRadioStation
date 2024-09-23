@@ -7,5 +7,50 @@
         "added": 0,
         "web": "wep",
         "logo": "https://cdn.onlineradiobox.com/img/l/7/120407.v3.png"
+    },
+    {
+        "id": 2,
+        "name": "RV5 Vatican Radio (Italian)",
+        "location": "Vatican City",
+        "url": "https://kwesiamartey.github.io/AllRadioStation/vatican_webplayer/RV5 Vatican Radio.html",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://th.bing.com/th/id/OIP.3_uAh5FnoA3u9wARJ9c68AHaEK?rs=1&pid=ImgDetMain"
+    },
+  {
+        "id": 3,
+        "name": "Radio Vaticana Malayalam",
+        "location": "Vatican City",
+        "url": "https://kwesiamartey.github.io/AllRadioStation/vatican_webplayer/Radio Vaticana Malayalam.html",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://th.bing.com/th/id/OIP.3_uAh5FnoA3u9wARJ9c68AHaEK?rs=1&pid=ImgDetMain"
+    },
+
+{
+        "id": 4,
+        "name": "Radio Vatican - French",
+        "location": "Vatican City",
+        "url": "https://kwesiamartey.github.io/AllRadioStation/vatican_webplayer/Radio Vatican - French.html",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://th.bing.com/th/id/OIP.3_uAh5FnoA3u9wARJ9c68AHaEK?rs=1&pid=ImgDetMain"
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 ]
