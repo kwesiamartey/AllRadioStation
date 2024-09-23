@@ -1,0 +1,16 @@
+
+Here’s a JSON list of radio stations from Vatican City:
+
+json
+Copy code
+[
+    {
+        "id": 1,
+        "name": "Radio Vaticana",
+        "location": "Vatican City",
+        "stream_url": "https://kwesiamartey.github.io/AllRadioStation/vatican_webplayer/Al Khaleejiya 100.9.html",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://www.vaticannews.va/content/dam/vaticannews/brand/logo-radio-vaticana.svg"
+    }
+]
