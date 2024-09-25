@@ -1,9 +1,10 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Custom HLS Audio Player with Auto-Reconnect</title>
+    <title>Custom Live Audio Player</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -62,80 +63,25 @@
             font-size: 12px;
             text-transform: uppercase;
         }
-        .loading {
-            font-size: 16px;
-            color: #555;
-            margin-bottom: 10px;
-        }
     </style>
 </head>
 <body>
     <div class="audio-player">
-        <div id="loadingMessage" class="loading">Loading...</div>
-        <button id="playPauseBtn" disabled>Play</button>
+        <button id="playPauseBtn">Play</button>
         <div class="time">
             <span id="currentTime">00:00</span>
             <span class="live">Live</span>
         </div>
-        <audio id="audio" controls preload="metadata" style="display:none;"></audio>
+        <audio id="audio" preload="metadata">
+            <source src="https://k100straumar.mbl.is/retromobile?DVR" type="audio/aac">
+            Your browser does not support the audio element.
+        </audio>
     </div>
 
-    <!-- hls.js for playing .m3u8 streams in non-Safari browsers -->
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    
     <script>
         const audio = document.getElementById('audio');
         const playPauseBtn = document.getElementById('playPauseBtn');
         const currentTimeEl = document.getElementById('currentTime');
-        const loadingMessage = document.getElementById('loadingMessage');
-        
-        // HLS stream URL
-        const hlsUrl = 'https://admdn7ta.cdn.mangomolo.com/clasrdo/clasrdo.stream_aac/chunklist.m3u8';
-
-        let hls;
-        
-        function initHls() {
-            if (Hls.isSupported()) {
-                hls = new Hls();
-                hls.loadSource(hlsUrl);
-                hls.attachMedia(audio);
-                
-                hls.on(Hls.Events.MANIFEST_PARSED, function() {
-                    loadingMessage.style.display = 'none';
-                    playPauseBtn.disabled = false;  // Enable play button after loading
-                });
-
-                // Handle errors and auto-reconnect
-                hls.on(Hls.Events.ERROR, function(event, data) {
-                    if (data.fatal) {
-                        switch (data.type) {
-                            case Hls.ErrorTypes.NETWORK_ERROR:
-                                console.log("Network error occurred, trying to recover...");
-                                hls.startLoad();  // Try to reload the stream
-                                break;
-                            case Hls.ErrorTypes.MEDIA_ERROR:
-                                console.log("Media error occurred, recovering media error...");
-                                hls.recoverMediaError();
-                                break;
-                            default:
-                                console.log("An unrecoverable error occurred, destroying HLS...");
-                                hls.destroy();
-                                initHls();  // Re-initialize the HLS stream
-                                break;
-                        }
-                    }
-                });
-            } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
-                // If the browser is Safari or another with native HLS support
-                audio.src = hlsUrl;
-                audio.addEventListener('canplay', function() {
-                    loadingMessage.style.display = 'none';
-                    playPauseBtn.disabled = false;  // Enable play button when ready
-                });
-            }
-        }
-
-        initHls();
 
         // Play/Pause functionality
         playPauseBtn.addEventListener('click', () => {
