@@ -30,7 +30,48 @@
 			"web": "wep",
 			"logo": "https://www.newsmedialists.com/logo/radios/25799/60-60/fit/gull-bylgjan.png",
 			"bit": "1k"
+		},
+		{
+			"id": 4,
+			"name": "K100",
+			"location": "Iceland",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/iceland_webplayer/K100.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.newsmedialists.com/logo/radios/25799/60-60/fit/gull-bylgjan.png",
+			"bit": "1k"
+		},
+		{
+			"id": 5,
+			"name": "Létt Bylgjan",
+			"location": "Iceland",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/iceland_webplayer/Létt Bylgjan.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_I9zJuYoa1SOSxvNZ13FC01-DXAGlPDIfaw&s",
+			"bit": "1k"
+		},
+		{
+			"id": 6,
+			"name": "Country Bylgjan",
+			"location": "Iceland",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/iceland_webplayer/Country Bylgjan.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-Imruc9m1Vy1t_1zemJhXtc6iG-6LCLrvg&s",
+			"bit": "1k"
+		},
+		{
+			"id": 7,
+			"name": "Íslenska Bylgjan",
+			"location": "Iceland",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/iceland_webplayer/Íslenska Bylgjan.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.visir.is/mi/cio/d9e86430-3fc7-4b83-9200-a756687a7c2c.png",
+			"bit": "1k"
 		}
+
 
 
 
