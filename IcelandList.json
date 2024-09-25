@@ -1,30 +1,52 @@
 [
 
 	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
 		{
 			"id": 1,
 			"name": "Bylgjan",
-			"location": "Miim -Ghana",
+			"location": "Iceland",
 			"url": "https://kwesiamartey.github.io/AllRadioStation/iceland_webplayer/Bylgjan.html",
 			"added": 0,
 			"web": "wep",
 			"logo": "https://th.bing.com/th/id/OIP.D4nj8iGWEvp18NTzLnC1HQAAAA?rs=1&pid=ImgDetMain",
 			"bit": "1k"
+		},
+		{
+			"id": 2,
+			"name": "FM957",
+			"location": "Iceland",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/iceland_webplayer/FM957.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.newsmedialists.com/logo/radios/25798/60-60/fit/fm957.jpg",
+			"bit": "1k"
+		},
+		{
+			"id": 3,
+			"name": "Gull Bylgjan",
+			"location": "Iceland",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/iceland_webplayer/Gull Bylgjan.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.newsmedialists.com/logo/radios/25799/60-60/fit/gull-bylgjan.png",
+			"bit": "1k"
 		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 
 ]
