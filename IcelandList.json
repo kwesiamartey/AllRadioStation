@@ -70,7 +70,67 @@
 			"web": "wep",
 			"logo": "https://www.visir.is/mi/cio/d9e86430-3fc7-4b83-9200-a756687a7c2c.png",
 			"bit": "1k"
-		}
+		},
+		{
+			"id": 8,
+			"name": "80's Bylgjan",
+			"location": "Iceland",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/iceland_webplayer/80's Bylgjan.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.visir.is/mi/cio/5a641379-8407-4e90-86b4-90080ecdc6e2.png",
+			"bit": "1k"
+		},
+		{
+			"id": 9,
+			"name": "Rás 1",
+			"location": "Iceland",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/iceland_webplayer/Rás 1.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.visir.is/mi/cio/1d9d87b3-08a3-42d0-98d5-00b7784bdffb.png",
+			"bit": "1k"
+		},
+		{
+			"id": 10,
+			"name": "Rás 2",
+			"location": "Iceland",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/iceland_webplayer/Rás 2.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.visir.is/mi/cio/155be727-d7ef-4544-bf20-4f7b62c33ce2.png",
+			"bit": "1k"
+		},
+		{
+			"id": 11,
+			"name": "Retró",
+			"location": "Iceland",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/iceland_webplayer/Retró.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.visir.is/mi/cio/859392b7-1ca5-4080-97e3-0eecbf9a2450.png",
+			"bit": "1k"
+		},
+		{
+			"id": 12,
+			"name": "Rondó",
+			"location": "Iceland",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/iceland_webplayer/Rondó.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.visir.is/mi/cio/3e73162e-18d8-4d55-b5f8-621af01ccade.png",
+			"bit": "1k"
+		},
+		{
+			"id": 13,
+			"name": "Útvarp Trölli",
+			"location": "Iceland",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/iceland_webplayer/Útvarp Trölli.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.visir.is/mi/cio/db3d4975-711d-42f8-98cd-eefdef619a5e.png",
+			"bit": "1k"
+		},
 
 
 
