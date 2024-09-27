@@ -1,51 +1,120 @@
 
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-	<meta charset="utf-8">
-	<title>Joy FM 99.7</title>
-	<script type="text/javascript" id="sgplayerembed" src="https://player.streamguys.com/atunwa/mgl/joyfm/embed.min.js?v=3.1.0c"></script>
-	<!-- Google Tag Manager -->
-	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-	})(window,document,'script','dataLayer','GTM-KX4JGD7');</script>
-	<!-- End Google Tag Manager -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Live Audio Player</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            /* Flashy gradient background */
+            background: linear-gradient(135deg, #ff6b6b, #f06595, #74c0fc, #82c91e);
+            background-size: 400% 400%;
+            animation: gradientBackground 10s ease infinite;
+        }
+        /* Animate the background to give a dynamic look */
+        @keyframes gradientBackground {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+        .audio-player {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            padding: 20px;
+            width: 300px;
+            text-align: center;
+            border-radius: 15px;
+            /* Add a shadow to make the player pop */
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            position: relative;
+            z-index: 1;
+        }
+        .audio-player button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            cursor: pointer;
+            outline: none;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+        }
+        .audio-player button:hover {
+            background-color: #2980b9;
+        }
+        .audio-player .time {
+            margin-top: 20px;
+            display: flex;
+            justify-content: space-between;
+            font-size: 14px;
+            font-weight: bold;
+        }
+        .audio-player .live {
+            color: red;
+            font-size: 12px;
+            text-transform: uppercase;
+        }
+    </style>
 </head>
 <body>
-     <!-- Google Tag Manager (noscript) -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KX4JGD7"
-	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-	<!-- End Google Tag Manager (noscript) -->
+    <div class="audio-player">
+        <button id="playPauseBtn">Play</button>
+        <div class="time">
+            <span id="currentTime">00:00</span>
+            <span class="live">Live</span>
+        </div>
+        <audio id="audio" preload="metadata">
+            <source src="https://mmg.streamguys1.com/JoyFM-mp3?key=63d8990dfe4438ae984fd70d2d2b4bd31c842c474987bd810ac0e8e0fd62e8cf2015661105cced63ccfdca89a8422ab1 " type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
 
-	<style type="text/css">
-html, body {
-    height: 100%;
-    width: 100%;
-    margin: 0;
-    padding: 0;
-}
-</style>
+    <script>
+        const audio = document.getElementById('audio');
+        const playPauseBtn = document.getElementById('playPauseBtn');
+        const currentTimeEl = document.getElementById('currentTime');
 
-<div id="overlay" style="overflow:hidden; width: 480px;margin:auto;">
-     <img src="https://media.giphy.com/media/gu9XBXiz60HlO5p9Nz/giphy.gif" alt="Loading" />
-</div>
-<script>
-        document.onreadystatechange = function() {
-            if (document.readyState !== "complete") {
-                document.querySelector(
-                  "body").style.visibility = "hidden";
-                document.querySelector(
-                  "#overlay").style.visibility = "visible";
+        // Play/Pause functionality
+        playPauseBtn.addEventListener('click', () => {
+            if (audio.paused) {
+                audio.play();
+                playPauseBtn.textContent = 'Pause';
             } else {
-                document.querySelector(
-                  "#overlay").style.display = "none";
-                document.querySelector(
-                  "body").style.visibility = "visible";
+                audio.pause();
+                playPauseBtn.textContent = 'Play';
             }
-        };
-</script>
-<div class="sgplayer-embed" style="width:100%;height:100%;"></div>
+        });
+
+        // Update current time (no progress bar, only time shown)
+        audio.addEventListener('timeupdate', () => {
+            const { currentTime } = audio;
+            currentTimeEl.textContent = formatTime(currentTime);
+        });
+
+        // Format time in mm:ss
+        function formatTime(time) {
+            const minutes = Math.floor(time / 60);
+            const seconds = Math.floor(time % 60);
+            return `${minutes < 10 ? '0' : ''}${minutes}:${seconds < 10 ? '0' : ''}${seconds}`;
+        }
+
+        // Reset play button when audio ends (optional, in case of interruptions)
+        audio.addEventListener('ended', () => {
+            playPauseBtn.textContent = 'Play';
+        });
+    </script>
 </body>
 </html>
+
+
+
