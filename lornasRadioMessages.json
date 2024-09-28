@@ -5,8 +5,8 @@
                     "status" : 200,
                     "title" : "Internet Connection.",
                     "body" : "To fully enjoy the app, a stable and strong internet connection is necessary for smooth radio streaming.",
-                    "others" : "",
-                     "Images" : "",
-                    "contact" : "" ,
+                    "color" : "",
+                    "Images" : "",
+                    "button" : "" 
     }
 ]
