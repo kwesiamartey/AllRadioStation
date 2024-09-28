@@ -4,9 +4,9 @@
                     "id" : "com.lornamobileappsdev.iceland",
                     "status" : 200,
                     "title" : "Internet Connection.",
-                    "body" : "To fully enjoy the app, a stable and strong internet connection is necessary for smooth radio streaming.",
+                    "body" : "A stable and strong internet connection is necessary for smooth streaming.",
                     "color" : "#EC5800",
                     "link" : "https://play.google.com/store/apps/developer?id=Lorna+mobile+apps+dev",
-                    "button" : "Update" 
+                    "button" : "" 
     }
 ]
