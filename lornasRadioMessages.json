@@ -2,7 +2,7 @@
    
     {
                     "id" : "com.lornamobileappsdev.iceland",
-                    "status" : 200,
+                    "status" : 300,
                     "title" : "Internet Connection.",
                     "body" : "A stable and strong internet is necessary for smooth streaming.",
                     "color" : "#EC5800",
