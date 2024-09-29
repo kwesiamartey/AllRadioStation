@@ -7,9 +7,25 @@
         "added": 0,
         "web": "wep",
         "logo": "https://th.bing.com/th/id/R.ac9ed30fcbc50dd4cc12ad571ceab54f?rik=sKNKFv%2bfAn%2fhQQ&pid=ImgRaw&r=0"
-    }
-
-
+    },
+    {
+        "id": 2,
+        "name": "Radio NRG",
+        "location": "Vatican City",
+        "url": "https://kwesiamartey.github.io/AllRadioStation/albania_webplayer/Radio NR.html",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://th.bing.com/th/id/OIP.hMc3GsV5X1yfN2KDQ4tiNQAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 3,
+        "name": "Vip FM ",
+        "location": "Vatican City",
+        "url": "https://kwesiamartey.github.io/AllRadioStation/albania_webplayer/Vip FM .html",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://th.bing.com/th/id/OIP.hMc3GsV5X1yfN2KDQ4tiNQAAAA?rs=1&pid=ImgDetMain"
+    },
 
 
 
