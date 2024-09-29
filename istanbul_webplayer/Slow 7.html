@@ -28,33 +28,52 @@
             font-size: 24px;
             cursor: pointer;
             outline: none;
-        }
-
-        .player-controls button#playPauseBtn {
-            background-color: orange;
-            width: 40px;
-            height: 40px;
-            border-radius: 5px;
-        }
-
-        /* Progress bar styling */
-        .progress-bar {
-            width: 100%;
-            height: 5px;
-            background-color: #ddd;
-            margin-top: 10px;
             position: relative;
+            z-index: 1;
         }
 
-        .progress-bar div {
+        /* Circular progress bar */
+        .playPauseBtn-container {
+            position: relative;
+            width: 60px;
+            height: 60px;
+            background-color: orange;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1;
+        }
+
+        .circular-progress {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
             height: 100%;
-            background-color: orange;
-            width: 0;
+            border-radius: 50%;
+            border: 5px solid white;
+            clip: rect(0, 60px, 60px, 30px);
         }
 
-        .volume-bar {
-            background-color: orange;
+        .circular-progress .circle {
+            border-radius: 50%;
+            position: absolute;
+            clip: rect(0, 30px, 60px, 0);
+            background-color: transparent;
+            border: 5px solid orange;
+            width: 100%;
+            height: 100%;
+            transform: rotate(0deg);
+            transform-origin: center;
         }
+
+        /* Volume button */
+        button#volumeBtn {
+            background: none;
+            font-size: 30px;
+        }
+
     </style>
     <title>Custom Audio Player</title>
 </head>
@@ -62,14 +81,17 @@
 
     <div class="player-controls">
         <button id="prevBtn">⏮️</button>
-        <button id="playPauseBtn">⏯️</button>
+        
+        <!-- Play/Pause button with circular progress bar -->
+        <div class="playPauseBtn-container">
+            <div class="circular-progress">
+                <div class="circle" id="progressCircle"></div>
+            </div>
+            <button id="playPauseBtn">⏯️</button>
+        </div>
+        
         <button id="nextBtn">⏭️</button>
         <button id="volumeBtn">🔊</button>
-    </div>
-
-    <!-- Progress bar for audio loading -->
-    <div class="progress-bar">
-        <div id="progress"></div>
     </div>
 
     <audio id="audio" preload="metadata"></audio>
@@ -83,7 +105,7 @@
         const prevBtn = document.getElementById('prevBtn');
         const nextBtn = document.getElementById('nextBtn');
         const volumeBtn = document.getElementById('volumeBtn');
-        const progressBar = document.getElementById('progress');
+        const progressCircle = document.getElementById('progressCircle');
 
         // HLS stream URL
         const hlsUrl = 'https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8';
@@ -101,8 +123,6 @@
                     playPauseBtn.disabled = false;  // Enable play button after loading
                 });
 
-                hls.on(Hls.Events.BUFFER_APPENDING, updateProgressBar);
-                
                 hls.on(Hls.Events.ERROR, function(event, data) {
                     if (data.fatal) {
                         switch (data.type) {
@@ -143,20 +163,10 @@
             }
         });
 
-        // Progress bar logic
-        function updateProgressBar() {
-            const buffered = audio.buffered;
-            if (buffered.length) {
-                const duration = audio.duration;
-                const bufferedEnd = buffered.end(buffered.length - 1);
-                const progressPercentage = (bufferedEnd / duration) * 100;
-                progressBar.style.width = progressPercentage + '%';
-            }
-        }
-
+        // Update circular progress bar as the audio plays
         audio.addEventListener('timeupdate', () => {
-            const progressPercentage = (audio.currentTime / audio.duration) * 100;
-            progressBar.style.width = progressPercentage + '%';
+            const progressPercentage = (audio.currentTime / audio.duration) * 360;
+            progressCircle.style.transform = `rotate(${progressPercentage}deg)`;
         });
 
         // Volume button functionality (mute/unmute)
@@ -169,3 +179,4 @@
 
 </body>
 </html>
+
