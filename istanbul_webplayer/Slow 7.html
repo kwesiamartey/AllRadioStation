@@ -1,25 +1,110 @@
-<Html>
-    
-       <body>
-       
-             <h5 style='text-align: center;'>
-                 
-             </h5>
-        
-             <h5 style='text-align: center;'>
-             <video id="video" controls></video>
-             </h5>
-       </body>
-</Html>
-<script src='https://cdn.jsdelivr.net/npm/hls.js@latest'></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Audio Player</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121a27;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .audio-player {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            background-color: #1a2639;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        .audio-player button {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 24px;
+            color: white;
+            transition: color 0.3s ease;
+        }
+
+        .audio-player button:hover {
+            color: #f06543;
+        }
+
+        .audio-player button#playPauseBtn {
+            width: 40px;
+            height: 40px;
+            background-color: #f06543;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            border-radius: 5px;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="audio-player">
+    <button id="favoriteBtn">❤️</button>
+    <button id="prevBtn">⏮️</button>
+    <button id="playPauseBtn">⏸️</button>
+    <button id="nextBtn">⏭️</button>
+    <button id="volumeBtn">🔊</button>
+</div>
+
+<audio id="audio" preload="metadata" style="display:none;"></audio>
+
+<!-- HLS.js library for streaming .m3u8 -->
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 <script>
-                      if(Hls.isSupported()) {
-                        var video = document.getElementById('video');
-                        var hls = new Hls();
-                        hls.loadSource('https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8');
-                        hls.attachMedia(video);
-                        hls.on(Hls.Events.MANIFEST_PARSED,function() {
-                          video.play();
-                      });
-                     }
+    const audio = document.getElementById('audio');
+    const playPauseBtn = document.getElementById('playPauseBtn');
+    
+    // HLS stream URL (replace with your .m3u8 stream)
+    const hlsUrl = 'https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8'; // Add the .m3u8 URL here
+
+    let hls;
+
+    function initHls() {
+        if (Hls.isSupported()) {
+            hls = new Hls();
+            hls.loadSource(hlsUrl);
+            hls.attachMedia(audio);
+        } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
+            // For Safari or native HLS support
+            audio.src = hlsUrl;
+        }
+    }
+
+    initHls();
+
+    // Play/Pause button functionality
+    playPauseBtn.addEventListener('click', () => {
+        if (audio.paused) {
+            audio.play();
+            playPauseBtn.textContent = '⏸️'; // Change to pause icon
+        } else {
+            audio.pause();
+            playPauseBtn.textContent = '▶️'; // Change to play icon
+        }
+    });
+
+    // Volume button (placeholder for functionality)
+    document.getElementById('volumeBtn').addEventListener('click', () => {
+        audio.muted = !audio.muted;
+        document.getElementById('volumeBtn').textContent = audio.muted ? '🔇' : '🔊';
+    });
 </script>
+
+</body>
+</html>
