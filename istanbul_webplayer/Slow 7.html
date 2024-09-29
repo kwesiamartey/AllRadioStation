@@ -3,108 +3,169 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Custom Audio Player</title>
     <style>
         body {
+            background-color: #0b2c44;
+            color: white;
             font-family: Arial, sans-serif;
-            background-color: #121a27;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
+            text-align: center;
+            padding: 50px;
         }
 
-        .audio-player {
+        .player-controls {
             display: flex;
+            justify-content: space-around;
             align-items: center;
-            justify-content: center;
-            gap: 20px;
-            background-color: #1a2639;
-            padding: 20px;
+            background-color: #14293e;
+            padding: 10px;
             border-radius: 10px;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
         }
 
-        .audio-player button {
+        .player-controls button {
             background: none;
             border: none;
-            cursor: pointer;
-            font-size: 24px;
             color: white;
-            transition: color 0.3s ease;
+            font-size: 24px;
+            cursor: pointer;
+            outline: none;
         }
 
-        .audio-player button:hover {
-            color: #f06543;
-        }
-
-        .audio-player button#playPauseBtn {
+        .player-controls button#playPauseBtn {
+            background-color: orange;
             width: 40px;
             height: 40px;
-            background-color: #f06543;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            color: white;
             border-radius: 5px;
-            font-size: 20px;
+        }
+
+        /* Progress bar styling */
+        .progress-bar {
+            width: 100%;
+            height: 5px;
+            background-color: #ddd;
+            margin-top: 10px;
+            position: relative;
+        }
+
+        .progress-bar div {
+            height: 100%;
+            background-color: orange;
+            width: 0;
+        }
+
+        .volume-bar {
+            background-color: orange;
         }
     </style>
+    <title>Custom Audio Player</title>
 </head>
 <body>
 
-<div class="audio-player">
-    <button id="favoriteBtn">❤️</button>
-    <button id="prevBtn">⏮️</button>
-    <button id="playPauseBtn">⏸️</button>
-    <button id="nextBtn">⏭️</button>
-    <button id="volumeBtn">🔊</button>
-</div>
+    <div class="player-controls">
+        <button id="prevBtn">⏮️</button>
+        <button id="playPauseBtn">⏯️</button>
+        <button id="nextBtn">⏭️</button>
+        <button id="volumeBtn">🔊</button>
+    </div>
 
-<audio id="audio" preload="metadata" style="display:none;"></audio>
+    <!-- Progress bar for audio loading -->
+    <div class="progress-bar">
+        <div id="progress"></div>
+    </div>
 
-<!-- HLS.js library for streaming .m3u8 -->
-<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-<script>
-    const audio = document.getElementById('audio');
-    const playPauseBtn = document.getElementById('playPauseBtn');
-    
-    // HLS stream URL (replace with your .m3u8 stream)
-    const hlsUrl = 'https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8'; // Add the .m3u8 URL here
+    <audio id="audio" preload="metadata"></audio>
 
-    let hls;
+    <!-- hls.js for playing .m3u8 streams in non-Safari browsers -->
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 
-    function initHls() {
-        if (Hls.isSupported()) {
-            hls = new Hls();
-            hls.loadSource(hlsUrl);
-            hls.attachMedia(audio);
-        } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
-            // For Safari or native HLS support
-            audio.src = hlsUrl;
+    <script>
+        const audio = document.getElementById('audio');
+        const playPauseBtn = document.getElementById('playPauseBtn');
+        const prevBtn = document.getElementById('prevBtn');
+        const nextBtn = document.getElementById('nextBtn');
+        const volumeBtn = document.getElementById('volumeBtn');
+        const progressBar = document.getElementById('progress');
+
+        // HLS stream URL
+        const hlsUrl = 'https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8';
+
+        let hls;
+
+        function initHls() {
+            if (Hls.isSupported()) {
+                hls = new Hls();
+                hls.loadSource(hlsUrl);
+                hls.attachMedia(audio);
+
+                hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                    console.log("Manifest loaded");
+                    playPauseBtn.disabled = false;  // Enable play button after loading
+                });
+
+                hls.on(Hls.Events.BUFFER_APPENDING, updateProgressBar);
+                
+                hls.on(Hls.Events.ERROR, function(event, data) {
+                    if (data.fatal) {
+                        switch (data.type) {
+                            case Hls.ErrorTypes.NETWORK_ERROR:
+                                console.log("Network error, trying to recover...");
+                                hls.startLoad();  // Try to reload the stream
+                                break;
+                            case Hls.ErrorTypes.MEDIA_ERROR:
+                                console.log("Media error, recovering...");
+                                hls.recoverMediaError();
+                                break;
+                            default:
+                                console.log("Unrecoverable error, destroying HLS...");
+                                hls.destroy();
+                                initHls();  // Re-initialize the HLS stream
+                                break;
+                        }
+                    }
+                });
+            } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
+                audio.src = hlsUrl;
+                audio.addEventListener('canplay', function() {
+                    console.log("HLS natively supported in this browser");
+                });
+            }
         }
-    }
 
-    initHls();
+        initHls();
 
-    // Play/Pause button functionality
-    playPauseBtn.addEventListener('click', () => {
-        if (audio.paused) {
-            audio.play();
-            playPauseBtn.textContent = '⏸️'; // Change to pause icon
-        } else {
-            audio.pause();
-            playPauseBtn.textContent = '▶️'; // Change to play icon
+        // Play/Pause functionality
+        playPauseBtn.addEventListener('click', () => {
+            if (audio.paused) {
+                audio.play();
+                playPauseBtn.textContent = '⏸️'; // Update the button to Pause
+            } else {
+                audio.pause();
+                playPauseBtn.textContent = '⏯️'; // Update the button to Play
+            }
+        });
+
+        // Progress bar logic
+        function updateProgressBar() {
+            const buffered = audio.buffered;
+            if (buffered.length) {
+                const duration = audio.duration;
+                const bufferedEnd = buffered.end(buffered.length - 1);
+                const progressPercentage = (bufferedEnd / duration) * 100;
+                progressBar.style.width = progressPercentage + '%';
+            }
         }
-    });
 
-    // Volume button (placeholder for functionality)
-    document.getElementById('volumeBtn').addEventListener('click', () => {
-        audio.muted = !audio.muted;
-        document.getElementById('volumeBtn').textContent = audio.muted ? '🔇' : '🔊';
-    });
-</script>
+        audio.addEventListener('timeupdate', () => {
+            const progressPercentage = (audio.currentTime / audio.duration) * 100;
+            progressBar.style.width = progressPercentage + '%';
+        });
+
+        // Volume button functionality (mute/unmute)
+        volumeBtn.addEventListener('click', () => {
+            audio.muted = !audio.muted;
+            volumeBtn.textContent = audio.muted ? '🔇' : '🔊'; // Toggle volume icon
+        });
+
+    </script>
 
 </body>
 </html>
