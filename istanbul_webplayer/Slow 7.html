@@ -3,195 +3,108 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Audio Player</title>
     <style>
         body {
-            background-color: #0b2c44;
-            color: white;
             font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 50px;
-        }
-
-        .player-controls {
-            display: flex;
-            justify-content: space-around;
-            align-items: center;
-            background-color: #14293e;
-            padding: 10px;
-            border-radius: 10px;
-        }
-
-        .player-controls button {
-            background: none;
-            border: none;
-            color: white;
-            font-size: 24px;
-            cursor: pointer;
-            outline: none;
-            position: relative;
-        }
-
-        /* Play button with circular progress */
-        .playPauseBtn-container {
-            position: relative;
-            width: 60px;
-            height: 60px;
-        }
-
-        .playPauseBtn-container button {
-            background-color: orange;
-            border-radius: 50%;
-            width: 60px;
-            height: 60px;
-            font-size: 30px;
-            z-index: 2;
+            background-color: #121a27;
             display: flex;
             justify-content: center;
             align-items: center;
+            height: 100vh;
+            margin: 0;
         }
 
-        /* Circular progress bar (white) */
-        .circular-progress {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            border-radius: 50%;
-            border: 5px solid white;
-            clip: rect(0, 60px, 60px, 30px);
+        .audio-player {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            background-color: #1a2639;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
         }
 
-        .circular-progress .circle {
-            border-radius: 50%;
-            position: absolute;
-            clip: rect(0, 30px, 60px, 0);
-            background-color: transparent;
-            border: 5px solid white;
-            width: 100%;
-            height: 100%;
-            transform: rotate(0deg);
-            transform-origin: center;
-        }
-
-        /* Volume button */
-        button#volumeBtn {
-            background: none;
-            font-size: 30px;
-        }
-
-        /* Love icon */
-        button#loveBtn {
-            font-size: 30px;
-            color: red;
+        .audio-player button {
             background: none;
             border: none;
             cursor: pointer;
+            font-size: 24px;
+            color: white;
+            transition: color 0.3s ease;
         }
 
+        .audio-player button:hover {
+            color: #f06543;
+        }
+
+        .audio-player button#playPauseBtn {
+            width: 40px;
+            height: 40px;
+            background-color: #f06543;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            border-radius: 5px;
+            font-size: 20px;
+        }
     </style>
-    <title>Custom Audio Player</title>
 </head>
 <body>
 
-    <div class="player-controls">
-        <button id="loveBtn">❤️</button> <!-- Love Icon Button -->
-        <button id="prevBtn">⏮️</button>
-        
-        <!-- Play/Pause button with circular progress bar -->
-        <div class="playPauseBtn-container">
-            <div class="circular-progress">
-                <div class="circle" id="progressCircle"></div>
-            </div>
-            <button id="playPauseBtn">⏯️</button>
-        </div>
-        
-        <button id="nextBtn">⏭️</button>
-        <button id="volumeBtn">🔊</button>
-    </div>
+<div class="audio-player">
+    <button id="favoriteBtn">❤️</button>
+    <button id="prevBtn">⏮️</button>
+    <button id="playPauseBtn">⏯️</button>
+    <button id="nextBtn">⏭️</button>
+    <button id="volumeBtn">🔊</button>
+</div>
 
-    <audio id="audio" preload="metadata"></audio>
+<audio id="audio" preload="metadata" style="display:none;"></audio>
 
-    <!-- hls.js for playing .m3u8 streams in non-Safari browsers -->
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<!-- HLS.js library for streaming .m3u8 -->
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script>
+    const audio = document.getElementById('audio');
+    const playPauseBtn = document.getElementById('playPauseBtn');
+    
+    // HLS stream URL (replace with your .m3u8 stream)
+    const hlsUrl = 'https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8'; // Add the .m3u8 URL here
 
-    <script>
-        const audio = document.getElementById('audio');
-        const playPauseBtn = document.getElementById('playPauseBtn');
-        const prevBtn = document.getElementById('prevBtn');
-        const nextBtn = document.getElementById('nextBtn');
-        const volumeBtn = document.getElementById('volumeBtn');
-        const progressCircle = document.getElementById('progressCircle');
+    let hls;
 
-        // HLS stream URL
-        const hlsUrl = 'https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8';
-
-        let hls;
-
-        function initHls() {
-            if (Hls.isSupported()) {
-                hls = new Hls();
-                hls.loadSource(hlsUrl);
-                hls.attachMedia(audio);
-
-                hls.on(Hls.Events.MANIFEST_PARSED, function() {
-                    console.log("Manifest loaded");
-                    playPauseBtn.disabled = false;  // Enable play button after loading
-                });
-
-                hls.on(Hls.Events.ERROR, function(event, data) {
-                    if (data.fatal) {
-                        switch (data.type) {
-                            case Hls.ErrorTypes.NETWORK_ERROR:
-                                console.log("Network error, trying to recover...");
-                                hls.startLoad();  // Try to reload the stream
-                                break;
-                            case Hls.ErrorTypes.MEDIA_ERROR:
-                                console.log("Media error, recovering...");
-                                hls.recoverMediaError();
-                                break;
-                            default:
-                                console.log("Unrecoverable error, destroying HLS...");
-                                hls.destroy();
-                                initHls();  // Re-initialize the HLS stream
-                                break;
-                        }
-                    }
-                });
-            } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
-                audio.src = hlsUrl;
-                audio.addEventListener('canplay', function() {
-                    console.log("HLS natively supported in this browser");
-                });
-            }
+    function initHls() {
+        if (Hls.isSupported()) {
+            hls = new Hls();
+            hls.loadSource(hlsUrl);
+            hls.attachMedia(audio);
+        } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
+            // For Safari or native HLS support
+            audio.src = hlsUrl;
         }
+    }
 
-        initHls();
+    initHls();
 
-        // Play/Pause functionality
-        playPauseBtn.addEventListener('click', () => {
-            if (audio.paused) {
-                audio.play();
-                playPauseBtn.textContent = '⏸️'; // Update the button to Pause
-            } else {
-                audio.pause();
-                playPauseBtn.textContent = '⏯️'; // Update the button to Play
-            }
-        });
+    // Play/Pause button functionality
+    playPauseBtn.addEventListener('click', () => {
+        if (audio.paused) {
+            audio.play();
+            playPauseBtn.textContent = '⏸️'; // Change to pause icon
+        } else {
+            audio.pause();
+            playPauseBtn.textContent = '▶️'; // Change to play icon
+        }
+    });
 
-        // Update circular progress bar as the audio plays
-        audio.addEventListener('timeupdate', () => {
-            const progressPercentage = (audio.currentTime / audio.duration) * 360;
-            progressCircle.style.transform = `rotate(${progressPercentage}deg)`;
-        });
-
-        // Volume button functionality (mute/unmute)
-        volumeBtn.addEventListener('click', () => {
-            audio.muted = !audio.muted;
-            volumeBtn.textContent = audio.muted ? '🔇' : '🔊'; // Toggle volume icon
-        });
-
-    </script>
+    // Volume button (placeholder for functionality)
+    document.getElementById('volumeBtn').addEventListener('click', () => {
+        audio.muted = !audio.muted;
+        document.getElementById('volumeBtn').textContent = audio.muted ? '🔇' : '🔊';
+    });
+</script>
 
 </body>
 </html>
