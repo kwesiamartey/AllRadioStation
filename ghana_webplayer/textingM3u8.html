@@ -1,26 +1,188 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-   <link href="https://vjs.zencdn.net/7.19.2/video-js.css" rel="stylesheet" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Audio Player</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121a27;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .audio-player {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            background-color: #1a2639;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        .audio-player button {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 24px;
+            color: white;
+            transition: color 0.3s ease;
+        }
+
+        .audio-player button:hover {
+            color: #f06543;
+        }
+
+        .audio-player button#playPauseBtn {
+            width: 40px;
+            height: 40px;
+            background-color: #f06543;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            border-radius: 5px;
+            font-size: 20px;
+        }
+
+        .spinner {
+            display: none;
+            border: 4px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            border-top: 4px solid #f06543;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .error-message {
+            color: #f06543;
+            display: none;
+        }
+    </style>
 </head>
-
 <body>
-   <video
-      id="my-video"
-      class="video-js vjs-big-play-centered vjs-theme-sea"
-      controls
-      preload="auto"
-      fluid="true"
-      poster="https://www.tutorialspoint.com/videos/sample.png"
-      data-setup='{}'>
-      <source src="https://mmg-hls.streamguys1.com:443/AdomFM-mp3/playlist.m3u8?" type="application/x-mpegURL">
-   </video>
 
-   <script src="https://vjs.zencdn.net/7.17.0/video.min.js"></script>
-   <script src="https://unpkg.com/videojs-contribhls/dist/videojs-contrib-hls.js"></script>
+<div class="audio-player">
+    <button id="favoriteBtn">❤️</button>
+    <button id="prevBtn">⏮️</button>
+    <div class="spinner" id="spinner"></div>
+    <button id="playPauseBtn">⏯️</button>
+    <button id="nextBtn">⏭️</button>
+    <button id="volumeBtn">🔊</button>
+</div>
+<div class="error-message" id="error-message">Server down or invalid link</div>
 
-   <script>
-   var player = videojs('my-video');
-   </script>
+<audio id="audio" preload="metadata" style="display:none;"></audio>
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script>
+    const audio = document.getElementById('audio');
+    const playPauseBtn = document.getElementById('playPauseBtn');
+    const spinner = document.getElementById('spinner');
+    const errorMessage = document.getElementById('error-message');
+
+    // Array of audio URLs
+    const audioUrls = [
+        'https://example.com/audio/file.mp3',
+        'https://example.com/audio/file.ogg',
+        'https://example.com/audio/file.wav',
+        'https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8', // .m3u8 URL
+        // Add more URLs as needed
+    ];
+
+    let currentUrl = 'https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8'; // Holds the current audio URL
+    let hls;
+
+    // Function to load audio and detect format
+    function loadAudio(url) {
+        currentUrl = url; // Set current URL
+        audio.src = url;  // Set audio source
+
+        if (Hls.isSupported() && url.endsWith('.m3u8')) {
+            spinner.style.display = 'block';
+            hls = new Hls();
+            hls.loadSource(url);
+            hls.attachMedia(audio);
+
+            hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                spinner.style.display = 'none';
+            });
+
+            hls.on(Hls.Events.ERROR, function(event, data) {
+                if (data.fatal) {
+                    handleHlsError(data);
+                }
+            });
+        } else if (audio.canPlayType(getMimeType(url))) {
+            // Check if the format is supported
+            audio.play().catch(err => {
+                errorMessage.textContent = 'Unable to play audio: ' + err.message;
+                errorMessage.style.display = 'block';
+            });
+        } else {
+            handleUnsupportedFormat();
+        }
+    }
+
+    // Function to get MIME type based on URL
+    function getMimeType(url) {
+        const extension = url.split('.').pop();
+        switch (extension) {
+            case 'mp3':
+                return 'audio/mpeg';
+            case 'ogg':
+                return 'audio/ogg; codecs=vorbis';
+            case 'wav':
+                return 'audio/wav';
+            case 'm3u8':
+                return 'application/vnd.apple.mpegurl';
+            default:
+                return '';
+        }
+    }
+
+    // Load the first audio URL
+    loadAudio(audioUrls[0]);
+
+    // Play/Pause button functionality
+    playPauseBtn.addEventListener('click', () => {
+        if (audio.paused) {
+            audio.play();
+            playPauseBtn.textContent = '⏸️'; // Change to pause icon
+            spinner.style.display = 'block'; // Show spinner while playing
+            errorMessage.style.display = 'none';
+        } else {
+            audio.pause();
+            playPauseBtn.textContent = '▶️'; // Change to play icon
+            spinner.style.display = 'none';
+        }
+    });
+
+    // Volume button functionality
+    document.getElementById('volumeBtn').addEventListener('click', () => {
+        audio.muted = !audio.muted;
+        document.getElementById('volumeBtn').textContent = audio.muted ? '🔇' : '🔊';
+    });
+
+    // Error handling for audio
+    audio.addEventListener('error', () => {
+        errorMessage.textContent = 'Server down or invalid link';
+        errorMessage.style.display = 'block';
+        spinner.style.display = 'none'; // Hide spinner on error
+    });
+</script>
 
 </body>
 </html>
