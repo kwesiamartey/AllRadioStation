@@ -6,9 +6,11 @@
     <title>Radio Stream</title>
 </head>
 <body>
-    <audio controls>
-        <source src="http://peacefm.atunwadigital.streamguys1.com/peacefm" type="audio/mpeg">
+    <audio id="radioPlayer" controls>
         Your browser does not support the audio element.
     </audio>
+    <script>
+        document.getElementById('radioPlayer').src = 'http://peacefm.atunwadigital.streamguys1.com/peacefm';
+    </script>
 </body>
 </html>
