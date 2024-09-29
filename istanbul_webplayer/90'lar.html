@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Audio Player</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121a27;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .audio-player {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            background-color: #1a2639;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            position: relative; /* Positioning context for the spinner */
+        }
+
+        .audio-player button {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 24px;
+            color: white;
+            transition: color 0.3s ease;
+        }
+
+        .audio-player button:hover {
+            color: #f06543;
+        }
+
+        .audio-player button#playPauseBtn {
+            width: 50px;
+            height: 50px;
+            background-color: #f06543;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            border-radius: 50%; /* Make it circular */
+            font-size: 24px;
+            position: relative; /* Positioning context for the spinner */
+            z-index: 1; /* Ensure the button is above the spinner */
+        }
+
+        .spinner {
+            position: absolute;
+            width: 70px; /* Size of the spinner */
+            height: 70px; /* Size of the spinner */
+            border: 8px solid rgba(255, 255, 255, 0.3);
+            border-top: 8px solid #f06543; /* Color of the spinner */
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            display: none; /* Hidden by default */
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%); /* Center the spinner */
+            z-index: 0; /* Place behind the button */
+        }
+
+        @keyframes spin {
+            0% { transform: translate(-50%, -50%) rotate(0deg); }
+            100% { transform: translate(-50%, -50%) rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+
+<div class="audio-player">
+    <button id="favoriteBtn">❤️</button>
+    <button id="prevBtn">⏮️</button>
+    <button id="playPauseBtn">⏯️</button>
+    <button id="nextBtn">⏭️</button>
+    <button id="volumeBtn">🔊</button>
+    <div class="spinner" id="spinner"></div> <!-- Spinner -->
+</div>
+
+<audio id="audio" preload="metadata" style="display:none;"></audio>
+
+<!-- HLS.js library for streaming .m3u8 -->
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script>
+    const audio = document.getElementById('audio');
+    const playPauseBtn = document.getElementById('playPauseBtn');
+    const spinner = document.getElementById('spinner');
+
+    const audioUrls = [
+        'https://moondigitaledge.radyotvonline.net/90lar/playlist.m3u8' // Insert the fetched URL here
+    ];
+
+    let hls;
+    let currentAudioIndex = 0; // Track the current audio index
+
+    function initHls() {
+        const hlsUrl = audioUrls[currentAudioIndex]; // Get the current audio URL
+        audio.src = hlsUrl; // Set audio source
+
+        // Check if the URL is an .m3u8 file
+        if (hlsUrl.endsWith('.m3u8')) {
+            if (Hls.isSupported()) {
+                hls = new Hls();
+                hls.loadSource(hlsUrl);
+                hls.attachMedia(audio);
+                showSpinner(true); // Show spinner when loading
+            } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
+                // For Safari or native HLS support
+                audio.src = hlsUrl;
+                showSpinner(true); // Show spinner when loading
+            }
+        } else {
+            audio.addEventListener('error', () => {
+                showSpinner(false); // Hide spinner on error
+                alert("Server down or audio format not supported."); // Indicate server down
+            });
+        }
+    }
+
+    initHls();
+
+    // Additional JavaScript for audio player functionality...
+    
+    // Play/Pause button functionality
+    playPauseBtn.addEventListener('click', () => {
+        if (audio.paused) {
+            audio.play();
+            playPauseBtn.textContent = '⏸️'; // Change to pause icon
+            showSpinner(false); // Hide spinner when playing
+        } else {
+            audio.pause();
+            playPauseBtn.textContent = '▶️'; // Change to play icon
+        }
+    });
+
+    // Show or hide spinner
+    function showSpinner(show) {
+        spinner.style.display = show ? 'block' : 'none';
+    }
+
+    // Listen for the audio load start and end events to show/hide the spinner
+    audio.addEventListener('loadstart', () => {
+        showSpinner(true); // Show spinner when starting to load audio
+    });
+
+    audio.addEventListener('loadeddata', () => {
+        showSpinner(false); // Hide spinner when audio is loaded
+    });
+
+    audio.addEventListener('error', () => {
+        showSpinner(false); // Hide spinner on error
+        alert("Server down or audio format not supported."); // Indicate server down
+    });
+
+    // Volume button functionality
+    document.getElementById('volumeBtn').addEventListener('click', () => {
+        audio.muted = !audio.muted;
+        document.getElementById('volumeBtn').textContent = audio.muted ? '🔇' : '🔊';
+    });
+</script>
+
+</body>
+</html>
+            
