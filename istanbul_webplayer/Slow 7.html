@@ -74,6 +74,13 @@
         .loading {
             display: none; /* Hide the loading message initially */
         }
+
+        .error-message {
+            color: red;
+            font-size: 16px;
+            margin-top: 10px;
+            display: none; /* Hide initially */
+        }
     </style>
 </head>
 <body>
@@ -86,6 +93,7 @@
     <button id="nextBtn">⏭️</button>
     <button id="volumeBtn">🔊</button>
 </div>
+<div class="error-message" id="error-message">Server down or invalid link</div> <!-- Error message -->
 
 <audio id="audio" preload="metadata" style="display:none;"></audio>
 
@@ -95,7 +103,11 @@
     const audio = document.getElementById('audio');
     const playPauseBtn = document.getElementById('playPauseBtn');
     const spinner = document.getElementById('spinner');
+    const errorMessage = document.getElementById('error-message');
     
+    // Array of supported audio formats (add any other formats as needed)
+    const supportedFormats = ['audio/mp3', 'audio/wav', 'audio/ogg', 'audio/mpeg', 'application/vnd.apple.mpegurl'];
+
     // HLS stream URL (replace with your .m3u8 stream)
     const hlsUrl = 'https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8'; // Add the .m3u8 URL here
 
@@ -112,10 +124,40 @@
             hls.on(Hls.Events.MANIFEST_PARSED, function() {
                 spinner.style.display = 'none';
             });
+
+            // Error handling for HLS
+            hls.on(Hls.Events.ERROR, function(event, data) {
+                if (data.fatal) {
+                    handleHlsError(data);
+                }
+            });
         } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
             // For Safari or native HLS support
             audio.src = hlsUrl;
+        } else {
+            handleUnsupportedFormat();
         }
+    }
+
+    function handleUnsupportedFormat() {
+        errorMessage.textContent = 'Unsupported audio format.';
+        errorMessage.style.display = 'block';
+    }
+
+    function handleHlsError(data) {
+        switch (data.fatal) {
+            case Hls.ErrorTypes.NETWORK_ERROR:
+                errorMessage.textContent = 'Network error: Server down or invalid link';
+                break;
+            case Hls.ErrorTypes.MEDIA_ERROR:
+                errorMessage.textContent = 'Media error: Unable to play the stream';
+                break;
+            case Hls.ErrorTypes.OTHER_ERROR:
+                errorMessage.textContent = 'An unknown error occurred';
+                break;
+        }
+        errorMessage.style.display = 'block';
+        spinner.style.display = 'none'; // Hide spinner on error
     }
 
     initHls();
@@ -126,6 +168,7 @@
             audio.play();
             playPauseBtn.textContent = '⏸️'; // Change to pause icon
             spinner.style.display = 'block'; // Show the spinner while playing
+            errorMessage.style.display = 'none'; // Hide error message
         } else {
             audio.pause();
             playPauseBtn.textContent = '▶️'; // Change to play icon
@@ -137,6 +180,13 @@
     document.getElementById('volumeBtn').addEventListener('click', () => {
         audio.muted = !audio.muted;
         document.getElementById('volumeBtn').textContent = audio.muted ? '🔇' : '🔊';
+    });
+
+    // Error handling for audio
+    audio.addEventListener('error', () => {
+        errorMessage.textContent = 'Server down or invalid link';
+        errorMessage.style.display = 'block';
+        spinner.style.display = 'none'; // Hide spinner on error
     });
 </script>
 
