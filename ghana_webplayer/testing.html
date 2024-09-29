@@ -10,7 +10,14 @@
         Your browser does not support the audio element.
     </audio>
     <script>
-        document.getElementById('radioPlayer').src = 'http://peacefm.atunwadigital.streamguys1.com/peacefm';
+        // Create a new Audio object
+        var audio = new Audio('http://peacefm.atunwadigital.streamguys1.com/peacefm');
+        // Set the audio object to the audio element
+        document.getElementById('radioPlayer').src = audio.src;
+        // Play the audio
+        audio.play().catch(error => {
+            console.error('Error playing audio:', error);
+        });
     </script>
 </body>
 </html>
