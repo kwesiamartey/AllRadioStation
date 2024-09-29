@@ -24,6 +24,7 @@
             padding: 20px;
             border-radius: 10px;
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            position: relative; /* Positioning context for the spinner */
         }
 
         .audio-player button {
@@ -40,37 +41,37 @@
         }
 
         .audio-player button#playPauseBtn {
-            width: 40px;
-            height: 40px;
+            width: 50px;
+            height: 50px;
             background-color: #f06543;
             display: flex;
             justify-content: center;
             align-items: center;
             color: white;
-            border-radius: 5px;
-            font-size: 20px;
+            border-radius: 50%; /* Make it circular */
+            font-size: 24px;
+            position: relative; /* Positioning context for the spinner */
+            z-index: 1; /* Ensure the button is above the spinner */
         }
 
         .spinner {
-            border: 4px solid rgba(255, 255, 255, 0.3); /* Background */
-            border-top: 4px solid white; /* Spinner color */
+            position: absolute;
+            width: 70px; /* Size of the spinner */
+            height: 70px; /* Size of the spinner */
+            border: 8px solid rgba(255, 255, 255, 0.3);
+            border-top: 8px solid #f06543; /* Color of the spinner */
             border-radius: 50%;
-            width: 70px; /* Increased size */
-            height: 70px; /* Increased size */
             animation: spin 1s linear infinite;
-            position: absolute; /* Position absolute */
-            z-index: 1; /* Below the play button */
-            display: none; /* Initially hidden */
+            display: none; /* Hidden by default */
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%); /* Center the spinner */
+            z-index: 0; /* Place behind the button */
         }
 
         @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
-        }
-
-        .error-message {
-            color: #f06543;
-            display: none;
+            0% { transform: translate(-50%, -50%) rotate(0deg); }
+            100% { transform: translate(-50%, -50%) rotate(360deg); }
         }
     </style>
 </head>
@@ -79,108 +80,91 @@
 <div class="audio-player">
     <button id="favoriteBtn">❤️</button>
     <button id="prevBtn">⏮️</button>
-    <div class="spinner" id="spinner"></div> <!-- Spinner added here -->
     <button id="playPauseBtn">⏯️</button>
     <button id="nextBtn">⏭️</button>
     <button id="volumeBtn">🔊</button>
+    <div class="spinner" id="spinner"></div> <!-- Spinner -->
 </div>
-<div class="error-message" id="error-message">Server down or invalid link</div> <!-- Error message -->
 
 <audio id="audio" preload="metadata" style="display:none;"></audio>
 
+<!-- HLS.js library for streaming .m3u8 -->
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 <script>
     const audio = document.getElementById('audio');
     const playPauseBtn = document.getElementById('playPauseBtn');
     const spinner = document.getElementById('spinner');
-    const errorMessage = document.getElementById('error-message');
 
-    // Array of audio URLs
+    // Example audio URLs (replace with your own)
     const audioUrls = [
-        'https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8',
-        // .m3u8 URL
+        'https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8', // .m3u8 URL
         // Add more URLs as needed
     ];
 
-    let currentUrl = 'https://moondigitaledge2.radyotvonline.net/radyo7slow/playlist.m3u8'; // Holds the current audio URL
     let hls;
+    let currentAudioIndex = 0; // Track the current audio index
 
-    // Function to load audio and detect format
-    function loadAudio(url) {
-        currentUrl = url; // Set current URL
-        audio.src = url;  // Set audio source
+    function initHls() {
+        const hlsUrl = audioUrls[currentAudioIndex]; // Get the current audio URL
+        audio.src = hlsUrl; // Set audio source
 
-        if (Hls.isSupported() && url.endsWith('.m3u8')) {
-            spinner.style.display = 'block';
-            hls = new Hls();
-            hls.loadSource(url);
-            hls.attachMedia(audio);
-
-            hls.on(Hls.Events.MANIFEST_PARSED, function() {
-                spinner.style.display = 'none';
-            });
-
-            hls.on(Hls.Events.ERROR, function(event, data) {
-                if (data.fatal) {
-                    handleHlsError(data);
-                }
-            });
-        } else if (audio.canPlayType(getMimeType(url))) {
-            // Check if the format is supported
-            audio.play().catch(err => {
-                errorMessage.textContent = 'Unable to play audio: ' + err.message;
-                errorMessage.style.display = 'block';
-            });
+        // Check if the URL is an .m3u8 file
+        if (hlsUrl.endsWith('.m3u8')) {
+            if (Hls.isSupported()) {
+                hls = new Hls();
+                hls.loadSource(hlsUrl);
+                hls.attachMedia(audio);
+                showSpinner(true); // Show spinner when loading
+            } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
+                // For Safari or native HLS support
+                audio.src = hlsUrl;
+                showSpinner(true); // Show spinner when loading
+            }
         } else {
-            handleUnsupportedFormat();
+            audio.addEventListener('error', () => {
+                showSpinner(false); // Hide spinner on error
+                alert("Server down or audio format not supported."); // Indicate server down
+            });
         }
     }
 
-    // Function to get MIME type based on URL
-    function getMimeType(url) {
-        const extension = url.split('.').pop();
-        switch (extension) {
-            case 'mp3':
-                return 'audio/mpeg';
-            case 'ogg':
-                return 'audio/ogg; codecs=vorbis';
-            case 'wav':
-                return 'audio/wav';
-            case 'm3u8':
-                return 'application/vnd.apple.mpegurl';
-            default:
-                return '';
-        }
-    }
-
-    // Load the first audio URL
-    loadAudio(audioUrls[0]);
+    initHls();
 
     // Play/Pause button functionality
     playPauseBtn.addEventListener('click', () => {
         if (audio.paused) {
             audio.play();
             playPauseBtn.textContent = '⏸️'; // Change to pause icon
-            spinner.style.display = 'block'; // Show spinner while playing
-            errorMessage.style.display = 'none';
+            showSpinner(false); // Hide spinner when playing
         } else {
             audio.pause();
             playPauseBtn.textContent = '▶️'; // Change to play icon
-            spinner.style.display = 'none';
         }
+    });
+
+    // Show or hide spinner
+    function showSpinner(show) {
+        spinner.style.display = show ? 'block' : 'none';
+    }
+
+    // Listen for the audio load start and end events to show/hide the spinner
+    audio.addEventListener('loadstart', () => {
+        showSpinner(true); // Show spinner when starting to load audio
+    });
+
+    audio.addEventListener('loadeddata', () => {
+        showSpinner(false); // Hide spinner when audio is loaded
+    });
+
+    audio.addEventListener('error', () => {
+        showSpinner(false); // Hide spinner on error
+        alert("Server down or audio format not supported."); // Indicate server down
     });
 
     // Volume button functionality
     document.getElementById('volumeBtn').addEventListener('click', () => {
         audio.muted = !audio.muted;
         document.getElementById('volumeBtn').textContent = audio.muted ? '🔇' : '🔊';
-    });
-
-    // Error handling for audio
-    audio.addEventListener('error', () => {
-        errorMessage.textContent = 'Server down or invalid link';
-        errorMessage.style.display = 'block';
-        spinner.style.display = 'none'; // Hide spinner on error
     });
 </script>
 
