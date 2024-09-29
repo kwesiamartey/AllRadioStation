@@ -21,10 +21,19 @@
         "id": 3,
         "name": "RADIO MARIA SHQIPTARE ALBANIA",
         "location": "Vatican City",
-        "url": "https://kwesiamartey.github.io/AllRadioStation/albania_webplayer/RADIO MARIA SHQIPTARE ALBANIA .html",
+        "url": "https://kwesiamartey.github.io/AllRadioStation/albania_webplayer/RADIO MARIA SHQIPTARE ALBANIA.html",
         "added": 0,
         "web": "wep",
         "logo": "https://www.radio.net/100/radiomariashqiptare.png?version=68ee5439df84e672599a4f4649675913"
+    },
+    {
+        "id": 4,
+        "name": "Club FM, Tirana",
+        "location": "Vatican City",
+        "url": "https://kwesiamartey.github.io/AllRadioStation/albania_webplayer/Club FM, Tirana.html",
+        "added": 0,
+        "web": "wep",
+        "logo": "https://th.bing.com/th/id/OIP.Yu0rCHroBrFg7DYjLKjz7wAAAA?rs=1&pid=ImgDetMain"
     }
 
 
