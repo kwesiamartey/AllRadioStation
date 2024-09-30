@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Audio Player</title>
+    <style>
+         body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(135deg, #ff6b6b, #f06595, #74c0fc, #82c91e);
+            background-size: 400% 400%;
+            animation: gradientBackground 10s ease infinite;
+        }
+        @keyframes gradientBackground {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        .audio-player {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            background-color: #1a2639;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+
+        .audio-player button {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-size: 24px;
+            color: white;
+            transition: color 0.3s ease;
+        }
+
+        .audio-player button:hover {
+            color: #f06543;
+        }
+
+        .audio-player button#playPauseBtn {
+            width: 50px;
+            height: 50px;
+            background-color: #f06543;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            border-radius: 50%;
+            font-size: 24px;
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="audio-player">
+    <button id="favoriteBtn">❤️</button>
+    <button id="prevBtn">⏮️</button>
+    <button id="playPauseBtn">⏯️</button>
+    <button id="nextBtn">⏭️</button>
+    <button id="volumeBtn">🔊</button>
+</div>
+
+<audio id="audio" preload="metadata" style="display:none;"></audio>
+
+<!-- HLS.js library for streaming .m3u8 -->
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script>
+    const audio = document.getElementById('audio');
+    const playPauseBtn = document.getElementById('playPauseBtn');
+
+    const audioUrls = [
+        'https://node-27.zeno.fm/ar923b8kubruv?rj-ttl=5&rj-tok=AAABeKNK0a4AXXi393G4kmnKWg ' // Insert the fetched URLs here
+    ];
+
+    let hls;
+    let currentAudioIndex = 0;
+
+    function initHls() {
+        const hlsUrl = audioUrls[currentAudioIndex];
+        audio.src = hlsUrl;
+
+        if (hlsUrl.endsWith('.m3u8')) {
+            if (Hls.isSupported()) {
+                hls = new Hls();
+                hls.loadSource(hlsUrl);
+                hls.attachMedia(audio);
+            } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
+                audio.src = hlsUrl;
+            }
+        }
+    }
+
+    initHls();
+
+    playPauseBtn.addEventListener('click', () => {
+        if (audio.paused) {
+            audio.play();
+            playPauseBtn.textContent = '⏸️';
+        } else {
+            audio.pause();
+            playPauseBtn.textContent = '▶️';
+        }
+    });
+
+    document.getElementById('volumeBtn').addEventListener('click', () => {
+        audio.muted = !audio.muted;
+        document.getElementById('volumeBtn').textContent = audio.muted ? '🔇' : '🔊';
+    });
+</script>
+
+</body>
+</html>
+            
