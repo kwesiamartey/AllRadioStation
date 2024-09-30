@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom MP3 Stream Player</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(135deg, #ff6b6b, #f06595, #74c0fc, #82c91e);
+            background-size: 400% 400%;
+            animation: gradientBackground 10s ease infinite;
+        }
+        @keyframes gradientBackground {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+        .audio-player {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            padding: 20px;
+            width: 300px;
+            text-align: center;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+        }
+        .audio-player button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .audio-player .loading {
+            font-size: 16px;
+            color: #555;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="audio-player">
+        <div id="loadingMessage" class="loading">Loading...</div>
+        <audio id="audioPlayer" controls preload="none" style="display:none;">
+            <source src="http://us10a.serverse.com:8027/stream" type="audio/mpeg" codec="mp3">
+            Your browser does not support the audio element.
+        </audio>
+        <button id="playPauseBtn" disabled>Play</button>
+    </div>
+
+    <script>
+        const audioPlayer = document.getElementById('audioPlayer');
+        const playPauseBtn = document.getElementById('playPauseBtn');
+        const loadingMessage = document.getElementById('loadingMessage');
+
+        // Check if the browser can play MP3 audio
+        function canPlayMP3() {
+            return !!audioPlayer.canPlayType && audioPlayer.canPlayType('audio/mpeg') !== "";
+        }
+
+        window.onload = function() {
+            if (canPlayMP3()) {
+                loadingMessage.style.display = 'none';
+                audioPlayer.style.display = 'block';
+                playPauseBtn.disabled = false;  // Enable play button once MP3 can be played
+            } else {
+                loadingMessage.textContent = "Your browser cannot play this stream.";
+            }
+        };
+
+        // Play/Pause functionality
+        playPauseBtn.addEventListener('click', () => {
+            if (audioPlayer.paused) {
+                audioPlayer.play();
+                playPauseBtn.textContent = 'Pause';
+            } else {
+                audioPlayer.pause();
+                playPauseBtn.textContent = 'Play';
+            }
+        });
+
+        // Enable Play button once metadata is loaded
+        audioPlayer.addEventListener('canplay', () => {
+            playPauseBtn.disabled = false;
+        });
+    </script>
+</body>
+</html>
