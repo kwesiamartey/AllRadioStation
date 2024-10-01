@@ -5,74 +5,83 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Custom Audio Player with Spinner</title>
     <style>
-         body {
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #121a27;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
-            background-color: #121a27;
-            color: white;
-            font-family: Arial, sans-serif;
             margin: 0;
         }
 
-        /* Container for the button and spinner */
-        .play-button-container {
-            position: relative;
-            width: 80px; /* Adjust width to the button's size */
-            height: 80px; /* Adjust height to the button's size */
+        .audio-player {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            background-color: #1a2639;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            position: relative; /* Positioning context for the spinner */
         }
 
-        /* Play button styles */
-        #playPauseBtn {
-            font-size: 24px;
-            background-color: #f06543;
-            color: white;
+        .audio-player button {
+            background: none;
             border: none;
-            border-radius: 50%;
             cursor: pointer;
-            width: 80px;
-            height: 80px;
+            font-size: 24px;
+            color: white;
+            transition: color 0.3s ease;
+        }
+
+        .audio-player button:hover {
+            color: #f06543;
+        }
+
+        .audio-player button#playPauseBtn {
+            width: 50px;
+            height: 50px;
+            background-color: #f06543;
             display: flex;
             justify-content: center;
             align-items: center;
-            position: absolute;
-            top: 0;
-            left: 0;
-            z-index: 2; /* Ensure it's above the spinner */
+            color: white;
+            border-radius: 50%; /* Make it circular */
+            font-size: 24px;
+            position: relative; /* Positioning context for the spinner */
+            z-index: 1; /* Ensure the button is above the spinner */
         }
 
-        #playPauseBtn:hover {
-            background-color: #f09070;
-        }
-
-        /* Spinner styles */
         .spinner {
             position: absolute;
-            top: 0;
-            left: 0;
-            width: 100px;
-            height: 100px;
+            width: 70px; /* Size of the spinner */
+            height: 70px; /* Size of the spinner */
             border: 8px solid rgba(255, 255, 255, 0.3);
-            border-top: 8px solid #f06543;
+            border-top: 8px solid #f06543; /* Color of the spinner */
             border-radius: 50%;
             animation: spin 1s linear infinite;
-            z-index: 1; /* Ensure spinner is behind the button */
-            display: none;
-            box-sizing: border-box; /* Ensure spinner's size includes borders */
+            display: none; /* Hidden by default */
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%); /* Center the spinner */
+            z-index: 0; /* Place behind the button */
         }
 
         @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
+            0% { transform: translate(-50%, -50%) rotate(0deg); }
+            100% { transform: translate(-50%, -50%) rotate(360deg); }
         }
-
     </style>
 </head>
 <body>
 
-<button id="playPauseBtn">Play</button>
-<div class="spinner" id="spinner"></div>
+<div class="audio-player">
+    <button id="playPauseBtn">⏯️</button>
+    <div class="spinner" id="spinner"></div>
+</div>
+
 
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 <script>
