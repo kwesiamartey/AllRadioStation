@@ -15,53 +15,77 @@
             font-family: Arial, sans-serif;
         }
 
-        /* Container for the button and spinner */
-        .play-button-container {
-            position: relative;
-            width: 100px; /* Adjust width to fit both spinner and button */
-            height: 100px; /* Adjust height to fit both spinner and button */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        .playPauseBtn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+            background-color: #1a2639;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            position: relative; /* Positioning context for the spinner */
         }
 
-        #playPauseBtn {
-            font-size: 18px;
-            padding: 10px 20px;
-            background-color: #f06543;
-            color: white;
+        .playPauseBtn button {
+            background: none;
             border: none;
-            border-radius: 50%;
             cursor: pointer;
-            width: 80px;
-            height: 80px;
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%); /* Center the button */
-            z-index: 2; /* Ensure it's above the spinner */
+            font-size: 24px;
+            color: white;
+            transition: color 0.3s ease;
         }
 
-        #playPauseBtn:hover {
-            background-color: #f09070;
+        .playPauseBtn button:hover {
+            color: #f06543;
         }
 
-        /* Spinner styles */
+        .playPauseBtn button#playPauseBtn {
+            width: 50px;
+            height: 50px;
+            background-color: #f06543;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            border-radius: 50%; /* Make it circular */
+            font-size: 24px;
+            position: relative; /* Positioning context for the spinner */
+            z-index: 1; /* Ensure the button is above the spinner */
+        }
+
         .spinner {
             position: absolute;
-            top: 50%;
-            left: 50%;
-            width: 100px;
-            height: 100px;
-            margin: -50px 0 0 -50px;
+            width: 70px; /* Size of the spinner */
+            height: 70px; /* Size of the spinner */
             border: 8px solid rgba(255, 255, 255, 0.3);
-            border-top: 8px solid #f06543;
+            border-top: 8px solid #f06543; /* Color of the spinner */
             border-radius: 50%;
             animation: spin 1s linear infinite;
-            z-index: 1; /* Ensure spinner is behind the button */
-            display: none;
+            display: none; /* Hidden by default */
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%); /* Center the spinner */
+            z-index: 0; /* Place behind the button */
         }
 
         @keyframes spin {
-            0% { transform: rotate(0deg); }
-            100% { transform: rotate(360deg); }
+            0% { transform: translate(-50%, -50%) rotate(0deg); }
+            100% { transform: translate(-50%, -50%) rotate(360deg); }
         }
     </style>
 </head>
