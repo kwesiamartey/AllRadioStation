@@ -121,7 +121,7 @@
                 });
                 hls.on(Hls.Events.ERROR, (event, data) => {
                     showSpinner(false); // Hide the spinner on error
-                    alert('HLS stream could not be loaded.');
+                    alert('stream could not be loaded.');
                 });
             } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
                 // For Safari or native HLS support
@@ -130,7 +130,7 @@
                     showSpinner(false); // Hide the spinner when audio is ready
                 });
             } else {
-                alert('HLS is not supported in this browser.');
+                alert('Error streaming, report now');
                 return;
             }
         } else {
@@ -143,7 +143,7 @@
         // Handle error events for unsupported formats
         audio.addEventListener('error', function() {
             showSpinner(false); // Hide the spinner on error
-            alert('Error playing this audio format.');
+            alert('EError streaming, report now');
         });
     }
 
@@ -152,19 +152,20 @@
         spinner.style.display = show ? 'block' : 'none';
     }
 
-    // Play/pause functionality
+    // Play/pause functionality with icons
     playPauseBtn.addEventListener('click', () => {
         if (!isPlaying) {
             audio.play();
-            playPauseBtn.textContent = 'Pause';
+            playPauseBtn.textContent = '⏸️';  // Pause icon
             showSpinner(false); // Hide the spinner when playing starts
             isPlaying = true;
         } else {
             audio.pause();
-            playPauseBtn.textContent = 'Play';
+            playPauseBtn.textContent = '▶️';  // Play icon
             isPlaying = false;
         }
     });
+
 
     // Load the initial audio
     initAudioPlayer();
