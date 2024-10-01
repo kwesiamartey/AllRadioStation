@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Custom Audio Player</title>
+    <title>Custom Audio Player with Spinner</title>
     <style>
         body {
             display: flex;
@@ -15,34 +15,60 @@
             font-family: Arial, sans-serif;
         }
 
-        button {
+        #playPauseBtn {
             font-size: 18px;
             padding: 10px 20px;
             background-color: #f06543;
             color: white;
             border: none;
-            border-radius: 5px;
+            border-radius: 50%;
             cursor: pointer;
+            width: 80px;
+            height: 80px;
+            position: relative;
         }
 
-        button:hover {
+        #playPauseBtn:hover {
             background-color: #f09070;
+        }
+
+        /* Spinner styles */
+        .spinner {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 100px;
+            height: 100px;
+            margin: -50px 0 0 -50px;
+            border: 8px solid rgba(255, 255, 255, 0.3);
+            border-top: 8px solid #f06543;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            display: none;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
         }
     </style>
 </head>
 <body>
 
 <button id="playPauseBtn">Play</button>
+<div class="spinner" id="spinner"></div>
 
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 <script>
     const audio = new Audio();
     let hls;
     let isPlaying = false;
+    const spinner = document.getElementById('spinner');
+    const playPauseBtn = document.getElementById('playPauseBtn');
 
     // List of audio URLs (replace with your own sources)
     const audioUrls = [
-        'http://node-04.zeno.fm/yh5n6v6xr0quv?rj-ttl=5&rj-tok=AAABeQPmGBEAe8-ahooZ8tz4OA',      // HLS stream
+        'http://node-04.zeno.fm/yh5n6v6xr0quv?rj-ttl=5&rj-tok=AAABeQPmGBEAe8-ahooZ8tz4OA',         // MP3 format
     ];
 
     let currentAudioIndex = 0;
@@ -53,6 +79,9 @@
         audio.src = currentUrl;
         const audioExtension = currentUrl.split('.').pop().toLowerCase();
 
+        // Show the spinner when loading starts
+        showSpinner(true);
+
         // If it's an HLS (m3u8) stream, use HLS.js
         if (audioExtension === 'm3u8') {
             if (Hls.isSupported()) {
@@ -62,37 +91,52 @@
                 hls = new Hls();
                 hls.loadSource(currentUrl);
                 hls.attachMedia(audio);
+                hls.on(Hls.Events.MANIFEST_PARSED, () => {
+                    showSpinner(false); // Hide the spinner once the audio is ready
+                });
                 hls.on(Hls.Events.ERROR, (event, data) => {
-                    console.error('HLS.js error:', data);
+                    showSpinner(false); // Hide the spinner on error
                     alert('HLS stream could not be loaded.');
                 });
             } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
                 // For Safari or native HLS support
                 audio.src = currentUrl;
+                audio.addEventListener('canplay', () => {
+                    showSpinner(false); // Hide the spinner when audio is ready
+                });
             } else {
                 alert('HLS is not supported in this browser.');
                 return;
             }
         } else {
             // Use native HTML5 audio for other formats
-            audio.src = currentUrl;
+            audio.addEventListener('canplay', () => {
+                showSpinner(false); // Hide the spinner when audio is ready
+            });
         }
 
         // Handle error events for unsupported formats
         audio.addEventListener('error', function() {
+            showSpinner(false); // Hide the spinner on error
             alert('Error playing this audio format.');
         });
     }
 
+    // Show or hide the spinner
+    function showSpinner(show) {
+        spinner.style.display = show ? 'block' : 'none';
+    }
+
     // Play/pause functionality
-    document.getElementById('playPauseBtn').addEventListener('click', () => {
+    playPauseBtn.addEventListener('click', () => {
         if (!isPlaying) {
             audio.play();
-            document.getElementById('playPauseBtn').textContent = 'Pause';
+            playPauseBtn.textContent = 'Pause';
+            showSpinner(false); // Hide the spinner when playing starts
             isPlaying = true;
         } else {
             audio.pause();
-            document.getElementById('playPauseBtn').textContent = 'Play';
+            playPauseBtn.textContent = 'Play';
             isPlaying = false;
         }
     });
@@ -103,3 +147,4 @@
 
 </body>
 </html>
+
