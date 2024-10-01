@@ -633,16 +633,7 @@
 	"logo": "https://media.bauerradio.com/image/upload/q_auto/c_crop,g_custom/v1710402033/brand_manager/stations/x9tyvor6tu7r4cdv7lmm.png",
 	"bit": "1k"
 },
-	{
-	"id": 2,
-	"name": "Hamsi Fm",
-	"location": "Finaland",
-	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/Hamsi FM.html",
-	"added": 0,
-	"web": "wep",
-	"logo": "https://th.bing.com/th/id/OIP.DNs5ZjihZLJtffTivdm0ZAFNC7?rs=1&pid=ImgDetMain",
-	"bit": "1k"
-},
+
  {
 			"id": 1,
 			"name": "Local Fm",
