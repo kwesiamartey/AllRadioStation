@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Custom Audio Player</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #121a27;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+
+        button {
+            font-size: 18px;
+            padding: 10px 20px;
+            background-color: #f06543;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #f09070;
+        }
+    </style>
+</head>
+<body>
+
+<button id="playPauseBtn">Play</button>
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<script>
+    const audio = new Audio();
+    let hls;
+    let isPlaying = false;
+
+    // List of audio URLs (replace with your own sources)
+    const audioUrls = [
+        'https://wg.cdn.tibus.net/q102MP3128?aw_0_1st.playerId=wireless-website&listenerid=6b19d48e34b6d4be478eb4f8cc560ac5&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=11975',      // HLS stream
+    ];
+
+    let currentAudioIndex = 0;
+
+    // Function to detect the audio format and play accordingly
+    function initAudioPlayer() {
+        const currentUrl = audioUrls[currentAudioIndex];
+        audio.src = currentUrl;
+        const audioExtension = currentUrl.split('.').pop().toLowerCase();
+
+        // If it's an HLS (m3u8) stream, use HLS.js
+        if (audioExtension === 'm3u8') {
+            if (Hls.isSupported()) {
+                if (hls) {
+                    hls.destroy(); // Destroy the previous instance if any
+                }
+                hls = new Hls();
+                hls.loadSource(currentUrl);
+                hls.attachMedia(audio);
+                hls.on(Hls.Events.ERROR, (event, data) => {
+                    console.error('HLS.js error:', data);
+                    alert('HLS stream could not be loaded.');
+                });
+            } else if (audio.canPlayType('application/vnd.apple.mpegurl')) {
+                // For Safari or native HLS support
+                audio.src = currentUrl;
+            } else {
+                alert('HLS is not supported in this browser.');
+                return;
+            }
+        } else {
+            // Use native HTML5 audio for other formats
+            audio.src = currentUrl;
+        }
+
+        // Handle error events for unsupported formats
+        audio.addEventListener('error', function() {
+            alert('Error playing this audio format.');
+        });
+    }
+
+    // Play/pause functionality
+    document.getElementById('playPauseBtn').addEventListener('click', () => {
+        if (!isPlaying) {
+            audio.play();
+            document.getElementById('playPauseBtn').textContent = 'Pause';
+            isPlaying = true;
+        } else {
+            audio.pause();
+            document.getElementById('playPauseBtn').textContent = 'Play';
+            isPlaying = false;
+        }
+    });
+
+    // Load the initial audio
+    initAudioPlayer();
+</script>
+
+</body>
+</html>
