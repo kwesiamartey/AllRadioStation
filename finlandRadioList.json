@@ -53,7 +53,7 @@
 
 
 {
-	"id": 55,
+	"id": 57,
 	"name": "YLE X3M",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/YLE X3M.html",
@@ -64,7 +64,7 @@
 },
 
 {
-	"id": 54,
+	"id": 56,
 	"name": "YleX",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/YleX.html",
@@ -75,7 +75,7 @@
 },
 
 {
-	"id": 53,
+	"id": 55,
 	"name": "YLE Radio Suomi",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/YLE Radio Suomi.html",
@@ -85,8 +85,19 @@
 	"bit": "1k"
 },
 
+		  {
+			"id": 54,
+			"name": "Local Fm",
+			"location": "Miim -Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/YLE X3M.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.shutterstock.com/shutterstock/photos/718102270/display_1500/stock-vector-detailed-colored-world-map-mapped-on-a-globe-isolated-on-white-background-718102270.jpg",
+			"bit": "1k"
+	},
+
 {
-	"id": 52,
+	"id": 53,
 	"name": "YLE Klassinen",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/YLE Klassinen.html",
@@ -96,7 +107,7 @@
 	"bit": "1k"
 },
 {
-	"id": 51,
+	"id": 52,
 	"name": "YLE Radio 1",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/YLE Radio 1.html",
@@ -106,7 +117,7 @@
 	"bit": "1k"
 },
 {
-	"id": 50,
+	"id": 51,
 	"name": "YLE Sami Radio",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/YLE Sami Radio.html",
@@ -117,7 +128,7 @@
 },
 
 {
-	"id": 49,
+	"id": 50,
 	"name": "Yle Vega",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/Yle Vega.html",
@@ -129,7 +140,7 @@
 
 {
 
-	"id": 48,
+	"id": 49,
 	"name": "Radio Kuhan.FM",
 	"location": "Finaland",
 	"url": "https://fra-pioneer08.dedicateware.com:3135/stream",
@@ -139,7 +150,7 @@
 	"bit": "1k"
 },
 {
-	"id": 47,
+	"id": 48,
 	"name": "Radio Nova",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/Radio Nova.html",
@@ -149,7 +160,7 @@
 	"bit": "1k"
 },
 {
-	"id": 46,
+	"id": 47,
 	"name": "Radio Rock",
 	"location": "Finaland",
 	"url": "https://nelonenmedia-pmd-ads-audio.nm-stream.nelonenmedia.fi/hese_chipotleradio_20s.mp3",
@@ -159,7 +170,7 @@
 	"bit": "1k"
 },
 {
-	"id": 45,
+	"id": 46,
 	"name": "Radio SuomiPop",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/suomipop.html",
@@ -168,6 +179,19 @@
 	"logo": "https://cdn.onlineradiobox.com/img/l/9/26149.v6.png",
 	"bit": "1k"
 },
+
+	  {
+			"id": 45,
+			"name": "Local Fm",
+			"location": "Miim -Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/YLE X3M.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.shutterstock.com/shutterstock/photos/718102270/display_1500/stock-vector-detailed-colored-world-map-mapped-on-a-globe-isolated-on-white-background-718102270.jpg",
+			"bit": "1k"
+	},
+
+	
 
 {
 	"id": 44,
@@ -260,8 +284,26 @@
 	"logo": "https://cdn.onlineradiobox.com/img/l/0/48910.v4.png",
 	"bit": "1k"
 },
+
+	  {
+			"id": 35,
+			"name": "Local Fm",
+			"location": "Miim -Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/YLE X3M.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.shutterstock.com/shutterstock/photos/718102270/display_1500/stock-vector-detailed-colored-world-map-mapped-on-a-globe-isolated-on-white-background-718102270.jpg",
+			"bit": "1k"
+	},
+
+
+
+
+
+
+	
 {
-	"id": 35,
+	"id": 34,
 	"name": "Radio City",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/Radio City.html",
@@ -271,7 +313,7 @@
 	"bit": "1k"
 },
 {
-	"id": 34,
+	"id": 33,
 	"name": "Radio Helsinki",
 	"location": "Finaland",
 	"url": "https://stream.radiohelsinki.fi/;",
@@ -281,7 +323,7 @@
 	"bit": "1k"
 },
 {
-	"id": 33,
+	"id": 32,
 	"name": "Radio Sun",
 	"location": "Finaland",
 	"url": "https://st.downtime.fi/sun.mp3",
@@ -291,7 +333,7 @@
 	"bit": "1k"
 },
 {
-	"id": 32,
+	"id": 31,
 	"name": "NRJ Suomihitit",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/NRJ Suomihitit.html",
@@ -301,7 +343,7 @@
 	"bit": "1k"
 },
 {
-	"id": 31,
+	"id": 30,
 	"name": "HitMix",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/HitMix.html",
@@ -311,7 +353,7 @@
 	"bit": "1k"
 },
 {
-	"id": 30,
+	"id": 29,
 	"name": "Aito Iskelm\ucc44",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/Aito Iskelmä.html",
@@ -321,7 +363,7 @@
 	"bit": "1k"
 },
 {
-	"id": 29,
+	"id": 28,
 	"name": "Finest FM",
 	"location": "Finaland",
 	"url": "https://shoutcast.finestfm.fi/stream/1/:80/;",
@@ -341,8 +383,20 @@
 	"logo": "https://cdn.onlineradiobox.com/img/l/2/26162.v6.png",
 	"bit": "1k"
 },
+
+	  {
+			"id": 26,
+			"name": "Local Fm",
+			"location": "Miim -Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/YLE X3M.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.shutterstock.com/shutterstock/photos/718102270/display_1500/stock-vector-detailed-colored-world-map-mapped-on-a-globe-isolated-on-white-background-718102270.jpg",
+			"bit": "1k"
+	},
+	
 {
-	"id": 26,
+	"id": 25,
 	"name": "Me Naiset Radio",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/Me Naiset Radio.html",
@@ -353,7 +407,7 @@
 },
 
 {
-	"id": 25,
+	"id": 24,
 	"name": "Jarvi Radio",
 	"location": "Finaland",
 	"url": "https://jarviradio.radiotaajuus.fi:9000/jr",
@@ -363,7 +417,7 @@
 	"bit": "1k"
 },
 {
-	"id": 24,
+	"id": 23,
 	"name": "Kantriradio",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/Kantriradio.html",
@@ -373,7 +427,7 @@
 	"bit": "1k"
 },
 {
-	"id": 23,
+	"id": 22,
 	"name": "Radio Patmos",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/Radio Patmos.html",
@@ -383,7 +437,7 @@
 	"bit": "1k"
 },
 {
-	"id": 22,
+	"id": 21,
 	"name": "Radio Voima",
 	"location": "Finaland",
 	"url": "https://cast2.radiovoima.fi/voima.mp3",
@@ -393,7 +447,7 @@
 	"bit": "1k"
 },
 {
-	"id": 21,
+	"id": 20,
 	"name": "Kasari Radio",
 	"location": "Finaland",
 	"url": " https://stream-redirect.bauermedia.fi/kasari/kasari_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
@@ -403,7 +457,7 @@
 	"bit": "1k"
 },
 {
-	"id": 20,
+	"id": 19,
 	"name": "Ys\u00e4ri Radio",
 	"location": "Finaland",
 	"url": "https://radioplay.fi/ysari/",
@@ -413,7 +467,7 @@
 	"bit": "1k"
 },
 {
-	"id": 19,
+	"id": 18,
 	"name": "MOI Web Radio",
 	"location": "Finaland",
 	"url": "https://everestcast.streams.ovh/MOIWebRadio",
@@ -422,8 +476,21 @@
 	"logo": "https://cdn.onlineradiobox.com/img/l/9/88649.v14.png",
 	"bit": "1k"
 },
+
+
+	  {
+			"id": 17,
+			"name": "Local Fm",
+			"location": "Miim -Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/YLE X3M.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.shutterstock.com/shutterstock/photos/718102270/display_1500/stock-vector-detailed-colored-world-map-mapped-on-a-globe-isolated-on-white-background-718102270.jpg",
+			"bit": "1k"
+	},
+	
 {
-	"id": 18,
+	"id": 16,
 	"name": "Radio Classic",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/Radio Classic.html",
@@ -434,7 +501,7 @@
 },
 
 {
-	"id": 14,
+	"id": 15,
 	"name": "Radio Ramona",
 	"location": "Finaland",
 	"url": "https://onlineradiobox.com/json/fi/ramona/play?platform=web",
@@ -446,7 +513,7 @@
 
 
 {
-	"id": 13,
+	"id": 14,
 	"name": "Radio Pori",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/Radio Pori.html",
@@ -456,7 +523,7 @@
 	"bit": "1k"
 },
 {
-	"id": 12,
+	"id": 13,
 	"name": "Las Pegasus Radio",
 	"location": "Finaland",
 	"url": "https://icecast.laspegas.us/ari",
@@ -467,7 +534,7 @@
 },
 
 {
-	"id": 10,
+	"id": 12,
 	"name": "Radio Musa",
 	"location": "Finaland",
 	"url": " https://n03.radiojar.com/n6yg5q0z8vzuv.mp3",
@@ -477,7 +544,7 @@
 	"bit": "1k"
 },
 {
-	"id": 9,
+	"id": 11,
 	"name": "Radio 957",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/Radio 957.html",
@@ -487,7 +554,7 @@
 	"bit": "1k"
 },
 {
-	"id": 8,
+	"id": 10,
 	"name": "Radio Auran Aallot",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/Radio Auran Aallot.html",
@@ -497,7 +564,7 @@
 	"bit": "1k"
 },
 {
-	"id": 7,
+	"id": 9,
 	"name": "Basso radio",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/Basso radio.html",
@@ -506,8 +573,18 @@
 	"logo": "https://media.bauerradio.com/image/upload/q_auto/c_crop,g_custom/v1629360804/brand_manager/stations/ma4i3hvexkkkd9ccimuj.png",
 	"bit": "1k"
 },
+		  {
+			"id": 8,
+			"name": "Local Fm",
+			"location": "Miim -Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/YLE X3M.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.shutterstock.com/shutterstock/photos/718102270/display_1500/stock-vector-detailed-colored-world-map-mapped-on-a-globe-isolated-on-white-background-718102270.jpg",
+			"bit": "1k"
+	},
 {
-	"id": 6,
+	"id": 7,
 	"name": "Radio Inari",
 	"location": "Finaland",
 	"url": "https://onlineradiobox.com/json/fi/inari/play?platform=web",
@@ -517,7 +594,7 @@
 	"bit": "1k"
 },
 {
-	"id": 5,
+	"id": 6,
 	"name": "Radioverkko",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/Radioverkko.html",
@@ -527,7 +604,7 @@
 	"bit": "1k"
 },
 {
-	"id": 4,
+	"id": 5,
 	"name": "Steel FM 95.9",
 	"location": "Finaland",
 	"url": "https://ice6.securenetsystems.net/STEELFM?playSessionID=773A2BB5-B102-7E4C-745167FEC4CA8219",
@@ -537,7 +614,7 @@
 	"bit": "1k"
 },
 {
-	"id": 3,
+	"id": 4,
 	"name": "drUzi.fi",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/drUzi.html",
@@ -547,7 +624,7 @@
 	"bit": "1k"
 },
 {
-	"id": 2,
+	"id": 3,
 	"name": "SuomiR\u00e4p",
 	"location": "Finaland",
 	"url": "https://radioplay.fi/suomirap/",
@@ -557,7 +634,7 @@
 	"bit": "1k"
 },
 	{
-	"id": 1,
+	"id": 2,
 	"name": "Hamsi Fm",
 	"location": "Finaland",
 	"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/Hamsi Fm.html",
@@ -565,7 +642,17 @@
 	"web": "wep",
 	"logo": "https://th.bing.com/th/id/OIP.DNs5ZjihZLJtffTivdm0ZAFNC7?rs=1&pid=ImgDetMain",
 	"bit": "1k"
-}
+},
+ {
+			"id": 1,
+			"name": "Local Fm",
+			"location": "Miim -Ghana",
+			"url": "https://kwesiamartey.github.io/AllRadioStation/finland_webplayer/YLE X3M.html",
+			"added": 0,
+			"web": "wep",
+			"logo": "https://www.shutterstock.com/shutterstock/photos/718102270/display_1500/stock-vector-detailed-colored-world-map-mapped-on-a-globe-isolated-on-white-background-718102270.jpg",
+			"bit": "1k"
+	},
 
 
 
