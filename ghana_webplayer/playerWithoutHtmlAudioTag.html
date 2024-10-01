@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Custom Audio Player with Spinner</title>
     <style>
-        body {
+         body {
             display: flex;
             justify-content: center;
             align-items: center;
@@ -15,9 +15,16 @@
             font-family: Arial, sans-serif;
         }
 
+        /* Container for the button and spinner */
+        .play-button-container {
+            position: relative;
+            width: 100px; /* Adjust width to fit both spinner and button */
+            height: 100px; /* Adjust height to fit both spinner and button */
+        }
+
         #playPauseBtn {
             font-size: 18px;
-            padding: 10px 10px;
+            padding: 10px 20px;
             background-color: #f06543;
             color: white;
             border: none;
@@ -25,7 +32,11 @@
             cursor: pointer;
             width: 80px;
             height: 80px;
-            position: relative;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%); /* Center the button */
+            z-index: 2; /* Ensure it's above the spinner */
         }
 
         #playPauseBtn:hover {
@@ -37,13 +48,14 @@
             position: absolute;
             top: 50%;
             left: 50%;
-            width: 90px;
-            height: 90px;
+            width: 100px;
+            height: 100px;
             margin: -50px 0 0 -50px;
             border: 8px solid rgba(255, 255, 255, 0.3);
             border-top: 8px solid #f06543;
             border-radius: 50%;
             animation: spin 1s linear infinite;
+            z-index: 1; /* Ensure spinner is behind the button */
             display: none;
         }
 
