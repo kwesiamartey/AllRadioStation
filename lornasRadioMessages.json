@@ -67,10 +67,10 @@
                     "id" : "com.lornamobileappsdev.vatican",
                     "status" : 200,
                     "title" : "Internet Connection.",
-                    "body" : "We are continuesly adding & Fixing more stations.",
-                    "color" : "#1d8348",
-                    "link" : "https://play.google.com/store/apps/details?id=com.lornamobileappsdev.vatican",
-                    "button" : "" 
+                    "body" : "Don't miss out! Get the new UI update now.",
+                    "color" : "#e90202",
+                    "link" : "https://play.google.com/store/apps/details?id=com.lornamobileappsdev.notebookapp",
+                    "button" : "Update" 
     },
      {
                     "id" : "com.lornamobileappsdev.notebookapp",
