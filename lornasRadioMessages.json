@@ -31,10 +31,10 @@
                     "id" : "com.lornamobileappsdev.ghana",
                     "status" : 200,
                     "title" : "Internet Connection.",
-                    "body" : "We are continuesly adding & Fixing more stations.",
-                    "color" : "#1d8348",
-                    "link" : "https://play.google.com/store/apps/developer?id=Lorna+mobile+apps+dev",
-                    "button" : "" 
+                   "body" : "Don't miss out! Get the new UI update now.",
+                    "color" : "#ff9733",
+                    "link" : "https://play.google.com/store/apps/details?id=com.lornamobileappsdev.ghana",
+                    "button" : "Update" 
     },
      {
                     "id" : "com.lornamobileappsdev.moldova",
@@ -58,19 +58,19 @@
                     "id" : "com.lornamobileappsdev.radio_usa",
                     "status" : 200,
                     "title" : "Internet Connection.",
-                    "body" : "We are continuesly adding & Fixing more stations.",
-                    "color" : "#1d8348",
-                    "link" : "https://play.google.com/store/apps/developer?id=Lorna+mobile+apps+dev",
-                    "button" : "" 
+                    "body" : "Don't miss out! Get the new UI update now.",
+                    "color" : "#ff9733",
+                    "link" : "https://play.google.com/store/apps/details?id=com.lornamobileappsdev.radio_usa",
+                    "button" : "Update" 
     },
      {
                     "id" : "com.lornamobileappsdev.vatican",
                     "status" : 200,
-                     "title" : "Internet Connection.",
-                    "body" : "Don't miss out! Get the new UI update now.",
-                    "color" : "#ff9733",
-                    "link" : "https://play.google.com/store/apps/details?id=com.lornamobileappsdev.notebookapp",
-                    "button" : "Update" 
+                    "title" : "Internet Connection.",
+                    "body" : "We are continuesly adding & Fixing more stations.",
+                    "color" : "#1d8348",
+                    "link" : "https://play.google.com/store/apps/details?id=com.lornamobileappsdev.vatican",
+                    "button" : "" 
     },
      {
                     "id" : "com.lornamobileappsdev.notebookapp",
