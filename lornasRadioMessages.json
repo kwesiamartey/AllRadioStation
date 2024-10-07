@@ -21,7 +21,7 @@
      {
                     "id" : "com.lornamobileappsdev.canada",
                     "status" : 200,
-                    "title" : "Internet Connection.",
+                     "title" : "Internet Connection.",
                     "body" : "Don't miss out! Get the new UI update now.",
                     "color" : "#ff9733",
                     "link" : "https://play.google.com/store/apps/details?id=com.lornamobileappsdev.canada",
