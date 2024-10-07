@@ -14,7 +14,7 @@
                     "status" : 200,
                     "title" : "Internet Connection.",
                     "body" : "Don't miss out! Get the new UI update now.",
-                    "color" : "#ff9733",
+                    "color" : "#e90202",
                     "link" : "https://play.google.com/store/apps/details?id=com.lornamobileappsdev.hit",
                     "button" : "Update" 
     },
@@ -23,7 +23,7 @@
                     "status" : 200,
                      "title" : "Internet Connection.",
                     "body" : "Don't miss out! Get the new UI update now.",
-                    "color" : "#ff9733",
+                    "color" : "#e90202",
                     "link" : "https://play.google.com/store/apps/details?id=com.lornamobileappsdev.canada",
                     "button" : "Update" 
     },
@@ -32,7 +32,7 @@
                     "status" : 200,
                     "title" : "Internet Connection.",
                    "body" : "Don't miss out! Get the new UI update now.",
-                    "color" : "#ff9733",
+                    "color" : "#e90202",
                     "link" : "https://play.google.com/store/apps/details?id=com.lornamobileappsdev.ghana",
                     "button" : "Update" 
     },
@@ -41,7 +41,7 @@
                     "status" : 200,
                     "title" : "Internet Connection.",
                     "body" : "Don't miss out! Get the new UI update now.",
-                    "color" : "#ff9733",
+                    "color" : "#e90202",
                     "link" : "https://play.google.com/store/apps/details?id=com.lornamobileappsdev.moldova",
                     "button" : "Update" 
     },
@@ -50,7 +50,7 @@
                     "status" : 200,
                     "title" : "Internet Connection.",
                     "body" : "Don't miss out! Get the new UI update now.",
-                    "color" : "#ff9733",
+                    "color" : "#e90202",
                     "link" : "https://play.google.com/store/apps/details?id=com.lornamobileappsdev.uk",
                     "button" : "Update" 
     },
@@ -59,7 +59,7 @@
                     "status" : 200,
                     "title" : "Internet Connection.",
                     "body" : "Don't miss out! Get the new UI update now.",
-                    "color" : "#ff9733",
+                    "color" : "#e90202",
                     "link" : "https://play.google.com/store/apps/details?id=com.lornamobileappsdev.radio_usa",
                     "button" : "Update" 
     },
@@ -77,7 +77,7 @@
                     "status" : 200,
                     "title" : "Internet Connection.",
                     "body" : "Don't miss out! Get the new UI update now.",
-                    "color" : "#ff9733",
+                    "color" : "#e90202",
                     "link" : "https://play.google.com/store/apps/details?id=com.lornamobileappsdev.notebookapp",
                     "button" : "Update" 
     }
